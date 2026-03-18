@@ -1,0 +1,330 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Mumbai Indians
+info,gender,male
+info,season,2024
+info,date,2024/03/27
+info,event,Indian Premier League
+info,match_number,8
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,Abhishek Sharma
+info,umpire,KN Ananthapadmanabhan
+info,umpire,UV Gandhe
+info,reserve_umpire,VM Dhokre
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,Prakash Bhatt
+info,winner,Sunrisers Hyderabad
+info,winner_runs,31
+info,player,Sunrisers Hyderabad,Umran Malik
+info,player,Sunrisers Hyderabad,MA Agarwal
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,AK Markram
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Abdul Samad
+info,player,Sunrisers Hyderabad,Shahbaz Ahmed
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,B Kumar
+info,player,Sunrisers Hyderabad,M Markande
+info,player,Sunrisers Hyderabad,JD Unadkat
+info,player,Mumbai Indians,KT Maphaka
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,R Shepherd
+info,player,Mumbai Indians,G Coetzee
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,PP Chawla
+info,player,Mumbai Indians,SZ Mulani
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,VM Dhokre,67df71c9
+ball,1,0.1,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,0,1,1,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,1,0,,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,4,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,1,0,,,,,,"",""
+ball,1,0.7,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,TM Head,MA Agarwal,HH Pandya,4,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,TM Head,MA Agarwal,HH Pandya,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,MA Agarwal,TM Head,HH Pandya,4,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,MA Agarwal,TM Head,HH Pandya,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,TM Head,MA Agarwal,HH Pandya,1,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,MA Agarwal,TM Head,HH Pandya,0,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,0,1,,,,1,,"",""
+ball,1,2.2,Sunrisers Hyderabad,MA Agarwal,TM Head,KT Maphaka,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,6,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,6,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,4,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,TM Head,MA Agarwal,KT Maphaka,4,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,MA Agarwal,TM Head,JJ Bumrah,1,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,TM Head,MA Agarwal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,TM Head,MA Agarwal,JJ Bumrah,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,MA Agarwal,TM Head,JJ Bumrah,2,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,MA Agarwal,TM Head,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,MA Agarwal,TM Head,JJ Bumrah,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,MA Agarwal,TM Head,HH Pandya,0,0,,,,,,caught,MA Agarwal
+ball,1,4.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,HH Pandya,1,0,,,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,HH Pandya,0,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,HH Pandya,4,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,HH Pandya,4,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,HH Pandya,4,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,0,1,,1,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,6,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,1,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,4,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,4,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,6,0,,,,,,"",""
+ball,1,5.7,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,1,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,PP Chawla,6,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,Abhishek Sharma,TM Head,PP Chawla,1,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,Abhishek Sharma,TM Head,PP Chawla,6,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,Abhishek Sharma,TM Head,PP Chawla,6,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,0,1,1,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,0,4,,,4,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,4,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,Abhishek Sharma,TM Head,G Coetzee,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,G Coetzee,0,0,,,,,,caught,TM Head
+ball,1,7.7,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,G Coetzee,4,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,HH Pandya,2,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,HH Pandya,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,HH Pandya,1,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,HH Pandya,6,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,4,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,6,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,6,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,4,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,0,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,KT Maphaka,0,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,PP Chawla,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,AK Markram,Abhishek Sharma,PP Chawla,3,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,PP Chawla,6,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,PP Chawla,2,0,,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,Abhishek Sharma,AK Markram,PP Chawla,0,0,,,,,,caught,Abhishek Sharma
+ball,1,11.1,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,2,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,1,0,,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,1,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,6,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,1,,1,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,0,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,0,,,,,,"",""
+ball,1,12.7,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,AK Markram,H Klaasen,HH Pandya,2,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,AK Markram,H Klaasen,HH Pandya,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,H Klaasen,AK Markram,HH Pandya,0,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,H Klaasen,AK Markram,HH Pandya,6,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,H Klaasen,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,AK Markram,H Klaasen,HH Pandya,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,14.2,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,6,0,,,,,,"",""
+ball,1,14.5,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,AK Markram,H Klaasen,G Coetzee,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,2,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,AK Markram,H Klaasen,G Coetzee,0,5,5,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,AK Markram,H Klaasen,G Coetzee,1,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,1,0,,,,,,"",""
+ball,1,15.7,Sunrisers Hyderabad,AK Markram,H Klaasen,G Coetzee,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,AK Markram,H Klaasen,KT Maphaka,0,1,1,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,AK Markram,H Klaasen,KT Maphaka,1,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,H Klaasen,AK Markram,KT Maphaka,4,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,H Klaasen,AK Markram,KT Maphaka,0,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,H Klaasen,AK Markram,KT Maphaka,6,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,H Klaasen,AK Markram,KT Maphaka,0,1,1,,,,,"",""
+ball,1,16.7,Sunrisers Hyderabad,H Klaasen,AK Markram,KT Maphaka,1,0,,,,,,"",""
+ball,1,16.8,Sunrisers Hyderabad,AK Markram,H Klaasen,KT Maphaka,4,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,6,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,0,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,1,0,,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,AK Markram,H Klaasen,G Coetzee,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,2,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,H Klaasen,AK Markram,G Coetzee,1,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,0,1,1,,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,AK Markram,H Klaasen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,4,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,4,0,,,,,,"",""
+ball,1,18.7,Sunrisers Hyderabad,H Klaasen,AK Markram,JJ Bumrah,2,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,0,1,1,,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,0,1,1,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,AK Markram,H Klaasen,SZ Mulani,1,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,4,0,,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,6,0,,,,,,"",""
+ball,1,19.6,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,6,0,,,,,,"",""
+ball,1,19.7,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,0,0,,,,,,"",""
+ball,1,19.8,Sunrisers Hyderabad,H Klaasen,AK Markram,SZ Mulani,2,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,RG Sharma,Ishan Kishan,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RG Sharma,Ishan Kishan,B Kumar,4,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,B Kumar,1,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,0,4,,,,4,,"",""
+ball,2,0.6,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,RG Sharma,Ishan Kishan,JD Unadkat,1,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,JD Unadkat,4,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,JD Unadkat,1,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,RG Sharma,Ishan Kishan,JD Unadkat,6,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,RG Sharma,Ishan Kishan,JD Unadkat,6,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,RG Sharma,Ishan Kishan,JD Unadkat,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,4,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,6,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,6,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,0,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,6,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,Ishan Kishan,RG Sharma,B Kumar,1,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,Ishan Kishan,RG Sharma,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,Ishan Kishan,RG Sharma,Shahbaz Ahmed,0,0,,,,,,caught,Ishan Kishan
+ball,2,3.3,Mumbai Indians,Naman Dhir,RG Sharma,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,RG Sharma,Naman Dhir,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,RG Sharma,Naman Dhir,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,RG Sharma,Naman Dhir,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Naman Dhir,RG Sharma,PJ Cummins,1,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,RG Sharma,Naman Dhir,PJ Cummins,6,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,RG Sharma,Naman Dhir,PJ Cummins,0,0,,,,,,caught,RG Sharma
+ball,2,4.4,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,0,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,1,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,0,1,,,1,,,"",""
+ball,2,5.2,Mumbai Indians,Naman Dhir,Tilak Varma,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,Naman Dhir,Tilak Varma,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Tilak Varma,Naman Dhir,Umran Malik,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,Tilak Varma,Naman Dhir,Umran Malik,1,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,Naman Dhir,Tilak Varma,Umran Malik,0,1,1,,,,,"",""
+ball,2,6.4,Mumbai Indians,Naman Dhir,Tilak Varma,Umran Malik,6,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,Naman Dhir,Tilak Varma,Umran Malik,1,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,Tilak Varma,Naman Dhir,Umran Malik,0,0,,,,,,"",""
+ball,2,6.7,Mumbai Indians,Tilak Varma,Naman Dhir,Umran Malik,6,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,Naman Dhir,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Tilak Varma,Naman Dhir,M Markande,6,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,Tilak Varma,Naman Dhir,M Markande,0,1,1,,,,,"",""
+ball,2,7.4,Mumbai Indians,Tilak Varma,Naman Dhir,M Markande,1,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Naman Dhir,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Tilak Varma,Naman Dhir,M Markande,0,0,,,,,,"",""
+ball,2,7.7,Mumbai Indians,Tilak Varma,Naman Dhir,M Markande,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,4,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,0,1,1,,,,,"",""
+ball,2,8.3,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,2,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,Tilak Varma,Naman Dhir,PJ Cummins,1,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,Naman Dhir,Tilak Varma,PJ Cummins,6,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,Naman Dhir,Tilak Varma,PJ Cummins,2,0,,,,,,"",""
+ball,2,8.7,Mumbai Indians,Naman Dhir,Tilak Varma,PJ Cummins,1,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,Naman Dhir,Tilak Varma,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,Tilak Varma,Naman Dhir,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,Tilak Varma,Naman Dhir,JD Unadkat,4,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,Tilak Varma,Naman Dhir,JD Unadkat,1,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,Naman Dhir,Tilak Varma,JD Unadkat,4,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,Naman Dhir,Tilak Varma,JD Unadkat,0,0,,,,,,caught,Naman Dhir
+ball,2,10.5,Mumbai Indians,HH Pandya,Tilak Varma,JD Unadkat,0,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,HH Pandya,Tilak Varma,JD Unadkat,1,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,6,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,4,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,0,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,0,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,1,1,,1,,,,"",""
+ball,2,11.7,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,HH Pandya,Tilak Varma,B Kumar,0,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,HH Pandya,Tilak Varma,B Kumar,0,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,HH Pandya,Tilak Varma,B Kumar,2,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,HH Pandya,Tilak Varma,B Kumar,1,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,Tilak Varma,HH Pandya,B Kumar,1,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,HH Pandya,Tilak Varma,B Kumar,1,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,6,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,2,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,1,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,HH Pandya,Tilak Varma,M Markande,1,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,Tilak Varma,HH Pandya,M Markande,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,Tilak Varma,HH Pandya,PJ Cummins,0,0,,,,,,caught,Tilak Varma
+ball,2,14.2,Mumbai Indians,TH David,HH Pandya,PJ Cummins,0,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,TH David,HH Pandya,PJ Cummins,1,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,HH Pandya,TH David,PJ Cummins,0,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,HH Pandya,TH David,PJ Cummins,1,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,TH David,HH Pandya,PJ Cummins,1,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,TH David,HH Pandya,JD Unadkat,0,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,TH David,HH Pandya,JD Unadkat,1,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,HH Pandya,TH David,JD Unadkat,1,0,,,,,,"",""
+ball,2,15.4,Mumbai Indians,TH David,HH Pandya,JD Unadkat,0,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,TH David,HH Pandya,JD Unadkat,0,1,1,,,,,"",""
+ball,2,15.6,Mumbai Indians,TH David,HH Pandya,JD Unadkat,1,0,,,,,,"",""
+ball,2,15.7,Mumbai Indians,HH Pandya,TH David,JD Unadkat,1,0,,,,,,"",""
+ball,2,16.1,Mumbai Indians,HH Pandya,TH David,B Kumar,1,0,,,,,,"",""
+ball,2,16.2,Mumbai Indians,TH David,HH Pandya,B Kumar,2,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,TH David,HH Pandya,B Kumar,6,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,TH David,HH Pandya,B Kumar,4,0,,,,,,"",""
+ball,2,16.5,Mumbai Indians,TH David,HH Pandya,B Kumar,6,0,,,,,,"",""
+ball,2,16.6,Mumbai Indians,TH David,HH Pandya,B Kumar,1,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,TH David,HH Pandya,JD Unadkat,4,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,TH David,HH Pandya,JD Unadkat,1,0,,,,,,"",""
+ball,2,17.3,Mumbai Indians,HH Pandya,TH David,JD Unadkat,1,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,TH David,HH Pandya,JD Unadkat,0,1,1,,,,,"",""
+ball,2,17.5,Mumbai Indians,TH David,HH Pandya,JD Unadkat,6,0,,,,,,"",""
+ball,2,17.6,Mumbai Indians,TH David,HH Pandya,JD Unadkat,1,0,,,,,,"",""
+ball,2,17.7,Mumbai Indians,HH Pandya,TH David,JD Unadkat,0,0,,,,,,caught,HH Pandya
+ball,2,18.1,Mumbai Indians,TH David,R Shepherd,PJ Cummins,1,0,,,,,,"",""
+ball,2,18.2,Mumbai Indians,R Shepherd,TH David,PJ Cummins,1,0,,,,,,"",""
+ball,2,18.3,Mumbai Indians,TH David,R Shepherd,PJ Cummins,2,0,,,,,,"",""
+ball,2,18.4,Mumbai Indians,TH David,R Shepherd,PJ Cummins,0,0,,,,,,"",""
+ball,2,18.5,Mumbai Indians,TH David,R Shepherd,PJ Cummins,2,0,,,,,,"",""
+ball,2,18.6,Mumbai Indians,TH David,R Shepherd,PJ Cummins,1,0,,,,,,"",""
+ball,2,19.1,Mumbai Indians,TH David,R Shepherd,M Markande,1,0,,,,,,"",""
+ball,2,19.2,Mumbai Indians,R Shepherd,TH David,M Markande,6,0,,,,,,"",""
+ball,2,19.3,Mumbai Indians,R Shepherd,TH David,M Markande,0,0,,,,,,"",""
+ball,2,19.4,Mumbai Indians,R Shepherd,TH David,M Markande,4,0,,,,,,"",""
+ball,2,19.5,Mumbai Indians,R Shepherd,TH David,M Markande,4,0,,,,,,"",""
+ball,2,19.6,Mumbai Indians,R Shepherd,TH David,M Markande,0,0,,,,,,"",""

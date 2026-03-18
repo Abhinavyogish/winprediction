@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Gujarat Titans
+info,gender,male
+info,season,2022
+info,date,2022/05/15
+info,event,Indian Premier League
+info,match_number,62
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Chennai Super Kings
+info,toss_decision,bat
+info,player_of_match,WP Saha
+info,umpire,R Pandit
+info,umpire,VK Sharma
+info,reserve_umpire,NA Patwardhan
+info,tv_umpire,CB Gaffaney
+info,match_referee,J Srinath
+info,winner,Gujarat Titans
+info,winner_wickets,7
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,N Jagadeesan
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,MJ Santner
+info,player,Chennai Super Kings,PH Solanki
+info,player,Chennai Super Kings,Simarjeet Singh
+info,player,Chennai Super Kings,M Pathirana
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Gujarat Titans,WP Saha
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,MS Wade
+info,player,Gujarat Titans,HH Pandya
+info,player,Gujarat Titans,DA Miller
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,R Sai Kishore
+info,player,Gujarat Titans,AS Joseph
+info,player,Gujarat Titans,Yash Dayal
+info,player,Gujarat Titans,Mohammed Shami
+info,registry,people,AS Joseph,b0946605
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DP Conway,df5a6881
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Srinath,bad31fac
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,NA Patwardhan,e6ef687d
+info,registry,people,PH Solanki,c695b423
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Dube,a4e37e47
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Simarjeet Singh,30df8c66
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Yash Dayal,7210d461
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Shami,1,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Shami,3,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,0,1,,1,,,,"",""
+ball,1,1.2,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,1,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,RD Gaikwad,DP Conway,HH Pandya,1,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,0,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,0,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,0,0,,,,,,"",""
+ball,1,1.7,Chennai Super Kings,DP Conway,RD Gaikwad,HH Pandya,1,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Shami,0,0,,,,,,caught,DP Conway
+ball,1,2.2,Chennai Super Kings,MM Ali,RD Gaikwad,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,MM Ali,RD Gaikwad,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,RD Gaikwad,MM Ali,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,MM Ali,RD Gaikwad,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,MM Ali,RD Gaikwad,Mohammed Shami,1,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,MM Ali,RD Gaikwad,HH Pandya,1,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,RD Gaikwad,MM Ali,HH Pandya,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,RD Gaikwad,MM Ali,HH Pandya,1,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,MM Ali,RD Gaikwad,HH Pandya,0,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,MM Ali,RD Gaikwad,HH Pandya,1,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,RD Gaikwad,MM Ali,HH Pandya,1,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,RD Gaikwad,MM Ali,Yash Dayal,0,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,RD Gaikwad,MM Ali,Yash Dayal,4,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,RD Gaikwad,MM Ali,Yash Dayal,6,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,RD Gaikwad,MM Ali,Yash Dayal,4,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,RD Gaikwad,MM Ali,Yash Dayal,1,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,MM Ali,RD Gaikwad,Yash Dayal,0,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,2,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,6,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,6,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,2,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,RD Gaikwad,MM Ali,AS Joseph,0,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,RD Gaikwad,MM Ali,AS Joseph,0,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,RD Gaikwad,MM Ali,AS Joseph,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,MM Ali,RD Gaikwad,AS Joseph,0,1,,,,1,,"",""
+ball,1,6.5,Chennai Super Kings,RD Gaikwad,MM Ali,AS Joseph,4,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,RD Gaikwad,MM Ali,AS Joseph,1,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,2,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,MM Ali,RD Gaikwad,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,RD Gaikwad,MM Ali,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,RD Gaikwad,MM Ali,R Sai Kishore,0,1,,,,1,,"",""
+ball,1,8.2,Chennai Super Kings,MM Ali,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,RD Gaikwad,MM Ali,R Sai Kishore,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,MM Ali,RD Gaikwad,R Sai Kishore,0,1,1,,,,,"",""
+ball,1,8.5,Chennai Super Kings,MM Ali,RD Gaikwad,R Sai Kishore,0,0,,,,,,caught,MM Ali
+ball,1,8.6,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,4,0,,,,,,"",""
+ball,1,8.7,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,0,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Yash Dayal,1,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Yash Dayal,0,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Yash Dayal,1,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Yash Dayal,0,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Yash Dayal,0,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Yash Dayal,2,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,1,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,0,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,0,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,0,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,N Jagadeesan,RD Gaikwad,AS Joseph,0,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,N Jagadeesan,RD Gaikwad,AS Joseph,0,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,AS Joseph,1,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,AS Joseph,4,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,RD Gaikwad,N Jagadeesan,AS Joseph,0,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,RD Gaikwad,N Jagadeesan,AS Joseph,1,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,1,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,4,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,1,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,0,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,1,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,4,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,0,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,1,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,RD Gaikwad,N Jagadeesan,R Sai Kishore,1,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,N Jagadeesan,RD Gaikwad,R Sai Kishore,6,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,N Jagadeesan,RD Gaikwad,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,RD Gaikwad,N Jagadeesan,Rashid Khan,0,0,,,,,,caught,RD Gaikwad
+ball,1,16.1,Chennai Super Kings,N Jagadeesan,S Dube,AS Joseph,1,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,S Dube,N Jagadeesan,AS Joseph,0,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,S Dube,N Jagadeesan,AS Joseph,0,0,,,,,,caught,S Dube
+ball,1,16.4,Chennai Super Kings,MS Dhoni,N Jagadeesan,AS Joseph,0,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,MS Dhoni,N Jagadeesan,AS Joseph,0,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,MS Dhoni,N Jagadeesan,AS Joseph,2,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,N Jagadeesan,MS Dhoni,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,MS Dhoni,N Jagadeesan,Rashid Khan,0,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,MS Dhoni,N Jagadeesan,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,N Jagadeesan,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,N Jagadeesan,MS Dhoni,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.6,Chennai Super Kings,MS Dhoni,N Jagadeesan,Rashid Khan,0,0,,,,,,"",""
+ball,1,18.1,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,0,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,0,1,1,,,,,"",""
+ball,1,18.3,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,0,1,1,,,,,"",""
+ball,1,18.4,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,1,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,MS Dhoni,N Jagadeesan,Yash Dayal,1,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,1,0,,,,,,"",""
+ball,1,18.7,Chennai Super Kings,MS Dhoni,N Jagadeesan,Yash Dayal,1,0,,,,,,"",""
+ball,1,18.8,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,0,1,1,,,,,"",""
+ball,1,18.9,Chennai Super Kings,N Jagadeesan,MS Dhoni,Yash Dayal,1,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,N Jagadeesan,MS Dhoni,Mohammed Shami,1,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,MS Dhoni,N Jagadeesan,Mohammed Shami,2,0,,,,,,"",""
+ball,1,19.3,Chennai Super Kings,MS Dhoni,N Jagadeesan,Mohammed Shami,0,0,,,,,,caught,MS Dhoni
+ball,1,19.4,Chennai Super Kings,MJ Santner,N Jagadeesan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,19.5,Chennai Super Kings,N Jagadeesan,MJ Santner,Mohammed Shami,0,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,N Jagadeesan,MJ Santner,Mohammed Shami,2,0,,,,,,"",""
+ball,2,0.1,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,0.2,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,0.3,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,0.4,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,0.5,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,0.6,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,1.1,Gujarat Titans,Shubman Gill,WP Saha,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.2,Gujarat Titans,Shubman Gill,WP Saha,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,1.3,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,1.4,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.5,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,1,1,,,,,"",""
+ball,2,1.6,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.7,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,2.1,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,2.2,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,2.3,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,2.4,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,2.5,Gujarat Titans,Shubman Gill,WP Saha,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,2.6,Gujarat Titans,WP Saha,Shubman Gill,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,3.1,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,3.2,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,3.3,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,4,0,,,,,,"",""
+ball,2,3.4,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,1,0,,,,,,"",""
+ball,2,3.5,Gujarat Titans,WP Saha,Shubman Gill,MJ Santner,0,0,,,,,,"",""
+ball,2,3.6,Gujarat Titans,WP Saha,Shubman Gill,MJ Santner,1,0,,,,,,"",""
+ball,2,4.1,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,4.2,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,4.3,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,6,0,,,,,,"",""
+ball,2,4.4,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,4.5,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,4.6,Gujarat Titans,WP Saha,Shubman Gill,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,5.1,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,5.2,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,5.3,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,5.4,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,4,0,,,,,,"",""
+ball,2,5.5,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,4,0,,,,,,"",""
+ball,2,5.6,Gujarat Titans,Shubman Gill,WP Saha,MJ Santner,0,0,,,,,,"",""
+ball,2,6.1,Gujarat Titans,WP Saha,Shubman Gill,PH Solanki,1,0,,,,,,"",""
+ball,2,6.2,Gujarat Titans,Shubman Gill,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,6.3,Gujarat Titans,WP Saha,Shubman Gill,PH Solanki,1,0,,,,,,"",""
+ball,2,6.4,Gujarat Titans,Shubman Gill,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,6.5,Gujarat Titans,WP Saha,Shubman Gill,PH Solanki,1,0,,,,,,"",""
+ball,2,6.6,Gujarat Titans,Shubman Gill,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,7.1,Gujarat Titans,Shubman Gill,WP Saha,M Pathirana,0,0,,,,,,lbw,Shubman Gill
+ball,2,7.2,Gujarat Titans,MS Wade,WP Saha,M Pathirana,0,1,1,,,,,"",""
+ball,2,7.3,Gujarat Titans,MS Wade,WP Saha,M Pathirana,4,0,,,,,,"",""
+ball,2,7.4,Gujarat Titans,MS Wade,WP Saha,M Pathirana,2,0,,,,,,"",""
+ball,2,7.5,Gujarat Titans,MS Wade,WP Saha,M Pathirana,4,0,,,,,,"",""
+ball,2,7.6,Gujarat Titans,MS Wade,WP Saha,M Pathirana,1,0,,,,,,"",""
+ball,2,7.7,Gujarat Titans,WP Saha,MS Wade,M Pathirana,0,0,,,,,,"",""
+ball,2,8.1,Gujarat Titans,MS Wade,WP Saha,MJ Santner,1,0,,,,,,"",""
+ball,2,8.2,Gujarat Titans,WP Saha,MS Wade,MJ Santner,1,0,,,,,,"",""
+ball,2,8.3,Gujarat Titans,MS Wade,WP Saha,MJ Santner,2,0,,,,,,"",""
+ball,2,8.4,Gujarat Titans,MS Wade,WP Saha,MJ Santner,1,0,,,,,,"",""
+ball,2,8.5,Gujarat Titans,WP Saha,MS Wade,MJ Santner,0,0,,,,,,"",""
+ball,2,8.6,Gujarat Titans,WP Saha,MS Wade,MJ Santner,0,0,,,,,,"",""
+ball,2,9.1,Gujarat Titans,MS Wade,WP Saha,MM Ali,1,0,,,,,,"",""
+ball,2,9.2,Gujarat Titans,WP Saha,MS Wade,MM Ali,0,0,,,,,,"",""
+ball,2,9.3,Gujarat Titans,WP Saha,MS Wade,MM Ali,1,0,,,,,,"",""
+ball,2,9.4,Gujarat Titans,MS Wade,WP Saha,MM Ali,1,0,,,,,,"",""
+ball,2,9.5,Gujarat Titans,WP Saha,MS Wade,MM Ali,1,0,,,,,,"",""
+ball,2,9.6,Gujarat Titans,MS Wade,WP Saha,MM Ali,1,0,,,,,,"",""
+ball,2,10.1,Gujarat Titans,MS Wade,WP Saha,MJ Santner,1,0,,,,,,"",""
+ball,2,10.2,Gujarat Titans,WP Saha,MS Wade,MJ Santner,1,0,,,,,,"",""
+ball,2,10.3,Gujarat Titans,MS Wade,WP Saha,MJ Santner,0,4,,,4,,,"",""
+ball,2,10.4,Gujarat Titans,MS Wade,WP Saha,MJ Santner,1,0,,,,,,"",""
+ball,2,10.5,Gujarat Titans,WP Saha,MS Wade,MJ Santner,2,0,,,,,,"",""
+ball,2,10.6,Gujarat Titans,WP Saha,MS Wade,MJ Santner,0,0,,,,,,"",""
+ball,2,11.1,Gujarat Titans,MS Wade,WP Saha,MM Ali,0,0,,,,,,"",""
+ball,2,11.2,Gujarat Titans,MS Wade,WP Saha,MM Ali,0,0,,,,,,caught,MS Wade
+ball,2,11.3,Gujarat Titans,HH Pandya,WP Saha,MM Ali,4,0,,,,,,"",""
+ball,2,11.4,Gujarat Titans,HH Pandya,WP Saha,MM Ali,1,0,,,,,,"",""
+ball,2,11.5,Gujarat Titans,WP Saha,HH Pandya,MM Ali,1,0,,,,,,"",""
+ball,2,11.6,Gujarat Titans,HH Pandya,WP Saha,MM Ali,0,0,,,,,,"",""
+ball,2,12.1,Gujarat Titans,WP Saha,HH Pandya,PH Solanki,0,0,,,,,,"",""
+ball,2,12.2,Gujarat Titans,WP Saha,HH Pandya,PH Solanki,0,0,,,,,,"",""
+ball,2,12.3,Gujarat Titans,WP Saha,HH Pandya,PH Solanki,1,0,,,,,,"",""
+ball,2,12.4,Gujarat Titans,HH Pandya,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,12.5,Gujarat Titans,WP Saha,HH Pandya,PH Solanki,1,0,,,,,,"",""
+ball,2,12.6,Gujarat Titans,HH Pandya,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,13.1,Gujarat Titans,HH Pandya,WP Saha,M Pathirana,0,0,,,,,,caught,HH Pandya
+ball,2,13.2,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,1,,,,1,,"",""
+ball,2,13.3,Gujarat Titans,WP Saha,DA Miller,M Pathirana,1,0,,,,,,"",""
+ball,2,13.4,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,0,,,,,,"",""
+ball,2,13.5,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,1,1,,,,,"",""
+ball,2,13.6,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,0,,,,,,"",""
+ball,2,13.7,Gujarat Titans,DA Miller,WP Saha,M Pathirana,1,0,,,,,,"",""
+ball,2,14.1,Gujarat Titans,DA Miller,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,14.2,Gujarat Titans,WP Saha,DA Miller,PH Solanki,1,0,,,,,,"",""
+ball,2,14.3,Gujarat Titans,DA Miller,WP Saha,PH Solanki,0,0,,,,,,"",""
+ball,2,14.4,Gujarat Titans,DA Miller,WP Saha,PH Solanki,0,0,,,,,,"",""
+ball,2,14.5,Gujarat Titans,DA Miller,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,14.6,Gujarat Titans,WP Saha,DA Miller,PH Solanki,1,0,,,,,,"",""
+ball,2,15.1,Gujarat Titans,WP Saha,DA Miller,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,15.2,Gujarat Titans,DA Miller,WP Saha,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,15.3,Gujarat Titans,WP Saha,DA Miller,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,15.4,Gujarat Titans,WP Saha,DA Miller,Simarjeet Singh,2,0,,,,,,"",""
+ball,2,15.5,Gujarat Titans,WP Saha,DA Miller,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,15.6,Gujarat Titans,DA Miller,WP Saha,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,16.1,Gujarat Titans,WP Saha,DA Miller,PH Solanki,1,0,,,,,,"",""
+ball,2,16.2,Gujarat Titans,DA Miller,WP Saha,PH Solanki,0,0,,,,,,"",""
+ball,2,16.3,Gujarat Titans,DA Miller,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,16.4,Gujarat Titans,WP Saha,DA Miller,PH Solanki,1,0,,,,,,"",""
+ball,2,16.5,Gujarat Titans,DA Miller,WP Saha,PH Solanki,1,0,,,,,,"",""
+ball,2,16.6,Gujarat Titans,WP Saha,DA Miller,PH Solanki,0,0,,,,,,"",""
+ball,2,17.1,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,1,,,,1,,"",""
+ball,2,17.2,Gujarat Titans,WP Saha,DA Miller,M Pathirana,1,0,,,,,,"",""
+ball,2,17.3,Gujarat Titans,DA Miller,WP Saha,M Pathirana,1,0,,,,,,"",""
+ball,2,17.4,Gujarat Titans,WP Saha,DA Miller,M Pathirana,0,1,1,,,,,"",""
+ball,2,17.5,Gujarat Titans,WP Saha,DA Miller,M Pathirana,1,0,,,,,,"",""
+ball,2,17.6,Gujarat Titans,DA Miller,WP Saha,M Pathirana,0,0,,,,,,"",""
+ball,2,17.7,Gujarat Titans,DA Miller,WP Saha,M Pathirana,1,0,,,,,,"",""
+ball,2,18.1,Gujarat Titans,DA Miller,WP Saha,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,18.2,Gujarat Titans,WP Saha,DA Miller,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,18.3,Gujarat Titans,DA Miller,WP Saha,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,18.4,Gujarat Titans,WP Saha,DA Miller,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,18.5,Gujarat Titans,DA Miller,WP Saha,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,18.6,Gujarat Titans,WP Saha,DA Miller,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,19.1,Gujarat Titans,WP Saha,DA Miller,M Pathirana,4,0,,,,,,"",""

@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Mumbai Indians
+info,gender,male
+info,season,2024
+info,date,2024/05/03
+info,event,Indian Premier League
+info,match_number,51
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,VR Iyer
+info,umpire,J Madanagopal
+info,umpire,Tapan Sharma
+info,reserve_umpire,K Swaroopanand
+info,tv_umpire,MA Gough
+info,match_referee,P Dharmani
+info,winner,Kolkata Knight Riders
+info,winner_runs,24
+info,player,Kolkata Knight Riders,PD Salt
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,SS Iyer
+info,player,Kolkata Knight Riders,VR Iyer
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,MA Starc
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Mumbai Indians,N Thushara
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,N Wadhera
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,G Coetzee
+info,player,Mumbai Indians,PP Chawla
+info,player,Mumbai Indians,JJ Bumrah
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AD Russell,bbd41817
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,D Brevis,844e79d1
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,TH David,f1f99156
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,VR Iyer,a24be938
+ball,1,0.1,Kolkata Knight Riders,PD Salt,SP Narine,N Thushara,1,0,,,,,,"",""
+ball,1,0.2,Kolkata Knight Riders,SP Narine,PD Salt,N Thushara,0,1,,,,1,,"",""
+ball,1,0.3,Kolkata Knight Riders,PD Salt,SP Narine,N Thushara,4,0,,,,,,"",""
+ball,1,0.4,Kolkata Knight Riders,PD Salt,SP Narine,N Thushara,0,1,1,,,,,"",""
+ball,1,0.5,Kolkata Knight Riders,PD Salt,SP Narine,N Thushara,0,0,,,,,,caught,PD Salt
+ball,1,0.6,Kolkata Knight Riders,A Raghuvanshi,SP Narine,N Thushara,0,1,1,,,,,"",""
+ball,1,0.7,Kolkata Knight Riders,A Raghuvanshi,SP Narine,N Thushara,0,0,,,,,,"",""
+ball,1,0.8,Kolkata Knight Riders,A Raghuvanshi,SP Narine,N Thushara,6,0,,,,,,"",""
+ball,1,1.1,Kolkata Knight Riders,SP Narine,A Raghuvanshi,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.2,Kolkata Knight Riders,SP Narine,A Raghuvanshi,JJ Bumrah,1,0,,,,,,"",""
+ball,1,1.3,Kolkata Knight Riders,A Raghuvanshi,SP Narine,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,JJ Bumrah,1,0,,,,,,"",""
+ball,1,1.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.1,Kolkata Knight Riders,A Raghuvanshi,SP Narine,N Thushara,6,0,,,,,,"",""
+ball,1,2.2,Kolkata Knight Riders,A Raghuvanshi,SP Narine,N Thushara,0,0,,,,,,caught,A Raghuvanshi
+ball,1,2.3,Kolkata Knight Riders,SS Iyer,SP Narine,N Thushara,4,0,,,,,,"",""
+ball,1,2.4,Kolkata Knight Riders,SS Iyer,SP Narine,N Thushara,2,0,,,,,,"",""
+ball,1,2.5,Kolkata Knight Riders,SS Iyer,SP Narine,N Thushara,0,0,,,,,,"",""
+ball,1,2.6,Kolkata Knight Riders,SS Iyer,SP Narine,N Thushara,0,0,,,,,,caught,SS Iyer
+ball,1,3.1,Kolkata Knight Riders,SP Narine,VR Iyer,G Coetzee,1,0,,,,,,"",""
+ball,1,3.2,Kolkata Knight Riders,VR Iyer,SP Narine,G Coetzee,0,0,,,,,,"",""
+ball,1,3.3,Kolkata Knight Riders,VR Iyer,SP Narine,G Coetzee,4,0,,,,,,"",""
+ball,1,3.4,Kolkata Knight Riders,VR Iyer,SP Narine,G Coetzee,0,0,,,,,,"",""
+ball,1,3.5,Kolkata Knight Riders,VR Iyer,SP Narine,G Coetzee,4,0,,,,,,"",""
+ball,1,3.6,Kolkata Knight Riders,VR Iyer,SP Narine,G Coetzee,0,0,,,,,,"",""
+ball,1,4.1,Kolkata Knight Riders,SP Narine,VR Iyer,HH Pandya,6,0,,,,,,"",""
+ball,1,4.2,Kolkata Knight Riders,SP Narine,VR Iyer,HH Pandya,0,0,,,,,,bowled,SP Narine
+ball,1,4.3,Kolkata Knight Riders,RK Singh,VR Iyer,HH Pandya,0,0,,,,,,"",""
+ball,1,4.4,Kolkata Knight Riders,RK Singh,VR Iyer,HH Pandya,4,0,,,,,,"",""
+ball,1,4.5,Kolkata Knight Riders,RK Singh,VR Iyer,HH Pandya,0,0,,,,,,"",""
+ball,1,4.6,Kolkata Knight Riders,RK Singh,VR Iyer,HH Pandya,4,0,,,,,,"",""
+ball,1,5.1,Kolkata Knight Riders,VR Iyer,RK Singh,Naman Dhir,1,0,,,,,,"",""
+ball,1,5.2,Kolkata Knight Riders,RK Singh,VR Iyer,Naman Dhir,0,0,,,,,,"",""
+ball,1,5.3,Kolkata Knight Riders,RK Singh,VR Iyer,Naman Dhir,0,0,,,,,,"",""
+ball,1,5.4,Kolkata Knight Riders,RK Singh,VR Iyer,Naman Dhir,1,0,,,,,,"",""
+ball,1,5.5,Kolkata Knight Riders,VR Iyer,RK Singh,Naman Dhir,4,0,,,,,,"",""
+ball,1,5.6,Kolkata Knight Riders,VR Iyer,RK Singh,Naman Dhir,0,0,,,,,,"",""
+ball,1,6.1,Kolkata Knight Riders,RK Singh,VR Iyer,PP Chawla,0,0,,,,,,caught and bowled,RK Singh
+ball,1,6.2,Kolkata Knight Riders,MK Pandey,VR Iyer,PP Chawla,1,0,,,,,,"",""
+ball,1,6.3,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,6.4,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,6.5,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,2,0,,,,,,"",""
+ball,1,6.6,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,7.1,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,1,0,,,,,,"",""
+ball,1,7.2,Kolkata Knight Riders,VR Iyer,MK Pandey,Naman Dhir,1,0,,,,,,"",""
+ball,1,7.3,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,2,0,,,,,,"",""
+ball,1,7.4,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,1,0,,,,,,"",""
+ball,1,7.5,Kolkata Knight Riders,VR Iyer,MK Pandey,Naman Dhir,1,0,,,,,,"",""
+ball,1,7.6,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,2,0,,,,,,"",""
+ball,1,8.1,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,8.2,Kolkata Knight Riders,MK Pandey,VR Iyer,PP Chawla,1,0,,,,,,"",""
+ball,1,8.3,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,8.4,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,8.5,Kolkata Knight Riders,MK Pandey,VR Iyer,PP Chawla,0,0,,,,,,"",""
+ball,1,8.6,Kolkata Knight Riders,MK Pandey,VR Iyer,PP Chawla,1,0,,,,,,"",""
+ball,1,9.1,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,4,0,,,,,,"",""
+ball,1,9.2,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,0,1,1,,,,,"",""
+ball,1,9.3,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,1,0,,,,,,"",""
+ball,1,9.4,Kolkata Knight Riders,VR Iyer,MK Pandey,Naman Dhir,2,0,,,,,,"",""
+ball,1,9.5,Kolkata Knight Riders,VR Iyer,MK Pandey,Naman Dhir,1,0,,,,,,"",""
+ball,1,9.6,Kolkata Knight Riders,MK Pandey,VR Iyer,Naman Dhir,1,0,,,,,,"",""
+ball,1,9.7,Kolkata Knight Riders,VR Iyer,MK Pandey,Naman Dhir,1,0,,,,,,"",""
+ball,1,10.1,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,2,0,,,,,,"",""
+ball,1,10.2,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,4,0,,,,,,"",""
+ball,1,10.3,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,10.4,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,10.5,Kolkata Knight Riders,VR Iyer,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,10.6,Kolkata Knight Riders,MK Pandey,VR Iyer,PP Chawla,1,0,,,,,,"",""
+ball,1,11.1,Kolkata Knight Riders,MK Pandey,VR Iyer,G Coetzee,1,0,,,,,,"",""
+ball,1,11.2,Kolkata Knight Riders,VR Iyer,MK Pandey,G Coetzee,4,0,,,,,,"",""
+ball,1,11.3,Kolkata Knight Riders,VR Iyer,MK Pandey,G Coetzee,2,0,,,,,,"",""
+ball,1,11.4,Kolkata Knight Riders,VR Iyer,MK Pandey,G Coetzee,1,0,,,,,,"",""
+ball,1,11.5,Kolkata Knight Riders,MK Pandey,VR Iyer,G Coetzee,1,0,,,,,,"",""
+ball,1,11.6,Kolkata Knight Riders,VR Iyer,MK Pandey,G Coetzee,6,0,,,,,,"",""
+ball,1,12.1,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,0,0,,,,,,"",""
+ball,1,12.2,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,0,0,,,,,,"",""
+ball,1,12.3,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,1,0,,,,,,"",""
+ball,1,12.4,Kolkata Knight Riders,VR Iyer,MK Pandey,HH Pandya,0,0,,,,,,"",""
+ball,1,12.5,Kolkata Knight Riders,VR Iyer,MK Pandey,HH Pandya,1,0,,,,,,"",""
+ball,1,12.6,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,1,0,,,,,,"",""
+ball,1,13.1,Kolkata Knight Riders,MK Pandey,VR Iyer,JJ Bumrah,4,0,,,,,,"",""
+ball,1,13.2,Kolkata Knight Riders,MK Pandey,VR Iyer,JJ Bumrah,0,0,,,,,,"",""
+ball,1,13.3,Kolkata Knight Riders,MK Pandey,VR Iyer,JJ Bumrah,6,0,,,,,,"",""
+ball,1,13.4,Kolkata Knight Riders,MK Pandey,VR Iyer,JJ Bumrah,1,0,,,,,,"",""
+ball,1,13.5,Kolkata Knight Riders,VR Iyer,MK Pandey,JJ Bumrah,1,0,,,,,,"",""
+ball,1,13.6,Kolkata Knight Riders,MK Pandey,VR Iyer,JJ Bumrah,0,0,,,,,,"",""
+ball,1,14.1,Kolkata Knight Riders,VR Iyer,MK Pandey,HH Pandya,2,0,,,,,,"",""
+ball,1,14.2,Kolkata Knight Riders,VR Iyer,MK Pandey,HH Pandya,1,0,,,,,,"",""
+ball,1,14.3,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,0,0,,,,,,"",""
+ball,1,14.4,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,2,0,,,,,,"",""
+ball,1,14.5,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,1,0,,,,,,"",""
+ball,1,14.6,Kolkata Knight Riders,VR Iyer,MK Pandey,HH Pandya,1,0,,,,,,"",""
+ball,1,15.1,Kolkata Knight Riders,VR Iyer,MK Pandey,N Thushara,1,0,,,,,,"",""
+ball,1,15.2,Kolkata Knight Riders,MK Pandey,VR Iyer,N Thushara,0,1,,1,,,,"",""
+ball,1,15.3,Kolkata Knight Riders,MK Pandey,VR Iyer,N Thushara,1,0,,,,,,"",""
+ball,1,15.4,Kolkata Knight Riders,VR Iyer,MK Pandey,N Thushara,1,0,,,,,,"",""
+ball,1,15.5,Kolkata Knight Riders,MK Pandey,VR Iyer,N Thushara,1,0,,,,,,"",""
+ball,1,15.6,Kolkata Knight Riders,VR Iyer,MK Pandey,N Thushara,0,0,,,,,,"",""
+ball,1,15.7,Kolkata Knight Riders,VR Iyer,MK Pandey,N Thushara,0,0,,,,,,"",""
+ball,1,16.1,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,6,0,,,,,,"",""
+ball,1,16.2,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,0,1,1,,,,,"",""
+ball,1,16.3,Kolkata Knight Riders,MK Pandey,VR Iyer,HH Pandya,0,0,,,,,,caught,MK Pandey
+ball,1,16.4,Kolkata Knight Riders,AD Russell,VR Iyer,HH Pandya,6,0,,,,,,"",""
+ball,1,16.5,Kolkata Knight Riders,AD Russell,VR Iyer,HH Pandya,1,0,,,,,,"",""
+ball,1,16.6,Kolkata Knight Riders,VR Iyer,AD Russell,HH Pandya,6,0,,,,,,"",""
+ball,1,16.7,Kolkata Knight Riders,VR Iyer,AD Russell,HH Pandya,0,0,,,,,,run out,AD Russell
+ball,1,17.1,Kolkata Knight Riders,Ramandeep Singh,VR Iyer,JJ Bumrah,2,0,,,,,,"",""
+ball,1,17.2,Kolkata Knight Riders,Ramandeep Singh,VR Iyer,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.3,Kolkata Knight Riders,Ramandeep Singh,VR Iyer,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.4,Kolkata Knight Riders,Ramandeep Singh,VR Iyer,JJ Bumrah,0,0,,,,,,caught,Ramandeep Singh
+ball,1,17.5,Kolkata Knight Riders,MA Starc,VR Iyer,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.6,Kolkata Knight Riders,MA Starc,VR Iyer,JJ Bumrah,0,0,,,,,,bowled,MA Starc
+ball,1,18.1,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,0,1,1,,,,,"",""
+ball,1,18.2,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,0,0,,,,,,"",""
+ball,1,18.3,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,0,0,,,,,,"",""
+ball,1,18.4,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,0,0,,,,,,"",""
+ball,1,18.5,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,6,0,,,,,,"",""
+ball,1,18.6,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,4,0,,,,,,"",""
+ball,1,18.7,Kolkata Knight Riders,VR Iyer,VG Arora,N Thushara,1,0,,,,,,"",""
+ball,1,19.1,Kolkata Knight Riders,VR Iyer,VG Arora,JJ Bumrah,0,0,,,,,,"",""
+ball,1,19.2,Kolkata Knight Riders,VR Iyer,VG Arora,JJ Bumrah,0,0,,,,,,"",""
+ball,1,19.3,Kolkata Knight Riders,VR Iyer,VG Arora,JJ Bumrah,2,0,,,,,,"",""
+ball,1,19.4,Kolkata Knight Riders,VR Iyer,VG Arora,JJ Bumrah,0,0,,,,,,"",""
+ball,1,19.5,Kolkata Knight Riders,VR Iyer,VG Arora,JJ Bumrah,0,0,,,,,,bowled,VR Iyer
+ball,2,0.1,Mumbai Indians,Ishan Kishan,RG Sharma,VG Arora,1,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RG Sharma,Ishan Kishan,VG Arora,0,1,1,,,,,"",""
+ball,2,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,VG Arora,1,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,VG Arora,1,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,RG Sharma,Ishan Kishan,VG Arora,0,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,RG Sharma,Ishan Kishan,VG Arora,1,0,,,,,,"",""
+ball,2,0.7,Mumbai Indians,Ishan Kishan,RG Sharma,VG Arora,1,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,Ishan Kishan,RG Sharma,MA Starc,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,MA Starc,4,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,MA Starc,6,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,Ishan Kishan,RG Sharma,MA Starc,0,0,,,,,,bowled,Ishan Kishan
+ball,2,1.5,Mumbai Indians,Naman Dhir,RG Sharma,MA Starc,0,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,Naman Dhir,RG Sharma,MA Starc,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,RG Sharma,Naman Dhir,VG Arora,1,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,Naman Dhir,RG Sharma,VG Arora,0,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,Naman Dhir,RG Sharma,VG Arora,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,Naman Dhir,RG Sharma,VG Arora,4,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,Naman Dhir,RG Sharma,VG Arora,0,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,Naman Dhir,RG Sharma,VG Arora,4,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,RG Sharma,Naman Dhir,MA Starc,0,3,3,,,,,"",""
+ball,2,3.2,Mumbai Indians,RG Sharma,Naman Dhir,MA Starc,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,RG Sharma,Naman Dhir,MA Starc,6,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,RG Sharma,Naman Dhir,MA Starc,1,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,Naman Dhir,RG Sharma,MA Starc,2,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,Naman Dhir,RG Sharma,MA Starc,0,0,,,,,,"",""
+ball,2,3.7,Mumbai Indians,Naman Dhir,RG Sharma,MA Starc,1,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Naman Dhir,RG Sharma,CV Varun,0,0,,,,,,bowled,Naman Dhir
+ball,2,4.2,Mumbai Indians,SA Yadav,RG Sharma,CV Varun,1,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,RG Sharma,SA Yadav,CV Varun,0,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,RG Sharma,SA Yadav,CV Varun,1,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,SA Yadav,RG Sharma,CV Varun,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,SA Yadav,RG Sharma,CV Varun,1,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,SA Yadav,RG Sharma,SP Narine,4,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,SA Yadav,RG Sharma,SP Narine,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,RG Sharma,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,RG Sharma,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,RG Sharma,SA Yadav,SP Narine,0,0,,,,,,caught,RG Sharma
+ball,2,5.6,Mumbai Indians,Tilak Varma,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,1,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,Tilak Varma,SA Yadav,CV Varun,1,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,0,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,0,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,0,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,1,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,SA Yadav,Tilak Varma,SP Narine,0,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,SA Yadav,Tilak Varma,SP Narine,2,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,SA Yadav,Tilak Varma,SP Narine,1,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,Tilak Varma,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Tilak Varma,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,SA Yadav,Tilak Varma,SP Narine,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,4,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,SA Yadav,Tilak Varma,CV Varun,1,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,Tilak Varma,SA Yadav,CV Varun,2,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,Tilak Varma,SA Yadav,CV Varun,0,0,,,,,,caught,Tilak Varma
+ball,2,8.5,Mumbai Indians,N Wadhera,SA Yadav,CV Varun,0,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,N Wadhera,SA Yadav,CV Varun,0,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,SA Yadav,N Wadhera,AD Russell,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,N Wadhera,SA Yadav,AD Russell,4,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,N Wadhera,SA Yadav,AD Russell,0,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,N Wadhera,SA Yadav,AD Russell,0,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,N Wadhera,SA Yadav,AD Russell,0,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,N Wadhera,SA Yadav,AD Russell,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,N Wadhera,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,N Wadhera,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,SA Yadav,N Wadhera,SP Narine,1,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,N Wadhera,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,N Wadhera,SA Yadav,SP Narine,0,1,1,,,,,"",""
+ball,2,10.6,Mumbai Indians,N Wadhera,SA Yadav,SP Narine,0,0,,,,,,bowled,N Wadhera
+ball,2,10.7,Mumbai Indians,HH Pandya,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,HH Pandya,SA Yadav,AD Russell,0,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,HH Pandya,SA Yadav,AD Russell,0,0,,,,,,caught,HH Pandya
+ball,2,11.3,Mumbai Indians,TH David,SA Yadav,AD Russell,0,1,1,,,,,"",""
+ball,2,11.4,Mumbai Indians,TH David,SA Yadav,AD Russell,0,1,,,,1,,"",""
+ball,2,11.5,Mumbai Indians,SA Yadav,TH David,AD Russell,6,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,SA Yadav,TH David,AD Russell,2,0,,,,,,"",""
+ball,2,11.7,Mumbai Indians,SA Yadav,TH David,AD Russell,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,SA Yadav,TH David,SP Narine,2,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,SA Yadav,TH David,SP Narine,0,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,SA Yadav,TH David,SP Narine,1,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,TH David,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,TH David,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,SA Yadav,TH David,SP Narine,4,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,TH David,SA Yadav,VG Arora,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,SA Yadav,TH David,VG Arora,0,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,SA Yadav,TH David,VG Arora,4,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,SA Yadav,TH David,VG Arora,0,1,,1,,,,"",""
+ball,2,13.5,Mumbai Indians,SA Yadav,TH David,VG Arora,6,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,SA Yadav,TH David,VG Arora,4,0,,,,,,"",""
+ball,2,13.7,Mumbai Indians,SA Yadav,TH David,VG Arora,4,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,TH David,SA Yadav,CV Varun,4,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,TH David,SA Yadav,CV Varun,0,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,TH David,SA Yadav,CV Varun,2,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,TH David,SA Yadav,CV Varun,1,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,SA Yadav,TH David,CV Varun,2,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,SA Yadav,TH David,CV Varun,0,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,TH David,SA Yadav,AD Russell,1,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,SA Yadav,TH David,AD Russell,0,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,SA Yadav,TH David,AD Russell,0,0,,,,,,caught,SA Yadav
+ball,2,15.4,Mumbai Indians,G Coetzee,TH David,AD Russell,1,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,TH David,G Coetzee,AD Russell,2,0,,,,,,"",""
+ball,2,15.6,Mumbai Indians,TH David,G Coetzee,AD Russell,1,0,,,,,,"",""
+ball,2,16.1,Mumbai Indians,TH David,G Coetzee,MA Starc,1,0,,,,,,"",""
+ball,2,16.2,Mumbai Indians,G Coetzee,TH David,MA Starc,1,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,TH David,G Coetzee,MA Starc,0,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,TH David,G Coetzee,MA Starc,1,0,,,,,,"",""
+ball,2,16.5,Mumbai Indians,G Coetzee,TH David,MA Starc,0,0,,,,,,"",""
+ball,2,16.6,Mumbai Indians,G Coetzee,TH David,MA Starc,0,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,TH David,G Coetzee,AD Russell,0,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,TH David,G Coetzee,AD Russell,0,2,,,,2,,"",""
+ball,2,17.3,Mumbai Indians,TH David,G Coetzee,AD Russell,2,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,TH David,G Coetzee,AD Russell,1,0,,,,,,"",""
+ball,2,17.5,Mumbai Indians,G Coetzee,TH David,AD Russell,6,0,,,,,,"",""
+ball,2,17.6,Mumbai Indians,G Coetzee,TH David,AD Russell,0,0,,,,,,"",""
+ball,2,18.1,Mumbai Indians,TH David,G Coetzee,MA Starc,6,0,,,,,,"",""
+ball,2,18.2,Mumbai Indians,TH David,G Coetzee,MA Starc,0,0,,,,,,caught,TH David
+ball,2,18.3,Mumbai Indians,PP Chawla,G Coetzee,MA Starc,0,0,,,,,,caught,PP Chawla
+ball,2,18.4,Mumbai Indians,JJ Bumrah,G Coetzee,MA Starc,1,0,,,,,,"",""
+ball,2,18.5,Mumbai Indians,G Coetzee,JJ Bumrah,MA Starc,0,0,,,,,,bowled,G Coetzee

@@ -1,0 +1,322 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Chennai Super Kings
+info,gender,male
+info,season,2020/21
+info,date,2020/10/02
+info,event,Indian Premier League
+info,match_number,14
+info,venue,Dubai International Cricket Stadium
+info,city,
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,bat
+info,player_of_match,PK Garg
+info,umpire,AK Chaudhary
+info,umpire,PR Reiffel
+info,reserve_umpire,AY Dandekar
+info,tv_umpire,YC Barde
+info,match_referee,Prakash Bhatt
+info,winner,Sunrisers Hyderabad
+info,winner_runs,7
+info,player,Sunrisers Hyderabad,DA Warner
+info,player,Sunrisers Hyderabad,JM Bairstow
+info,player,Sunrisers Hyderabad,MK Pandey
+info,player,Sunrisers Hyderabad,KS Williamson
+info,player,Sunrisers Hyderabad,PK Garg
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Abdul Samad
+info,player,Sunrisers Hyderabad,Rashid Khan
+info,player,Sunrisers Hyderabad,B Kumar
+info,player,Sunrisers Hyderabad,T Natarajan
+info,player,Sunrisers Hyderabad,KK Ahmed
+info,player,Chennai Super Kings,F du Plessis
+info,player,Chennai Super Kings,SR Watson
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,KM Jadhav
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,SM Curran
+info,player,Chennai Super Kings,DJ Bravo
+info,player,Chennai Super Kings,SN Thakur
+info,player,Chennai Super Kings,PP Chawla
+info,player,Chennai Super Kings,DL Chahar
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,F du Plessis,3355b542
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,T Natarajan,ce794613
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,DL Chahar,1,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,DL Chahar,0,0,,,,,,bowled,JM Bairstow
+ball,1,0.5,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,4,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,0,1,1,,,,,"",""
+ball,1,0.7,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,DA Warner,MK Pandey,SM Curran,1,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,0,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,4,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,0,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,1,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,4,0,,,,,,"",""
+ball,1,2.2,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,0,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,1,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,DA Warner,MK Pandey,SM Curran,1,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,4,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,DA Warner,MK Pandey,SM Curran,0,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,DA Warner,MK Pandey,SM Curran,0,1,1,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,DA Warner,MK Pandey,SM Curran,1,0,,,,,,"",""
+ball,1,3.7,Sunrisers Hyderabad,MK Pandey,DA Warner,SM Curran,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,1,4.2,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,4,0,,,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,0,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,DA Warner,MK Pandey,DL Chahar,1,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,MK Pandey,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,DA Warner,MK Pandey,SN Thakur,0,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,DA Warner,MK Pandey,SN Thakur,2,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,DA Warner,MK Pandey,SN Thakur,0,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,DA Warner,MK Pandey,SN Thakur,4,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,DA Warner,MK Pandey,SN Thakur,1,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,MK Pandey,DA Warner,SN Thakur,2,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,DA Warner,MK Pandey,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,MK Pandey,DA Warner,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,DA Warner,MK Pandey,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,MK Pandey,DA Warner,DJ Bravo,0,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,MK Pandey,DA Warner,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,MK Pandey,DA Warner,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.7,Sunrisers Hyderabad,DA Warner,MK Pandey,DJ Bravo,0,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,MK Pandey,DA Warner,SN Thakur,0,0,,,,,,caught,MK Pandey
+ball,1,7.2,Sunrisers Hyderabad,KS Williamson,DA Warner,SN Thakur,0,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,KS Williamson,DA Warner,SN Thakur,4,0,,,,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,KS Williamson,DA Warner,SN Thakur,0,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,KS Williamson,DA Warner,SN Thakur,0,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,KS Williamson,DA Warner,SN Thakur,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,KS Williamson,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,4,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,1,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,KS Williamson,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,DA Warner,KS Williamson,DJ Bravo,1,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,KS Williamson,DA Warner,DJ Bravo,0,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,KS Williamson,DA Warner,DJ Bravo,1,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,DA Warner,KS Williamson,DJ Bravo,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,KS Williamson,DA Warner,DJ Bravo,0,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,KS Williamson,DA Warner,DJ Bravo,0,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,0,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,KS Williamson,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,4,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,DA Warner,KS Williamson,PP Chawla,0,0,,,,,,caught,DA Warner
+ball,1,10.6,Sunrisers Hyderabad,KS Williamson,PK Garg,PP Chawla,0,0,,,,,,run out,KS Williamson
+ball,1,11.1,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,PP Chawla,4,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,PP Chawla,0,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,PP Chawla,1,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,PP Chawla,0,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,PP Chawla,0,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,4,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,6,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,RA Jadeja,2,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DJ Bravo,0,0,,,,,,"",""
+ball,1,14.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DJ Bravo,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DJ Bravo,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DJ Bravo,0,1,1,,,,,"",""
+ball,1,14.5,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DJ Bravo,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DJ Bravo,1,0,,,,,,"",""
+ball,1,14.7,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DJ Bravo,4,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SN Thakur,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,SN Thakur,0,1,1,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,SN Thakur,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SN Thakur,0,0,,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SN Thakur,3,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,SN Thakur,1,0,,,,,,"",""
+ball,1,15.7,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SN Thakur,4,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,SM Curran,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,2,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,4,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,4,1,,1,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,6,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,4,0,,,,,,"",""
+ball,1,16.7,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,SM Curran,0,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DL Chahar,4,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DL Chahar,1,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DL Chahar,0,1,1,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DL Chahar,2,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DL Chahar,4,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,PK Garg,Abhishek Sharma,DL Chahar,1,0,,,,,,"",""
+ball,1,17.7,Sunrisers Hyderabad,Abhishek Sharma,PK Garg,DL Chahar,0,0,,,,,,caught,Abhishek Sharma
+ball,1,18.1,Sunrisers Hyderabad,PK Garg,Abdul Samad,DJ Bravo,4,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,PK Garg,Abdul Samad,DJ Bravo,2,0,,,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,PK Garg,Abdul Samad,DJ Bravo,1,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,Abdul Samad,PK Garg,DJ Bravo,2,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,Abdul Samad,PK Garg,DJ Bravo,1,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,PK Garg,Abdul Samad,DJ Bravo,1,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,PK Garg,Abdul Samad,SN Thakur,0,1,,1,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,PK Garg,Abdul Samad,SN Thakur,1,0,,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,Abdul Samad,PK Garg,SN Thakur,0,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,Abdul Samad,PK Garg,SN Thakur,2,0,,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,Abdul Samad,PK Garg,SN Thakur,2,0,,,,,,"",""
+ball,1,19.6,Sunrisers Hyderabad,Abdul Samad,PK Garg,SN Thakur,1,0,,,,,,"",""
+ball,1,19.7,Sunrisers Hyderabad,PK Garg,Abdul Samad,SN Thakur,0,0,,,,,,"",""
+ball,2,0.1,Chennai Super Kings,F du Plessis,SR Watson,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,Chennai Super Kings,F du Plessis,SR Watson,B Kumar,0,0,,,,,,"",""
+ball,2,0.3,Chennai Super Kings,F du Plessis,SR Watson,B Kumar,0,0,,,,,,"",""
+ball,2,0.4,Chennai Super Kings,F du Plessis,SR Watson,B Kumar,1,0,,,,,,"",""
+ball,2,0.5,Chennai Super Kings,SR Watson,F du Plessis,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,Chennai Super Kings,SR Watson,F du Plessis,B Kumar,0,0,,,,,,"",""
+ball,2,1.1,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.2,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.3,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.4,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,1,0,,,,,,"",""
+ball,2,1.5,Chennai Super Kings,SR Watson,F du Plessis,KK Ahmed,1,0,,,,,,"",""
+ball,2,1.6,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,0,1,1,,,,,"",""
+ball,2,1.7,Chennai Super Kings,F du Plessis,SR Watson,KK Ahmed,0,0,,,,,,"",""
+ball,2,2.1,Chennai Super Kings,SR Watson,F du Plessis,B Kumar,0,0,,,,,,"",""
+ball,2,2.2,Chennai Super Kings,SR Watson,F du Plessis,B Kumar,0,0,,,,,,"",""
+ball,2,2.3,Chennai Super Kings,SR Watson,F du Plessis,B Kumar,0,0,,,,,,bowled,SR Watson
+ball,2,2.4,Chennai Super Kings,AT Rayudu,F du Plessis,B Kumar,1,0,,,,,,"",""
+ball,2,2.5,Chennai Super Kings,F du Plessis,AT Rayudu,B Kumar,1,0,,,,,,"",""
+ball,2,2.6,Chennai Super Kings,AT Rayudu,F du Plessis,B Kumar,1,0,,,,,,"",""
+ball,2,3.1,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,0,0,,,,,,"",""
+ball,2,3.2,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,0,0,,,,,,"",""
+ball,2,3.3,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,0,0,,,,,,"",""
+ball,2,3.4,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,1,0,,,,,,"",""
+ball,2,3.5,Chennai Super Kings,F du Plessis,AT Rayudu,T Natarajan,0,1,,,,1,,"",""
+ball,2,3.6,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,4,0,,,,,,"",""
+ball,2,4.1,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,4,0,,,,,,"",""
+ball,2,4.2,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,3,0,,,,,,"",""
+ball,2,4.3,Chennai Super Kings,AT Rayudu,F du Plessis,KK Ahmed,1,0,,,,,,"",""
+ball,2,4.4,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.5,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,4,0,,,,,,"",""
+ball,2,4.6,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,0,1,1,,,,,"",""
+ball,2,4.7,Chennai Super Kings,F du Plessis,AT Rayudu,KK Ahmed,0,0,,,,,,"",""
+ball,2,5.1,Chennai Super Kings,AT Rayudu,F du Plessis,T Natarajan,0,0,,,,,,bowled,AT Rayudu
+ball,2,5.2,Chennai Super Kings,KM Jadhav,F du Plessis,T Natarajan,1,0,,,,,,"",""
+ball,2,5.3,Chennai Super Kings,F du Plessis,KM Jadhav,T Natarajan,4,0,,,,,,"",""
+ball,2,5.4,Chennai Super Kings,F du Plessis,KM Jadhav,T Natarajan,4,0,,,,,,"",""
+ball,2,5.5,Chennai Super Kings,F du Plessis,KM Jadhav,T Natarajan,0,1,,,,1,,"",""
+ball,2,5.6,Chennai Super Kings,KM Jadhav,F du Plessis,T Natarajan,0,0,,,,,,run out,F du Plessis
+ball,2,6.1,Chennai Super Kings,KM Jadhav,MS Dhoni,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.2,Chennai Super Kings,MS Dhoni,KM Jadhav,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,6.3,Chennai Super Kings,MS Dhoni,KM Jadhav,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.4,Chennai Super Kings,KM Jadhav,MS Dhoni,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,6.5,Chennai Super Kings,KM Jadhav,MS Dhoni,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.6,Chennai Super Kings,MS Dhoni,KM Jadhav,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,7.1,Chennai Super Kings,MS Dhoni,KM Jadhav,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.2,Chennai Super Kings,MS Dhoni,KM Jadhav,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.3,Chennai Super Kings,KM Jadhav,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.4,Chennai Super Kings,KM Jadhav,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Chennai Super Kings,KM Jadhav,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.6,Chennai Super Kings,KM Jadhav,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.1,Chennai Super Kings,MS Dhoni,KM Jadhav,Abdul Samad,1,0,,,,,,"",""
+ball,2,8.2,Chennai Super Kings,KM Jadhav,MS Dhoni,Abdul Samad,0,0,,,,,,caught,KM Jadhav
+ball,2,8.3,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,0,0,,,,,,"",""
+ball,2,8.4,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,1,0,,,,,,"",""
+ball,2,8.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,0,0,,,,,,"",""
+ball,2,8.6,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,0,0,,,,,,"",""
+ball,2,9.1,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.2,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.3,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.4,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.6,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,0,0,,,,,,"",""
+ball,2,10.1,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,1,0,,,,,,"",""
+ball,2,10.2,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,4,0,,,,,,"",""
+ball,2,10.3,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,2,0,,,,,,"",""
+ball,2,10.4,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,1,0,,,,,,"",""
+ball,2,10.5,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,1,0,,,,,,"",""
+ball,2,10.6,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,2,0,,,,,,"",""
+ball,2,11.1,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.2,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.3,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.4,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.6,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.1,Chennai Super Kings,RA Jadeja,MS Dhoni,KK Ahmed,1,0,,,,,,"",""
+ball,2,12.2,Chennai Super Kings,MS Dhoni,RA Jadeja,KK Ahmed,1,0,,,,,,"",""
+ball,2,12.3,Chennai Super Kings,RA Jadeja,MS Dhoni,KK Ahmed,0,0,,,,,,"",""
+ball,2,12.4,Chennai Super Kings,RA Jadeja,MS Dhoni,KK Ahmed,1,0,,,,,,"",""
+ball,2,12.5,Chennai Super Kings,MS Dhoni,RA Jadeja,KK Ahmed,0,0,,,,,,"",""
+ball,2,12.6,Chennai Super Kings,MS Dhoni,RA Jadeja,KK Ahmed,0,0,,,,,,"",""
+ball,2,13.1,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,0,0,,,,,,"",""
+ball,2,13.2,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,4,0,,,,,,"",""
+ball,2,13.3,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,2,0,,,,,,"",""
+ball,2,13.4,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,0,1,1,,,,,"",""
+ball,2,13.5,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,1,0,,,,,,"",""
+ball,2,13.6,Chennai Super Kings,MS Dhoni,RA Jadeja,T Natarajan,1,0,,,,,,"",""
+ball,2,13.7,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,1,0,,,,,,"",""
+ball,2,14.1,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,0,0,,,,,,"",""
+ball,2,14.2,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,6,0,,,,,,"",""
+ball,2,14.3,Chennai Super Kings,RA Jadeja,MS Dhoni,Abdul Samad,1,0,,,,,,"",""
+ball,2,14.4,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,0,0,,,,,,"",""
+ball,2,14.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,0,0,,,,,,"",""
+ball,2,14.6,Chennai Super Kings,MS Dhoni,RA Jadeja,Abdul Samad,1,0,,,,,,"",""
+ball,2,15.1,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.2,Chennai Super Kings,RA Jadeja,MS Dhoni,Rashid Khan,0,1,,,,1,,"",""
+ball,2,15.3,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,2,0,,,,,,"",""
+ball,2,15.4,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,4,0,,,,,,"",""
+ball,2,15.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.6,Chennai Super Kings,MS Dhoni,RA Jadeja,Rashid Khan,0,0,,,,,,"",""
+ball,2,16.1,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,4,0,,,,,,"",""
+ball,2,16.2,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,4,0,,,,,,"",""
+ball,2,16.3,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,4,0,,,,,,"",""
+ball,2,16.4,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,2,0,,,,,,"",""
+ball,2,16.5,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,0,0,,,,,,"",""
+ball,2,16.6,Chennai Super Kings,RA Jadeja,MS Dhoni,B Kumar,1,0,,,,,,"",""
+ball,2,17.1,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,4,0,,,,,,"",""
+ball,2,17.2,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,2,0,,,,,,"",""
+ball,2,17.3,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,6,0,,,,,,"",""
+ball,2,17.4,Chennai Super Kings,RA Jadeja,MS Dhoni,T Natarajan,0,0,,,,,,caught,RA Jadeja
+ball,2,17.5,Chennai Super Kings,SM Curran,MS Dhoni,T Natarajan,6,0,,,,,,"",""
+ball,2,17.6,Chennai Super Kings,SM Curran,MS Dhoni,T Natarajan,1,0,,,,,,"",""
+ball,2,18.1,Chennai Super Kings,SM Curran,MS Dhoni,B Kumar,1,0,,,,,,"",""
+ball,2,18.2,Chennai Super Kings,MS Dhoni,SM Curran,KK Ahmed,4,0,,,,,,"",""
+ball,2,18.3,Chennai Super Kings,MS Dhoni,SM Curran,KK Ahmed,2,0,,,,,,"",""
+ball,2,18.4,Chennai Super Kings,MS Dhoni,SM Curran,KK Ahmed,2,0,,,,,,"",""
+ball,2,18.5,Chennai Super Kings,MS Dhoni,SM Curran,KK Ahmed,6,0,,,,,,"",""
+ball,2,18.6,Chennai Super Kings,MS Dhoni,SM Curran,KK Ahmed,1,0,,,,,,"",""
+ball,2,19.1,Chennai Super Kings,MS Dhoni,SM Curran,Abdul Samad,0,5,5,,,,,"",""
+ball,2,19.2,Chennai Super Kings,MS Dhoni,SM Curran,Abdul Samad,2,0,,,,,,"",""
+ball,2,19.3,Chennai Super Kings,MS Dhoni,SM Curran,Abdul Samad,4,0,,,,,,"",""
+ball,2,19.4,Chennai Super Kings,MS Dhoni,SM Curran,Abdul Samad,1,0,,,,,,"",""
+ball,2,19.5,Chennai Super Kings,SM Curran,MS Dhoni,Abdul Samad,1,0,,,,,,"",""
+ball,2,19.6,Chennai Super Kings,MS Dhoni,SM Curran,Abdul Samad,1,0,,,,,,"",""
+ball,2,19.7,Chennai Super Kings,SM Curran,MS Dhoni,Abdul Samad,6,0,,,,,,"",""

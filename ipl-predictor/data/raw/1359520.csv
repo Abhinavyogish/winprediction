@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Mumbai Indians
+info,gender,male
+info,season,2023
+info,date,2023/05/03
+info,event,Indian Premier League
+info,match_number,46
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,Ishan Kishan
+info,umpire,J Madanagopal
+info,umpire,RJ Tucker
+info,reserve_umpire,Mohamad Rafi
+info,tv_umpire,A Totre
+info,match_referee,SS Raul
+info,winner,Mumbai Indians
+info,winner_wickets,6
+info,player,Punjab Kings,NT Ellis
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,S Dhawan
+info,player,Punjab Kings,MW Short
+info,player,Punjab Kings,LS Livingstone
+info,player,Punjab Kings,JM Sharma
+info,player,Punjab Kings,SM Curran
+info,player,Punjab Kings,M Shahrukh Khan
+info,player,Punjab Kings,Harpreet Brar
+info,player,Punjab Kings,R Dhawan
+info,player,Punjab Kings,RD Chahar
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Mumbai Indians,Akash Madhwal
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,C Green
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,N Wadhera
+info,player,Mumbai Indians,PP Chawla
+info,player,Mumbai Indians,JC Archer
+info,player,Mumbai Indians,K Kartikeya
+info,player,Mumbai Indians,Arshad Khan
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,Akash Madhwal,4bd09374
+info,registry,people,Arshad Khan,12314277
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,C Green,eaa76d3c
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JC Archer,5574750c
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mohamad Rafi,0479de6b
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,R Dhawan,26a85969
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SS Raul,4cfdf1d0
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+ball,1,0.1,Punjab Kings,P Simran Singh,S Dhawan,C Green,0,0,,,,,,"",""
+ball,1,0.2,Punjab Kings,P Simran Singh,S Dhawan,C Green,0,0,,,,,,"",""
+ball,1,0.3,Punjab Kings,P Simran Singh,S Dhawan,C Green,2,0,,,,,,"",""
+ball,1,0.4,Punjab Kings,P Simran Singh,S Dhawan,C Green,3,0,,,,,,"",""
+ball,1,0.5,Punjab Kings,S Dhawan,P Simran Singh,C Green,0,0,,,,,,"",""
+ball,1,0.6,Punjab Kings,S Dhawan,P Simran Singh,C Green,4,0,,,,,,"",""
+ball,1,1.1,Punjab Kings,P Simran Singh,S Dhawan,Arshad Khan,4,0,,,,,,"",""
+ball,1,1.2,Punjab Kings,P Simran Singh,S Dhawan,Arshad Khan,0,0,,,,,,"",""
+ball,1,1.3,Punjab Kings,P Simran Singh,S Dhawan,Arshad Khan,0,0,,,,,,caught,P Simran Singh
+ball,1,1.4,Punjab Kings,MW Short,S Dhawan,Arshad Khan,0,0,,,,,,"",""
+ball,1,1.5,Punjab Kings,MW Short,S Dhawan,Arshad Khan,0,0,,,,,,"",""
+ball,1,1.6,Punjab Kings,MW Short,S Dhawan,Arshad Khan,4,0,,,,,,"",""
+ball,1,2.1,Punjab Kings,S Dhawan,MW Short,C Green,0,0,,,,,,"",""
+ball,1,2.2,Punjab Kings,S Dhawan,MW Short,C Green,0,0,,,,,,"",""
+ball,1,2.3,Punjab Kings,S Dhawan,MW Short,C Green,2,0,,,,,,"",""
+ball,1,2.4,Punjab Kings,S Dhawan,MW Short,C Green,0,0,,,,,,"",""
+ball,1,2.5,Punjab Kings,S Dhawan,MW Short,C Green,4,0,,,,,,"",""
+ball,1,2.6,Punjab Kings,S Dhawan,MW Short,C Green,0,0,,,,,,"",""
+ball,1,3.1,Punjab Kings,MW Short,S Dhawan,Arshad Khan,1,0,,,,,,"",""
+ball,1,3.2,Punjab Kings,S Dhawan,MW Short,Arshad Khan,1,0,,,,,,"",""
+ball,1,3.3,Punjab Kings,MW Short,S Dhawan,Arshad Khan,0,0,,,,,,"",""
+ball,1,3.4,Punjab Kings,MW Short,S Dhawan,Arshad Khan,0,0,,,,,,"",""
+ball,1,3.5,Punjab Kings,MW Short,S Dhawan,Arshad Khan,6,0,,,,,,"",""
+ball,1,3.6,Punjab Kings,MW Short,S Dhawan,Arshad Khan,4,0,,,,,,"",""
+ball,1,4.1,Punjab Kings,S Dhawan,MW Short,JC Archer,1,0,,,,,,"",""
+ball,1,4.2,Punjab Kings,MW Short,S Dhawan,JC Archer,1,0,,,,,,"",""
+ball,1,4.3,Punjab Kings,S Dhawan,MW Short,JC Archer,1,0,,,,,,"",""
+ball,1,4.4,Punjab Kings,MW Short,S Dhawan,JC Archer,0,0,,,,,,"",""
+ball,1,4.5,Punjab Kings,MW Short,S Dhawan,JC Archer,1,0,,,,,,"",""
+ball,1,4.6,Punjab Kings,S Dhawan,MW Short,JC Archer,1,0,,,,,,"",""
+ball,1,5.1,Punjab Kings,S Dhawan,MW Short,PP Chawla,4,0,,,,,,"",""
+ball,1,5.2,Punjab Kings,S Dhawan,MW Short,PP Chawla,4,0,,,,,,"",""
+ball,1,5.3,Punjab Kings,S Dhawan,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,5.4,Punjab Kings,MW Short,S Dhawan,PP Chawla,0,0,,,,,,"",""
+ball,1,5.5,Punjab Kings,MW Short,S Dhawan,PP Chawla,0,0,,,,,,"",""
+ball,1,5.6,Punjab Kings,MW Short,S Dhawan,PP Chawla,1,0,,,,,,"",""
+ball,1,6.1,Punjab Kings,MW Short,S Dhawan,K Kartikeya,1,0,,,,,,"",""
+ball,1,6.2,Punjab Kings,S Dhawan,MW Short,K Kartikeya,0,1,1,,,,,"",""
+ball,1,6.3,Punjab Kings,S Dhawan,MW Short,K Kartikeya,0,1,,,,1,,"",""
+ball,1,6.4,Punjab Kings,MW Short,S Dhawan,K Kartikeya,0,0,,,,,,"",""
+ball,1,6.5,Punjab Kings,MW Short,S Dhawan,K Kartikeya,1,0,,,,,,"",""
+ball,1,6.6,Punjab Kings,S Dhawan,MW Short,K Kartikeya,2,0,,,,,,"",""
+ball,1,6.7,Punjab Kings,S Dhawan,MW Short,K Kartikeya,0,1,1,,,,,"",""
+ball,1,6.8,Punjab Kings,S Dhawan,MW Short,K Kartikeya,1,0,,,,,,"",""
+ball,1,7.1,Punjab Kings,S Dhawan,MW Short,PP Chawla,4,0,,,,,,"",""
+ball,1,7.2,Punjab Kings,S Dhawan,MW Short,PP Chawla,0,0,,,,,,stumped,S Dhawan
+ball,1,7.3,Punjab Kings,LS Livingstone,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,7.4,Punjab Kings,MW Short,LS Livingstone,PP Chawla,1,0,,,,,,"",""
+ball,1,7.5,Punjab Kings,LS Livingstone,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,7.6,Punjab Kings,MW Short,LS Livingstone,PP Chawla,0,0,,,,,,"",""
+ball,1,8.1,Punjab Kings,LS Livingstone,MW Short,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.2,Punjab Kings,MW Short,LS Livingstone,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.3,Punjab Kings,LS Livingstone,MW Short,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.4,Punjab Kings,MW Short,LS Livingstone,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.5,Punjab Kings,LS Livingstone,MW Short,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.6,Punjab Kings,MW Short,LS Livingstone,K Kartikeya,0,1,1,,,,,"",""
+ball,1,8.7,Punjab Kings,MW Short,LS Livingstone,K Kartikeya,0,0,,,,,,"",""
+ball,1,9.1,Punjab Kings,LS Livingstone,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,9.2,Punjab Kings,MW Short,LS Livingstone,PP Chawla,1,0,,,,,,"",""
+ball,1,9.3,Punjab Kings,LS Livingstone,MW Short,PP Chawla,0,0,,,,,,"",""
+ball,1,9.4,Punjab Kings,LS Livingstone,MW Short,PP Chawla,0,0,,,,,,"",""
+ball,1,9.5,Punjab Kings,LS Livingstone,MW Short,PP Chawla,4,0,,,,,,"",""
+ball,1,9.6,Punjab Kings,LS Livingstone,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,10.1,Punjab Kings,LS Livingstone,MW Short,Akash Madhwal,4,0,,,,,,"",""
+ball,1,10.2,Punjab Kings,LS Livingstone,MW Short,Akash Madhwal,0,1,,1,,,,"",""
+ball,1,10.3,Punjab Kings,LS Livingstone,MW Short,Akash Madhwal,1,0,,,,,,"",""
+ball,1,10.4,Punjab Kings,MW Short,LS Livingstone,Akash Madhwal,1,0,,,,,,"",""
+ball,1,10.5,Punjab Kings,LS Livingstone,MW Short,Akash Madhwal,6,0,,,,,,"",""
+ball,1,10.6,Punjab Kings,LS Livingstone,MW Short,Akash Madhwal,1,0,,,,,,"",""
+ball,1,10.7,Punjab Kings,MW Short,LS Livingstone,Akash Madhwal,2,0,,,,,,"",""
+ball,1,11.1,Punjab Kings,LS Livingstone,MW Short,PP Chawla,1,0,,,,,,"",""
+ball,1,11.2,Punjab Kings,MW Short,LS Livingstone,PP Chawla,0,0,,,,,,bowled,MW Short
+ball,1,11.3,Punjab Kings,JM Sharma,LS Livingstone,PP Chawla,1,0,,,,,,"",""
+ball,1,11.4,Punjab Kings,LS Livingstone,JM Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,11.5,Punjab Kings,JM Sharma,LS Livingstone,PP Chawla,1,0,,,,,,"",""
+ball,1,11.6,Punjab Kings,LS Livingstone,JM Sharma,PP Chawla,1,0,,,,,,"",""
+ball,1,12.1,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,1,1,,1,,,,"",""
+ball,1,12.2,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,4,0,,,,,,"",""
+ball,1,12.3,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,4,0,,,,,,"",""
+ball,1,12.4,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,0,1,1,,,,,"",""
+ball,1,12.5,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,4,0,,,,,,"",""
+ball,1,12.6,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,1,0,,,,,,"",""
+ball,1,12.7,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,12.8,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,0,4,,,,4,,"",""
+ball,1,13.1,Punjab Kings,LS Livingstone,JM Sharma,K Kartikeya,1,0,,,,,,"",""
+ball,1,13.2,Punjab Kings,JM Sharma,LS Livingstone,K Kartikeya,1,0,,,,,,"",""
+ball,1,13.3,Punjab Kings,LS Livingstone,JM Sharma,K Kartikeya,1,0,,,,,,"",""
+ball,1,13.4,Punjab Kings,JM Sharma,LS Livingstone,K Kartikeya,6,0,,,,,,"",""
+ball,1,13.5,Punjab Kings,JM Sharma,LS Livingstone,K Kartikeya,1,0,,,,,,"",""
+ball,1,13.6,Punjab Kings,LS Livingstone,JM Sharma,K Kartikeya,1,0,,,,,,"",""
+ball,1,14.1,Punjab Kings,LS Livingstone,JM Sharma,Arshad Khan,4,0,,,,,,"",""
+ball,1,14.2,Punjab Kings,LS Livingstone,JM Sharma,Arshad Khan,4,0,,,,,,"",""
+ball,1,14.3,Punjab Kings,LS Livingstone,JM Sharma,Arshad Khan,1,0,,,,,,"",""
+ball,1,14.4,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,1,0,,,,,,"",""
+ball,1,14.5,Punjab Kings,LS Livingstone,JM Sharma,Arshad Khan,0,0,,,,,,"",""
+ball,1,14.6,Punjab Kings,LS Livingstone,JM Sharma,Arshad Khan,4,0,,,,,,"",""
+ball,1,15.1,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,1,0,,,,,,"",""
+ball,1,15.2,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,4,0,,,,,,"",""
+ball,1,15.3,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,15.4,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,0,0,,,,,,"",""
+ball,1,15.5,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,1,0,,,,,,"",""
+ball,1,15.6,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,0,0,,,,,,"",""
+ball,1,16.1,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,0,0,,,,,,"",""
+ball,1,16.2,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,6,0,,,,,,"",""
+ball,1,16.3,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,0,1,1,,,,,"",""
+ball,1,16.4,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,4,0,,,,,,"",""
+ball,1,16.5,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,0,0,,,,,,"",""
+ball,1,16.6,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,2,0,,,,,,"",""
+ball,1,16.7,Punjab Kings,JM Sharma,LS Livingstone,Arshad Khan,1,0,,,,,,"",""
+ball,1,17.1,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,1,0,,,,,,"",""
+ball,1,17.2,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,4,0,,,,,,"",""
+ball,1,17.3,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,1,0,,,,,,"",""
+ball,1,17.4,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,4,0,,,,,,"",""
+ball,1,17.5,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,2,0,,,,,,"",""
+ball,1,17.6,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,0,0,,,,,,"",""
+ball,1,18.1,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,6,0,,,,,,"",""
+ball,1,18.2,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,6,0,,,,,,"",""
+ball,1,18.3,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,6,0,,,,,,"",""
+ball,1,18.4,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,18.5,Punjab Kings,JM Sharma,LS Livingstone,JC Archer,1,0,,,,,,"",""
+ball,1,18.6,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,0,5,5,,,,,"",""
+ball,1,18.7,Punjab Kings,LS Livingstone,JM Sharma,JC Archer,2,0,,,,,,"",""
+ball,1,19.1,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,1,0,,,,,,"",""
+ball,1,19.2,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,2,0,,,,,,"",""
+ball,1,19.3,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,1,0,,,,,,"",""
+ball,1,19.4,Punjab Kings,JM Sharma,LS Livingstone,Akash Madhwal,1,0,,,,,,"",""
+ball,1,19.5,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,2,0,,,,,,"",""
+ball,1,19.6,Punjab Kings,LS Livingstone,JM Sharma,Akash Madhwal,2,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,RG Sharma,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RG Sharma,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,R Dhawan,0,0,,,,,,caught,RG Sharma
+ball,2,0.4,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,4,,,4,,,"",""
+ball,2,0.5,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,1,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,C Green,Ishan Kishan,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,1.2,Mumbai Indians,C Green,Ishan Kishan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,C Green,Ishan Kishan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,Ishan Kishan,C Green,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,C Green,Ishan Kishan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,Ishan Kishan,C Green,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.7,Mumbai Indians,Ishan Kishan,C Green,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,1,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,1,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,Ishan Kishan,C Green,SM Curran,0,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,Ishan Kishan,C Green,SM Curran,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,Ishan Kishan,C Green,SM Curran,1,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,C Green,Ishan Kishan,SM Curran,4,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,C Green,Ishan Kishan,SM Curran,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,C Green,Ishan Kishan,SM Curran,4,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,6,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,0,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,6,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,Ishan Kishan,C Green,R Dhawan,1,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,C Green,Ishan Kishan,R Dhawan,4,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Ishan Kishan,C Green,NT Ellis,0,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,Ishan Kishan,C Green,NT Ellis,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,C Green,Ishan Kishan,NT Ellis,1,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,Ishan Kishan,C Green,NT Ellis,1,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,C Green,Ishan Kishan,NT Ellis,2,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,C Green,Ishan Kishan,NT Ellis,0,0,,,,,,caught,C Green
+ball,2,6.1,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,1,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,0,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,4,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,0,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,1,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,0,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,1,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,2,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,2,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,1,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,0,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,2,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,4,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,1,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,2,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,0,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,1,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,1,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,4,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,SA Yadav,Ishan Kishan,Harpreet Brar,1,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,Ishan Kishan,SA Yadav,Harpreet Brar,6,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,0,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,4,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,4,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,SA Yadav,Ishan Kishan,RD Chahar,1,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,4,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,Ishan Kishan,SA Yadav,RD Chahar,1,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,2,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,1,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,1,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,4,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,6,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,6,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,4,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,0,1,1,,,,,"",""
+ball,2,12.5,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,4,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,SA Yadav,Ishan Kishan,SM Curran,1,0,,,,,,"",""
+ball,2,12.7,Mumbai Indians,Ishan Kishan,SA Yadav,SM Curran,1,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,2,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,4,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,2,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,1,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,Ishan Kishan,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,Ishan Kishan,SA Yadav,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,SA Yadav,Ishan Kishan,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,14.3,Mumbai Indians,SA Yadav,Ishan Kishan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,SA Yadav,Ishan Kishan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,Ishan Kishan,SA Yadav,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,Ishan Kishan,SA Yadav,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,14.7,Mumbai Indians,Ishan Kishan,SA Yadav,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,SA Yadav,Ishan Kishan,NT Ellis,0,0,,,,,,caught,SA Yadav
+ball,2,15.2,Mumbai Indians,TH David,Ishan Kishan,NT Ellis,0,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,TH David,Ishan Kishan,NT Ellis,2,0,,,,,,"",""
+ball,2,15.4,Mumbai Indians,TH David,Ishan Kishan,NT Ellis,1,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,Ishan Kishan,TH David,NT Ellis,1,0,,,,,,"",""
+ball,2,15.6,Mumbai Indians,TH David,Ishan Kishan,NT Ellis,4,0,,,,,,"",""
+ball,2,16.1,Mumbai Indians,Ishan Kishan,TH David,Arshdeep Singh,0,0,,,,,,caught,Ishan Kishan
+ball,2,16.2,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,16.5,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,16.6,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,TH David,Tilak Varma,SM Curran,4,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,TH David,Tilak Varma,SM Curran,1,0,,,,,,"",""
+ball,2,17.3,Mumbai Indians,Tilak Varma,TH David,SM Curran,1,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,TH David,Tilak Varma,SM Curran,1,0,,,,,,"",""
+ball,2,17.5,Mumbai Indians,Tilak Varma,TH David,SM Curran,1,0,,,,,,"",""
+ball,2,17.6,Mumbai Indians,TH David,Tilak Varma,SM Curran,1,0,,,,,,"",""
+ball,2,18.1,Mumbai Indians,TH David,Tilak Varma,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,18.2,Mumbai Indians,TH David,Tilak Varma,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,18.3,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,18.4,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,18.5,Mumbai Indians,Tilak Varma,TH David,Arshdeep Singh,6,0,,,,,,"",""

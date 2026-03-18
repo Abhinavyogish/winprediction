@@ -1,0 +1,306 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kings XI Punjab
+info,team,Chennai Super Kings
+info,gender,male
+info,season,2020/21
+info,date,2020/10/04
+info,event,Indian Premier League
+info,match_number,18
+info,venue,Dubai International Cricket Stadium
+info,city,
+info,toss_winner,Kings XI Punjab
+info,toss_decision,bat
+info,player_of_match,SR Watson
+info,umpire,AY Dandekar
+info,umpire,Nitin Menon
+info,reserve_umpire,YC Barde
+info,tv_umpire,PR Reiffel
+info,match_referee,J Srinath
+info,winner,Chennai Super Kings
+info,winner_wickets,10
+info,player,Kings XI Punjab,KL Rahul
+info,player,Kings XI Punjab,MA Agarwal
+info,player,Kings XI Punjab,Mandeep Singh
+info,player,Kings XI Punjab,N Pooran
+info,player,Kings XI Punjab,GJ Maxwell
+info,player,Kings XI Punjab,SN Khan
+info,player,Kings XI Punjab,CJ Jordan
+info,player,Kings XI Punjab,Harpreet Brar
+info,player,Kings XI Punjab,Ravi Bishnoi
+info,player,Kings XI Punjab,Mohammed Shami
+info,player,Kings XI Punjab,SS Cottrell
+info,player,Chennai Super Kings,SR Watson
+info,player,Chennai Super Kings,F du Plessis
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,KM Jadhav
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,SM Curran
+info,player,Chennai Super Kings,DJ Bravo
+info,player,Chennai Super Kings,PP Chawla
+info,player,Chennai Super Kings,SN Thakur
+info,player,Chennai Super Kings,DL Chahar
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Khan,f088b960
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,2,0,,,,,,"",""
+ball,1,0.2,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,0.3,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,0.4,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,0.5,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,1,0,,,,,,"",""
+ball,1,0.6,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,1,0,,,,,,"",""
+ball,1,1.1,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,2,0,,,,,,"",""
+ball,1,1.2,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,1,0,,,,,,"",""
+ball,1,1.3,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,4,0,,,,,,"",""
+ball,1,1.4,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,0,0,,,,,,"",""
+ball,1,1.5,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,1,0,,,,,,"",""
+ball,1,1.6,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,0,0,,,,,,"",""
+ball,1,2.1,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,2.2,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,2,0,,,,,,"",""
+ball,1,2.3,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,4,0,,,,,,"",""
+ball,1,2.4,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,2.5,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,1,0,,,,,,"",""
+ball,1,2.6,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,1,3.1,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,1,0,,,,,,"",""
+ball,1,3.2,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,1,0,,,,,,"",""
+ball,1,3.3,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,1,0,,,,,,"",""
+ball,1,3.4,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,4,0,,,,,,"",""
+ball,1,3.5,Kings XI Punjab,MA Agarwal,KL Rahul,SM Curran,1,0,,,,,,"",""
+ball,1,3.6,Kings XI Punjab,KL Rahul,MA Agarwal,SM Curran,4,0,,,,,,"",""
+ball,1,4.1,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,1,4.2,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,1,4.3,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,1,0,,,,,,"",""
+ball,1,4.4,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,1,0,,,,,,"",""
+ball,1,4.5,Kings XI Punjab,MA Agarwal,KL Rahul,DL Chahar,0,1,,,,1,,"",""
+ball,1,4.6,Kings XI Punjab,KL Rahul,MA Agarwal,DL Chahar,0,0,,,,,,"",""
+ball,1,5.1,Kings XI Punjab,MA Agarwal,KL Rahul,SN Thakur,4,0,,,,,,"",""
+ball,1,5.2,Kings XI Punjab,MA Agarwal,KL Rahul,SN Thakur,1,0,,,,,,"",""
+ball,1,5.3,Kings XI Punjab,KL Rahul,MA Agarwal,SN Thakur,1,0,,,,,,"",""
+ball,1,5.4,Kings XI Punjab,MA Agarwal,KL Rahul,SN Thakur,1,0,,,,,,"",""
+ball,1,5.5,Kings XI Punjab,KL Rahul,MA Agarwal,SN Thakur,0,0,,,,,,"",""
+ball,1,5.6,Kings XI Punjab,KL Rahul,MA Agarwal,SN Thakur,1,0,,,,,,"",""
+ball,1,6.1,Kings XI Punjab,KL Rahul,MA Agarwal,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.2,Kings XI Punjab,MA Agarwal,KL Rahul,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.3,Kings XI Punjab,MA Agarwal,KL Rahul,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.4,Kings XI Punjab,MA Agarwal,KL Rahul,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.5,Kings XI Punjab,KL Rahul,MA Agarwal,DJ Bravo,0,0,,,,,,"",""
+ball,1,6.6,Kings XI Punjab,KL Rahul,MA Agarwal,DJ Bravo,0,0,,,,,,"",""
+ball,1,6.7,Kings XI Punjab,KL Rahul,MA Agarwal,DJ Bravo,4,0,,,,,,"",""
+ball,1,6.8,Kings XI Punjab,KL Rahul,MA Agarwal,DJ Bravo,1,0,,,,,,"",""
+ball,1,7.1,Kings XI Punjab,KL Rahul,MA Agarwal,RA Jadeja,1,0,,,,,,"",""
+ball,1,7.2,Kings XI Punjab,MA Agarwal,KL Rahul,RA Jadeja,3,0,,,,,,"",""
+ball,1,7.3,Kings XI Punjab,KL Rahul,MA Agarwal,RA Jadeja,0,0,,,,,,"",""
+ball,1,7.4,Kings XI Punjab,KL Rahul,MA Agarwal,RA Jadeja,0,0,,,,,,"",""
+ball,1,7.5,Kings XI Punjab,KL Rahul,MA Agarwal,RA Jadeja,1,0,,,,,,"",""
+ball,1,7.6,Kings XI Punjab,MA Agarwal,KL Rahul,RA Jadeja,1,0,,,,,,"",""
+ball,1,8.1,Kings XI Punjab,MA Agarwal,KL Rahul,PP Chawla,0,0,,,,,,caught,MA Agarwal
+ball,1,8.2,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,1,0,,,,,,"",""
+ball,1,8.3,Kings XI Punjab,KL Rahul,Mandeep Singh,PP Chawla,1,0,,,,,,"",""
+ball,1,8.4,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,2,0,,,,,,"",""
+ball,1,8.5,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,0,0,,,,,,"",""
+ball,1,8.6,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,1,0,,,,,,"",""
+ball,1,9.1,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,2,0,,,,,,"",""
+ball,1,9.2,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.3,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,1,0,,,,,,"",""
+ball,1,9.4,Kings XI Punjab,KL Rahul,Mandeep Singh,RA Jadeja,1,0,,,,,,"",""
+ball,1,9.5,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,1,0,,,,,,"",""
+ball,1,9.6,Kings XI Punjab,KL Rahul,Mandeep Singh,RA Jadeja,0,0,,,,,,"",""
+ball,1,10.1,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,2,0,,,,,,"",""
+ball,1,10.2,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,6,0,,,,,,"",""
+ball,1,10.3,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,1,0,,,,,,"",""
+ball,1,10.4,Kings XI Punjab,KL Rahul,Mandeep Singh,PP Chawla,1,0,,,,,,"",""
+ball,1,10.5,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,6,0,,,,,,"",""
+ball,1,10.6,Kings XI Punjab,Mandeep Singh,KL Rahul,PP Chawla,1,0,,,,,,"",""
+ball,1,11.1,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,2,0,,,,,,"",""
+ball,1,11.2,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.3,Kings XI Punjab,KL Rahul,Mandeep Singh,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.4,Kings XI Punjab,KL Rahul,Mandeep Singh,RA Jadeja,2,0,,,,,,"",""
+ball,1,11.5,Kings XI Punjab,KL Rahul,Mandeep Singh,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.6,Kings XI Punjab,Mandeep Singh,KL Rahul,RA Jadeja,0,0,,,,,,caught,Mandeep Singh
+ball,1,12.1,Kings XI Punjab,KL Rahul,N Pooran,DJ Bravo,0,0,,,,,,"",""
+ball,1,12.2,Kings XI Punjab,KL Rahul,N Pooran,DJ Bravo,4,0,,,,,,"",""
+ball,1,12.3,Kings XI Punjab,KL Rahul,N Pooran,DJ Bravo,0,0,,,,,,"",""
+ball,1,12.4,Kings XI Punjab,KL Rahul,N Pooran,DJ Bravo,1,0,,,,,,"",""
+ball,1,12.5,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,1,0,,,,,,"",""
+ball,1,12.6,Kings XI Punjab,KL Rahul,N Pooran,DJ Bravo,1,0,,,,,,"",""
+ball,1,13.1,Kings XI Punjab,KL Rahul,N Pooran,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.2,Kings XI Punjab,N Pooran,KL Rahul,RA Jadeja,0,0,,,,,,"",""
+ball,1,13.3,Kings XI Punjab,N Pooran,KL Rahul,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.4,Kings XI Punjab,KL Rahul,N Pooran,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.5,Kings XI Punjab,N Pooran,KL Rahul,RA Jadeja,4,0,,,,,,"",""
+ball,1,13.6,Kings XI Punjab,N Pooran,KL Rahul,RA Jadeja,6,0,,,,,,"",""
+ball,1,14.1,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,0,0,,,,,,"",""
+ball,1,14.2,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,6,0,,,,,,"",""
+ball,1,14.3,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,4,0,,,,,,"",""
+ball,1,14.4,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,4,0,,,,,,"",""
+ball,1,14.5,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,0,0,,,,,,"",""
+ball,1,14.6,Kings XI Punjab,KL Rahul,N Pooran,SN Thakur,2,0,,,,,,"",""
+ball,1,15.1,Kings XI Punjab,N Pooran,KL Rahul,SM Curran,1,0,,,,,,"",""
+ball,1,15.2,Kings XI Punjab,KL Rahul,N Pooran,SM Curran,1,0,,,,,,"",""
+ball,1,15.3,Kings XI Punjab,N Pooran,KL Rahul,SM Curran,6,0,,,,,,"",""
+ball,1,15.4,Kings XI Punjab,N Pooran,KL Rahul,SM Curran,0,0,,,,,,"",""
+ball,1,15.5,Kings XI Punjab,N Pooran,KL Rahul,SM Curran,2,0,,,,,,"",""
+ball,1,15.6,Kings XI Punjab,N Pooran,KL Rahul,SM Curran,1,0,,,,,,"",""
+ball,1,16.1,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,2,0,,,,,,"",""
+ball,1,16.2,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,0,0,,,,,,"",""
+ball,1,16.3,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,0,0,,,,,,"",""
+ball,1,16.4,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,6,0,,,,,,"",""
+ball,1,16.5,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,2,0,,,,,,"",""
+ball,1,16.6,Kings XI Punjab,N Pooran,KL Rahul,DJ Bravo,1,0,,,,,,"",""
+ball,1,17.1,Kings XI Punjab,N Pooran,KL Rahul,SN Thakur,0,0,,,,,,caught,N Pooran
+ball,1,17.2,Kings XI Punjab,KL Rahul,GJ Maxwell,SN Thakur,0,0,,,,,,caught,KL Rahul
+ball,1,17.3,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,0,0,,,,,,"",""
+ball,1,17.4,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,1,0,,,,,,"",""
+ball,1,17.5,Kings XI Punjab,GJ Maxwell,SN Khan,SN Thakur,0,0,,,,,,"",""
+ball,1,17.6,Kings XI Punjab,GJ Maxwell,SN Khan,SN Thakur,2,0,,,,,,"",""
+ball,1,18.1,Kings XI Punjab,SN Khan,GJ Maxwell,DJ Bravo,2,0,,,,,,"",""
+ball,1,18.2,Kings XI Punjab,SN Khan,GJ Maxwell,DJ Bravo,0,0,,,,,,"",""
+ball,1,18.3,Kings XI Punjab,SN Khan,GJ Maxwell,DJ Bravo,1,0,,,,,,"",""
+ball,1,18.4,Kings XI Punjab,GJ Maxwell,SN Khan,DJ Bravo,2,0,,,,,,"",""
+ball,1,18.5,Kings XI Punjab,GJ Maxwell,SN Khan,DJ Bravo,4,0,,,,,,"",""
+ball,1,18.6,Kings XI Punjab,GJ Maxwell,SN Khan,DJ Bravo,2,0,,,,,,"",""
+ball,1,19.1,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,4,0,,,,,,"",""
+ball,1,19.2,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,4,0,,,,,,"",""
+ball,1,19.3,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,0,1,1,,,,,"",""
+ball,1,19.4,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,1,0,,,,,,"",""
+ball,1,19.5,Kings XI Punjab,GJ Maxwell,SN Khan,SN Thakur,0,0,,,,,,"",""
+ball,1,19.6,Kings XI Punjab,GJ Maxwell,SN Khan,SN Thakur,1,0,,,,,,"",""
+ball,1,19.7,Kings XI Punjab,SN Khan,GJ Maxwell,SN Thakur,1,0,,,,,,"",""
+ball,2,0.1,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.2,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.3,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,4,0,,,,,,"",""
+ball,2,0.4,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,4,0,,,,,,"",""
+ball,2,0.5,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.6,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,0,0,,,,,,"",""
+ball,2,1.1,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.2,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.3,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,5,5,,,,,"",""
+ball,2,1.4,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.5,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.6,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.7,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.1,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.2,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.3,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,2,0,,,,,,"",""
+ball,2,2.4,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.5,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,4,0,,,,,,"",""
+ball,2,2.6,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,0,0,,,,,,"",""
+ball,2,3.1,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,3.2,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,0,0,,,,,,"",""
+ball,2,3.3,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,4,0,,,,,,"",""
+ball,2,3.4,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,1,0,,,,,,"",""
+ball,2,3.5,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,0,0,,,,,,"",""
+ball,2,3.6,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,4.1,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,0,1,1,,,,,"",""
+ball,2,4.2,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,4,0,,,,,,"",""
+ball,2,4.3,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,2,0,,,,,,"",""
+ball,2,4.4,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.5,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,4.6,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.7,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,5.1,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.2,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.3,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,2,0,,,,,,"",""
+ball,2,5.4,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.5,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.6,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,6.1,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.2,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.3,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.4,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.5,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,6.6,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.1,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,7.2,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,4,0,,,,,,"",""
+ball,2,7.3,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,4,0,,,,,,"",""
+ball,2,7.4,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,1,0,,,,,,"",""
+ball,2,7.5,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,4,0,,,,,,"",""
+ball,2,7.6,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,8.1,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,8.2,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,8.3,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,8.4,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,8.5,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,8.6,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,8.7,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.1,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,2,0,,,,,,"",""
+ball,2,9.2,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,0,0,,,,,,"",""
+ball,2,9.3,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.4,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.5,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.6,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.1,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,4,0,,,,,,"",""
+ball,2,10.2,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,4,0,,,,,,"",""
+ball,2,10.3,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.4,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,0,0,,,,,,"",""
+ball,2,10.5,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.6,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,1,0,,,,,,"",""
+ball,2,11.1,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,11.2,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,11.3,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,11.4,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,11.5,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,11.6,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,11.7,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,12.1,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,0,0,,,,,,"",""
+ball,2,12.2,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,2,0,,,,,,"",""
+ball,2,12.3,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,12.4,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,0,0,,,,,,"",""
+ball,2,12.5,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,1,0,,,,,,"",""
+ball,2,12.6,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,0,0,,,,,,"",""
+ball,2,13.1,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,1,0,,,,,,"",""
+ball,2,13.2,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,1,0,,,,,,"",""
+ball,2,13.3,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,0,0,,,,,,"",""
+ball,2,13.4,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,6,0,,,,,,"",""
+ball,2,13.5,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,0,1,1,,,,,"",""
+ball,2,13.6,Chennai Super Kings,SR Watson,F du Plessis,SS Cottrell,1,0,,,,,,"",""
+ball,2,13.7,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,0,1,1,,,,,"",""
+ball,2,13.8,Chennai Super Kings,F du Plessis,SR Watson,SS Cottrell,1,0,,,,,,"",""
+ball,2,14.1,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,2,0,,,,,,"",""
+ball,2,14.2,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,4,0,,,,,,"",""
+ball,2,14.3,Chennai Super Kings,F du Plessis,SR Watson,Harpreet Brar,1,0,,,,,,"",""
+ball,2,14.4,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,0,0,,,,,,"",""
+ball,2,14.5,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,0,1,1,,,,,"",""
+ball,2,14.6,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,6,0,,,,,,"",""
+ball,2,14.7,Chennai Super Kings,SR Watson,F du Plessis,Harpreet Brar,1,0,,,,,,"",""
+ball,2,15.1,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.2,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.3,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.4,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.5,Chennai Super Kings,F du Plessis,SR Watson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.6,Chennai Super Kings,SR Watson,F du Plessis,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,16.1,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,0,0,,,,,,"",""
+ball,2,16.2,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.3,Chennai Super Kings,SR Watson,F du Plessis,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.4,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,16.5,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,4,0,,,,,,"",""
+ball,2,16.6,Chennai Super Kings,F du Plessis,SR Watson,CJ Jordan,2,0,,,,,,"",""
+ball,2,17.1,Chennai Super Kings,SR Watson,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,17.2,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,2,0,,,,,,"",""
+ball,2,17.3,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,6,0,,,,,,"",""
+ball,2,17.4,Chennai Super Kings,F du Plessis,SR Watson,Mohammed Shami,4,0,,,,,,"",""

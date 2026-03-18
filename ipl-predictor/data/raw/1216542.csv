@@ -1,0 +1,298 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Kings XI Punjab
+info,gender,male
+info,season,2020/21
+info,date,2020/10/08
+info,event,Indian Premier League
+info,match_number,22
+info,venue,Dubai International Cricket Stadium
+info,city,
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,bat
+info,player_of_match,JM Bairstow
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,AY Dandekar
+info,tv_umpire,YC Barde
+info,match_referee,J Srinath
+info,winner,Sunrisers Hyderabad
+info,winner_runs,69
+info,player,Sunrisers Hyderabad,DA Warner
+info,player,Sunrisers Hyderabad,JM Bairstow
+info,player,Sunrisers Hyderabad,Abdul Samad
+info,player,Sunrisers Hyderabad,MK Pandey
+info,player,Sunrisers Hyderabad,KS Williamson
+info,player,Sunrisers Hyderabad,PK Garg
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Rashid Khan
+info,player,Sunrisers Hyderabad,Sandeep Sharma
+info,player,Sunrisers Hyderabad,KK Ahmed
+info,player,Sunrisers Hyderabad,T Natarajan
+info,player,Kings XI Punjab,KL Rahul
+info,player,Kings XI Punjab,MA Agarwal
+info,player,Kings XI Punjab,P Simran Singh
+info,player,Kings XI Punjab,N Pooran
+info,player,Kings XI Punjab,GJ Maxwell
+info,player,Kings XI Punjab,Mandeep Singh
+info,player,Kings XI Punjab,Mujeeb Ur Rahman
+info,player,Kings XI Punjab,Ravi Bishnoi
+info,player,Kings XI Punjab,Mohammed Shami
+info,player,Kings XI Punjab,SS Cottrell
+info,player,Kings XI Punjab,Arshdeep Singh
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,T Natarajan,ce794613
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,5,5,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,4,0,,,,,,"",""
+ball,1,0.7,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,4,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,4,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,0,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,0,1,1,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,4,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,4,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,0,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,4,0,,,,,,"",""
+ball,1,3.7,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,0,0,,,,,,"",""
+ball,1,4.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,3,0,,,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,4,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,4,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,0,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,3,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,2,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,GJ Maxwell,2,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,GJ Maxwell,0,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,0,1,1,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,9.7,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,4,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,6,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,6,0,,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,GJ Maxwell,2,0,,,,,,"",""
+ball,1,11.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,0,2,2,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,Arshdeep Singh,1,1,,1,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,11.7,Sunrisers Hyderabad,DA Warner,JM Bairstow,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,11.8,Sunrisers Hyderabad,JM Bairstow,DA Warner,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,0,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,0,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,2,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,4,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mohammed Shami,1,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,2,0,,,,,,"",""
+ball,1,14.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,0,1,,,,1,,"",""
+ball,1,14.5,Sunrisers Hyderabad,DA Warner,JM Bairstow,SS Cottrell,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,SS Cottrell,0,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,Ravi Bishnoi,0,0,,,,,,caught,DA Warner
+ball,1,15.2,Sunrisers Hyderabad,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,,,,,,lbw,JM Bairstow
+ball,1,15.5,Sunrisers Hyderabad,MK Pandey,Abdul Samad,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,Abdul Samad,MK Pandey,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,MK Pandey,Abdul Samad,Arshdeep Singh,0,0,,,,,,caught and bowled,MK Pandey
+ball,1,16.2,Sunrisers Hyderabad,KS Williamson,Abdul Samad,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,KS Williamson,Abdul Samad,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,KS Williamson,Abdul Samad,Arshdeep Singh,3,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,KS Williamson,Abdul Samad,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,Abdul Samad,KS Williamson,Ravi Bishnoi,0,0,,,,,,caught,Abdul Samad
+ball,1,17.6,Sunrisers Hyderabad,KS Williamson,PK Garg,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,PK Garg,KS Williamson,Arshdeep Singh,0,0,,,,,,caught,PK Garg
+ball,1,18.2,Sunrisers Hyderabad,KS Williamson,Abhishek Sharma,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Arshdeep Singh,6,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Mohammed Shami,1,0,,,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,KS Williamson,Abhishek Sharma,Mohammed Shami,4,0,,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,KS Williamson,Abhishek Sharma,Mohammed Shami,6,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,KS Williamson,Abhishek Sharma,Mohammed Shami,1,0,,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,Abhishek Sharma,KS Williamson,Mohammed Shami,0,0,,,,,,caught,Abhishek Sharma
+ball,1,19.6,Sunrisers Hyderabad,KS Williamson,Rashid Khan,Mohammed Shami,2,0,,,,,,"",""
+ball,2,0.1,Kings XI Punjab,KL Rahul,MA Agarwal,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,0.2,Kings XI Punjab,MA Agarwal,KL Rahul,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,0.3,Kings XI Punjab,MA Agarwal,KL Rahul,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,0.4,Kings XI Punjab,MA Agarwal,KL Rahul,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,0.5,Kings XI Punjab,MA Agarwal,KL Rahul,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,0.6,Kings XI Punjab,MA Agarwal,KL Rahul,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,1.1,Kings XI Punjab,KL Rahul,MA Agarwal,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.2,Kings XI Punjab,KL Rahul,MA Agarwal,KK Ahmed,1,0,,,,,,"",""
+ball,2,1.3,Kings XI Punjab,MA Agarwal,KL Rahul,KK Ahmed,1,0,,,,,,run out,MA Agarwal
+ball,2,1.4,Kings XI Punjab,KL Rahul,P Simran Singh,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.5,Kings XI Punjab,KL Rahul,P Simran Singh,KK Ahmed,2,0,,,,,,"",""
+ball,2,1.6,Kings XI Punjab,KL Rahul,P Simran Singh,KK Ahmed,1,0,,,,,,"",""
+ball,2,2.1,Kings XI Punjab,KL Rahul,P Simran Singh,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,2.2,Kings XI Punjab,P Simran Singh,KL Rahul,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,2.3,Kings XI Punjab,P Simran Singh,KL Rahul,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,2.4,Kings XI Punjab,KL Rahul,P Simran Singh,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,2.5,Kings XI Punjab,KL Rahul,P Simran Singh,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,2.6,Kings XI Punjab,KL Rahul,P Simran Singh,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,3.1,Kings XI Punjab,P Simran Singh,KL Rahul,T Natarajan,0,0,,,,,,"",""
+ball,2,3.2,Kings XI Punjab,P Simran Singh,KL Rahul,T Natarajan,1,0,,,,,,"",""
+ball,2,3.3,Kings XI Punjab,KL Rahul,P Simran Singh,T Natarajan,1,0,,,,,,"",""
+ball,2,3.4,Kings XI Punjab,P Simran Singh,KL Rahul,T Natarajan,4,0,,,,,,"",""
+ball,2,3.5,Kings XI Punjab,P Simran Singh,KL Rahul,T Natarajan,1,0,,,,,,"",""
+ball,2,3.6,Kings XI Punjab,KL Rahul,P Simran Singh,T Natarajan,0,0,,,,,,"",""
+ball,2,4.1,Kings XI Punjab,P Simran Singh,KL Rahul,KK Ahmed,4,0,,,,,,"",""
+ball,2,4.2,Kings XI Punjab,P Simran Singh,KL Rahul,KK Ahmed,0,0,,,,,,caught,P Simran Singh
+ball,2,4.3,Kings XI Punjab,N Pooran,KL Rahul,KK Ahmed,4,0,,,,,,"",""
+ball,2,4.4,Kings XI Punjab,N Pooran,KL Rahul,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.5,Kings XI Punjab,N Pooran,KL Rahul,KK Ahmed,2,0,,,,,,"",""
+ball,2,4.6,Kings XI Punjab,N Pooran,KL Rahul,KK Ahmed,0,0,,,,,,"",""
+ball,2,5.1,Kings XI Punjab,KL Rahul,N Pooran,T Natarajan,0,0,,,,,,"",""
+ball,2,5.2,Kings XI Punjab,KL Rahul,N Pooran,T Natarajan,0,1,,,,1,,"",""
+ball,2,5.3,Kings XI Punjab,N Pooran,KL Rahul,T Natarajan,6,0,,,,,,"",""
+ball,2,5.4,Kings XI Punjab,N Pooran,KL Rahul,T Natarajan,0,0,,,,,,"",""
+ball,2,5.5,Kings XI Punjab,N Pooran,KL Rahul,T Natarajan,1,0,,,,,,"",""
+ball,2,5.6,Kings XI Punjab,KL Rahul,N Pooran,T Natarajan,0,0,,,,,,"",""
+ball,2,6.1,Kings XI Punjab,N Pooran,KL Rahul,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,6.2,Kings XI Punjab,N Pooran,KL Rahul,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,6.3,Kings XI Punjab,N Pooran,KL Rahul,Abhishek Sharma,0,1,,,,1,,"",""
+ball,2,6.4,Kings XI Punjab,KL Rahul,N Pooran,Abhishek Sharma,0,0,,,,,,caught,KL Rahul
+ball,2,6.5,Kings XI Punjab,GJ Maxwell,N Pooran,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.6,Kings XI Punjab,N Pooran,GJ Maxwell,Abhishek Sharma,2,0,,,,,,"",""
+ball,2,7.1,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.2,Kings XI Punjab,N Pooran,GJ Maxwell,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.3,Kings XI Punjab,N Pooran,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.4,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.6,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.1,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,6,0,,,,,,"",""
+ball,2,8.2,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,4,0,,,,,,"",""
+ball,2,8.3,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,6,0,,,,,,"",""
+ball,2,8.4,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,6,0,,,,,,"",""
+ball,2,8.5,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,6,0,,,,,,"",""
+ball,2,8.6,Kings XI Punjab,N Pooran,GJ Maxwell,Abdul Samad,0,0,,,,,,"",""
+ball,2,9.1,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.2,Kings XI Punjab,N Pooran,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.3,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.4,Kings XI Punjab,N Pooran,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.5,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.6,Kings XI Punjab,GJ Maxwell,N Pooran,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.1,Kings XI Punjab,GJ Maxwell,N Pooran,T Natarajan,1,0,,,,,,"",""
+ball,2,10.2,Kings XI Punjab,N Pooran,GJ Maxwell,T Natarajan,1,0,,,,,,"",""
+ball,2,10.3,Kings XI Punjab,GJ Maxwell,N Pooran,T Natarajan,0,1,1,,,,,"",""
+ball,2,10.4,Kings XI Punjab,GJ Maxwell,N Pooran,T Natarajan,1,0,,,,,,"",""
+ball,2,10.5,Kings XI Punjab,N Pooran,GJ Maxwell,T Natarajan,4,0,,,,,,"",""
+ball,2,10.6,Kings XI Punjab,N Pooran,GJ Maxwell,T Natarajan,1,0,,,,,,"",""
+ball,2,10.7,Kings XI Punjab,GJ Maxwell,N Pooran,T Natarajan,0,0,,,,,,run out,GJ Maxwell
+ball,2,11.1,Kings XI Punjab,Mandeep Singh,N Pooran,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,11.2,Kings XI Punjab,N Pooran,Mandeep Singh,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,11.3,Kings XI Punjab,Mandeep Singh,N Pooran,Sandeep Sharma,0,1,1,,,,,"",""
+ball,2,11.4,Kings XI Punjab,Mandeep Singh,N Pooran,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,11.5,Kings XI Punjab,Mandeep Singh,N Pooran,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,11.6,Kings XI Punjab,N Pooran,Mandeep Singh,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,11.7,Kings XI Punjab,Mandeep Singh,N Pooran,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,12.1,Kings XI Punjab,N Pooran,Mandeep Singh,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.2,Kings XI Punjab,Mandeep Singh,N Pooran,Rashid Khan,2,0,,,,,,"",""
+ball,2,12.3,Kings XI Punjab,Mandeep Singh,N Pooran,Rashid Khan,0,0,,,,,,bowled,Mandeep Singh
+ball,2,12.4,Kings XI Punjab,Mujeeb Ur Rahman,N Pooran,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.5,Kings XI Punjab,N Pooran,Mujeeb Ur Rahman,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.6,Kings XI Punjab,Mujeeb Ur Rahman,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.1,Kings XI Punjab,N Pooran,Mujeeb Ur Rahman,KK Ahmed,0,0,,,,,,"",""
+ball,2,13.2,Kings XI Punjab,N Pooran,Mujeeb Ur Rahman,KK Ahmed,4,0,,,,,,"",""
+ball,2,13.3,Kings XI Punjab,N Pooran,Mujeeb Ur Rahman,KK Ahmed,4,0,,,,,,"",""
+ball,2,13.4,Kings XI Punjab,N Pooran,Mujeeb Ur Rahman,KK Ahmed,1,0,,,,,,"",""
+ball,2,13.5,Kings XI Punjab,Mujeeb Ur Rahman,N Pooran,KK Ahmed,0,0,,,,,,caught,Mujeeb Ur Rahman
+ball,2,13.6,Kings XI Punjab,Ravi Bishnoi,N Pooran,KK Ahmed,0,0,,,,,,"",""
+ball,2,14.1,Kings XI Punjab,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.2,Kings XI Punjab,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.3,Kings XI Punjab,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.4,Kings XI Punjab,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.5,Kings XI Punjab,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,,,,,,caught,N Pooran
+ball,2,14.6,Kings XI Punjab,Mohammed Shami,Ravi Bishnoi,Rashid Khan,0,0,,,,,,lbw,Mohammed Shami
+ball,2,15.1,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,15.2,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,15.3,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,15.4,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,15.5,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,15.6,Kings XI Punjab,SS Cottrell,Ravi Bishnoi,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,16.1,Kings XI Punjab,Ravi Bishnoi,SS Cottrell,T Natarajan,1,0,,,,,,"",""
+ball,2,16.2,Kings XI Punjab,SS Cottrell,Ravi Bishnoi,T Natarajan,0,0,,,,,,bowled,SS Cottrell
+ball,2,16.3,Kings XI Punjab,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,,,,,,"",""
+ball,2,16.4,Kings XI Punjab,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,,,,,,"",""
+ball,2,16.5,Kings XI Punjab,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,,,,,,caught,Arshdeep Singh

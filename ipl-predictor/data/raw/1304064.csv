@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2022
+info,date,2022/04/09
+info,event,Indian Premier League
+info,match_number,18
+info,venue,"Maharashtra Cricket Association Stadium, Pune"
+info,city,Pune
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,Anuj Rawat
+info,umpire,BNJ Oxenford
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,Vinod Seshan
+info,tv_umpire,UV Gandhe
+info,match_referee,V Narayan Kutty
+info,winner,Royal Challengers Bangalore
+info,winner_wickets,7
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,D Brevis
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,KA Pollard
+info,player,Mumbai Indians,Ramandeep Singh
+info,player,Mumbai Indians,JD Unadkat
+info,player,Mumbai Indians,M Ashwin
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,Basil Thampi
+info,player,Royal Challengers Bangalore,F du Plessis
+info,player,Royal Challengers Bangalore,Anuj Rawat
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,KD Karthik
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,DJ Willey
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,PWH de Silva
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Royal Challengers Bangalore,Akash Deep
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,Basil Thampi,871e9faf
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DJ Willey,7f048519
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RG Sharma,740742ef
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Vinod Seshan,a3357a27
+ball,1,0.1,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,1,0.2,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,1,0.3,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,1,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,1,0,,,,,,"",""
+ball,1,0.5,Mumbai Indians,RG Sharma,Ishan Kishan,DJ Willey,0,0,,,,,,"",""
+ball,1,0.6,Mumbai Indians,RG Sharma,Ishan Kishan,DJ Willey,0,0,,,,,,"",""
+ball,1,1.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,1.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,1.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.1,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,2,0,,,,,,"",""
+ball,1,2.2,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,4,0,,,,,,"",""
+ball,1,2.3,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,1,2.4,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,1,2.5,Mumbai Indians,Ishan Kishan,RG Sharma,DJ Willey,1,0,,,,,,"",""
+ball,1,2.6,Mumbai Indians,RG Sharma,Ishan Kishan,DJ Willey,0,0,,,,,,"",""
+ball,1,3.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,3,0,,,,,,"",""
+ball,1,3.3,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,3.4,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,3.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,3.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,3.7,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,4.1,Mumbai Indians,Ishan Kishan,RG Sharma,PWH de Silva,4,0,,,,,,"",""
+ball,1,4.2,Mumbai Indians,Ishan Kishan,RG Sharma,PWH de Silva,4,0,,,,,,"",""
+ball,1,4.3,Mumbai Indians,Ishan Kishan,RG Sharma,PWH de Silva,0,0,,,,,,"",""
+ball,1,4.4,Mumbai Indians,Ishan Kishan,RG Sharma,PWH de Silva,1,0,,,,,,"",""
+ball,1,4.5,Mumbai Indians,RG Sharma,Ishan Kishan,PWH de Silva,4,0,,,,,,"",""
+ball,1,4.6,Mumbai Indians,RG Sharma,Ishan Kishan,PWH de Silva,0,0,,,,,,"",""
+ball,1,5.1,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,0,0,,,,,,"",""
+ball,1,5.2,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,0,0,,,,,,"",""
+ball,1,5.3,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,1,0,,,,,,"",""
+ball,1,5.4,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,1,5.5,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,2,0,,,,,,"",""
+ball,1,5.6,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,4,0,,,,,,"",""
+ball,1,6.1,Mumbai Indians,Ishan Kishan,RG Sharma,HV Patel,1,0,,,,,,"",""
+ball,1,6.2,Mumbai Indians,RG Sharma,Ishan Kishan,HV Patel,0,0,,,,,,caught and bowled,RG Sharma
+ball,1,6.3,Mumbai Indians,D Brevis,Ishan Kishan,HV Patel,0,0,,,,,,"",""
+ball,1,6.4,Mumbai Indians,D Brevis,Ishan Kishan,HV Patel,0,0,,,,,,"",""
+ball,1,6.5,Mumbai Indians,D Brevis,Ishan Kishan,HV Patel,0,0,,,,,,"",""
+ball,1,6.6,Mumbai Indians,D Brevis,Ishan Kishan,HV Patel,1,0,,,,,,"",""
+ball,1,7.1,Mumbai Indians,D Brevis,Ishan Kishan,Akash Deep,4,0,,,,,,"",""
+ball,1,7.2,Mumbai Indians,D Brevis,Ishan Kishan,Akash Deep,1,0,,,,,,"",""
+ball,1,7.3,Mumbai Indians,Ishan Kishan,D Brevis,Akash Deep,1,0,,,,,,"",""
+ball,1,7.4,Mumbai Indians,D Brevis,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,1,7.5,Mumbai Indians,D Brevis,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,1,7.6,Mumbai Indians,D Brevis,Ishan Kishan,Akash Deep,1,0,,,,,,"",""
+ball,1,8.1,Mumbai Indians,D Brevis,Ishan Kishan,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.2,Mumbai Indians,Ishan Kishan,D Brevis,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.3,Mumbai Indians,D Brevis,Ishan Kishan,PWH de Silva,0,0,,,,,,lbw,D Brevis
+ball,1,8.4,Mumbai Indians,SA Yadav,Ishan Kishan,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.5,Mumbai Indians,Ishan Kishan,SA Yadav,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.6,Mumbai Indians,SA Yadav,Ishan Kishan,PWH de Silva,0,0,,,,,,"",""
+ball,1,9.1,Mumbai Indians,Ishan Kishan,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,9.2,Mumbai Indians,Ishan Kishan,SA Yadav,Akash Deep,0,0,,,,,,caught,Ishan Kishan
+ball,1,9.3,Mumbai Indians,Tilak Varma,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,9.4,Mumbai Indians,Tilak Varma,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,9.5,Mumbai Indians,Tilak Varma,SA Yadav,Akash Deep,0,0,,,,,,run out,Tilak Varma
+ball,1,9.6,Mumbai Indians,SA Yadav,KA Pollard,Akash Deep,0,0,,,,,,"",""
+ball,1,10.1,Mumbai Indians,KA Pollard,SA Yadav,PWH de Silva,0,0,,,,,,lbw,KA Pollard
+ball,1,10.2,Mumbai Indians,Ramandeep Singh,SA Yadav,PWH de Silva,0,0,,,,,,"",""
+ball,1,10.3,Mumbai Indians,Ramandeep Singh,SA Yadav,PWH de Silva,0,0,,,,,,"",""
+ball,1,10.4,Mumbai Indians,Ramandeep Singh,SA Yadav,PWH de Silva,0,0,,,,,,"",""
+ball,1,10.5,Mumbai Indians,Ramandeep Singh,SA Yadav,PWH de Silva,1,0,,,,,,"",""
+ball,1,10.6,Mumbai Indians,SA Yadav,Ramandeep Singh,PWH de Silva,1,0,,,,,,"",""
+ball,1,11.1,Mumbai Indians,SA Yadav,Ramandeep Singh,Akash Deep,1,0,,,,,,"",""
+ball,1,11.2,Mumbai Indians,Ramandeep Singh,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,11.3,Mumbai Indians,Ramandeep Singh,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,11.4,Mumbai Indians,Ramandeep Singh,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,1,11.5,Mumbai Indians,Ramandeep Singh,SA Yadav,Akash Deep,1,0,,,,,,"",""
+ball,1,11.6,Mumbai Indians,SA Yadav,Ramandeep Singh,Akash Deep,4,0,,,,,,"",""
+ball,1,12.1,Mumbai Indians,Ramandeep Singh,SA Yadav,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,12.2,Mumbai Indians,SA Yadav,Ramandeep Singh,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,12.3,Mumbai Indians,SA Yadav,Ramandeep Singh,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,12.4,Mumbai Indians,SA Yadav,Ramandeep Singh,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,12.5,Mumbai Indians,Ramandeep Singh,SA Yadav,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,12.6,Mumbai Indians,SA Yadav,Ramandeep Singh,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,13.1,Mumbai Indians,Ramandeep Singh,SA Yadav,HV Patel,2,0,,,,,,"",""
+ball,1,13.2,Mumbai Indians,Ramandeep Singh,SA Yadav,HV Patel,0,0,,,,,,caught,Ramandeep Singh
+ball,1,13.3,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,1,0,,,,,,"",""
+ball,1,13.4,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,13.5,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,13.6,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,14.1,Mumbai Indians,JD Unadkat,SA Yadav,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,14.2,Mumbai Indians,JD Unadkat,SA Yadav,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,14.3,Mumbai Indians,SA Yadav,JD Unadkat,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,1,14.4,Mumbai Indians,SA Yadav,JD Unadkat,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,14.5,Mumbai Indians,SA Yadav,JD Unadkat,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,14.6,Mumbai Indians,SA Yadav,JD Unadkat,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.1,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,15.2,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,15.3,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,15.4,Mumbai Indians,JD Unadkat,SA Yadav,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,15.5,Mumbai Indians,JD Unadkat,SA Yadav,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,15.6,Mumbai Indians,JD Unadkat,SA Yadav,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,16.1,Mumbai Indians,SA Yadav,JD Unadkat,PWH de Silva,0,0,,,,,,"",""
+ball,1,16.2,Mumbai Indians,SA Yadav,JD Unadkat,PWH de Silva,1,0,,,,,,"",""
+ball,1,16.3,Mumbai Indians,JD Unadkat,SA Yadav,PWH de Silva,1,0,,,,,,"",""
+ball,1,16.4,Mumbai Indians,SA Yadav,JD Unadkat,PWH de Silva,6,0,,,,,,"",""
+ball,1,16.5,Mumbai Indians,SA Yadav,JD Unadkat,PWH de Silva,1,0,,,,,,"",""
+ball,1,16.6,Mumbai Indians,JD Unadkat,SA Yadav,PWH de Silva,0,0,,,,,,"",""
+ball,1,17.1,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,2,,,,2,,"",""
+ball,1,17.2,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,17.3,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,4,0,,,,,,"",""
+ball,1,17.4,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,1,0,,,,,,"",""
+ball,1,17.5,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,4,0,,,,,,"",""
+ball,1,17.6,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,2,0,,,,,,"",""
+ball,1,18.1,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,18.2,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,2,1,,1,,,,"",""
+ball,1,18.3,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.4,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.5,Mumbai Indians,JD Unadkat,SA Yadav,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.6,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,18.7,Mumbai Indians,SA Yadav,JD Unadkat,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,19.1,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,0,0,,,,,,"",""
+ball,1,19.2,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,0,0,,,,,,"",""
+ball,1,19.3,Mumbai Indians,JD Unadkat,SA Yadav,HV Patel,1,0,,,,,,"",""
+ball,1,19.4,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,19.5,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,0,0,,,,,,"",""
+ball,1,19.6,Mumbai Indians,SA Yadav,JD Unadkat,HV Patel,6,0,,,,,,"",""
+ball,2,0.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,0,1,,,,1,,"",""
+ball,2,0.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,0,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JD Unadkat,1,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JD Unadkat,0,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JD Unadkat,0,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JD Unadkat,6,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JD Unadkat,6,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JD Unadkat,0,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JJ Bumrah,1,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,2,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,0,1,,,,1,,"",""
+ball,2,2.4,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JJ Bumrah,1,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,0,1,,,,1,,"",""
+ball,2,2.6,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JJ Bumrah,1,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,0,1,1,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,1,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,0,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,0,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,1,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,Basil Thampi,1,0,,,,,,"",""
+ball,2,3.7,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,Basil Thampi,1,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,M Ashwin,1,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,2,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,JJ Bumrah,1,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JJ Bumrah,0,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,M Ashwin,6,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,M Ashwin,1,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,4,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,2,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,M Ashwin,1,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,M Ashwin,0,1,1,,,,,"",""
+ball,2,6.7,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,M Ashwin,0,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,KA Pollard,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,KA Pollard,1,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,KA Pollard,0,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,F du Plessis,Anuj Rawat,JD Unadkat,0,0,,,,,,caught,F du Plessis
+ball,2,8.2,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,0,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,0,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,1,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,1,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,1,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,V Kohli,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,0,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,1,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,KA Pollard,4,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,V Kohli,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,1,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,Anuj Rawat,V Kohli,M Ashwin,4,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,Anuj Rawat,V Kohli,M Ashwin,1,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,V Kohli,Anuj Rawat,M Ashwin,0,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,M Ashwin,4,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,V Kohli,Anuj Rawat,M Ashwin,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,Anuj Rawat,V Kohli,M Ashwin,0,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,4,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,1,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,Anuj Rawat,V Kohli,Basil Thampi,6,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,Anuj Rawat,V Kohli,Basil Thampi,4,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,2,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,1,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,1,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,1,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,0,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,1,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JJ Bumrah,1,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JJ Bumrah,1,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JJ Bumrah,1,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JJ Bumrah,4,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JJ Bumrah,0,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JJ Bumrah,3,0,,,,,,"",""
+ball,2,14.1,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,4,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,2,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,0,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,1,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,Anuj Rawat,V Kohli,Basil Thampi,1,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,V Kohli,Anuj Rawat,Basil Thampi,1,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bangalore,V Kohli,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,1,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bangalore,V Kohli,Anuj Rawat,KA Pollard,1,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,0,1,1,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,0,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,6,0,,,,,,"",""
+ball,2,15.7,Royal Challengers Bangalore,Anuj Rawat,V Kohli,KA Pollard,1,0,,,,,,"",""
+ball,2,16.1,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,0,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,6,0,,,,,,"",""
+ball,2,16.3,Royal Challengers Bangalore,Anuj Rawat,V Kohli,JD Unadkat,0,1,,,,1,,"",""
+ball,2,16.4,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,0,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,V Kohli,Anuj Rawat,JD Unadkat,1,0,,,,,,run out,Anuj Rawat
+ball,2,16.6,Royal Challengers Bangalore,V Kohli,KD Karthik,JD Unadkat,1,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bangalore,V Kohli,KD Karthik,JJ Bumrah,2,0,,,,,,"",""
+ball,2,17.2,Royal Challengers Bangalore,V Kohli,KD Karthik,JJ Bumrah,1,0,,,,,,"",""
+ball,2,17.3,Royal Challengers Bangalore,KD Karthik,V Kohli,JJ Bumrah,1,0,,,,,,"",""
+ball,2,17.4,Royal Challengers Bangalore,V Kohli,KD Karthik,JJ Bumrah,0,0,,,,,,"",""
+ball,2,17.5,Royal Challengers Bangalore,V Kohli,KD Karthik,JJ Bumrah,3,0,,,,,,"",""
+ball,2,17.6,Royal Challengers Bangalore,KD Karthik,V Kohli,JJ Bumrah,6,0,,,,,,"",""
+ball,2,18.1,Royal Challengers Bangalore,V Kohli,KD Karthik,D Brevis,0,0,,,,,,lbw,V Kohli
+ball,2,18.2,Royal Challengers Bangalore,GJ Maxwell,KD Karthik,D Brevis,4,0,,,,,,"",""
+ball,2,18.3,Royal Challengers Bangalore,GJ Maxwell,KD Karthik,D Brevis,4,0,,,,,,"",""

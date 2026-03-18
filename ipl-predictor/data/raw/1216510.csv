@@ -1,0 +1,303 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kings XI Punjab
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2020/21
+info,date,2020/09/24
+info,event,Indian Premier League
+info,match_number,6
+info,venue,Dubai International Cricket Stadium
+info,city,
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,KL Rahul
+info,umpire,AK Chaudhary
+info,umpire,PR Reiffel
+info,reserve_umpire,AY Dandekar
+info,tv_umpire,Nitin Menon
+info,match_referee,J Srinath
+info,winner,Kings XI Punjab
+info,winner_runs,97
+info,player,Kings XI Punjab,KL Rahul
+info,player,Kings XI Punjab,MA Agarwal
+info,player,Kings XI Punjab,N Pooran
+info,player,Kings XI Punjab,GJ Maxwell
+info,player,Kings XI Punjab,KK Nair
+info,player,Kings XI Punjab,JDS Neesham
+info,player,Kings XI Punjab,SN Khan
+info,player,Kings XI Punjab,Mohammed Shami
+info,player,Kings XI Punjab,SS Cottrell
+info,player,Kings XI Punjab,Ravi Bishnoi
+info,player,Kings XI Punjab,M Ashwin
+info,player,Royal Challengers Bangalore,D Padikkal
+info,player,Royal Challengers Bangalore,AJ Finch
+info,player,Royal Challengers Bangalore,JR Philippe
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,AB de Villiers
+info,player,Royal Challengers Bangalore,Washington Sundar
+info,player,Royal Challengers Bangalore,S Dube
+info,player,Royal Challengers Bangalore,UT Yadav
+info,player,Royal Challengers Bangalore,NA Saini
+info,player,Royal Challengers Bangalore,DW Steyn
+info,player,Royal Challengers Bangalore,YS Chahal
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JR Philippe,39086549
+info,registry,people,KK Nair,944533a5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NA Saini,21d4e29b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,0,0,,,,,,"",""
+ball,1,0.2,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,1,0,,,,,,"",""
+ball,1,0.3,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,2,0,,,,,,"",""
+ball,1,0.4,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,1,0,,,,,,"",""
+ball,1,0.5,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,0,0,,,,,,"",""
+ball,1,0.6,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,4,0,,,,,,"",""
+ball,1,1.1,Kings XI Punjab,MA Agarwal,KL Rahul,DW Steyn,1,0,,,,,,"",""
+ball,1,1.2,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,0,0,,,,,,"",""
+ball,1,1.3,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,4,0,,,,,,"",""
+ball,1,1.4,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,4,0,,,,,,"",""
+ball,1,1.5,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,0,0,,,,,,"",""
+ball,1,1.6,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,0,0,,,,,,"",""
+ball,1,2.1,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,4,0,,,,,,"",""
+ball,1,2.2,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,0,0,,,,,,"",""
+ball,1,2.3,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,4,0,,,,,,"",""
+ball,1,2.4,Kings XI Punjab,MA Agarwal,KL Rahul,UT Yadav,1,0,,,,,,"",""
+ball,1,2.5,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,0,0,,,,,,"",""
+ball,1,2.6,Kings XI Punjab,KL Rahul,MA Agarwal,UT Yadav,0,0,,,,,,"",""
+ball,1,3.1,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,0,,,,,,"",""
+ball,1,3.2,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,0,,,,,,"",""
+ball,1,3.3,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,1,0,,,,,,"",""
+ball,1,3.4,Kings XI Punjab,KL Rahul,MA Agarwal,NA Saini,2,0,,,,,,"",""
+ball,1,3.5,Kings XI Punjab,KL Rahul,MA Agarwal,NA Saini,4,0,,,,,,"",""
+ball,1,3.6,Kings XI Punjab,KL Rahul,MA Agarwal,NA Saini,0,0,,,,,,"",""
+ball,1,4.1,Kings XI Punjab,MA Agarwal,KL Rahul,DW Steyn,1,0,,,,,,"",""
+ball,1,4.2,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,1,0,,,,,,"",""
+ball,1,4.3,Kings XI Punjab,MA Agarwal,KL Rahul,DW Steyn,4,0,,,,,,"",""
+ball,1,4.4,Kings XI Punjab,MA Agarwal,KL Rahul,DW Steyn,0,0,,,,,,"",""
+ball,1,4.5,Kings XI Punjab,MA Agarwal,KL Rahul,DW Steyn,1,0,,,,,,"",""
+ball,1,4.6,Kings XI Punjab,KL Rahul,MA Agarwal,DW Steyn,1,0,,,,,,"",""
+ball,1,5.1,Kings XI Punjab,KL Rahul,MA Agarwal,NA Saini,1,0,,,,,,"",""
+ball,1,5.2,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,0,,,,,,"",""
+ball,1,5.3,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,1,1,,,,,"",""
+ball,1,5.4,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,0,,,,,,"",""
+ball,1,5.5,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,0,1,1,,,,,"",""
+ball,1,5.6,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,4,0,,,,,,"",""
+ball,1,5.7,Kings XI Punjab,MA Agarwal,KL Rahul,NA Saini,1,0,,,,,,"",""
+ball,1,5.8,Kings XI Punjab,KL Rahul,MA Agarwal,NA Saini,1,0,,,,,,"",""
+ball,1,6.1,Kings XI Punjab,KL Rahul,MA Agarwal,YS Chahal,1,0,,,,,,"",""
+ball,1,6.2,Kings XI Punjab,MA Agarwal,KL Rahul,YS Chahal,1,0,,,,,,"",""
+ball,1,6.3,Kings XI Punjab,KL Rahul,MA Agarwal,YS Chahal,4,0,,,,,,"",""
+ball,1,6.4,Kings XI Punjab,KL Rahul,MA Agarwal,YS Chahal,0,0,,,,,,"",""
+ball,1,6.5,Kings XI Punjab,KL Rahul,MA Agarwal,YS Chahal,1,0,,,,,,"",""
+ball,1,6.6,Kings XI Punjab,MA Agarwal,KL Rahul,YS Chahal,0,0,,,,,,bowled,MA Agarwal
+ball,1,7.1,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,4,0,,,,,,"",""
+ball,1,7.2,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,1,0,,,,,,"",""
+ball,1,7.3,Kings XI Punjab,N Pooran,KL Rahul,Washington Sundar,1,0,,,,,,"",""
+ball,1,7.4,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,1,0,,,,,,"",""
+ball,1,7.5,Kings XI Punjab,N Pooran,KL Rahul,Washington Sundar,1,0,,,,,,"",""
+ball,1,7.6,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,0,0,,,,,,"",""
+ball,1,8.1,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,0,0,,,,,,"",""
+ball,1,8.2,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,0,0,,,,,,"",""
+ball,1,8.3,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,2,0,,,,,,"",""
+ball,1,8.4,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,1,0,,,,,,"",""
+ball,1,8.5,Kings XI Punjab,KL Rahul,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,8.6,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,1,0,,,,,,"",""
+ball,1,9.1,Kings XI Punjab,N Pooran,KL Rahul,UT Yadav,0,1,1,,,,,"",""
+ball,1,9.2,Kings XI Punjab,N Pooran,KL Rahul,UT Yadav,4,0,,,,,,"",""
+ball,1,9.3,Kings XI Punjab,N Pooran,KL Rahul,UT Yadav,1,0,,,,,,"",""
+ball,1,9.4,Kings XI Punjab,KL Rahul,N Pooran,UT Yadav,0,3,,1,2,,,"",""
+ball,1,9.5,Kings XI Punjab,KL Rahul,N Pooran,UT Yadav,6,0,,,,,,"",""
+ball,1,9.6,Kings XI Punjab,KL Rahul,N Pooran,UT Yadav,0,0,,,,,,"",""
+ball,1,9.7,Kings XI Punjab,KL Rahul,N Pooran,UT Yadav,4,0,,,,,,"",""
+ball,1,9.8,Kings XI Punjab,KL Rahul,N Pooran,UT Yadav,1,0,,,,,,"",""
+ball,1,10.1,Kings XI Punjab,KL Rahul,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,10.2,Kings XI Punjab,KL Rahul,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,10.3,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,2,0,,,,,,"",""
+ball,1,10.4,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,1,0,,,,,,"",""
+ball,1,10.5,Kings XI Punjab,KL Rahul,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,10.6,Kings XI Punjab,N Pooran,KL Rahul,YS Chahal,0,0,,,,,,"",""
+ball,1,11.1,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.2,Kings XI Punjab,N Pooran,KL Rahul,Washington Sundar,0,0,,,,,,"",""
+ball,1,11.3,Kings XI Punjab,N Pooran,KL Rahul,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.4,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.5,Kings XI Punjab,N Pooran,KL Rahul,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.6,Kings XI Punjab,KL Rahul,N Pooran,Washington Sundar,1,0,,,,,,"",""
+ball,1,12.1,Kings XI Punjab,KL Rahul,N Pooran,NA Saini,0,4,,,,4,,"",""
+ball,1,12.2,Kings XI Punjab,KL Rahul,N Pooran,NA Saini,1,0,,,,,,"",""
+ball,1,12.3,Kings XI Punjab,N Pooran,KL Rahul,NA Saini,0,0,,,,,,"",""
+ball,1,12.4,Kings XI Punjab,N Pooran,KL Rahul,NA Saini,1,0,,,,,,"",""
+ball,1,12.5,Kings XI Punjab,KL Rahul,N Pooran,NA Saini,4,0,,,,,,"",""
+ball,1,12.6,Kings XI Punjab,KL Rahul,N Pooran,NA Saini,4,0,,,,,,"",""
+ball,1,13.1,Kings XI Punjab,N Pooran,KL Rahul,S Dube,0,0,,,,,,caught,N Pooran
+ball,1,13.2,Kings XI Punjab,GJ Maxwell,KL Rahul,S Dube,0,0,,,,,,"",""
+ball,1,13.3,Kings XI Punjab,GJ Maxwell,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,13.4,Kings XI Punjab,KL Rahul,GJ Maxwell,S Dube,1,0,,,,,,"",""
+ball,1,13.5,Kings XI Punjab,GJ Maxwell,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,13.6,Kings XI Punjab,KL Rahul,GJ Maxwell,S Dube,1,0,,,,,,"",""
+ball,1,14.1,Kings XI Punjab,KL Rahul,GJ Maxwell,YS Chahal,2,0,,,,,,"",""
+ball,1,14.2,Kings XI Punjab,KL Rahul,GJ Maxwell,YS Chahal,0,0,,,,,,"",""
+ball,1,14.3,Kings XI Punjab,KL Rahul,GJ Maxwell,YS Chahal,4,0,,,,,,"",""
+ball,1,14.4,Kings XI Punjab,KL Rahul,GJ Maxwell,YS Chahal,1,0,,,,,,"",""
+ball,1,14.5,Kings XI Punjab,GJ Maxwell,KL Rahul,YS Chahal,1,0,,,,,,"",""
+ball,1,14.6,Kings XI Punjab,KL Rahul,GJ Maxwell,YS Chahal,0,0,,,,,,"",""
+ball,1,15.1,Kings XI Punjab,GJ Maxwell,KL Rahul,S Dube,2,0,,,,,,"",""
+ball,1,15.2,Kings XI Punjab,GJ Maxwell,KL Rahul,S Dube,0,0,,,,,,caught,GJ Maxwell
+ball,1,15.3,Kings XI Punjab,KK Nair,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,15.4,Kings XI Punjab,KL Rahul,KK Nair,S Dube,1,0,,,,,,"",""
+ball,1,15.5,Kings XI Punjab,KK Nair,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,15.6,Kings XI Punjab,KL Rahul,KK Nair,S Dube,1,0,,,,,,"",""
+ball,1,16.1,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,1,0,,,,,,"",""
+ball,1,16.2,Kings XI Punjab,KK Nair,KL Rahul,DW Steyn,1,0,,,,,,"",""
+ball,1,16.3,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,2,0,,,,,,"",""
+ball,1,16.4,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,2,0,,,,,,"",""
+ball,1,16.5,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,0,1,1,,,,,"",""
+ball,1,16.6,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,6,0,,,,,,"",""
+ball,1,16.7,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,1,0,,,,,,"",""
+ball,1,17.1,Kings XI Punjab,KL Rahul,KK Nair,NA Saini,0,0,,,,,,"",""
+ball,1,17.2,Kings XI Punjab,KL Rahul,KK Nair,NA Saini,1,0,,,,,,"",""
+ball,1,17.3,Kings XI Punjab,KK Nair,KL Rahul,NA Saini,4,0,,,,,,"",""
+ball,1,17.4,Kings XI Punjab,KK Nair,KL Rahul,NA Saini,1,0,,,,,,"",""
+ball,1,17.5,Kings XI Punjab,KL Rahul,KK Nair,NA Saini,4,0,,,,,,"",""
+ball,1,17.6,Kings XI Punjab,KL Rahul,KK Nair,NA Saini,1,0,,,,,,"",""
+ball,1,18.1,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,6,0,,,,,,"",""
+ball,1,18.2,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,4,0,,,,,,"",""
+ball,1,18.3,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,0,0,,,,,,"",""
+ball,1,18.4,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,6,0,,,,,,"",""
+ball,1,18.5,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,6,0,,,,,,"",""
+ball,1,18.6,Kings XI Punjab,KL Rahul,KK Nair,DW Steyn,4,0,,,,,,"",""
+ball,1,19.1,Kings XI Punjab,KK Nair,KL Rahul,S Dube,2,0,,,,,,"",""
+ball,1,19.2,Kings XI Punjab,KK Nair,KL Rahul,S Dube,4,0,,,,,,"",""
+ball,1,19.3,Kings XI Punjab,KK Nair,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,19.4,Kings XI Punjab,KL Rahul,KK Nair,S Dube,4,0,,,,,,"",""
+ball,1,19.5,Kings XI Punjab,KL Rahul,KK Nair,S Dube,6,0,,,,,,"",""
+ball,1,19.6,Kings XI Punjab,KL Rahul,KK Nair,S Dube,6,0,,,,,,"",""
+ball,2,0.1,Royal Challengers Bangalore,D Padikkal,AJ Finch,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,AJ Finch,D Padikkal,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,AJ Finch,D Padikkal,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,D Padikkal,AJ Finch,SS Cottrell,0,0,,,,,,caught,D Padikkal
+ball,2,0.5,Royal Challengers Bangalore,JR Philippe,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,JR Philippe,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bangalore,AJ Finch,JR Philippe,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,AJ Finch,JR Philippe,Mohammed Shami,0,1,,,,1,,"",""
+ball,2,1.3,Royal Challengers Bangalore,JR Philippe,AJ Finch,Mohammed Shami,0,0,,,,,,lbw,JR Philippe
+ball,2,1.4,Royal Challengers Bangalore,V Kohli,AJ Finch,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bangalore,AJ Finch,V Kohli,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,AJ Finch,V Kohli,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bangalore,V Kohli,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,V Kohli,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,V Kohli,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bangalore,V Kohli,AJ Finch,SS Cottrell,0,0,,,,,,caught,V Kohli
+ball,2,2.5,Royal Challengers Bangalore,AJ Finch,AB de Villiers,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Mohammed Shami,1,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Mohammed Shami,1,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Mohammed Shami,4,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,6,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,1,1,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,4,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,4.7,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,0,1,1,,,,,"",""
+ball,2,4.8,Royal Challengers Bangalore,AB de Villiers,AJ Finch,SS Cottrell,2,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,0,2,2,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,5.7,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,5.8,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,AJ Finch,AB de Villiers,M Ashwin,4,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,AJ Finch,AB de Villiers,M Ashwin,0,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,AJ Finch,AB de Villiers,M Ashwin,0,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,AJ Finch,AB de Villiers,M Ashwin,0,1,,,,1,,"",""
+ball,2,6.5,Royal Challengers Bangalore,AB de Villiers,AJ Finch,M Ashwin,1,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bangalore,AJ Finch,AB de Villiers,M Ashwin,2,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,AB de Villiers,AJ Finch,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,AJ Finch,AB de Villiers,Ravi Bishnoi,0,0,,,,,,bowled,AJ Finch
+ball,2,7.6,Royal Challengers Bangalore,Washington Sundar,AB de Villiers,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,AB de Villiers,Washington Sundar,M Ashwin,4,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bangalore,AB de Villiers,Washington Sundar,M Ashwin,0,0,,,,,,caught,AB de Villiers
+ball,2,8.3,Royal Challengers Bangalore,Washington Sundar,S Dube,M Ashwin,0,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,Washington Sundar,S Dube,M Ashwin,1,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,S Dube,Washington Sundar,M Ashwin,0,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,S Dube,Washington Sundar,M Ashwin,2,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,S Dube,Washington Sundar,JDS Neesham,0,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,S Dube,Washington Sundar,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,Washington Sundar,S Dube,Mohammed Shami,4,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,Washington Sundar,S Dube,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,S Dube,Washington Sundar,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,Washington Sundar,S Dube,Mohammed Shami,0,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,Washington Sundar,S Dube,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,S Dube,Washington Sundar,Mohammed Shami,0,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,0,1,1,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,S Dube,Washington Sundar,JDS Neesham,6,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,S Dube,Washington Sundar,JDS Neesham,0,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,S Dube,Washington Sundar,JDS Neesham,1,0,,,,,,"",""
+ball,2,11.7,Royal Challengers Bangalore,Washington Sundar,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,Washington Sundar,S Dube,GJ Maxwell,0,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bangalore,Washington Sundar,S Dube,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,S Dube,Washington Sundar,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,Washington Sundar,S Dube,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bangalore,S Dube,Washington Sundar,GJ Maxwell,0,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,S Dube,Washington Sundar,GJ Maxwell,0,0,,,,,,bowled,S Dube
+ball,2,13.1,Royal Challengers Bangalore,Washington Sundar,UT Yadav,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,Washington Sundar,UT Yadav,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,Washington Sundar,UT Yadav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,Washington Sundar,UT Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,UT Yadav,Washington Sundar,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,UT Yadav,Washington Sundar,Ravi Bishnoi,0,0,,,,,,bowled,UT Yadav
+ball,2,14.1,Royal Challengers Bangalore,Washington Sundar,NA Saini,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bangalore,NA Saini,Washington Sundar,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,Washington Sundar,NA Saini,GJ Maxwell,4,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,Washington Sundar,NA Saini,GJ Maxwell,0,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,Washington Sundar,NA Saini,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,NA Saini,Washington Sundar,GJ Maxwell,0,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bangalore,Washington Sundar,NA Saini,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,Washington Sundar,NA Saini,Ravi Bishnoi,0,0,,,,,,caught,Washington Sundar
+ball,2,15.3,Royal Challengers Bangalore,NA Saini,DW Steyn,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,NA Saini,DW Steyn,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,NA Saini,DW Steyn,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,DW Steyn,NA Saini,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,16.1,Royal Challengers Bangalore,NA Saini,DW Steyn,M Ashwin,4,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,NA Saini,DW Steyn,M Ashwin,0,0,,,,,,bowled,NA Saini
+ball,2,16.3,Royal Challengers Bangalore,YS Chahal,DW Steyn,M Ashwin,0,1,1,,,,,"",""
+ball,2,16.4,Royal Challengers Bangalore,YS Chahal,DW Steyn,M Ashwin,0,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,YS Chahal,DW Steyn,M Ashwin,1,0,,,,,,"",""
+ball,2,16.6,Royal Challengers Bangalore,DW Steyn,YS Chahal,M Ashwin,1,0,,,,,,"",""
+ball,2,16.7,Royal Challengers Bangalore,YS Chahal,DW Steyn,M Ashwin,0,0,,,,,,lbw,YS Chahal

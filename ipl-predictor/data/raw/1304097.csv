@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Gujarat Titans
+info,gender,male
+info,season,2022
+info,date,2022/05/06
+info,event,Indian Premier League
+info,match_number,51
+info,venue,"Brabourne Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Gujarat Titans
+info,toss_decision,field
+info,player_of_match,TH David
+info,umpire,J Madanagopal
+info,umpire,GR Sadashiv Iyer
+info,reserve_umpire,R Pandit
+info,tv_umpire,BNJ Oxenford
+info,match_referee,M Nayyar
+info,winner,Mumbai Indians
+info,winner_runs,5
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,KA Pollard
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,DR Sams
+info,player,Mumbai Indians,M Ashwin
+info,player,Mumbai Indians,K Kartikeya
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,RP Meredith
+info,player,Gujarat Titans,WP Saha
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,HH Pandya
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,DA Miller
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,PJ Sangwan
+info,player,Gujarat Titans,LH Ferguson
+info,player,Gujarat Titans,AS Joseph
+info,player,Gujarat Titans,Mohammed Shami
+info,registry,people,AS Joseph,b0946605
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,GR Sadashiv Iyer,0be62e31
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RP Meredith,64775749
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,WP Saha,fe11caa6
+ball,1,0.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Shami,0,1,1,,,,,"",""
+ball,1,0.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Shami,1,0,,,,,,"",""
+ball,1,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Shami,1,0,,,,,,"",""
+ball,1,0.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.7,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,1.1,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,4,0,,,,,,"",""
+ball,1,1.2,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,4,0,,,,,,"",""
+ball,1,1.3,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,0,0,,,,,,"",""
+ball,1,1.4,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,0,0,,,,,,"",""
+ball,1,1.5,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,0,0,,,,,,"",""
+ball,1,1.6,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,6,0,,,,,,"",""
+ball,1,2.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.2,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.3,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,6,0,,,,,,"",""
+ball,1,2.4,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.5,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,3.1,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,4,0,,,,,,"",""
+ball,1,3.2,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,4,0,,,,,,"",""
+ball,1,3.3,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,0,0,,,,,,"",""
+ball,1,3.4,Mumbai Indians,RG Sharma,Ishan Kishan,AS Joseph,1,0,,,,,,"",""
+ball,1,3.5,Mumbai Indians,Ishan Kishan,RG Sharma,AS Joseph,2,0,,,,,,"",""
+ball,1,3.6,Mumbai Indians,Ishan Kishan,RG Sharma,AS Joseph,0,0,,,,,,"",""
+ball,1,4.1,Mumbai Indians,RG Sharma,Ishan Kishan,Rashid Khan,1,0,,,,,,"",""
+ball,1,4.2,Mumbai Indians,Ishan Kishan,RG Sharma,Rashid Khan,1,0,,,,,,"",""
+ball,1,4.3,Mumbai Indians,RG Sharma,Ishan Kishan,Rashid Khan,3,0,,,,,,"",""
+ball,1,4.4,Mumbai Indians,Ishan Kishan,RG Sharma,Rashid Khan,0,0,,,,,,"",""
+ball,1,4.5,Mumbai Indians,Ishan Kishan,RG Sharma,Rashid Khan,4,0,,,,,,"",""
+ball,1,4.6,Mumbai Indians,Ishan Kishan,RG Sharma,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.1,Mumbai Indians,RG Sharma,Ishan Kishan,LH Ferguson,0,0,,,,,,"",""
+ball,1,5.2,Mumbai Indians,RG Sharma,Ishan Kishan,LH Ferguson,4,0,,,,,,"",""
+ball,1,5.3,Mumbai Indians,RG Sharma,Ishan Kishan,LH Ferguson,1,0,,,,,,"",""
+ball,1,5.4,Mumbai Indians,Ishan Kishan,RG Sharma,LH Ferguson,4,0,,,,,,"",""
+ball,1,5.5,Mumbai Indians,Ishan Kishan,RG Sharma,LH Ferguson,0,1,,,,1,,"",""
+ball,1,5.6,Mumbai Indians,RG Sharma,Ishan Kishan,LH Ferguson,0,0,,,,,,"",""
+ball,1,6.1,Mumbai Indians,Ishan Kishan,RG Sharma,PJ Sangwan,2,0,,,,,,"",""
+ball,1,6.2,Mumbai Indians,Ishan Kishan,RG Sharma,PJ Sangwan,2,0,,,,,,"",""
+ball,1,6.3,Mumbai Indians,Ishan Kishan,RG Sharma,PJ Sangwan,4,0,,,,,,"",""
+ball,1,6.4,Mumbai Indians,Ishan Kishan,RG Sharma,PJ Sangwan,1,0,,,,,,"",""
+ball,1,6.5,Mumbai Indians,RG Sharma,Ishan Kishan,PJ Sangwan,0,1,1,,,,,"",""
+ball,1,6.6,Mumbai Indians,RG Sharma,Ishan Kishan,PJ Sangwan,1,0,,,,,,"",""
+ball,1,6.7,Mumbai Indians,Ishan Kishan,RG Sharma,PJ Sangwan,0,0,,,,,,"",""
+ball,1,7.1,Mumbai Indians,RG Sharma,Ishan Kishan,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.2,Mumbai Indians,RG Sharma,Ishan Kishan,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.3,Mumbai Indians,RG Sharma,Ishan Kishan,Rashid Khan,0,0,,,,,,lbw,RG Sharma
+ball,1,7.4,Mumbai Indians,SA Yadav,Ishan Kishan,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.5,Mumbai Indians,SA Yadav,Ishan Kishan,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.6,Mumbai Indians,Ishan Kishan,SA Yadav,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.1,Mumbai Indians,Ishan Kishan,SA Yadav,R Tewatia,1,0,,,,,,"",""
+ball,1,8.2,Mumbai Indians,SA Yadav,Ishan Kishan,R Tewatia,1,0,,,,,,"",""
+ball,1,8.3,Mumbai Indians,Ishan Kishan,SA Yadav,R Tewatia,6,0,,,,,,"",""
+ball,1,8.4,Mumbai Indians,Ishan Kishan,SA Yadav,R Tewatia,1,0,,,,,,"",""
+ball,1,8.5,Mumbai Indians,SA Yadav,Ishan Kishan,R Tewatia,1,0,,,,,,"",""
+ball,1,8.6,Mumbai Indians,Ishan Kishan,SA Yadav,R Tewatia,1,0,,,,,,"",""
+ball,1,9.1,Mumbai Indians,Ishan Kishan,SA Yadav,LH Ferguson,1,0,,,,,,"",""
+ball,1,9.2,Mumbai Indians,SA Yadav,Ishan Kishan,LH Ferguson,6,0,,,,,,"",""
+ball,1,9.3,Mumbai Indians,SA Yadav,Ishan Kishan,LH Ferguson,0,0,,,,,,"",""
+ball,1,9.4,Mumbai Indians,SA Yadav,Ishan Kishan,LH Ferguson,0,0,,,,,,"",""
+ball,1,9.5,Mumbai Indians,SA Yadav,Ishan Kishan,LH Ferguson,2,0,,,,,,"",""
+ball,1,9.6,Mumbai Indians,SA Yadav,Ishan Kishan,LH Ferguson,1,0,,,,,,"",""
+ball,1,10.1,Mumbai Indians,SA Yadav,Ishan Kishan,PJ Sangwan,1,0,,,,,,"",""
+ball,1,10.2,Mumbai Indians,Ishan Kishan,SA Yadav,PJ Sangwan,1,0,,,,,,"",""
+ball,1,10.3,Mumbai Indians,SA Yadav,Ishan Kishan,PJ Sangwan,0,0,,,,,,caught,SA Yadav
+ball,1,10.4,Mumbai Indians,Tilak Varma,Ishan Kishan,PJ Sangwan,2,0,,,,,,"",""
+ball,1,10.5,Mumbai Indians,Tilak Varma,Ishan Kishan,PJ Sangwan,4,0,,,,,,"",""
+ball,1,10.6,Mumbai Indians,Tilak Varma,Ishan Kishan,PJ Sangwan,0,0,,,,,,"",""
+ball,1,11.1,Mumbai Indians,Ishan Kishan,Tilak Varma,AS Joseph,4,0,,,,,,"",""
+ball,1,11.2,Mumbai Indians,Ishan Kishan,Tilak Varma,AS Joseph,0,0,,,,,,"",""
+ball,1,11.3,Mumbai Indians,Ishan Kishan,Tilak Varma,AS Joseph,0,0,,,,,,"",""
+ball,1,11.4,Mumbai Indians,Ishan Kishan,Tilak Varma,AS Joseph,1,0,,,,,,"",""
+ball,1,11.5,Mumbai Indians,Tilak Varma,Ishan Kishan,AS Joseph,1,0,,,,,,"",""
+ball,1,11.6,Mumbai Indians,Ishan Kishan,Tilak Varma,AS Joseph,0,0,,,,,,caught,Ishan Kishan
+ball,1,12.1,Mumbai Indians,Tilak Varma,KA Pollard,PJ Sangwan,1,0,,,,,,"",""
+ball,1,12.2,Mumbai Indians,KA Pollard,Tilak Varma,PJ Sangwan,0,1,,,,1,,"",""
+ball,1,12.3,Mumbai Indians,Tilak Varma,KA Pollard,PJ Sangwan,1,0,,,,,,"",""
+ball,1,12.4,Mumbai Indians,KA Pollard,Tilak Varma,PJ Sangwan,0,1,1,,,,,"",""
+ball,1,12.5,Mumbai Indians,KA Pollard,Tilak Varma,PJ Sangwan,0,0,,,,,,"",""
+ball,1,12.6,Mumbai Indians,KA Pollard,Tilak Varma,PJ Sangwan,1,0,,,,,,"",""
+ball,1,12.7,Mumbai Indians,Tilak Varma,KA Pollard,PJ Sangwan,0,0,,,,,,"",""
+ball,1,13.1,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,2,0,,,,,,"",""
+ball,1,13.2,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.3,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.4,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.5,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.6,Mumbai Indians,KA Pollard,Tilak Varma,LH Ferguson,1,0,,,,,,"",""
+ball,1,14.1,Mumbai Indians,KA Pollard,Tilak Varma,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.2,Mumbai Indians,KA Pollard,Tilak Varma,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.3,Mumbai Indians,KA Pollard,Tilak Varma,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.4,Mumbai Indians,KA Pollard,Tilak Varma,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.5,Mumbai Indians,KA Pollard,Tilak Varma,Rashid Khan,0,0,,,,,,bowled,KA Pollard
+ball,1,14.6,Mumbai Indians,TH David,Tilak Varma,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.1,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,0,0,,,,,,"",""
+ball,1,15.2,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,4,0,,,,,,"",""
+ball,1,15.3,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,4,0,,,,,,"",""
+ball,1,15.4,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,2,0,,,,,,"",""
+ball,1,15.5,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,2,0,,,,,,"",""
+ball,1,15.6,Mumbai Indians,TH David,Tilak Varma,Mohammed Shami,2,0,,,,,,"",""
+ball,1,16.1,Mumbai Indians,Tilak Varma,TH David,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.2,Mumbai Indians,TH David,Tilak Varma,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.3,Mumbai Indians,Tilak Varma,TH David,Rashid Khan,2,0,,,,,,"",""
+ball,1,16.4,Mumbai Indians,Tilak Varma,TH David,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.5,Mumbai Indians,TH David,Tilak Varma,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.6,Mumbai Indians,Tilak Varma,TH David,Rashid Khan,2,0,,,,,,"",""
+ball,1,17.1,Mumbai Indians,TH David,Tilak Varma,AS Joseph,0,0,,,,,,"",""
+ball,1,17.2,Mumbai Indians,TH David,Tilak Varma,AS Joseph,6,0,,,,,,"",""
+ball,1,17.3,Mumbai Indians,TH David,Tilak Varma,AS Joseph,1,0,,,,,,"",""
+ball,1,17.4,Mumbai Indians,Tilak Varma,TH David,AS Joseph,1,0,,,,,,"",""
+ball,1,17.5,Mumbai Indians,TH David,Tilak Varma,AS Joseph,1,0,,,,,,"",""
+ball,1,17.6,Mumbai Indians,Tilak Varma,TH David,AS Joseph,1,0,,,,,,"",""
+ball,1,18.1,Mumbai Indians,Tilak Varma,TH David,LH Ferguson,0,0,,,,,,"",""
+ball,1,18.2,Mumbai Indians,Tilak Varma,TH David,LH Ferguson,4,0,,,,,,"",""
+ball,1,18.3,Mumbai Indians,Tilak Varma,TH David,LH Ferguson,0,1,,1,,,,run out,Tilak Varma
+ball,1,18.4,Mumbai Indians,TH David,DR Sams,LH Ferguson,6,0,,,,,,"",""
+ball,1,18.5,Mumbai Indians,TH David,DR Sams,LH Ferguson,1,0,,,,,,"",""
+ball,1,18.6,Mumbai Indians,DR Sams,TH David,LH Ferguson,0,0,,,,,,"",""
+ball,1,18.7,Mumbai Indians,DR Sams,TH David,LH Ferguson,0,0,,,,,,caught,DR Sams
+ball,1,19.1,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,0,0,,,,,,"",""
+ball,1,19.2,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,0,0,,,,,,"",""
+ball,1,19.3,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,6,0,,,,,,"",""
+ball,1,19.4,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,0,0,,,,,,"",""
+ball,1,19.5,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,0,1,1,,,,,"",""
+ball,1,19.6,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,0,0,,,,,,"",""
+ball,1,19.7,Mumbai Indians,TH David,M Ashwin,Mohammed Shami,6,0,,,,,,"",""
+ball,2,0.1,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,0,0,,,,,,"",""
+ball,2,0.2,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,0,0,,,,,,"",""
+ball,2,0.3,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,0,0,,,,,,"",""
+ball,2,0.4,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,0,0,,,,,,"",""
+ball,2,0.5,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,1,0,,,,,,"",""
+ball,2,0.6,Gujarat Titans,Shubman Gill,WP Saha,DR Sams,0,0,,,,,,"",""
+ball,2,1.1,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,4,0,,,,,,"",""
+ball,2,1.2,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,0,0,,,,,,"",""
+ball,2,1.3,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,0,0,,,,,,"",""
+ball,2,1.4,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,6,0,,,,,,"",""
+ball,2,1.5,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,0,0,,,,,,"",""
+ball,2,1.6,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,4,0,,,,,,"",""
+ball,2,2.1,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,"",""
+ball,2,2.2,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,2.3,Gujarat Titans,WP Saha,Shubman Gill,M Ashwin,0,0,,,,,,"",""
+ball,2,2.4,Gujarat Titans,WP Saha,Shubman Gill,M Ashwin,1,0,,,,,,"",""
+ball,2,2.5,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,"",""
+ball,2,2.6,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,2,0,,,,,,"",""
+ball,2,3.1,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,0,1,1,,,,,"",""
+ball,2,3.2,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,0,0,,,,,,"",""
+ball,2,3.3,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,0,0,,,,,,"",""
+ball,2,3.4,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,4,0,,,,,,"",""
+ball,2,3.5,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,0,0,,,,,,"",""
+ball,2,3.6,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,4,0,,,,,,"",""
+ball,2,3.7,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,1,0,,,,,,"",""
+ball,2,4.1,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,1,0,,,,,,"",""
+ball,2,4.2,Gujarat Titans,Shubman Gill,WP Saha,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.3,Gujarat Titans,Shubman Gill,WP Saha,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.4,Gujarat Titans,Shubman Gill,WP Saha,JJ Bumrah,1,0,,,,,,"",""
+ball,2,4.5,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,6,0,,,,,,"",""
+ball,2,4.6,Gujarat Titans,WP Saha,Shubman Gill,JJ Bumrah,4,0,,,,,,"",""
+ball,2,5.1,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,6,0,,,,,,"",""
+ball,2,5.2,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,"",""
+ball,2,5.3,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,4,0,,,,,,"",""
+ball,2,5.4,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,5.5,Gujarat Titans,WP Saha,Shubman Gill,M Ashwin,1,0,,,,,,"",""
+ball,2,5.6,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,6.1,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,0,0,,,,,,"",""
+ball,2,6.2,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,1,0,,,,,,"",""
+ball,2,6.3,Gujarat Titans,WP Saha,Shubman Gill,K Kartikeya,1,0,,,,,,"",""
+ball,2,6.4,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,1,0,,,,,,"",""
+ball,2,6.5,Gujarat Titans,WP Saha,Shubman Gill,K Kartikeya,1,0,,,,,,"",""
+ball,2,6.6,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,1,0,,,,,,"",""
+ball,2,7.1,Gujarat Titans,Shubman Gill,WP Saha,DR Sams,1,0,,,,,,"",""
+ball,2,7.2,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,0,0,,,,,,"",""
+ball,2,7.3,Gujarat Titans,WP Saha,Shubman Gill,DR Sams,1,0,,,,,,"",""
+ball,2,7.4,Gujarat Titans,Shubman Gill,WP Saha,DR Sams,4,0,,,,,,"",""
+ball,2,7.5,Gujarat Titans,Shubman Gill,WP Saha,DR Sams,4,0,,,,,,"",""
+ball,2,7.6,Gujarat Titans,Shubman Gill,WP Saha,DR Sams,4,0,,,,,,"",""
+ball,2,8.1,Gujarat Titans,WP Saha,Shubman Gill,K Kartikeya,4,0,,,,,,"",""
+ball,2,8.2,Gujarat Titans,WP Saha,Shubman Gill,K Kartikeya,1,0,,,,,,"",""
+ball,2,8.3,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,0,0,,,,,,"",""
+ball,2,8.4,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,6,0,,,,,,"",""
+ball,2,8.5,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,0,0,,,,,,"",""
+ball,2,8.6,Gujarat Titans,Shubman Gill,WP Saha,K Kartikeya,4,0,,,,,,"",""
+ball,2,9.1,Gujarat Titans,WP Saha,Shubman Gill,M Ashwin,1,0,,,,,,"",""
+ball,2,9.2,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,"",""
+ball,2,9.3,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,4,0,,,,,,"",""
+ball,2,9.4,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,9.5,Gujarat Titans,WP Saha,Shubman Gill,M Ashwin,1,0,,,,,,"",""
+ball,2,9.6,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,"",""
+ball,2,10.1,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,1,0,,,,,,"",""
+ball,2,10.2,Gujarat Titans,Shubman Gill,WP Saha,RP Meredith,0,0,,,,,,"",""
+ball,2,10.3,Gujarat Titans,Shubman Gill,WP Saha,RP Meredith,1,0,,,,,,"",""
+ball,2,10.4,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,1,0,,,,,,"",""
+ball,2,10.5,Gujarat Titans,Shubman Gill,WP Saha,RP Meredith,1,0,,,,,,"",""
+ball,2,10.6,Gujarat Titans,WP Saha,Shubman Gill,RP Meredith,1,0,,,,,,"",""
+ball,2,11.1,Gujarat Titans,WP Saha,Shubman Gill,KA Pollard,1,0,,,,,,"",""
+ball,2,11.2,Gujarat Titans,Shubman Gill,WP Saha,KA Pollard,1,0,,,,,,"",""
+ball,2,11.3,Gujarat Titans,WP Saha,Shubman Gill,KA Pollard,0,1,,,,1,,"",""
+ball,2,11.4,Gujarat Titans,Shubman Gill,WP Saha,KA Pollard,1,0,,,,,,"",""
+ball,2,11.5,Gujarat Titans,WP Saha,Shubman Gill,KA Pollard,1,0,,,,,,"",""
+ball,2,11.6,Gujarat Titans,Shubman Gill,WP Saha,KA Pollard,1,0,,,,,,"",""
+ball,2,12.1,Gujarat Titans,Shubman Gill,WP Saha,M Ashwin,0,0,,,,,,caught,Shubman Gill
+ball,2,12.2,Gujarat Titans,HH Pandya,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,12.3,Gujarat Titans,WP Saha,HH Pandya,M Ashwin,1,0,,,,,,"",""
+ball,2,12.4,Gujarat Titans,HH Pandya,WP Saha,M Ashwin,1,0,,,,,,"",""
+ball,2,12.5,Gujarat Titans,WP Saha,HH Pandya,M Ashwin,2,0,,,,,,"",""
+ball,2,12.6,Gujarat Titans,WP Saha,HH Pandya,M Ashwin,0,0,,,,,,caught,WP Saha
+ball,2,13.1,Gujarat Titans,HH Pandya,B Sai Sudharsan,RP Meredith,0,1,,,,1,,"",""
+ball,2,13.2,Gujarat Titans,B Sai Sudharsan,HH Pandya,RP Meredith,0,0,,,,,,"",""
+ball,2,13.3,Gujarat Titans,B Sai Sudharsan,HH Pandya,RP Meredith,4,0,,,,,,"",""
+ball,2,13.4,Gujarat Titans,B Sai Sudharsan,HH Pandya,RP Meredith,1,0,,,,,,"",""
+ball,2,13.5,Gujarat Titans,HH Pandya,B Sai Sudharsan,RP Meredith,0,0,,,,,,"",""
+ball,2,13.6,Gujarat Titans,HH Pandya,B Sai Sudharsan,RP Meredith,4,0,,,,,,"",""
+ball,2,14.1,Gujarat Titans,B Sai Sudharsan,HH Pandya,K Kartikeya,1,0,,,,,,"",""
+ball,2,14.2,Gujarat Titans,HH Pandya,B Sai Sudharsan,K Kartikeya,1,0,,,,,,"",""
+ball,2,14.3,Gujarat Titans,B Sai Sudharsan,HH Pandya,K Kartikeya,0,0,,,,,,"",""
+ball,2,14.4,Gujarat Titans,B Sai Sudharsan,HH Pandya,K Kartikeya,1,0,,,,,,"",""
+ball,2,14.5,Gujarat Titans,HH Pandya,B Sai Sudharsan,K Kartikeya,4,0,,,,,,"",""
+ball,2,14.6,Gujarat Titans,HH Pandya,B Sai Sudharsan,K Kartikeya,2,0,,,,,,"",""
+ball,2,15.1,Gujarat Titans,B Sai Sudharsan,HH Pandya,KA Pollard,0,0,,,,,,"",""
+ball,2,15.2,Gujarat Titans,B Sai Sudharsan,HH Pandya,KA Pollard,6,0,,,,,,"",""
+ball,2,15.3,Gujarat Titans,B Sai Sudharsan,HH Pandya,KA Pollard,0,0,,,,,,"",""
+ball,2,15.4,Gujarat Titans,B Sai Sudharsan,HH Pandya,KA Pollard,1,0,,,,,,"",""
+ball,2,15.5,Gujarat Titans,HH Pandya,B Sai Sudharsan,KA Pollard,1,0,,,,,,"",""
+ball,2,15.6,Gujarat Titans,B Sai Sudharsan,HH Pandya,KA Pollard,0,0,,,,,,hit wicket,B Sai Sudharsan
+ball,2,16.1,Gujarat Titans,HH Pandya,DA Miller,JJ Bumrah,4,0,,,,,,"",""
+ball,2,16.2,Gujarat Titans,HH Pandya,DA Miller,JJ Bumrah,1,0,,,,,,"",""
+ball,2,16.3,Gujarat Titans,DA Miller,HH Pandya,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.4,Gujarat Titans,DA Miller,HH Pandya,JJ Bumrah,4,0,,,,,,"",""
+ball,2,16.5,Gujarat Titans,DA Miller,HH Pandya,JJ Bumrah,1,0,,,,,,"",""
+ball,2,16.6,Gujarat Titans,HH Pandya,DA Miller,JJ Bumrah,1,0,,,,,,"",""
+ball,2,17.1,Gujarat Titans,HH Pandya,DA Miller,RP Meredith,4,0,,,,,,"",""
+ball,2,17.2,Gujarat Titans,HH Pandya,DA Miller,RP Meredith,0,1,,,,1,,"",""
+ball,2,17.3,Gujarat Titans,DA Miller,HH Pandya,RP Meredith,2,0,,,,,,"",""
+ball,2,17.4,Gujarat Titans,DA Miller,HH Pandya,RP Meredith,0,0,,,,,,run out,HH Pandya
+ball,2,17.5,Gujarat Titans,R Tewatia,DA Miller,RP Meredith,1,0,,,,,,"",""
+ball,2,17.6,Gujarat Titans,DA Miller,R Tewatia,RP Meredith,1,0,,,,,,"",""
+ball,2,18.1,Gujarat Titans,DA Miller,R Tewatia,JJ Bumrah,2,0,,,,,,"",""
+ball,2,18.2,Gujarat Titans,DA Miller,R Tewatia,JJ Bumrah,0,0,,,,,,"",""
+ball,2,18.3,Gujarat Titans,DA Miller,R Tewatia,JJ Bumrah,1,0,,,,,,"",""
+ball,2,18.4,Gujarat Titans,R Tewatia,DA Miller,JJ Bumrah,1,0,,,,,,"",""
+ball,2,18.5,Gujarat Titans,DA Miller,R Tewatia,JJ Bumrah,6,0,,,,,,"",""
+ball,2,18.6,Gujarat Titans,DA Miller,R Tewatia,JJ Bumrah,1,0,,,,,,"",""
+ball,2,19.1,Gujarat Titans,DA Miller,R Tewatia,DR Sams,1,0,,,,,,"",""
+ball,2,19.2,Gujarat Titans,R Tewatia,DA Miller,DR Sams,0,0,,,,,,"",""
+ball,2,19.3,Gujarat Titans,R Tewatia,DA Miller,DR Sams,1,0,,,,,,run out,R Tewatia
+ball,2,19.4,Gujarat Titans,Rashid Khan,DA Miller,DR Sams,1,0,,,,,,"",""
+ball,2,19.5,Gujarat Titans,DA Miller,Rashid Khan,DR Sams,0,0,,,,,,"",""
+ball,2,19.6,Gujarat Titans,DA Miller,Rashid Khan,DR Sams,0,0,,,,,,"",""

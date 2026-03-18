@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2021
+info,date,2021/10/06
+info,event,Indian Premier League
+info,match_number,52
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,KS Williamson
+info,umpire,S Ravi
+info,umpire,UV Gandhe
+info,reserve_umpire,Tapan Sharma
+info,tv_umpire,CB Gaffaney
+info,match_referee,V Narayan Kutty
+info,winner,Sunrisers Hyderabad
+info,winner_runs,4
+info,player,Sunrisers Hyderabad,JJ Roy
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,KS Williamson
+info,player,Sunrisers Hyderabad,PK Garg
+info,player,Sunrisers Hyderabad,Abdul Samad
+info,player,Sunrisers Hyderabad,WP Saha
+info,player,Sunrisers Hyderabad,JO Holder
+info,player,Sunrisers Hyderabad,Rashid Khan
+info,player,Sunrisers Hyderabad,B Kumar
+info,player,Sunrisers Hyderabad,S Kaul
+info,player,Sunrisers Hyderabad,Umran Malik
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,D Padikkal
+info,player,Royal Challengers Bangalore,DT Christian
+info,player,Royal Challengers Bangalore,KS Bharat
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,AB de Villiers
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,GHS Garton
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Royal Challengers Bangalore,YS Chahal
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JO Holder,0f721006
+info,registry,people,KS Bharat,44a89551
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Kaul,dcf81436
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Sunrisers Hyderabad,JJ Roy,Abhishek Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,GHS Garton,4,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,GHS Garton,6,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,GHS Garton,0,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,GHS Garton,2,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,Abhishek Sharma,JJ Roy,GHS Garton,0,0,,,,,,caught,Abhishek Sharma
+ball,1,1.6,Sunrisers Hyderabad,JJ Roy,KS Williamson,GHS Garton,0,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,2.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.7,Sunrisers Hyderabad,KS Williamson,JJ Roy,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,GHS Garton,4,0,,,,,,"",""
+ball,1,4.2,Sunrisers Hyderabad,JJ Roy,KS Williamson,GHS Garton,1,0,,,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,GHS Garton,0,1,1,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,KS Williamson,JJ Roy,GHS Garton,4,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,KS Williamson,JJ Roy,GHS Garton,1,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,JJ Roy,KS Williamson,GHS Garton,0,1,1,,,,,"",""
+ball,1,4.7,Sunrisers Hyderabad,JJ Roy,KS Williamson,GHS Garton,1,0,,,,,,"",""
+ball,1,4.8,Sunrisers Hyderabad,KS Williamson,JJ Roy,GHS Garton,4,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,2,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,4,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,0,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,0,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,1,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,KS Williamson,JJ Roy,HV Patel,1,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,2,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,YS Chahal,4,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,JJ Roy,KS Williamson,YS Chahal,2,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,JJ Roy,KS Williamson,YS Chahal,0,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,JJ Roy,KS Williamson,YS Chahal,2,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,JJ Roy,KS Williamson,YS Chahal,1,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,KS Williamson,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,JJ Roy,KS Williamson,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,11.1,Sunrisers Hyderabad,JJ Roy,KS Williamson,HV Patel,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,KS Williamson,JJ Roy,HV Patel,2,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,KS Williamson,JJ Roy,HV Patel,0,0,,,,,,bowled,KS Williamson
+ball,1,11.4,Sunrisers Hyderabad,PK Garg,JJ Roy,HV Patel,2,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,PK Garg,JJ Roy,HV Patel,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,JJ Roy,PK Garg,HV Patel,4,0,,,,,,"",""
+ball,1,12.1,Sunrisers Hyderabad,PK Garg,JJ Roy,DT Christian,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,JJ Roy,PK Garg,DT Christian,0,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,JJ Roy,PK Garg,DT Christian,1,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,PK Garg,JJ Roy,DT Christian,2,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,PK Garg,JJ Roy,DT Christian,0,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,PK Garg,JJ Roy,DT Christian,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,PK Garg,JJ Roy,YS Chahal,6,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,PK Garg,JJ Roy,YS Chahal,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,JJ Roy,PK Garg,YS Chahal,0,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,JJ Roy,PK Garg,YS Chahal,1,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,PK Garg,JJ Roy,YS Chahal,0,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,PK Garg,JJ Roy,YS Chahal,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,PK Garg,JJ Roy,DT Christian,0,0,,,,,,caught,PK Garg
+ball,1,14.2,Sunrisers Hyderabad,JJ Roy,Abdul Samad,DT Christian,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,Abdul Samad,JJ Roy,DT Christian,0,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,Abdul Samad,JJ Roy,DT Christian,1,0,,,,,,"",""
+ball,1,14.5,Sunrisers Hyderabad,JJ Roy,Abdul Samad,DT Christian,0,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,JJ Roy,Abdul Samad,DT Christian,0,0,,,,,,caught and bowled,JJ Roy
+ball,1,15.1,Sunrisers Hyderabad,Abdul Samad,WP Saha,YS Chahal,0,0,,,,,,lbw,Abdul Samad
+ball,1,15.2,Sunrisers Hyderabad,JO Holder,WP Saha,YS Chahal,1,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,WP Saha,JO Holder,YS Chahal,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,JO Holder,WP Saha,YS Chahal,1,0,,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,WP Saha,JO Holder,YS Chahal,2,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,WP Saha,JO Holder,YS Chahal,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,WP Saha,JO Holder,DT Christian,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,JO Holder,WP Saha,DT Christian,4,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,JO Holder,WP Saha,DT Christian,1,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,WP Saha,JO Holder,DT Christian,0,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,WP Saha,JO Holder,DT Christian,1,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,JO Holder,WP Saha,DT Christian,0,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,WP Saha,JO Holder,HV Patel,4,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,WP Saha,JO Holder,HV Patel,0,0,,,,,,caught,WP Saha
+ball,1,17.3,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,1,0,,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,Rashid Khan,JO Holder,HV Patel,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,4,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,0,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,JO Holder,Rashid Khan,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,2,0,,,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,0,0,,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,1,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,Rashid Khan,JO Holder,HV Patel,0,0,,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,Rashid Khan,JO Holder,HV Patel,0,1,,1,,,,"",""
+ball,1,19.6,Sunrisers Hyderabad,Rashid Khan,JO Holder,HV Patel,1,0,,,,,,"",""
+ball,1,19.7,Sunrisers Hyderabad,JO Holder,Rashid Khan,HV Patel,0,0,,,,,,caught,JO Holder
+ball,2,0.1,Royal Challengers Bangalore,V Kohli,D Padikkal,B Kumar,4,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,V Kohli,D Padikkal,B Kumar,0,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,V Kohli,D Padikkal,B Kumar,1,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,D Padikkal,V Kohli,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,Royal Challengers Bangalore,D Padikkal,V Kohli,B Kumar,1,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,V Kohli,D Padikkal,B Kumar,0,0,,,,,,lbw,V Kohli
+ball,2,1.1,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,0,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,4,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,0,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,2,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,0,1,1,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,0,0,,,,,,"",""
+ball,2,1.7,Royal Challengers Bangalore,D Padikkal,DT Christian,JO Holder,0,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bangalore,DT Christian,D Padikkal,B Kumar,0,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,DT Christian,D Padikkal,B Kumar,1,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,D Padikkal,DT Christian,B Kumar,4,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bangalore,D Padikkal,DT Christian,B Kumar,0,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bangalore,D Padikkal,DT Christian,B Kumar,0,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bangalore,D Padikkal,DT Christian,B Kumar,0,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,DT Christian,D Padikkal,S Kaul,0,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,DT Christian,D Padikkal,S Kaul,0,0,,,,,,caught,DT Christian
+ball,2,3.3,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,0,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,0,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,0,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,0,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bangalore,KS Bharat,D Padikkal,JO Holder,0,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,KS Bharat,D Padikkal,JO Holder,1,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,D Padikkal,KS Bharat,JO Holder,0,0,,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,D Padikkal,KS Bharat,JO Holder,4,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,D Padikkal,KS Bharat,JO Holder,1,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,KS Bharat,D Padikkal,JO Holder,0,1,,,,1,,"",""
+ball,2,5.1,Royal Challengers Bangalore,KS Bharat,D Padikkal,S Kaul,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,KS Bharat,D Padikkal,S Kaul,1,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,0,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,D Padikkal,KS Bharat,S Kaul,1,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,KS Bharat,D Padikkal,S Kaul,6,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,KS Bharat,D Padikkal,S Kaul,4,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,D Padikkal,KS Bharat,Umran Malik,0,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,D Padikkal,KS Bharat,Umran Malik,1,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,KS Bharat,D Padikkal,Umran Malik,0,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,KS Bharat,D Padikkal,Umran Malik,0,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bangalore,KS Bharat,D Padikkal,Umran Malik,0,0,,,,,,caught,KS Bharat
+ball,2,6.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Umran Malik,0,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,6,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,0,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,2,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,0,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,1,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Umran Malik,2,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Umran Malik,0,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,6,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,4,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,2,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Rashid Khan,2,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,0,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,1,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Umran Malik,1,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,0,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Umran Malik,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Umran Malik,1,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,S Kaul,0,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,S Kaul,4,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,S Kaul,0,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,S Kaul,1,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,S Kaul,1,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,S Kaul,0,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,JO Holder,1,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,JO Holder,0,1,1,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,JO Holder,4,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,JO Holder,1,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,JO Holder,1,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,JO Holder,1,0,,,,,,"",""
+ball,2,12.7,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,JO Holder,0,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,B Kumar,0,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,B Kumar,1,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,B Kumar,1,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,B Kumar,2,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,B Kumar,1,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,B Kumar,1,0,,,,,,"",""
+ball,2,14.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Rashid Khan,0,0,,,,,,run out,GJ Maxwell
+ball,2,14.2,Royal Challengers Bangalore,AB de Villiers,D Padikkal,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,4,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bangalore,D Padikkal,AB de Villiers,S Kaul,0,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,D Padikkal,AB de Villiers,S Kaul,1,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bangalore,AB de Villiers,D Padikkal,S Kaul,1,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,D Padikkal,AB de Villiers,S Kaul,1,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,AB de Villiers,D Padikkal,S Kaul,2,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,AB de Villiers,D Padikkal,S Kaul,1,0,,,,,,"",""
+ball,2,16.1,Royal Challengers Bangalore,AB de Villiers,D Padikkal,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,2,0,,,,,,"",""
+ball,2,16.3,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.4,Royal Challengers Bangalore,AB de Villiers,D Padikkal,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,D Padikkal,AB de Villiers,Rashid Khan,0,0,,,,,,caught,D Padikkal
+ball,2,16.6,Royal Challengers Bangalore,AB de Villiers,Shahbaz Ahmed,Rashid Khan,4,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,Umran Malik,4,0,,,,,,"",""
+ball,2,17.2,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,Umran Malik,0,0,,,,,,"",""
+ball,2,17.3,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,Umran Malik,1,0,,,,,,"",""
+ball,2,17.4,Royal Challengers Bangalore,AB de Villiers,Shahbaz Ahmed,Umran Malik,1,0,,,,,,"",""
+ball,2,17.5,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,Umran Malik,4,0,,,,,,"",""
+ball,2,17.6,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,Umran Malik,1,0,,,,,,"",""
+ball,2,18.1,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,JO Holder,2,0,,,,,,"",""
+ball,2,18.2,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,JO Holder,2,0,,,,,,"",""
+ball,2,18.3,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,JO Holder,0,0,,,,,,"",""
+ball,2,18.4,Royal Challengers Bangalore,Shahbaz Ahmed,AB de Villiers,JO Holder,0,0,,,,,,caught,Shahbaz Ahmed
+ball,2,18.5,Royal Challengers Bangalore,GHS Garton,AB de Villiers,JO Holder,1,0,,,,,,"",""
+ball,2,18.6,Royal Challengers Bangalore,AB de Villiers,GHS Garton,JO Holder,0,0,,,,,,"",""
+ball,2,19.1,Royal Challengers Bangalore,GHS Garton,AB de Villiers,B Kumar,0,0,,,,,,"",""
+ball,2,19.2,Royal Challengers Bangalore,GHS Garton,AB de Villiers,B Kumar,1,0,,,,,,"",""
+ball,2,19.3,Royal Challengers Bangalore,AB de Villiers,GHS Garton,B Kumar,0,0,,,,,,"",""
+ball,2,19.4,Royal Challengers Bangalore,AB de Villiers,GHS Garton,B Kumar,6,0,,,,,,"",""
+ball,2,19.5,Royal Challengers Bangalore,AB de Villiers,GHS Garton,B Kumar,0,0,,,,,,"",""
+ball,2,19.6,Royal Challengers Bangalore,AB de Villiers,GHS Garton,B Kumar,1,0,,,,,,"",""

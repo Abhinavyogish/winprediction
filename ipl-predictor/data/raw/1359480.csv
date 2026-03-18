@@ -1,0 +1,334 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Lucknow Super Giants
+info,gender,male
+info,season,2023
+info,date,2023/04/03
+info,event,Indian Premier League
+info,match_number,6
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,MM Ali
+info,umpire,A Totre
+info,umpire,BNJ Oxenford
+info,reserve_umpire,PM Joshi
+info,tv_umpire,UV Gandhe
+info,match_referee,M Nayyar
+info,winner,Chennai Super Kings
+info,winner_runs,12
+info,player,Chennai Super Kings,TU Deshpande
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,BA Stokes
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,MJ Santner
+info,player,Chennai Super Kings,DL Chahar
+info,player,Chennai Super Kings,RS Hangargekar
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,KL Rahul
+info,player,Lucknow Super Giants,KR Mayers
+info,player,Lucknow Super Giants,DJ Hooda
+info,player,Lucknow Super Giants,KH Pandya
+info,player,Lucknow Super Giants,MP Stoinis
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,K Gowtham
+info,player,Lucknow Super Giants,MA Wood
+info,player,Lucknow Super Giants,Yash Thakur
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,DP Conway,df5a6881
+info,registry,people,K Gowtham,90de905a
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RS Hangargekar,c3c92b42
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Yash Thakur,4b31f3a3
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,1,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,0,1,1,,,,,"",""
+ball,1,0.3,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,1,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,1,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,1,0,,,,,,"",""
+ball,1,0.7,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,1,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,RD Gaikwad,DP Conway,Avesh Khan,0,5,5,,,,,"",""
+ball,1,1.2,Chennai Super Kings,RD Gaikwad,DP Conway,Avesh Khan,3,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,DP Conway,RD Gaikwad,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,DP Conway,RD Gaikwad,Avesh Khan,4,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,DP Conway,RD Gaikwad,Avesh Khan,4,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,DP Conway,RD Gaikwad,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.7,Chennai Super Kings,DP Conway,RD Gaikwad,Avesh Khan,1,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,1,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,4,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,2,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,DP Conway,RD Gaikwad,KR Mayers,1,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,RD Gaikwad,DP Conway,KR Mayers,1,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,1,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,1,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,0,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,4,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,1,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,0,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,6,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,0,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,6,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,2,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,RD Gaikwad,DP Conway,K Gowtham,6,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,DP Conway,RD Gaikwad,MA Wood,4,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,DP Conway,RD Gaikwad,MA Wood,0,4,,,4,,,"",""
+ball,1,5.3,Chennai Super Kings,DP Conway,RD Gaikwad,MA Wood,4,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,DP Conway,RD Gaikwad,MA Wood,1,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,RD Gaikwad,DP Conway,MA Wood,6,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,RD Gaikwad,DP Conway,MA Wood,0,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,DP Conway,RD Gaikwad,Yash Thakur,1,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,DP Conway,RD Gaikwad,Yash Thakur,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,0,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,DP Conway,RD Gaikwad,Yash Thakur,1,1,,1,,,,"",""
+ball,1,6.7,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,1,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,1,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,RD Gaikwad,DP Conway,KH Pandya,0,1,,,,1,,"",""
+ball,1,7.4,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,6,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,0,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,DP Conway,RD Gaikwad,KH Pandya,6,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,4,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,DP Conway,RD Gaikwad,Yash Thakur,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,DP Conway,RD Gaikwad,Yash Thakur,0,1,,,,1,,"",""
+ball,1,8.6,Chennai Super Kings,RD Gaikwad,DP Conway,Yash Thakur,1,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,RD Gaikwad,DP Conway,Ravi Bishnoi,0,0,,,,,,caught,RD Gaikwad
+ball,1,9.2,Chennai Super Kings,S Dube,DP Conway,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,S Dube,DP Conway,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,S Dube,DP Conway,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,DP Conway,S Dube,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,DP Conway,S Dube,Ravi Bishnoi,3,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,DP Conway,S Dube,MA Wood,4,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,DP Conway,S Dube,MA Wood,0,0,,,,,,caught,DP Conway
+ball,1,10.3,Chennai Super Kings,MM Ali,S Dube,MA Wood,1,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,S Dube,MM Ali,MA Wood,0,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,S Dube,MM Ali,MA Wood,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,MM Ali,S Dube,MA Wood,0,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,MM Ali,S Dube,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,MM Ali,S Dube,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,MM Ali,S Dube,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,MM Ali,S Dube,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,S Dube,MM Ali,Yash Thakur,1,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,MM Ali,S Dube,Yash Thakur,1,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,S Dube,MM Ali,Yash Thakur,0,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,S Dube,MM Ali,Yash Thakur,0,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,S Dube,MM Ali,Yash Thakur,6,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,S Dube,MM Ali,Yash Thakur,4,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,MM Ali,S Dube,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,S Dube,MM Ali,Ravi Bishnoi,0,0,,,,,,caught,S Dube
+ball,1,13.6,Chennai Super Kings,BA Stokes,MM Ali,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,MM Ali,BA Stokes,Avesh Khan,1,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,BA Stokes,MM Ali,Avesh Khan,0,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,BA Stokes,MM Ali,Avesh Khan,1,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,MM Ali,BA Stokes,Avesh Khan,4,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,MM Ali,BA Stokes,Avesh Khan,4,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,MM Ali,BA Stokes,Avesh Khan,4,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,BA Stokes,MM Ali,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,15.2,Chennai Super Kings,BA Stokes,MM Ali,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,MM Ali,BA Stokes,Ravi Bishnoi,0,0,,,,,,stumped,MM Ali
+ball,1,15.4,Chennai Super Kings,AT Rayudu,BA Stokes,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,AT Rayudu,BA Stokes,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,AT Rayudu,BA Stokes,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,15.7,Chennai Super Kings,AT Rayudu,BA Stokes,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,BA Stokes,AT Rayudu,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,AT Rayudu,BA Stokes,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,BA Stokes,AT Rayudu,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.4,Chennai Super Kings,AT Rayudu,BA Stokes,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,BA Stokes,AT Rayudu,Avesh Khan,4,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,BA Stokes,AT Rayudu,Avesh Khan,0,0,,,,,,caught,BA Stokes
+ball,1,17.1,Chennai Super Kings,AT Rayudu,RA Jadeja,MA Wood,6,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,AT Rayudu,RA Jadeja,MA Wood,1,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,RA Jadeja,AT Rayudu,MA Wood,0,1,,,,1,,"",""
+ball,1,17.4,Chennai Super Kings,AT Rayudu,RA Jadeja,MA Wood,6,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,AT Rayudu,RA Jadeja,MA Wood,1,0,,,,,,"",""
+ball,1,17.6,Chennai Super Kings,RA Jadeja,AT Rayudu,MA Wood,0,1,,,,1,,"",""
+ball,1,18.1,Chennai Super Kings,RA Jadeja,AT Rayudu,Yash Thakur,1,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,AT Rayudu,RA Jadeja,Yash Thakur,1,0,,,,,,"",""
+ball,1,18.3,Chennai Super Kings,RA Jadeja,AT Rayudu,Yash Thakur,1,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,AT Rayudu,RA Jadeja,Yash Thakur,4,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,AT Rayudu,RA Jadeja,Yash Thakur,1,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,RA Jadeja,AT Rayudu,Yash Thakur,1,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,RA Jadeja,AT Rayudu,MA Wood,0,0,,,,,,caught,RA Jadeja
+ball,1,19.2,Chennai Super Kings,MS Dhoni,AT Rayudu,MA Wood,6,0,,,,,,"",""
+ball,1,19.3,Chennai Super Kings,MS Dhoni,AT Rayudu,MA Wood,6,0,,,,,,"",""
+ball,1,19.4,Chennai Super Kings,MS Dhoni,AT Rayudu,MA Wood,0,0,,,,,,caught,MS Dhoni
+ball,1,19.5,Chennai Super Kings,MJ Santner,AT Rayudu,MA Wood,1,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,AT Rayudu,MJ Santner,MA Wood,1,0,,,,,,"",""
+ball,2,0.1,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,0,0,,,,,,"",""
+ball,2,0.2,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,0,0,,,,,,"",""
+ball,2,0.3,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,2,0,,,,,,"",""
+ball,2,0.4,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,4,0,,,,,,"",""
+ball,2,0.5,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,1,0,,,,,,"",""
+ball,2,0.6,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,2,1.1,Lucknow Super Giants,KL Rahul,KR Mayers,BA Stokes,2,0,,,,,,"",""
+ball,2,1.2,Lucknow Super Giants,KL Rahul,KR Mayers,BA Stokes,1,0,,,,,,"",""
+ball,2,1.3,Lucknow Super Giants,KR Mayers,KL Rahul,BA Stokes,4,0,,,,,,"",""
+ball,2,1.4,Lucknow Super Giants,KR Mayers,KL Rahul,BA Stokes,4,0,,,,,,"",""
+ball,2,1.5,Lucknow Super Giants,KR Mayers,KL Rahul,BA Stokes,6,0,,,,,,"",""
+ball,2,1.6,Lucknow Super Giants,KR Mayers,KL Rahul,BA Stokes,1,0,,,,,,"",""
+ball,2,2.1,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,2,2.2,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,2,2.3,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,2,2.4,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,1,1,,,,,"",""
+ball,2,2.5,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,2,2.6,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,2,2.7,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,0,,,,,,"",""
+ball,2,3.1,Lucknow Super Giants,KL Rahul,KR Mayers,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.2,Lucknow Super Giants,KL Rahul,KR Mayers,TU Deshpande,1,0,,,,,,"",""
+ball,2,3.3,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,2,0,,,,,,"",""
+ball,2,3.4,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,1,,1,,,,"",""
+ball,2,3.5,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,1,1,,,,,"",""
+ball,2,3.6,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,1,,1,,,,"",""
+ball,2,3.7,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,1,1,,,,,"",""
+ball,2,3.8,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,4,0,,,,,,"",""
+ball,2,3.9,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,1,1,,,,,"",""
+ball,2,3.10,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,6,0,,,,,,"",""
+ball,2,3.11,Lucknow Super Giants,KR Mayers,KL Rahul,TU Deshpande,0,0,,,,,,"",""
+ball,2,4.1,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,2,0,,,,,,"",""
+ball,2,4.2,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,1,0,,,,,,"",""
+ball,2,4.3,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,2,4.4,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,0,1,1,,,,,"",""
+ball,2,4.5,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,4,0,,,,,,"",""
+ball,2,4.6,Lucknow Super Giants,KR Mayers,KL Rahul,DL Chahar,1,0,,,,,,"",""
+ball,2,4.7,Lucknow Super Giants,KL Rahul,KR Mayers,DL Chahar,4,0,,,,,,"",""
+ball,2,5.1,Lucknow Super Giants,KR Mayers,KL Rahul,MM Ali,5,0,,,,,,"",""
+ball,2,5.2,Lucknow Super Giants,KL Rahul,KR Mayers,MM Ali,1,0,,,,,,"",""
+ball,2,5.3,Lucknow Super Giants,KR Mayers,KL Rahul,MM Ali,0,0,,,,,,caught,KR Mayers
+ball,2,5.4,Lucknow Super Giants,DJ Hooda,KL Rahul,MM Ali,0,0,,,,,,"",""
+ball,2,5.5,Lucknow Super Giants,DJ Hooda,KL Rahul,MM Ali,0,0,,,,,,"",""
+ball,2,5.6,Lucknow Super Giants,DJ Hooda,KL Rahul,MM Ali,1,0,,,,,,"",""
+ball,2,6.1,Lucknow Super Giants,DJ Hooda,KL Rahul,MJ Santner,1,0,,,,,,"",""
+ball,2,6.2,Lucknow Super Giants,KL Rahul,DJ Hooda,MJ Santner,0,0,,,,,,"",""
+ball,2,6.3,Lucknow Super Giants,KL Rahul,DJ Hooda,MJ Santner,0,0,,,,,,"",""
+ball,2,6.4,Lucknow Super Giants,KL Rahul,DJ Hooda,MJ Santner,1,0,,,,,,"",""
+ball,2,6.5,Lucknow Super Giants,DJ Hooda,KL Rahul,MJ Santner,0,0,,,,,,"",""
+ball,2,6.6,Lucknow Super Giants,DJ Hooda,KL Rahul,MJ Santner,0,0,,,,,,caught,DJ Hooda
+ball,2,7.1,Lucknow Super Giants,KL Rahul,KH Pandya,MM Ali,0,0,,,,,,"",""
+ball,2,7.2,Lucknow Super Giants,KL Rahul,KH Pandya,MM Ali,0,0,,,,,,caught,KL Rahul
+ball,2,7.3,Lucknow Super Giants,MP Stoinis,KH Pandya,MM Ali,1,0,,,,,,"",""
+ball,2,7.4,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,0,0,,,,,,"",""
+ball,2,7.5,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,0,0,,,,,,"",""
+ball,2,7.6,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,1,0,,,,,,"",""
+ball,2,8.1,Lucknow Super Giants,KH Pandya,MP Stoinis,MJ Santner,1,0,,,,,,"",""
+ball,2,8.2,Lucknow Super Giants,MP Stoinis,KH Pandya,MJ Santner,1,0,,,,,,"",""
+ball,2,8.3,Lucknow Super Giants,KH Pandya,MP Stoinis,MJ Santner,6,0,,,,,,"",""
+ball,2,8.4,Lucknow Super Giants,KH Pandya,MP Stoinis,MJ Santner,0,1,,,,1,,"",""
+ball,2,8.5,Lucknow Super Giants,MP Stoinis,KH Pandya,MJ Santner,2,0,,,,,,"",""
+ball,2,8.6,Lucknow Super Giants,MP Stoinis,KH Pandya,MJ Santner,1,0,,,,,,"",""
+ball,2,9.1,Lucknow Super Giants,MP Stoinis,KH Pandya,MM Ali,6,0,,,,,,"",""
+ball,2,9.2,Lucknow Super Giants,MP Stoinis,KH Pandya,MM Ali,1,0,,,,,,"",""
+ball,2,9.3,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,1,0,,,,,,"",""
+ball,2,9.4,Lucknow Super Giants,MP Stoinis,KH Pandya,MM Ali,1,0,,,,,,"",""
+ball,2,9.5,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,0,0,,,,,,"",""
+ball,2,9.6,Lucknow Super Giants,KH Pandya,MP Stoinis,MM Ali,0,0,,,,,,caught,KH Pandya
+ball,2,10.1,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,0,0,,,,,,"",""
+ball,2,10.2,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,2,10.3,Lucknow Super Giants,N Pooran,MP Stoinis,MJ Santner,1,0,,,,,,"",""
+ball,2,10.4,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,2,10.5,Lucknow Super Giants,N Pooran,MP Stoinis,MJ Santner,1,0,,,,,,"",""
+ball,2,10.6,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,2,11.1,Lucknow Super Giants,MP Stoinis,N Pooran,RS Hangargekar,1,0,,,,,,"",""
+ball,2,11.2,Lucknow Super Giants,N Pooran,MP Stoinis,RS Hangargekar,0,0,,,,,,"",""
+ball,2,11.3,Lucknow Super Giants,N Pooran,MP Stoinis,RS Hangargekar,6,0,,,,,,"",""
+ball,2,11.4,Lucknow Super Giants,N Pooran,MP Stoinis,RS Hangargekar,4,0,,,,,,"",""
+ball,2,11.5,Lucknow Super Giants,N Pooran,MP Stoinis,RS Hangargekar,4,0,,,,,,"",""
+ball,2,11.6,Lucknow Super Giants,N Pooran,MP Stoinis,RS Hangargekar,0,0,,,,,,"",""
+ball,2,12.1,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,2,12.2,Lucknow Super Giants,N Pooran,MP Stoinis,MJ Santner,1,0,,,,,,"",""
+ball,2,12.3,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,0,0,,,,,,"",""
+ball,2,12.4,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,0,0,,,,,,"",""
+ball,2,12.5,Lucknow Super Giants,MP Stoinis,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,2,12.6,Lucknow Super Giants,N Pooran,MP Stoinis,MJ Santner,0,0,,,,,,"",""
+ball,2,13.1,Lucknow Super Giants,MP Stoinis,N Pooran,MM Ali,2,0,,,,,,"",""
+ball,2,13.2,Lucknow Super Giants,MP Stoinis,N Pooran,MM Ali,0,0,,,,,,bowled,MP Stoinis
+ball,2,13.3,Lucknow Super Giants,A Badoni,N Pooran,MM Ali,2,0,,,,,,"",""
+ball,2,13.4,Lucknow Super Giants,A Badoni,N Pooran,MM Ali,0,1,1,,,,,"",""
+ball,2,13.5,Lucknow Super Giants,A Badoni,N Pooran,MM Ali,1,0,,,,,,"",""
+ball,2,13.6,Lucknow Super Giants,N Pooran,A Badoni,MM Ali,1,0,,,,,,"",""
+ball,2,13.7,Lucknow Super Giants,A Badoni,N Pooran,MM Ali,1,0,,,,,,"",""
+ball,2,14.1,Lucknow Super Giants,A Badoni,N Pooran,RA Jadeja,1,0,,,,,,"",""
+ball,2,14.2,Lucknow Super Giants,N Pooran,A Badoni,RA Jadeja,0,0,,,,,,"",""
+ball,2,14.3,Lucknow Super Giants,N Pooran,A Badoni,RA Jadeja,6,0,,,,,,"",""
+ball,2,14.4,Lucknow Super Giants,N Pooran,A Badoni,RA Jadeja,0,0,,,,,,"",""
+ball,2,14.5,Lucknow Super Giants,N Pooran,A Badoni,RA Jadeja,6,0,,,,,,"",""
+ball,2,14.6,Lucknow Super Giants,N Pooran,A Badoni,RA Jadeja,1,0,,,,,,"",""
+ball,2,15.1,Lucknow Super Giants,N Pooran,A Badoni,TU Deshpande,0,0,,,,,,"",""
+ball,2,15.2,Lucknow Super Giants,N Pooran,A Badoni,TU Deshpande,1,0,,,,,,"",""
+ball,2,15.3,Lucknow Super Giants,A Badoni,N Pooran,TU Deshpande,2,0,,,,,,"",""
+ball,2,15.4,Lucknow Super Giants,A Badoni,N Pooran,TU Deshpande,2,0,,,,,,"",""
+ball,2,15.5,Lucknow Super Giants,A Badoni,N Pooran,TU Deshpande,1,0,,,,,,"",""
+ball,2,15.6,Lucknow Super Giants,N Pooran,A Badoni,TU Deshpande,0,0,,,,,,caught,N Pooran
+ball,2,16.1,Lucknow Super Giants,A Badoni,K Gowtham,DL Chahar,1,0,,,,,,"",""
+ball,2,16.2,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,2,0,,,,,,"",""
+ball,2,16.3,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,0,1,1,,,,,"",""
+ball,2,16.4,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,0,1,1,,,,,"",""
+ball,2,16.5,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,0,1,1,,,,,"",""
+ball,2,16.6,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,6,0,,,,,,"",""
+ball,2,16.7,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,2,0,,,,,,"",""
+ball,2,16.8,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,2,0,,,,,,"",""
+ball,2,16.9,Lucknow Super Giants,K Gowtham,A Badoni,DL Chahar,2,0,,,,,,"",""
+ball,2,17.1,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.2,Lucknow Super Giants,K Gowtham,A Badoni,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.3,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,2,0,,,,,,"",""
+ball,2,17.4,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.5,Lucknow Super Giants,K Gowtham,A Badoni,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.6,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,1,0,,,,,,"",""
+ball,2,18.1,Lucknow Super Giants,A Badoni,K Gowtham,RS Hangargekar,1,0,,,,,,"",""
+ball,2,18.2,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,0,1,1,,,,,"",""
+ball,2,18.3,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,0,0,,,,,,"",""
+ball,2,18.4,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,0,1,1,,,,,"",""
+ball,2,18.5,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,0,0,,,,,,"",""
+ball,2,18.6,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,0,1,1,,,,,"",""
+ball,2,18.7,Lucknow Super Giants,K Gowtham,A Badoni,RS Hangargekar,1,0,,,,,,"",""
+ball,2,18.8,Lucknow Super Giants,A Badoni,K Gowtham,RS Hangargekar,2,0,,,,,,"",""
+ball,2,18.9,Lucknow Super Giants,A Badoni,K Gowtham,RS Hangargekar,2,0,,,,,,"",""
+ball,2,19.1,Lucknow Super Giants,K Gowtham,A Badoni,TU Deshpande,0,1,1,,,,,"",""
+ball,2,19.2,Lucknow Super Giants,K Gowtham,A Badoni,TU Deshpande,0,2,,1,,1,,"",""
+ball,2,19.3,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,2,0,,,,,,"",""
+ball,2,19.4,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,0,0,,,,,,"",""
+ball,2,19.5,Lucknow Super Giants,A Badoni,K Gowtham,TU Deshpande,0,0,,,,,,caught,A Badoni
+ball,2,19.6,Lucknow Super Giants,MA Wood,K Gowtham,TU Deshpande,0,0,,,,,,"",""
+ball,2,19.7,Lucknow Super Giants,MA Wood,K Gowtham,TU Deshpande,4,0,,,,,,"",""
+ball,2,19.8,Lucknow Super Giants,MA Wood,K Gowtham,TU Deshpande,6,0,,,,,,"",""

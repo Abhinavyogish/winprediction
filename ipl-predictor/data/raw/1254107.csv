@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Sunrisers Hyderabad
+info,gender,male
+info,season,2021
+info,date,2021/09/25
+info,event,Indian Premier League
+info,match_number,37
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,field
+info,player_of_match,JO Holder
+info,umpire,RK Illingworth
+info,umpire,YC Barde
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,Prakash Bhatt
+info,winner,Punjab Kings
+info,winner_runs,5
+info,player,Punjab Kings,KL Rahul
+info,player,Punjab Kings,MA Agarwal
+info,player,Punjab Kings,CH Gayle
+info,player,Punjab Kings,AK Markram
+info,player,Punjab Kings,N Pooran
+info,player,Punjab Kings,DJ Hooda
+info,player,Punjab Kings,Harpreet Brar
+info,player,Punjab Kings,NT Ellis
+info,player,Punjab Kings,Mohammed Shami
+info,player,Punjab Kings,Ravi Bishnoi
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Sunrisers Hyderabad,DA Warner
+info,player,Sunrisers Hyderabad,WP Saha
+info,player,Sunrisers Hyderabad,KS Williamson
+info,player,Sunrisers Hyderabad,MK Pandey
+info,player,Sunrisers Hyderabad,KM Jadhav
+info,player,Sunrisers Hyderabad,Abdul Samad
+info,player,Sunrisers Hyderabad,JO Holder
+info,player,Sunrisers Hyderabad,Rashid Khan
+info,player,Sunrisers Hyderabad,B Kumar
+info,player,Sunrisers Hyderabad,Sandeep Sharma
+info,player,Sunrisers Hyderabad,KK Ahmed
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Suchith,4125d931
+info,registry,people,JO Holder,0f721006
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,0.2,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,0.3,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,0.4,Punjab Kings,MA Agarwal,KL Rahul,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,0.5,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,0.6,Punjab Kings,MA Agarwal,KL Rahul,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,1.1,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,0,0,,,,,,"",""
+ball,1,1.2,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,0,0,,,,,,"",""
+ball,1,1.3,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,4,0,,,,,,"",""
+ball,1,1.4,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,2,0,,,,,,"",""
+ball,1,1.5,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,1,0,,,,,,"",""
+ball,1,1.6,Punjab Kings,MA Agarwal,KL Rahul,B Kumar,3,0,,,,,,"",""
+ball,1,2.1,Punjab Kings,MA Agarwal,KL Rahul,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,2.2,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,2.3,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,2.4,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,2.5,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,2.6,Punjab Kings,KL Rahul,MA Agarwal,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,3.1,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,0,0,,,,,,"",""
+ball,1,3.2,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,0,0,,,,,,"",""
+ball,1,3.3,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,0,0,,,,,,"",""
+ball,1,3.4,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,2,0,,,,,,"",""
+ball,1,3.5,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,4,0,,,,,,"",""
+ball,1,3.6,Punjab Kings,KL Rahul,MA Agarwal,B Kumar,1,0,,,,,,"",""
+ball,1,4.1,Punjab Kings,KL Rahul,MA Agarwal,JO Holder,0,0,,,,,,caught,KL Rahul
+ball,1,4.2,Punjab Kings,CH Gayle,MA Agarwal,JO Holder,0,0,,,,,,"",""
+ball,1,4.3,Punjab Kings,CH Gayle,MA Agarwal,JO Holder,1,0,,,,,,"",""
+ball,1,4.4,Punjab Kings,MA Agarwal,CH Gayle,JO Holder,0,0,,,,,,"",""
+ball,1,4.5,Punjab Kings,MA Agarwal,CH Gayle,JO Holder,0,0,,,,,,caught,MA Agarwal
+ball,1,4.6,Punjab Kings,AK Markram,CH Gayle,JO Holder,0,0,,,,,,"",""
+ball,1,5.1,Punjab Kings,CH Gayle,AK Markram,Sandeep Sharma,0,1,,,,1,,"",""
+ball,1,5.2,Punjab Kings,AK Markram,CH Gayle,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,5.3,Punjab Kings,AK Markram,CH Gayle,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,5.4,Punjab Kings,AK Markram,CH Gayle,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,5.5,Punjab Kings,CH Gayle,AK Markram,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,5.6,Punjab Kings,CH Gayle,AK Markram,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,6.1,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,0,0,,,,,,"",""
+ball,1,6.2,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,0,0,,,,,,"",""
+ball,1,6.3,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,0,0,,,,,,"",""
+ball,1,6.4,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,2,0,,,,,,"",""
+ball,1,6.5,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,1,0,,,,,,"",""
+ball,1,6.6,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,0,0,,,,,,"",""
+ball,1,7.1,Punjab Kings,AK Markram,CH Gayle,JO Holder,1,0,,,,,,"",""
+ball,1,7.2,Punjab Kings,CH Gayle,AK Markram,JO Holder,1,0,,,,,,"",""
+ball,1,7.3,Punjab Kings,AK Markram,CH Gayle,JO Holder,1,0,,,,,,"",""
+ball,1,7.4,Punjab Kings,CH Gayle,AK Markram,JO Holder,2,0,,,,,,"",""
+ball,1,7.5,Punjab Kings,CH Gayle,AK Markram,JO Holder,1,0,,,,,,"",""
+ball,1,7.6,Punjab Kings,AK Markram,CH Gayle,JO Holder,1,0,,,,,,"",""
+ball,1,8.1,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.2,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.3,Punjab Kings,CH Gayle,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.4,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.5,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.6,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,4,0,,,,,,"",""
+ball,1,9.1,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,4,0,,,,,,"",""
+ball,1,9.2,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,0,1,1,,,,,"",""
+ball,1,9.3,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,1,0,,,,,,"",""
+ball,1,9.4,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,1,0,,,,,,"",""
+ball,1,9.5,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,1,0,,,,,,"",""
+ball,1,9.6,Punjab Kings,AK Markram,CH Gayle,KK Ahmed,1,0,,,,,,"",""
+ball,1,9.7,Punjab Kings,CH Gayle,AK Markram,KK Ahmed,1,0,,,,,,"",""
+ball,1,10.1,Punjab Kings,CH Gayle,AK Markram,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.2,Punjab Kings,CH Gayle,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.3,Punjab Kings,AK Markram,CH Gayle,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.4,Punjab Kings,CH Gayle,AK Markram,Rashid Khan,0,0,,,,,,lbw,CH Gayle
+ball,1,10.5,Punjab Kings,N Pooran,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.6,Punjab Kings,AK Markram,N Pooran,Rashid Khan,0,0,,,,,,"",""
+ball,1,11.1,Punjab Kings,N Pooran,AK Markram,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,11.2,Punjab Kings,AK Markram,N Pooran,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,11.3,Punjab Kings,N Pooran,AK Markram,Sandeep Sharma,6,0,,,,,,"",""
+ball,1,11.4,Punjab Kings,N Pooran,AK Markram,Sandeep Sharma,0,0,,,,,,caught and bowled,N Pooran
+ball,1,11.5,Punjab Kings,DJ Hooda,AK Markram,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,11.6,Punjab Kings,AK Markram,DJ Hooda,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,12.1,Punjab Kings,AK Markram,DJ Hooda,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.2,Punjab Kings,DJ Hooda,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.3,Punjab Kings,AK Markram,DJ Hooda,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.4,Punjab Kings,DJ Hooda,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.5,Punjab Kings,AK Markram,DJ Hooda,Rashid Khan,0,1,,,,1,,"",""
+ball,1,12.6,Punjab Kings,DJ Hooda,AK Markram,Rashid Khan,1,0,,,,,,"",""
+ball,1,13.1,Punjab Kings,DJ Hooda,AK Markram,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.2,Punjab Kings,AK Markram,DJ Hooda,KK Ahmed,4,0,,,,,,"",""
+ball,1,13.3,Punjab Kings,AK Markram,DJ Hooda,KK Ahmed,2,0,,,,,,"",""
+ball,1,13.4,Punjab Kings,AK Markram,DJ Hooda,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.5,Punjab Kings,DJ Hooda,AK Markram,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.6,Punjab Kings,AK Markram,DJ Hooda,KK Ahmed,0,1,,,,1,,"",""
+ball,1,14.1,Punjab Kings,AK Markram,DJ Hooda,Abdul Samad,1,0,,,,,,"",""
+ball,1,14.2,Punjab Kings,DJ Hooda,AK Markram,Abdul Samad,2,0,,,,,,"",""
+ball,1,14.3,Punjab Kings,DJ Hooda,AK Markram,Abdul Samad,1,0,,,,,,"",""
+ball,1,14.4,Punjab Kings,AK Markram,DJ Hooda,Abdul Samad,0,0,,,,,,caught,AK Markram
+ball,1,14.5,Punjab Kings,Harpreet Brar,DJ Hooda,Abdul Samad,1,0,,,,,,"",""
+ball,1,14.6,Punjab Kings,DJ Hooda,Harpreet Brar,Abdul Samad,4,0,,,,,,"",""
+ball,1,15.1,Punjab Kings,Harpreet Brar,DJ Hooda,JO Holder,2,0,,,,,,"",""
+ball,1,15.2,Punjab Kings,Harpreet Brar,DJ Hooda,JO Holder,0,0,,,,,,"",""
+ball,1,15.3,Punjab Kings,Harpreet Brar,DJ Hooda,JO Holder,1,0,,,,,,"",""
+ball,1,15.4,Punjab Kings,DJ Hooda,Harpreet Brar,JO Holder,0,0,,,,,,caught,DJ Hooda
+ball,1,15.5,Punjab Kings,NT Ellis,Harpreet Brar,JO Holder,0,0,,,,,,"",""
+ball,1,15.6,Punjab Kings,NT Ellis,Harpreet Brar,JO Holder,1,0,,,,,,"",""
+ball,1,16.1,Punjab Kings,NT Ellis,Harpreet Brar,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.2,Punjab Kings,Harpreet Brar,NT Ellis,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.3,Punjab Kings,Harpreet Brar,NT Ellis,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.4,Punjab Kings,Harpreet Brar,NT Ellis,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.5,Punjab Kings,Harpreet Brar,NT Ellis,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.6,Punjab Kings,Harpreet Brar,NT Ellis,Rashid Khan,2,0,,,,,,"",""
+ball,1,17.1,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,0,0,,,,,,"",""
+ball,1,17.2,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,0,0,,,,,,"",""
+ball,1,17.3,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,1,0,,,,,,"",""
+ball,1,17.4,Punjab Kings,Harpreet Brar,NT Ellis,B Kumar,1,0,,,,,,"",""
+ball,1,17.5,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,1,0,,,,,,"",""
+ball,1,17.6,Punjab Kings,Harpreet Brar,NT Ellis,B Kumar,1,0,,,,,,"",""
+ball,1,18.1,Punjab Kings,Harpreet Brar,NT Ellis,JO Holder,0,1,1,,,,,"",""
+ball,1,18.2,Punjab Kings,Harpreet Brar,NT Ellis,JO Holder,1,0,,,,,,"",""
+ball,1,18.3,Punjab Kings,NT Ellis,Harpreet Brar,JO Holder,1,0,,,,,,"",""
+ball,1,18.4,Punjab Kings,Harpreet Brar,NT Ellis,JO Holder,0,0,,,,,,"",""
+ball,1,18.5,Punjab Kings,Harpreet Brar,NT Ellis,JO Holder,2,0,,,,,,"",""
+ball,1,18.6,Punjab Kings,Harpreet Brar,NT Ellis,JO Holder,1,0,,,,,,"",""
+ball,1,18.7,Punjab Kings,NT Ellis,Harpreet Brar,JO Holder,1,0,,,,,,"",""
+ball,1,19.1,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,0,0,,,,,,"",""
+ball,1,19.2,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,6,0,,,,,,"",""
+ball,1,19.3,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,0,1,1,,,,,"",""
+ball,1,19.4,Punjab Kings,NT Ellis,Harpreet Brar,B Kumar,0,0,,,,,,caught,NT Ellis
+ball,1,19.5,Punjab Kings,Harpreet Brar,Mohammed Shami,B Kumar,2,0,,,,,,"",""
+ball,1,19.6,Punjab Kings,Harpreet Brar,Mohammed Shami,B Kumar,4,0,,,,,,"",""
+ball,1,19.7,Punjab Kings,Harpreet Brar,Mohammed Shami,B Kumar,0,1,,,1,,,"",""
+ball,2,0.1,Sunrisers Hyderabad,DA Warner,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.2,Sunrisers Hyderabad,DA Warner,WP Saha,Mohammed Shami,2,0,,,,,,"",""
+ball,2,0.3,Sunrisers Hyderabad,DA Warner,WP Saha,Mohammed Shami,0,0,,,,,,caught,DA Warner
+ball,2,0.4,Sunrisers Hyderabad,KS Williamson,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.5,Sunrisers Hyderabad,KS Williamson,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.6,Sunrisers Hyderabad,KS Williamson,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.1,Sunrisers Hyderabad,WP Saha,KS Williamson,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,1.2,Sunrisers Hyderabad,WP Saha,KS Williamson,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.3,Sunrisers Hyderabad,WP Saha,KS Williamson,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.4,Sunrisers Hyderabad,WP Saha,KS Williamson,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.5,Sunrisers Hyderabad,KS Williamson,WP Saha,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.6,Sunrisers Hyderabad,WP Saha,KS Williamson,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.1,Sunrisers Hyderabad,KS Williamson,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.2,Sunrisers Hyderabad,KS Williamson,WP Saha,Mohammed Shami,0,0,,,,,,bowled,KS Williamson
+ball,2,2.3,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.4,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.5,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.6,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.1,Sunrisers Hyderabad,WP Saha,MK Pandey,NT Ellis,0,0,,,,,,"",""
+ball,2,3.2,Sunrisers Hyderabad,WP Saha,MK Pandey,NT Ellis,1,0,,,,,,"",""
+ball,2,3.3,Sunrisers Hyderabad,MK Pandey,WP Saha,NT Ellis,0,0,,,,,,"",""
+ball,2,3.4,Sunrisers Hyderabad,MK Pandey,WP Saha,NT Ellis,0,0,,,,,,"",""
+ball,2,3.5,Sunrisers Hyderabad,MK Pandey,WP Saha,NT Ellis,1,0,,,,,,"",""
+ball,2,3.6,Sunrisers Hyderabad,WP Saha,MK Pandey,NT Ellis,0,0,,,,,,"",""
+ball,2,4.1,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.2,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,2,0,,,,,,"",""
+ball,2,4.3,Sunrisers Hyderabad,MK Pandey,WP Saha,Mohammed Shami,1,0,,,,,,"",""
+ball,2,4.4,Sunrisers Hyderabad,WP Saha,MK Pandey,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.5,Sunrisers Hyderabad,WP Saha,MK Pandey,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.6,Sunrisers Hyderabad,WP Saha,MK Pandey,Mohammed Shami,0,0,,,,,,"",""
+ball,2,5.1,Sunrisers Hyderabad,MK Pandey,WP Saha,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,5.2,Sunrisers Hyderabad,MK Pandey,WP Saha,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.3,Sunrisers Hyderabad,WP Saha,MK Pandey,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,5.4,Sunrisers Hyderabad,WP Saha,MK Pandey,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.5,Sunrisers Hyderabad,MK Pandey,WP Saha,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,5.6,Sunrisers Hyderabad,MK Pandey,WP Saha,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.1,Sunrisers Hyderabad,MK Pandey,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.2,Sunrisers Hyderabad,WP Saha,MK Pandey,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.3,Sunrisers Hyderabad,MK Pandey,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.4,Sunrisers Hyderabad,WP Saha,MK Pandey,Harpreet Brar,0,2,2,,,,,"",""
+ball,2,6.5,Sunrisers Hyderabad,MK Pandey,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,6.6,Sunrisers Hyderabad,MK Pandey,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,6.7,Sunrisers Hyderabad,MK Pandey,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,7.1,Sunrisers Hyderabad,WP Saha,MK Pandey,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.2,Sunrisers Hyderabad,MK Pandey,WP Saha,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,7.3,Sunrisers Hyderabad,MK Pandey,WP Saha,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,7.4,Sunrisers Hyderabad,MK Pandey,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.5,Sunrisers Hyderabad,WP Saha,MK Pandey,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.6,Sunrisers Hyderabad,MK Pandey,WP Saha,Ravi Bishnoi,0,0,,,,,,bowled,MK Pandey
+ball,2,8.1,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,8.2,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,8.3,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,2,0,,,,,,"",""
+ball,2,8.4,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,8.5,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,2,0,,,,,,"",""
+ball,2,8.6,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,9.1,Sunrisers Hyderabad,WP Saha,KM Jadhav,NT Ellis,1,0,,,,,,"",""
+ball,2,9.2,Sunrisers Hyderabad,KM Jadhav,WP Saha,NT Ellis,1,0,,,,,,"",""
+ball,2,9.3,Sunrisers Hyderabad,WP Saha,KM Jadhav,NT Ellis,0,0,,,,,,"",""
+ball,2,9.4,Sunrisers Hyderabad,WP Saha,KM Jadhav,NT Ellis,0,0,,,,,,"",""
+ball,2,9.5,Sunrisers Hyderabad,WP Saha,KM Jadhav,NT Ellis,1,0,,,,,,"",""
+ball,2,9.6,Sunrisers Hyderabad,KM Jadhav,WP Saha,NT Ellis,1,0,,,,,,"",""
+ball,2,10.1,Sunrisers Hyderabad,KM Jadhav,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.2,Sunrisers Hyderabad,WP Saha,KM Jadhav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,10.3,Sunrisers Hyderabad,WP Saha,KM Jadhav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.4,Sunrisers Hyderabad,KM Jadhav,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.5,Sunrisers Hyderabad,WP Saha,KM Jadhav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,10.6,Sunrisers Hyderabad,WP Saha,KM Jadhav,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,10.7,Sunrisers Hyderabad,WP Saha,KM Jadhav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,11.1,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,3,0,,,,,,"",""
+ball,2,11.2,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,11.3,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,11.4,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,1,0,,,,,,"",""
+ball,2,11.5,Sunrisers Hyderabad,KM Jadhav,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,11.6,Sunrisers Hyderabad,WP Saha,KM Jadhav,Harpreet Brar,2,0,,,,,,"",""
+ball,2,12.1,Sunrisers Hyderabad,KM Jadhav,WP Saha,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,12.2,Sunrisers Hyderabad,KM Jadhav,WP Saha,Ravi Bishnoi,0,0,,,,,,bowled,KM Jadhav
+ball,2,12.3,Sunrisers Hyderabad,Abdul Samad,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,12.4,Sunrisers Hyderabad,WP Saha,Abdul Samad,Ravi Bishnoi,0,2,,,,2,,"",""
+ball,2,12.5,Sunrisers Hyderabad,WP Saha,Abdul Samad,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,12.6,Sunrisers Hyderabad,Abdul Samad,WP Saha,Ravi Bishnoi,0,0,,,,,,caught,Abdul Samad
+ball,2,13.1,Sunrisers Hyderabad,WP Saha,JO Holder,Harpreet Brar,1,0,,,,,,"",""
+ball,2,13.2,Sunrisers Hyderabad,JO Holder,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,13.3,Sunrisers Hyderabad,WP Saha,JO Holder,Harpreet Brar,1,0,,,,,,"",""
+ball,2,13.4,Sunrisers Hyderabad,JO Holder,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,13.5,Sunrisers Hyderabad,JO Holder,WP Saha,Harpreet Brar,0,0,,,,,,"",""
+ball,2,13.6,Sunrisers Hyderabad,JO Holder,WP Saha,Harpreet Brar,1,0,,,,,,"",""
+ball,2,14.1,Sunrisers Hyderabad,JO Holder,WP Saha,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,14.2,Sunrisers Hyderabad,JO Holder,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,14.3,Sunrisers Hyderabad,WP Saha,JO Holder,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,14.4,Sunrisers Hyderabad,JO Holder,WP Saha,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,14.5,Sunrisers Hyderabad,JO Holder,WP Saha,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,14.6,Sunrisers Hyderabad,JO Holder,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.1,Sunrisers Hyderabad,JO Holder,WP Saha,NT Ellis,6,0,,,,,,"",""
+ball,2,15.2,Sunrisers Hyderabad,JO Holder,WP Saha,NT Ellis,6,0,,,,,,"",""
+ball,2,15.3,Sunrisers Hyderabad,JO Holder,WP Saha,NT Ellis,1,0,,,,,,"",""
+ball,2,15.4,Sunrisers Hyderabad,WP Saha,JO Holder,NT Ellis,1,0,,,,,,"",""
+ball,2,15.5,Sunrisers Hyderabad,JO Holder,WP Saha,NT Ellis,2,0,,,,,,"",""
+ball,2,15.6,Sunrisers Hyderabad,JO Holder,WP Saha,NT Ellis,0,0,,,,,,"",""
+ball,2,16.1,Sunrisers Hyderabad,WP Saha,JO Holder,Arshdeep Singh,1,0,,,,,,run out,WP Saha
+ball,2,16.2,Sunrisers Hyderabad,JO Holder,Rashid Khan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.3,Sunrisers Hyderabad,Rashid Khan,JO Holder,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.4,Sunrisers Hyderabad,JO Holder,Rashid Khan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,16.5,Sunrisers Hyderabad,JO Holder,Rashid Khan,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,16.6,Sunrisers Hyderabad,JO Holder,Rashid Khan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.1,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Shami,1,0,,,,,,"",""
+ball,2,17.2,Sunrisers Hyderabad,JO Holder,Rashid Khan,Mohammed Shami,6,0,,,,,,"",""
+ball,2,17.3,Sunrisers Hyderabad,JO Holder,Rashid Khan,Mohammed Shami,0,0,,,,,,"",""
+ball,2,17.4,Sunrisers Hyderabad,JO Holder,Rashid Khan,Mohammed Shami,0,0,,,,,,"",""
+ball,2,17.5,Sunrisers Hyderabad,JO Holder,Rashid Khan,Mohammed Shami,1,0,,,,,,"",""
+ball,2,17.6,Sunrisers Hyderabad,Rashid Khan,JO Holder,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.1,Sunrisers Hyderabad,Rashid Khan,JO Holder,Arshdeep Singh,0,0,,,,,,caught and bowled,Rashid Khan
+ball,2,18.2,Sunrisers Hyderabad,JO Holder,B Kumar,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,18.3,Sunrisers Hyderabad,JO Holder,B Kumar,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,18.4,Sunrisers Hyderabad,B Kumar,JO Holder,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,18.5,Sunrisers Hyderabad,B Kumar,JO Holder,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,18.6,Sunrisers Hyderabad,B Kumar,JO Holder,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.1,Sunrisers Hyderabad,B Kumar,JO Holder,NT Ellis,0,1,,,1,,,"",""
+ball,2,19.2,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,6,0,,,,,,"",""
+ball,2,19.3,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,0,0,,,,,,"",""
+ball,2,19.4,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,0,0,,,,,,"",""
+ball,2,19.5,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,0,1,1,,,,,"",""
+ball,2,19.6,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,2,0,,,,,,"",""
+ball,2,19.7,Sunrisers Hyderabad,JO Holder,B Kumar,NT Ellis,1,0,,,,,,"",""

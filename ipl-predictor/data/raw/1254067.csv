@@ -1,0 +1,322 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Royal Challengers Bangalore
+info,team,Kolkata Knight Riders
+info,gender,male
+info,season,2021
+info,date,2021/04/18
+info,event,Indian Premier League
+info,match_number,10
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,bat
+info,player_of_match,AB de Villiers
+info,umpire,C Shamshuddin
+info,umpire,Nitin Menon
+info,reserve_umpire,K Srinivasan
+info,tv_umpire,CB Gaffaney
+info,match_referee,V Narayan Kutty
+info,winner,Royal Challengers Bangalore
+info,winner_runs,38
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,D Padikkal
+info,player,Royal Challengers Bangalore,RM Patidar
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,AB de Villiers
+info,player,Royal Challengers Bangalore,KA Jamieson
+info,player,Royal Challengers Bangalore,Washington Sundar
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Royal Challengers Bangalore,YS Chahal
+info,player,Kolkata Knight Riders,N Rana
+info,player,Kolkata Knight Riders,Shubman Gill
+info,player,Kolkata Knight Riders,RA Tripathi
+info,player,Kolkata Knight Riders,EJG Morgan
+info,player,Kolkata Knight Riders,KD Karthik
+info,player,Kolkata Knight Riders,Shakib Al Hasan
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,PJ Cummins
+info,player,Kolkata Knight Riders,Harbhajan Singh
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,M Prasidh Krishna
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AD Russell,bbd41817
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,K Srinivasan,042a8b69
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Royal Challengers Bangalore,V Kohli,D Padikkal,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,0.2,Royal Challengers Bangalore,V Kohli,D Padikkal,Harbhajan Singh,0,1,,1,,,,"",""
+ball,1,0.3,Royal Challengers Bangalore,V Kohli,D Padikkal,Harbhajan Singh,4,0,,,,,,"",""
+ball,1,0.4,Royal Challengers Bangalore,V Kohli,D Padikkal,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,0.5,Royal Challengers Bangalore,D Padikkal,V Kohli,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,0.6,Royal Challengers Bangalore,D Padikkal,V Kohli,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,0.7,Royal Challengers Bangalore,D Padikkal,V Kohli,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,1.1,Royal Challengers Bangalore,V Kohli,D Padikkal,CV Varun,0,0,,,,,,"",""
+ball,1,1.2,Royal Challengers Bangalore,V Kohli,D Padikkal,CV Varun,0,0,,,,,,caught,V Kohli
+ball,1,1.3,Royal Challengers Bangalore,D Padikkal,RM Patidar,CV Varun,1,0,,,,,,"",""
+ball,1,1.4,Royal Challengers Bangalore,RM Patidar,D Padikkal,CV Varun,1,0,,,,,,"",""
+ball,1,1.5,Royal Challengers Bangalore,D Padikkal,RM Patidar,CV Varun,1,0,,,,,,"",""
+ball,1,1.6,Royal Challengers Bangalore,RM Patidar,D Padikkal,CV Varun,0,0,,,,,,bowled,RM Patidar
+ball,1,2.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,2.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,2.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,2.4,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,2.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,1,1,,,,,"",""
+ball,1,2.6,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,2.7,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,3.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,3.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,3.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,3.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,3.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,3.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,4.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,0,0,,,,,,"",""
+ball,1,4.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,4,0,,,,,,"",""
+ball,1,4.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,1,0,,,,,,"",""
+ball,1,4.4,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,PJ Cummins,2,0,,,,,,"",""
+ball,1,4.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,PJ Cummins,0,0,,,,,,"",""
+ball,1,4.6,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,PJ Cummins,2,0,,,,,,"",""
+ball,1,5.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,5.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,5.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,5.4,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,5.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,5.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,6.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,6.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,6.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,M Prasidh Krishna,1,1,,1,,,,"",""
+ball,1,6.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,6.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,6.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,6.7,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,7.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,CV Varun,0,1,,1,,,,"",""
+ball,1,7.2,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,CV Varun,6,0,,,,,,"",""
+ball,1,7.3,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,CV Varun,4,0,,,,,,"",""
+ball,1,7.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,CV Varun,1,0,,,,,,"",""
+ball,1,7.5,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,CV Varun,1,0,,,,,,"",""
+ball,1,7.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,CV Varun,1,0,,,,,,"",""
+ball,1,7.7,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,CV Varun,0,0,,,,,,"",""
+ball,1,8.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,1,0,,,,,,"",""
+ball,1,8.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,PJ Cummins,2,0,,,,,,"",""
+ball,1,8.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,PJ Cummins,1,0,,,,,,"",""
+ball,1,8.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,4,0,,,,,,"",""
+ball,1,8.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,2,0,,,,,,"",""
+ball,1,8.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,PJ Cummins,1,0,,,,,,"",""
+ball,1,9.1,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,9.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,9.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,9.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,9.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,9.6,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,10.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,10.2,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,4,0,,,,,,"",""
+ball,1,10.3,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,10.4,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Harbhajan Singh,4,0,,,,,,"",""
+ball,1,10.5,Royal Challengers Bangalore,GJ Maxwell,D Padikkal,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,10.6,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,11.1,Royal Challengers Bangalore,D Padikkal,GJ Maxwell,M Prasidh Krishna,0,0,,,,,,caught,D Padikkal
+ball,1,11.2,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,11.3,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,11.4,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,11.5,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,2,0,,,,,,"",""
+ball,1,11.6,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,3,0,,,,,,"",""
+ball,1,12.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,1,0,,,,,,"",""
+ball,1,12.2,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CV Varun,1,0,,,,,,"",""
+ball,1,12.3,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,1,0,,,,,,"",""
+ball,1,12.4,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CV Varun,1,0,,,,,,"",""
+ball,1,12.5,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,1,0,,,,,,"",""
+ball,1,12.6,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CV Varun,0,0,,,,,,"",""
+ball,1,13.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,2,0,,,,,,"",""
+ball,1,13.2,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,1,0,,,,,,"",""
+ball,1,13.3,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,1,0,,,,,,"",""
+ball,1,13.4,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,0,0,,,,,,"",""
+ball,1,13.5,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,1,0,,,,,,"",""
+ball,1,13.6,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,0,1,1,,,,,"",""
+ball,1,13.7,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,0,1,1,,,,,"",""
+ball,1,13.8,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,4,0,,,,,,"",""
+ball,1,14.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,0,0,,,,,,"",""
+ball,1,14.2,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,4,0,,,,,,"",""
+ball,1,14.3,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,4,0,,,,,,"",""
+ball,1,14.4,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,CV Varun,1,0,,,,,,"",""
+ball,1,14.5,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CV Varun,2,0,,,,,,"",""
+ball,1,14.6,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CV Varun,6,0,,,,,,"",""
+ball,1,15.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,15.2,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,15.3,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,15.4,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,15.5,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,15.6,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,16.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,1,0,,,,,,"",""
+ball,1,16.2,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,0,0,,,,,,"",""
+ball,1,16.3,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,1,0,,,,,,"",""
+ball,1,16.4,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,PJ Cummins,1,0,,,,,,"",""
+ball,1,16.5,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,0,0,,,,,,"",""
+ball,1,16.6,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,PJ Cummins,0,0,,,,,,caught,GJ Maxwell
+ball,1,17.1,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,0,0,,,,,,"",""
+ball,1,17.2,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,0,1,1,,,,,"",""
+ball,1,17.3,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,6,0,,,,,,"",""
+ball,1,17.4,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,4,0,,,,,,"",""
+ball,1,17.5,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,2,0,,,,,,"",""
+ball,1,17.6,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,4,0,,,,,,"",""
+ball,1,17.7,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,0,0,,,,,,"",""
+ball,1,18.1,Royal Challengers Bangalore,KA Jamieson,AB de Villiers,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,18.2,Royal Challengers Bangalore,KA Jamieson,AB de Villiers,Harbhajan Singh,4,0,,,,,,"",""
+ball,1,18.3,Royal Challengers Bangalore,KA Jamieson,AB de Villiers,Harbhajan Singh,6,0,,,,,,"",""
+ball,1,18.4,Royal Challengers Bangalore,KA Jamieson,AB de Villiers,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,18.5,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,Harbhajan Singh,6,0,,,,,,"",""
+ball,1,18.6,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,19.1,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,4,0,,,,,,"",""
+ball,1,19.2,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,6,0,,,,,,"",""
+ball,1,19.3,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,2,0,,,,,,"",""
+ball,1,19.4,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,0,1,1,,,,,"",""
+ball,1,19.5,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,4,0,,,,,,"",""
+ball,1,19.6,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,0,0,,,,,,"",""
+ball,1,19.7,Royal Challengers Bangalore,AB de Villiers,KA Jamieson,AD Russell,4,0,,,,,,"",""
+ball,2,0.1,Kolkata Knight Riders,N Rana,Shubman Gill,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.2,Kolkata Knight Riders,N Rana,Shubman Gill,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,0.3,Kolkata Knight Riders,Shubman Gill,N Rana,Mohammed Siraj,0,1,1,,,,,"",""
+ball,2,0.4,Kolkata Knight Riders,Shubman Gill,N Rana,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,0.5,Kolkata Knight Riders,Shubman Gill,N Rana,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.6,Kolkata Knight Riders,Shubman Gill,N Rana,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.7,Kolkata Knight Riders,Shubman Gill,N Rana,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.1,Kolkata Knight Riders,Shubman Gill,N Rana,KA Jamieson,4,0,,,,,,"",""
+ball,2,1.2,Kolkata Knight Riders,Shubman Gill,N Rana,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.3,Kolkata Knight Riders,Shubman Gill,N Rana,KA Jamieson,6,0,,,,,,"",""
+ball,2,1.4,Kolkata Knight Riders,Shubman Gill,N Rana,KA Jamieson,6,0,,,,,,"",""
+ball,2,1.5,Kolkata Knight Riders,Shubman Gill,N Rana,KA Jamieson,0,0,,,,,,caught,Shubman Gill
+ball,2,1.6,Kolkata Knight Riders,RA Tripathi,N Rana,KA Jamieson,4,0,,,,,,"",""
+ball,2,2.1,Kolkata Knight Riders,N Rana,RA Tripathi,YS Chahal,1,0,,,,,,"",""
+ball,2,2.2,Kolkata Knight Riders,RA Tripathi,N Rana,YS Chahal,0,0,,,,,,"",""
+ball,2,2.3,Kolkata Knight Riders,RA Tripathi,N Rana,YS Chahal,0,0,,,,,,"",""
+ball,2,2.4,Kolkata Knight Riders,RA Tripathi,N Rana,YS Chahal,0,0,,,,,,"",""
+ball,2,2.5,Kolkata Knight Riders,RA Tripathi,N Rana,YS Chahal,1,0,,,,,,"",""
+ball,2,2.6,Kolkata Knight Riders,N Rana,RA Tripathi,YS Chahal,0,0,,,,,,"",""
+ball,2,3.1,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,4,0,,,,,,"",""
+ball,2,3.2,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,0,0,,,,,,"",""
+ball,2,3.3,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.4,Kolkata Knight Riders,N Rana,RA Tripathi,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.5,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,0,0,,,,,,"",""
+ball,2,3.6,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.1,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,4.2,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,4.3,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,4.4,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,4.5,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,4.6,Kolkata Knight Riders,RA Tripathi,N Rana,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.1,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,1,0,,,,,,"",""
+ball,2,5.2,Kolkata Knight Riders,N Rana,RA Tripathi,Washington Sundar,6,0,,,,,,"",""
+ball,2,5.3,Kolkata Knight Riders,N Rana,RA Tripathi,Washington Sundar,1,0,,,,,,"",""
+ball,2,5.4,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,4,0,,,,,,"",""
+ball,2,5.5,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,0,0,,,,,,"",""
+ball,2,5.6,Kolkata Knight Riders,RA Tripathi,N Rana,Washington Sundar,0,0,,,,,,caught,RA Tripathi
+ball,2,6.1,Kolkata Knight Riders,EJG Morgan,N Rana,YS Chahal,1,0,,,,,,"",""
+ball,2,6.2,Kolkata Knight Riders,N Rana,EJG Morgan,YS Chahal,4,0,,,,,,"",""
+ball,2,6.3,Kolkata Knight Riders,N Rana,EJG Morgan,YS Chahal,0,0,,,,,,"",""
+ball,2,6.4,Kolkata Knight Riders,N Rana,EJG Morgan,YS Chahal,4,0,,,,,,"",""
+ball,2,6.5,Kolkata Knight Riders,N Rana,EJG Morgan,YS Chahal,0,0,,,,,,caught,N Rana
+ball,2,6.6,Kolkata Knight Riders,EJG Morgan,KD Karthik,YS Chahal,1,0,,,,,,"",""
+ball,2,7.1,Kolkata Knight Riders,EJG Morgan,KD Karthik,Washington Sundar,0,2,2,,,,,"",""
+ball,2,7.2,Kolkata Knight Riders,KD Karthik,EJG Morgan,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.3,Kolkata Knight Riders,EJG Morgan,KD Karthik,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.4,Kolkata Knight Riders,KD Karthik,EJG Morgan,Washington Sundar,0,0,,,,,,"",""
+ball,2,7.5,Kolkata Knight Riders,KD Karthik,EJG Morgan,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.6,Kolkata Knight Riders,EJG Morgan,KD Karthik,Washington Sundar,0,0,,,,,,"",""
+ball,2,7.7,Kolkata Knight Riders,EJG Morgan,KD Karthik,Washington Sundar,1,0,,,,,,"",""
+ball,2,8.1,Kolkata Knight Riders,EJG Morgan,KD Karthik,YS Chahal,1,0,,,,,,"",""
+ball,2,8.2,Kolkata Knight Riders,KD Karthik,EJG Morgan,YS Chahal,0,0,,,,,,"",""
+ball,2,8.3,Kolkata Knight Riders,KD Karthik,EJG Morgan,YS Chahal,0,0,,,,,,lbw,KD Karthik
+ball,2,8.4,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,YS Chahal,0,0,,,,,,"",""
+ball,2,8.5,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,YS Chahal,1,0,,,,,,"",""
+ball,2,8.6,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,YS Chahal,0,0,,,,,,"",""
+ball,2,9.1,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,Washington Sundar,0,0,,,,,,"",""
+ball,2,9.2,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,Washington Sundar,1,0,,,,,,"",""
+ball,2,9.3,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,Washington Sundar,4,0,,,,,,"",""
+ball,2,9.4,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,Washington Sundar,1,0,,,,,,"",""
+ball,2,9.5,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,Washington Sundar,1,0,,,,,,"",""
+ball,2,9.6,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,Washington Sundar,1,0,,,,,,"",""
+ball,2,10.1,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.2,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.3,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,6,0,,,,,,"",""
+ball,2,10.4,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,0,0,,,,,,"",""
+ball,2,10.5,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.6,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,11.1,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,HV Patel,1,0,,,,,,"",""
+ball,2,11.2,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,0,0,,,,,,"",""
+ball,2,11.3,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,11.4,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,HV Patel,1,0,,,,,,"",""
+ball,2,11.5,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,11.6,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,HV Patel,1,0,,,,,,"",""
+ball,2,12.1,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,GJ Maxwell,6,0,,,,,,"",""
+ball,2,12.2,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.3,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,0,0,,,,,,"",""
+ball,2,12.4,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,6,0,,,,,,"",""
+ball,2,12.5,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.6,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,GJ Maxwell,0,0,,,,,,"",""
+ball,2,13.1,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,0,0,,,,,,"",""
+ball,2,13.2,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,13.3,Kolkata Knight Riders,Shakib Al Hasan,EJG Morgan,HV Patel,1,0,,,,,,"",""
+ball,2,13.4,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,HV Patel,0,0,,,,,,caught,EJG Morgan
+ball,2,13.5,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,HV Patel,0,0,,,,,,"",""
+ball,2,13.6,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,HV Patel,1,0,,,,,,"",""
+ball,2,14.1,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,1,0,,,,,,"",""
+ball,2,14.2,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,KA Jamieson,0,0,,,,,,"",""
+ball,2,14.3,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,KA Jamieson,1,0,,,,,,"",""
+ball,2,14.4,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,0,0,,,,,,"",""
+ball,2,14.5,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,4,0,,,,,,"",""
+ball,2,14.6,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,0,0,,,,,,"",""
+ball,2,15.1,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,HV Patel,0,0,,,,,,"",""
+ball,2,15.2,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,15.3,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,HV Patel,1,0,,,,,,"",""
+ball,2,15.4,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,15.5,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,HV Patel,1,0,,,,,,"",""
+ball,2,15.6,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,HV Patel,1,0,,,,,,"",""
+ball,2,16.1,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,YS Chahal,6,0,,,,,,"",""
+ball,2,16.2,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,YS Chahal,4,0,,,,,,"",""
+ball,2,16.3,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,YS Chahal,4,0,,,,,,"",""
+ball,2,16.4,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,YS Chahal,4,0,,,,,,"",""
+ball,2,16.5,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,YS Chahal,1,0,,,,,,"",""
+ball,2,16.6,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,YS Chahal,1,0,,,,,,"",""
+ball,2,17.1,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.2,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,KA Jamieson,6,0,,,,,,"",""
+ball,2,17.3,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,KA Jamieson,0,1,1,,,,,"",""
+ball,2,17.4,Kolkata Knight Riders,AD Russell,Shakib Al Hasan,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.5,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,KA Jamieson,0,0,,,,,,bowled,Shakib Al Hasan
+ball,2,17.6,Kolkata Knight Riders,PJ Cummins,AD Russell,KA Jamieson,6,0,,,,,,"",""
+ball,2,17.7,Kolkata Knight Riders,PJ Cummins,AD Russell,KA Jamieson,0,0,,,,,,caught,PJ Cummins
+ball,2,18.1,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,18.2,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,18.3,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,18.4,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,18.5,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,18.6,Kolkata Knight Riders,AD Russell,Harbhajan Singh,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,19.1,Kolkata Knight Riders,AD Russell,Harbhajan Singh,HV Patel,0,0,,,,,,bowled,AD Russell
+ball,2,19.2,Kolkata Knight Riders,CV Varun,Harbhajan Singh,HV Patel,0,0,,,,,,"",""
+ball,2,19.3,Kolkata Knight Riders,CV Varun,Harbhajan Singh,HV Patel,1,0,,,,,,"",""
+ball,2,19.4,Kolkata Knight Riders,Harbhajan Singh,CV Varun,HV Patel,1,0,,,,,,"",""
+ball,2,19.5,Kolkata Knight Riders,CV Varun,Harbhajan Singh,HV Patel,1,0,,,,,,"",""
+ball,2,19.6,Kolkata Knight Riders,Harbhajan Singh,CV Varun,HV Patel,1,0,,,,,,"",""

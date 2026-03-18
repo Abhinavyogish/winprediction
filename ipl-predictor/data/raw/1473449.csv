@@ -1,0 +1,256 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Mumbai Indians
+info,gender,male
+info,season,2025
+info,date,2025/03/31
+info,event,Indian Premier League
+info,match_number,12
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,Ashwani Kumar
+info,umpire,MV Saidharshan Kumar
+info,umpire,HAS Khalid
+info,reserve_umpire,Bhavesh Patel
+info,tv_umpire,Nitin Menon
+info,match_referee,J Srinath
+info,winner,Mumbai Indians
+info,winner_wickets,8
+info,player,Kolkata Knight Riders,Q de Kock
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,VR Iyer
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,Harshit Rana
+info,player,Kolkata Knight Riders,SH Johnson
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Mumbai Indians,V Puthur
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,TA Boult
+info,player,Mumbai Indians,Ashwani Kumar
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,J Srinath,bad31fac
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SP Narine,9d430b40
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Puthur,1e030637
+info,registry,people,VR Iyer,a24be938
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Kolkata Knight Riders,Q de Kock,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,0.2,Kolkata Knight Riders,Q de Kock,SP Narine,TA Boult,1,0,,,,,,"",""
+ball,1,0.3,Kolkata Knight Riders,SP Narine,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,Kolkata Knight Riders,SP Narine,Q de Kock,TA Boult,0,0,,,,,,bowled,SP Narine
+ball,1,0.5,Kolkata Knight Riders,AM Rahane,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,0.6,Kolkata Knight Riders,AM Rahane,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,Kolkata Knight Riders,Q de Kock,AM Rahane,DL Chahar,0,1,1,,,,,"",""
+ball,1,1.2,Kolkata Knight Riders,Q de Kock,AM Rahane,DL Chahar,0,0,,,,,,caught,Q de Kock
+ball,1,1.3,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,DL Chahar,4,0,,,,,,"",""
+ball,1,1.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,DL Chahar,4,0,,,,,,"",""
+ball,1,1.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,DL Chahar,1,0,,,,,,"",""
+ball,1,1.6,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,DL Chahar,0,0,,,,,,"",""
+ball,1,1.7,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,DL Chahar,4,0,,,,,,"",""
+ball,1,2.1,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,TA Boult,1,0,,,,,,"",""
+ball,1,2.2,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,TA Boult,6,0,,,,,,"",""
+ball,1,2.3,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,TA Boult,1,0,,,,,,"",""
+ball,1,2.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,TA Boult,2,0,,,,,,"",""
+ball,1,2.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,TA Boult,0,0,,,,,,"",""
+ball,1,2.6,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,TA Boult,0,0,,,,,,"",""
+ball,1,3.1,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Ashwani Kumar,0,0,,,,,,caught,AM Rahane
+ball,1,3.2,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,3.3,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,3.4,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,3.5,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,Ashwani Kumar,6,0,,,,,,"",""
+ball,1,3.6,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,4.1,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,TA Boult,1,0,,,,,,"",""
+ball,1,4.2,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,TA Boult,0,0,,,,,,"",""
+ball,1,4.3,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,TA Boult,0,0,,,,,,"",""
+ball,1,4.4,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,TA Boult,0,0,,,,,,"",""
+ball,1,4.5,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,TA Boult,2,0,,,,,,"",""
+ball,1,4.6,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,TA Boult,0,0,,,,,,"",""
+ball,1,5.1,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,DL Chahar,4,0,,,,,,"",""
+ball,1,5.2,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,DL Chahar,1,0,,,,,,"",""
+ball,1,5.3,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,DL Chahar,0,0,,,,,,"",""
+ball,1,5.4,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,DL Chahar,0,0,,,,,,caught,VR Iyer
+ball,1,5.5,Kolkata Knight Riders,RK Singh,A Raghuvanshi,DL Chahar,0,0,,,,,,"",""
+ball,1,5.6,Kolkata Knight Riders,RK Singh,A Raghuvanshi,DL Chahar,0,0,,,,,,"",""
+ball,1,6.1,Kolkata Knight Riders,A Raghuvanshi,RK Singh,HH Pandya,0,0,,,,,,"",""
+ball,1,6.2,Kolkata Knight Riders,A Raghuvanshi,RK Singh,HH Pandya,1,0,,,,,,"",""
+ball,1,6.3,Kolkata Knight Riders,RK Singh,A Raghuvanshi,HH Pandya,0,0,,,,,,"",""
+ball,1,6.4,Kolkata Knight Riders,RK Singh,A Raghuvanshi,HH Pandya,2,0,,,,,,"",""
+ball,1,6.5,Kolkata Knight Riders,RK Singh,A Raghuvanshi,HH Pandya,1,0,,,,,,"",""
+ball,1,6.6,Kolkata Knight Riders,A Raghuvanshi,RK Singh,HH Pandya,0,0,,,,,,caught,A Raghuvanshi
+ball,1,7.1,Kolkata Knight Riders,RK Singh,MK Pandey,V Puthur,1,0,,,,,,"",""
+ball,1,7.2,Kolkata Knight Riders,MK Pandey,RK Singh,V Puthur,0,0,,,,,,"",""
+ball,1,7.3,Kolkata Knight Riders,MK Pandey,RK Singh,V Puthur,6,0,,,,,,"",""
+ball,1,7.4,Kolkata Knight Riders,MK Pandey,RK Singh,V Puthur,1,0,,,,,,"",""
+ball,1,7.5,Kolkata Knight Riders,RK Singh,MK Pandey,V Puthur,0,0,,,,,,"",""
+ball,1,7.6,Kolkata Knight Riders,RK Singh,MK Pandey,V Puthur,6,0,,,,,,"",""
+ball,1,8.1,Kolkata Knight Riders,MK Pandey,RK Singh,HH Pandya,1,0,,,,,,"",""
+ball,1,8.2,Kolkata Knight Riders,RK Singh,MK Pandey,HH Pandya,1,0,,,,,,"",""
+ball,1,8.3,Kolkata Knight Riders,MK Pandey,RK Singh,HH Pandya,0,0,,,,,,"",""
+ball,1,8.4,Kolkata Knight Riders,MK Pandey,RK Singh,HH Pandya,0,0,,,,,,"",""
+ball,1,8.5,Kolkata Knight Riders,MK Pandey,RK Singh,HH Pandya,4,0,,,,,,"",""
+ball,1,8.6,Kolkata Knight Riders,MK Pandey,RK Singh,HH Pandya,0,0,,,,,,"",""
+ball,1,9.1,Kolkata Knight Riders,RK Singh,MK Pandey,MJ Santner,0,0,,,,,,"",""
+ball,1,9.2,Kolkata Knight Riders,RK Singh,MK Pandey,MJ Santner,1,0,,,,,,"",""
+ball,1,9.3,Kolkata Knight Riders,MK Pandey,RK Singh,MJ Santner,1,0,,,,,,"",""
+ball,1,9.4,Kolkata Knight Riders,RK Singh,MK Pandey,MJ Santner,1,0,,,,,,"",""
+ball,1,9.5,Kolkata Knight Riders,MK Pandey,RK Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,9.6,Kolkata Knight Riders,MK Pandey,RK Singh,MJ Santner,1,0,,,,,,"",""
+ball,1,10.1,Kolkata Knight Riders,MK Pandey,RK Singh,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,10.2,Kolkata Knight Riders,RK Singh,MK Pandey,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,10.3,Kolkata Knight Riders,RK Singh,MK Pandey,Ashwani Kumar,0,0,,,,,,caught,RK Singh
+ball,1,10.4,Kolkata Knight Riders,AD Russell,MK Pandey,Ashwani Kumar,0,1,1,,,,,"",""
+ball,1,10.5,Kolkata Knight Riders,AD Russell,MK Pandey,Ashwani Kumar,0,1,,,,1,,"",""
+ball,1,10.6,Kolkata Knight Riders,MK Pandey,AD Russell,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,10.7,Kolkata Knight Riders,MK Pandey,AD Russell,Ashwani Kumar,0,0,,,,,,bowled,MK Pandey
+ball,1,11.1,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,11.2,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,0,1,,,,1,,"",""
+ball,1,11.3,Kolkata Knight Riders,Ramandeep Singh,AD Russell,MJ Santner,0,2,2,,,,,"",""
+ball,1,11.4,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,11.5,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,11.6,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,11.7,Kolkata Knight Riders,AD Russell,Ramandeep Singh,MJ Santner,1,0,,,,,,"",""
+ball,1,12.1,Kolkata Knight Riders,AD Russell,Ramandeep Singh,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,12.2,Kolkata Knight Riders,AD Russell,Ramandeep Singh,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,12.3,Kolkata Knight Riders,AD Russell,Ramandeep Singh,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,12.4,Kolkata Knight Riders,AD Russell,Ramandeep Singh,Ashwani Kumar,0,0,,,,,,bowled,AD Russell
+ball,1,12.5,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,Ashwani Kumar,0,1,,1,,,,"",""
+ball,1,12.6,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,12.7,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,13.1,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,13.2,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,MJ Santner,3,0,,,,,,"",""
+ball,1,13.3,Kolkata Knight Riders,Ramandeep Singh,Harshit Rana,MJ Santner,0,0,,,,,,"",""
+ball,1,13.4,Kolkata Knight Riders,Ramandeep Singh,Harshit Rana,MJ Santner,1,0,,,,,,"",""
+ball,1,13.5,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,13.6,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,MJ Santner,0,0,,,,,,"",""
+ball,1,14.1,Kolkata Knight Riders,Ramandeep Singh,Harshit Rana,V Puthur,4,0,,,,,,"",""
+ball,1,14.2,Kolkata Knight Riders,Ramandeep Singh,Harshit Rana,V Puthur,1,0,,,,,,"",""
+ball,1,14.3,Kolkata Knight Riders,Harshit Rana,Ramandeep Singh,V Puthur,0,0,,,,,,caught,Harshit Rana
+ball,1,14.4,Kolkata Knight Riders,SH Johnson,Ramandeep Singh,V Puthur,1,0,,,,,,"",""
+ball,1,14.5,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,V Puthur,1,0,,,,,,"",""
+ball,1,14.6,Kolkata Knight Riders,SH Johnson,Ramandeep Singh,V Puthur,0,0,,,,,,"",""
+ball,1,15.1,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,TA Boult,2,0,,,,,,"",""
+ball,1,15.2,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,TA Boult,6,0,,,,,,"",""
+ball,1,15.3,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,TA Boult,0,0,,,,,,"",""
+ball,1,15.4,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,TA Boult,0,0,,,,,,"",""
+ball,1,15.5,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,TA Boult,1,0,,,,,,"",""
+ball,1,15.6,Kolkata Knight Riders,SH Johnson,Ramandeep Singh,TA Boult,0,0,,,,,,"",""
+ball,1,16.1,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,MJ Santner,6,0,,,,,,"",""
+ball,1,16.2,Kolkata Knight Riders,Ramandeep Singh,SH Johnson,MJ Santner,0,0,,,,,,caught,Ramandeep Singh
+ball,2,0.1,Mumbai Indians,RG Sharma,RD Rickelton,SH Johnson,1,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,0,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,1,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,0,1,1,,,,,"",""
+ball,2,1.5,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,1,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,2,1,,1,,,,"",""
+ball,2,1.7,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,6,0,,,,,,"",""
+ball,2,1.8,Mumbai Indians,RG Sharma,RD Rickelton,Harshit Rana,2,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,2,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,4,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,6,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,0,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,RD Rickelton,RG Sharma,SH Johnson,1,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,0,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,4,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,6,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,0,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,RD Rickelton,RG Sharma,Harshit Rana,4,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,RG Sharma,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,RG Sharma,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,RG Sharma,RD Rickelton,CV Varun,1,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,RD Rickelton,RG Sharma,CV Varun,0,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,RD Rickelton,RG Sharma,CV Varun,1,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,RG Sharma,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,RD Rickelton,RG Sharma,AD Russell,0,1,,1,,,,"",""
+ball,2,5.2,Mumbai Indians,RD Rickelton,RG Sharma,AD Russell,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,RG Sharma,RD Rickelton,AD Russell,0,0,,,,,,caught,RG Sharma
+ball,2,5.4,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,1,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,RD Rickelton,WG Jacks,AD Russell,1,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,6,0,,,,,,"",""
+ball,2,5.7,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,1,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,1,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,1,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,4,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,WG Jacks,RD Rickelton,SP Narine,1,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,0,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,6,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,1,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,WG Jacks,RD Rickelton,SP Narine,0,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,WG Jacks,RD Rickelton,SP Narine,0,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,0,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,1,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,1,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,0,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,RD Rickelton,WG Jacks,CV Varun,1,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,WG Jacks,RD Rickelton,CV Varun,0,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,6,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,0,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,6,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,RD Rickelton,WG Jacks,SP Narine,1,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,WG Jacks,RD Rickelton,SP Narine,2,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,WG Jacks,RD Rickelton,SP Narine,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,1,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,RD Rickelton,WG Jacks,AD Russell,1,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,0,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,WG Jacks,RD Rickelton,AD Russell,0,0,,,,,,caught,WG Jacks
+ball,2,10.5,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,0,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,6,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,RD Rickelton,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,SA Yadav,RD Rickelton,SP Narine,4,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,SA Yadav,RD Rickelton,SP Narine,1,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,RD Rickelton,SA Yadav,SP Narine,0,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,RD Rickelton,SA Yadav,SP Narine,1,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,SA Yadav,RD Rickelton,SP Narine,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,4,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,4,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,1,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,RD Rickelton,SA Yadav,AD Russell,1,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,SA Yadav,RD Rickelton,AD Russell,6,0,,,,,,"",""

@@ -1,0 +1,294 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2021
+info,date,2021/10/07
+info,event,Indian Premier League
+info,match_number,54
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,Shivam Mavi
+info,umpire,MA Gough
+info,umpire,HAS Khalid
+info,reserve_umpire,Navdeep Singh
+info,tv_umpire,YC Barde
+info,match_referee,M Nayyar
+info,winner,Kolkata Knight Riders
+info,winner_runs,86
+info,player,Kolkata Knight Riders,Shubman Gill
+info,player,Kolkata Knight Riders,VR Iyer
+info,player,Kolkata Knight Riders,N Rana
+info,player,Kolkata Knight Riders,RA Tripathi
+info,player,Kolkata Knight Riders,KD Karthik
+info,player,Kolkata Knight Riders,EJG Morgan
+info,player,Kolkata Knight Riders,Shakib Al Hasan
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,LH Ferguson
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,Shivam Mavi
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,LS Livingstone
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,S Dube
+info,player,Rajasthan Royals,Anuj Rawat
+info,player,Rajasthan Royals,GD Phillips
+info,player,Rajasthan Royals,R Tewatia
+info,player,Rajasthan Royals,CH Morris
+info,player,Rajasthan Royals,JD Unadkat
+info,player,Rajasthan Royals,C Sakariya
+info,player,Rajasthan Royals,Mustafizur Rahman
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Navdeep Singh,a3e3d8a4
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,VR Iyer,a24be938
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,0,0,,,,,,"",""
+ball,1,0.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,2,0,,,,,,"",""
+ball,1,0.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,4,0,,,,,,"",""
+ball,1,0.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,0,0,,,,,,"",""
+ball,1,0.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,1,0,,,,,,"",""
+ball,1,0.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,1,0,,,,,,"",""
+ball,1,1.1,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,1.2,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,1.3,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,1.4,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,1,0,,,,,,"",""
+ball,1,1.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,CH Morris,0,0,,,,,,"",""
+ball,1,1.6,Kolkata Knight Riders,Shubman Gill,VR Iyer,CH Morris,0,2,2,,,,,"",""
+ball,1,1.7,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,4,0,,,,,,"",""
+ball,1,2.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,2.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,2.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,2.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,1,0,,,,,,"",""
+ball,1,2.5,Kolkata Knight Riders,VR Iyer,Shubman Gill,C Sakariya,0,0,,,,,,"",""
+ball,1,2.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,C Sakariya,1,0,,,,,,"",""
+ball,1,3.1,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,3.2,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,3.3,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,3.4,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,1,1,,,,,"",""
+ball,1,3.5,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,1,0,,,,,,"",""
+ball,1,3.6,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,1,0,,,,,,"",""
+ball,1,3.7,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,4.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,6,0,,,,,,"",""
+ball,1,4.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,4.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,4.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,0,0,,,,,,"",""
+ball,1,4.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,C Sakariya,1,0,,,,,,"",""
+ball,1,4.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,C Sakariya,4,0,,,,,,"",""
+ball,1,5.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,CH Morris,1,0,,,,,,"",""
+ball,1,5.2,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,5.3,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,5.4,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,1,0,,,,,,"",""
+ball,1,5.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,CH Morris,1,0,,,,,,"",""
+ball,1,5.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,CH Morris,0,0,,,,,,"",""
+ball,1,6.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,1,0,,,,,,"",""
+ball,1,6.2,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,1,0,,,,,,"",""
+ball,1,6.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,2,0,,,,,,"",""
+ball,1,6.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,1,0,,,,,,"",""
+ball,1,6.5,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,4,0,,,,,,"",""
+ball,1,6.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,1,0,,,,,,"",""
+ball,1,7.1,Kolkata Knight Riders,VR Iyer,Shubman Gill,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,7.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,7.3,Kolkata Knight Riders,VR Iyer,Shubman Gill,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,7.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,7.5,Kolkata Knight Riders,VR Iyer,Shubman Gill,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,7.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,7.7,Kolkata Knight Riders,VR Iyer,Shubman Gill,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,1,8.1,Kolkata Knight Riders,VR Iyer,Shubman Gill,S Dube,1,0,,,,,,"",""
+ball,1,8.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,S Dube,1,0,,,,,,"",""
+ball,1,8.3,Kolkata Knight Riders,VR Iyer,Shubman Gill,S Dube,1,0,,,,,,"",""
+ball,1,8.4,Kolkata Knight Riders,Shubman Gill,VR Iyer,S Dube,0,0,,,,,,"",""
+ball,1,8.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,S Dube,1,0,,,,,,"",""
+ball,1,8.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,S Dube,1,0,,,,,,"",""
+ball,1,9.1,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,6,0,,,,,,"",""
+ball,1,9.2,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,1,0,,,,,,"",""
+ball,1,9.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,JD Unadkat,1,0,,,,,,"",""
+ball,1,9.4,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,6,0,,,,,,"",""
+ball,1,9.5,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,9.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,JD Unadkat,0,0,,,,,,"",""
+ball,1,10.1,Kolkata Knight Riders,Shubman Gill,VR Iyer,R Tewatia,6,0,,,,,,"",""
+ball,1,10.2,Kolkata Knight Riders,Shubman Gill,VR Iyer,R Tewatia,0,1,1,,,,,"",""
+ball,1,10.3,Kolkata Knight Riders,Shubman Gill,VR Iyer,R Tewatia,1,0,,,,,,"",""
+ball,1,10.4,Kolkata Knight Riders,VR Iyer,Shubman Gill,R Tewatia,1,0,,,,,,"",""
+ball,1,10.5,Kolkata Knight Riders,Shubman Gill,VR Iyer,R Tewatia,1,0,,,,,,"",""
+ball,1,10.6,Kolkata Knight Riders,VR Iyer,Shubman Gill,R Tewatia,0,0,,,,,,bowled,VR Iyer
+ball,1,10.7,Kolkata Knight Riders,N Rana,Shubman Gill,R Tewatia,1,0,,,,,,"",""
+ball,1,11.1,Kolkata Knight Riders,N Rana,Shubman Gill,GD Phillips,4,0,,,,,,"",""
+ball,1,11.2,Kolkata Knight Riders,N Rana,Shubman Gill,GD Phillips,1,0,,,,,,"",""
+ball,1,11.3,Kolkata Knight Riders,Shubman Gill,N Rana,GD Phillips,1,0,,,,,,"",""
+ball,1,11.4,Kolkata Knight Riders,N Rana,Shubman Gill,GD Phillips,6,0,,,,,,"",""
+ball,1,11.5,Kolkata Knight Riders,N Rana,Shubman Gill,GD Phillips,0,0,,,,,,caught,N Rana
+ball,1,11.6,Kolkata Knight Riders,RA Tripathi,Shubman Gill,GD Phillips,0,1,1,,,,,"",""
+ball,1,11.7,Kolkata Knight Riders,RA Tripathi,Shubman Gill,GD Phillips,4,0,,,,,,"",""
+ball,1,12.1,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mustafizur Rahman,3,0,,,,,,"",""
+ball,1,12.2,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,12.3,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,12.4,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,12.5,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,12.6,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,13.1,Kolkata Knight Riders,Shubman Gill,RA Tripathi,S Dube,1,0,,,,,,"",""
+ball,1,13.2,Kolkata Knight Riders,RA Tripathi,Shubman Gill,S Dube,1,0,,,,,,"",""
+ball,1,13.3,Kolkata Knight Riders,Shubman Gill,RA Tripathi,S Dube,1,0,,,,,,"",""
+ball,1,13.4,Kolkata Knight Riders,RA Tripathi,Shubman Gill,S Dube,4,0,,,,,,"",""
+ball,1,13.5,Kolkata Knight Riders,RA Tripathi,Shubman Gill,S Dube,4,0,,,,,,"",""
+ball,1,13.6,Kolkata Knight Riders,RA Tripathi,Shubman Gill,S Dube,2,0,,,,,,"",""
+ball,1,14.1,Kolkata Knight Riders,Shubman Gill,RA Tripathi,C Sakariya,1,0,,,,,,"",""
+ball,1,14.2,Kolkata Knight Riders,RA Tripathi,Shubman Gill,C Sakariya,1,0,,,,,,"",""
+ball,1,14.3,Kolkata Knight Riders,Shubman Gill,RA Tripathi,C Sakariya,1,0,,,,,,"",""
+ball,1,14.4,Kolkata Knight Riders,RA Tripathi,Shubman Gill,C Sakariya,1,0,,,,,,"",""
+ball,1,14.5,Kolkata Knight Riders,Shubman Gill,RA Tripathi,C Sakariya,4,0,,,,,,"",""
+ball,1,14.6,Kolkata Knight Riders,Shubman Gill,RA Tripathi,C Sakariya,0,0,,,,,,"",""
+ball,1,15.1,Kolkata Knight Riders,RA Tripathi,Shubman Gill,CH Morris,1,0,,,,,,"",""
+ball,1,15.2,Kolkata Knight Riders,Shubman Gill,RA Tripathi,CH Morris,0,0,,,,,,"",""
+ball,1,15.3,Kolkata Knight Riders,Shubman Gill,RA Tripathi,CH Morris,4,0,,,,,,"",""
+ball,1,15.4,Kolkata Knight Riders,Shubman Gill,RA Tripathi,CH Morris,0,1,1,,,,,"",""
+ball,1,15.5,Kolkata Knight Riders,Shubman Gill,RA Tripathi,CH Morris,0,0,,,,,,caught,Shubman Gill
+ball,1,15.6,Kolkata Knight Riders,RA Tripathi,KD Karthik,CH Morris,1,0,,,,,,"",""
+ball,1,15.7,Kolkata Knight Riders,KD Karthik,RA Tripathi,CH Morris,1,0,,,,,,"",""
+ball,1,16.1,Kolkata Knight Riders,KD Karthik,RA Tripathi,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,16.2,Kolkata Knight Riders,KD Karthik,RA Tripathi,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,16.3,Kolkata Knight Riders,RA Tripathi,KD Karthik,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,16.4,Kolkata Knight Riders,RA Tripathi,KD Karthik,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,16.5,Kolkata Knight Riders,KD Karthik,RA Tripathi,Mustafizur Rahman,6,0,,,,,,"",""
+ball,1,16.6,Kolkata Knight Riders,KD Karthik,RA Tripathi,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,17.1,Kolkata Knight Riders,RA Tripathi,KD Karthik,C Sakariya,0,0,,,,,,bowled,RA Tripathi
+ball,1,17.2,Kolkata Knight Riders,EJG Morgan,KD Karthik,C Sakariya,0,0,,,,,,"",""
+ball,1,17.3,Kolkata Knight Riders,EJG Morgan,KD Karthik,C Sakariya,0,1,,,,1,,"",""
+ball,1,17.4,Kolkata Knight Riders,KD Karthik,EJG Morgan,C Sakariya,1,0,,,,,,"",""
+ball,1,17.5,Kolkata Knight Riders,EJG Morgan,KD Karthik,C Sakariya,1,0,,,,,,"",""
+ball,1,17.6,Kolkata Knight Riders,KD Karthik,EJG Morgan,C Sakariya,0,0,,,,,,"",""
+ball,1,18.1,Kolkata Knight Riders,EJG Morgan,KD Karthik,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,18.2,Kolkata Knight Riders,EJG Morgan,KD Karthik,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,18.3,Kolkata Knight Riders,KD Karthik,EJG Morgan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,18.4,Kolkata Knight Riders,KD Karthik,EJG Morgan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,18.5,Kolkata Knight Riders,EJG Morgan,KD Karthik,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,18.6,Kolkata Knight Riders,EJG Morgan,KD Karthik,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.1,Kolkata Knight Riders,EJG Morgan,KD Karthik,CH Morris,0,1,,,1,,,"",""
+ball,1,19.2,Kolkata Knight Riders,KD Karthik,EJG Morgan,CH Morris,1,0,,,,,,"",""
+ball,1,19.3,Kolkata Knight Riders,EJG Morgan,KD Karthik,CH Morris,0,2,2,,,,,"",""
+ball,1,19.4,Kolkata Knight Riders,KD Karthik,EJG Morgan,CH Morris,1,0,,,,,,"",""
+ball,1,19.5,Kolkata Knight Riders,EJG Morgan,KD Karthik,CH Morris,0,4,,,4,,,"",""
+ball,1,19.6,Kolkata Knight Riders,EJG Morgan,KD Karthik,CH Morris,6,0,,,,,,"",""
+ball,1,19.7,Kolkata Knight Riders,EJG Morgan,KD Karthik,CH Morris,0,1,,,,1,,"",""
+ball,2,0.1,Rajasthan Royals,YBK Jaiswal,LS Livingstone,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,0.2,Rajasthan Royals,YBK Jaiswal,LS Livingstone,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,YBK Jaiswal,LS Livingstone,Shakib Al Hasan,0,0,,,,,,bowled,YBK Jaiswal
+ball,2,0.4,Rajasthan Royals,SV Samson,LS Livingstone,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,SV Samson,LS Livingstone,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,SV Samson,LS Livingstone,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,SV Samson,LS Livingstone,Shivam Mavi,0,0,,,,,,caught,SV Samson
+ball,2,1.2,Rajasthan Royals,S Dube,LS Livingstone,Shivam Mavi,2,0,,,,,,"",""
+ball,2,1.3,Rajasthan Royals,S Dube,LS Livingstone,Shivam Mavi,0,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,S Dube,LS Livingstone,Shivam Mavi,0,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,S Dube,LS Livingstone,Shivam Mavi,1,0,,,,,,"",""
+ball,2,1.6,Rajasthan Royals,LS Livingstone,S Dube,Shivam Mavi,0,0,,,,,,"",""
+ball,2,2.1,Rajasthan Royals,S Dube,LS Livingstone,SP Narine,1,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,LS Livingstone,S Dube,SP Narine,4,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,LS Livingstone,S Dube,SP Narine,1,0,,,,,,"",""
+ball,2,2.4,Rajasthan Royals,S Dube,LS Livingstone,SP Narine,1,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,LS Livingstone,S Dube,SP Narine,1,0,,,,,,"",""
+ball,2,2.6,Rajasthan Royals,S Dube,LS Livingstone,SP Narine,0,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,LS Livingstone,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,LS Livingstone,S Dube,LH Ferguson,0,0,,,,,,caught,LS Livingstone
+ball,2,3.3,Rajasthan Royals,S Dube,Anuj Rawat,LH Ferguson,1,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,Anuj Rawat,S Dube,LH Ferguson,0,0,,,,,,lbw,Anuj Rawat
+ball,2,3.5,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,S Dube,GD Phillips,CV Varun,0,0,,,,,,"",""
+ball,2,4.2,Rajasthan Royals,S Dube,GD Phillips,CV Varun,0,0,,,,,,"",""
+ball,2,4.3,Rajasthan Royals,S Dube,GD Phillips,CV Varun,0,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,S Dube,GD Phillips,CV Varun,2,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,S Dube,GD Phillips,CV Varun,1,0,,,,,,"",""
+ball,2,4.6,Rajasthan Royals,GD Phillips,S Dube,CV Varun,0,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,S Dube,GD Phillips,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.2,Rajasthan Royals,S Dube,GD Phillips,LH Ferguson,1,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.4,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,GD Phillips,S Dube,LH Ferguson,0,0,,,,,,"",""
+ball,2,6.1,Rajasthan Royals,S Dube,GD Phillips,SP Narine,6,0,,,,,,"",""
+ball,2,6.2,Rajasthan Royals,S Dube,GD Phillips,SP Narine,0,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,S Dube,GD Phillips,SP Narine,1,0,,,,,,"",""
+ball,2,6.4,Rajasthan Royals,GD Phillips,S Dube,SP Narine,0,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,GD Phillips,S Dube,SP Narine,6,0,,,,,,"",""
+ball,2,6.6,Rajasthan Royals,GD Phillips,S Dube,SP Narine,0,0,,,,,,"",""
+ball,2,7.1,Rajasthan Royals,S Dube,GD Phillips,Shivam Mavi,1,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,GD Phillips,S Dube,Shivam Mavi,2,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,GD Phillips,S Dube,Shivam Mavi,0,0,,,,,,bowled,GD Phillips
+ball,2,7.4,Rajasthan Royals,R Tewatia,S Dube,Shivam Mavi,0,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,R Tewatia,S Dube,Shivam Mavi,1,0,,,,,,"",""
+ball,2,7.6,Rajasthan Royals,S Dube,R Tewatia,Shivam Mavi,0,0,,,,,,bowled,S Dube
+ball,2,8.1,Rajasthan Royals,R Tewatia,CH Morris,CV Varun,0,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,R Tewatia,CH Morris,CV Varun,0,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,R Tewatia,CH Morris,CV Varun,0,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,R Tewatia,CH Morris,CV Varun,1,0,,,,,,"",""
+ball,2,8.5,Rajasthan Royals,CH Morris,R Tewatia,CV Varun,0,0,,,,,,"",""
+ball,2,8.6,Rajasthan Royals,CH Morris,R Tewatia,CV Varun,0,0,,,,,,lbw,CH Morris
+ball,2,9.1,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,0,0,,,,,,"",""
+ball,2,9.2,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,4,0,,,,,,"",""
+ball,2,9.3,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,4,0,,,,,,"",""
+ball,2,9.4,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,0,0,,,,,,"",""
+ball,2,9.5,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,4,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,R Tewatia,JD Unadkat,Shivam Mavi,2,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,JD Unadkat,R Tewatia,CV Varun,1,0,,,,,,"",""
+ball,2,10.2,Rajasthan Royals,R Tewatia,JD Unadkat,CV Varun,6,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,R Tewatia,JD Unadkat,CV Varun,1,0,,,,,,"",""
+ball,2,10.4,Rajasthan Royals,JD Unadkat,R Tewatia,CV Varun,0,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,JD Unadkat,R Tewatia,CV Varun,1,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,R Tewatia,JD Unadkat,CV Varun,0,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,JD Unadkat,R Tewatia,LH Ferguson,4,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,JD Unadkat,R Tewatia,LH Ferguson,0,0,,,,,,caught,JD Unadkat
+ball,2,11.3,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,11.4,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,4,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,12.1,Rajasthan Royals,C Sakariya,R Tewatia,SP Narine,1,0,,,,,,"",""
+ball,2,12.2,Rajasthan Royals,R Tewatia,C Sakariya,SP Narine,6,0,,,,,,"",""
+ball,2,12.3,Rajasthan Royals,R Tewatia,C Sakariya,SP Narine,0,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,R Tewatia,C Sakariya,SP Narine,1,0,,,,,,"",""
+ball,2,12.5,Rajasthan Royals,C Sakariya,R Tewatia,SP Narine,0,0,,,,,,"",""
+ball,2,12.6,Rajasthan Royals,C Sakariya,R Tewatia,SP Narine,0,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,R Tewatia,C Sakariya,CV Varun,0,0,,,,,,"",""
+ball,2,13.2,Rajasthan Royals,R Tewatia,C Sakariya,CV Varun,0,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,R Tewatia,C Sakariya,CV Varun,0,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,R Tewatia,C Sakariya,CV Varun,0,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,R Tewatia,C Sakariya,CV Varun,1,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,C Sakariya,R Tewatia,CV Varun,0,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,0,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,2,0,,,,,,"",""
+ball,2,14.5,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,2,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,R Tewatia,C Sakariya,LH Ferguson,4,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,C Sakariya,R Tewatia,SP Narine,0,1,,,1,,,"",""
+ball,2,15.2,Rajasthan Royals,R Tewatia,C Sakariya,SP Narine,0,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,R Tewatia,C Sakariya,SP Narine,1,0,,,,,,run out,C Sakariya
+ball,2,15.4,Rajasthan Royals,Mustafizur Rahman,R Tewatia,SP Narine,0,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,Mustafizur Rahman,R Tewatia,SP Narine,0,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,Mustafizur Rahman,R Tewatia,SP Narine,0,0,,,,,,"",""
+ball,2,16.1,Rajasthan Royals,R Tewatia,Mustafizur Rahman,Shivam Mavi,0,0,,,,,,bowled,R Tewatia

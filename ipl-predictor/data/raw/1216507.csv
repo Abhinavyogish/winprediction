@@ -1,0 +1,314 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2020/21
+info,date,2020/10/11
+info,event,Indian Premier League
+info,match_number,26
+info,venue,Dubai International Cricket Stadium
+info,city,
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,bat
+info,player_of_match,R Tewatia
+info,umpire,YC Barde
+info,umpire,PR Reiffel
+info,reserve_umpire,AY Dandekar
+info,tv_umpire,Nitin Menon
+info,match_referee,Prakash Bhatt
+info,winner,Rajasthan Royals
+info,winner_wickets,5
+info,player,Sunrisers Hyderabad,DA Warner
+info,player,Sunrisers Hyderabad,JM Bairstow
+info,player,Sunrisers Hyderabad,MK Pandey
+info,player,Sunrisers Hyderabad,KS Williamson
+info,player,Sunrisers Hyderabad,PK Garg
+info,player,Sunrisers Hyderabad,V Shankar
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Rashid Khan
+info,player,Sunrisers Hyderabad,Sandeep Sharma
+info,player,Sunrisers Hyderabad,KK Ahmed
+info,player,Sunrisers Hyderabad,T Natarajan
+info,player,Rajasthan Royals,BA Stokes
+info,player,Rajasthan Royals,JC Buttler
+info,player,Rajasthan Royals,SPD Smith
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,RV Uthappa
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,R Tewatia
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,S Gopal
+info,player,Rajasthan Royals,JD Unadkat
+info,player,Rajasthan Royals,Kartik Tyagi
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,BA Stokes,e087956b
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,T Natarajan,ce794613
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Sunrisers Hyderabad,DA Warner,JM Bairstow,JC Archer,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,JC Archer,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,JC Archer,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,DA Warner,JM Bairstow,JC Archer,1,0,,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,1,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,JC Archer,0,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,S Gopal,1,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,0,0,,,,,,"",""
+ball,1,2.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,0,0,,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,0,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,JM Bairstow,DA Warner,JC Archer,1,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,DA Warner,JM Bairstow,S Gopal,4,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,DA Warner,JM Bairstow,S Gopal,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,JM Bairstow,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,DA Warner,JM Bairstow,S Gopal,0,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,JM Bairstow,DA Warner,Kartik Tyagi,2,0,,,,,,"",""
+ball,1,4.2,Sunrisers Hyderabad,JM Bairstow,DA Warner,Kartik Tyagi,2,0,,,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,JM Bairstow,DA Warner,Kartik Tyagi,6,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,JM Bairstow,DA Warner,Kartik Tyagi,0,0,,,,,,caught,JM Bairstow
+ball,1,4.5,Sunrisers Hyderabad,DA Warner,MK Pandey,Kartik Tyagi,0,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,DA Warner,MK Pandey,Kartik Tyagi,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,0,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,0,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,1,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,DA Warner,MK Pandey,JD Unadkat,1,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,1,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,DA Warner,MK Pandey,JD Unadkat,0,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,1,1,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,6,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,4,0,,,,,,"",""
+ball,1,6.7,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,0,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,6,0,,,,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,1,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,2,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,MK Pandey,DA Warner,BA Stokes,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,DA Warner,MK Pandey,BA Stokes,0,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,DA Warner,MK Pandey,BA Stokes,1,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,MK Pandey,DA Warner,BA Stokes,1,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,DA Warner,MK Pandey,BA Stokes,0,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,DA Warner,MK Pandey,BA Stokes,4,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,1,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,2,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,MK Pandey,DA Warner,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,DA Warner,MK Pandey,Kartik Tyagi,6,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,DA Warner,MK Pandey,Kartik Tyagi,2,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,DA Warner,MK Pandey,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,MK Pandey,DA Warner,Kartik Tyagi,0,0,,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,MK Pandey,DA Warner,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,11.1,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,0,0,,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,DA Warner,MK Pandey,R Tewatia,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,MK Pandey,DA Warner,R Tewatia,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,DA Warner,MK Pandey,JD Unadkat,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,1,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,DA Warner,MK Pandey,JD Unadkat,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,MK Pandey,DA Warner,JD Unadkat,1,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,DA Warner,MK Pandey,JD Unadkat,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,1,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,6,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,MK Pandey,DA Warner,S Gopal,1,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,0,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,DA Warner,MK Pandey,S Gopal,2,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,MK Pandey,DA Warner,JC Archer,1,0,,,,,,"",""
+ball,1,14.2,Sunrisers Hyderabad,DA Warner,MK Pandey,JC Archer,0,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,DA Warner,MK Pandey,JC Archer,2,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,DA Warner,MK Pandey,JC Archer,0,0,,,,,,bowled,DA Warner
+ball,1,14.5,Sunrisers Hyderabad,KS Williamson,MK Pandey,JC Archer,0,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,KS Williamson,MK Pandey,JC Archer,0,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,4,0,,,,,,"",""
+ball,1,15.2,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,0,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,0,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,6,0,,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,2,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,MK Pandey,KS Williamson,R Tewatia,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,MK Pandey,KS Williamson,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,KS Williamson,MK Pandey,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,MK Pandey,KS Williamson,Kartik Tyagi,4,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,MK Pandey,KS Williamson,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,KS Williamson,MK Pandey,Kartik Tyagi,1,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,MK Pandey,KS Williamson,Kartik Tyagi,0,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,KS Williamson,MK Pandey,JD Unadkat,1,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,MK Pandey,KS Williamson,JD Unadkat,2,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,MK Pandey,KS Williamson,JD Unadkat,2,0,,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,MK Pandey,KS Williamson,JD Unadkat,0,0,,,,,,caught,MK Pandey
+ball,1,17.5,Sunrisers Hyderabad,KS Williamson,PK Garg,JD Unadkat,1,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,PK Garg,KS Williamson,JD Unadkat,0,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,KS Williamson,PK Garg,JC Archer,6,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,KS Williamson,PK Garg,JC Archer,1,1,,1,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,PK Garg,KS Williamson,JC Archer,0,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,PK Garg,KS Williamson,JC Archer,2,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,PK Garg,KS Williamson,JC Archer,1,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,KS Williamson,PK Garg,JC Archer,2,0,,,,,,"",""
+ball,1,18.7,Sunrisers Hyderabad,KS Williamson,PK Garg,JC Archer,6,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,PK Garg,KS Williamson,JD Unadkat,6,0,,,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,PK Garg,KS Williamson,JD Unadkat,1,0,,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,KS Williamson,PK Garg,JD Unadkat,2,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,KS Williamson,PK Garg,JD Unadkat,0,1,1,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,KS Williamson,PK Garg,JD Unadkat,1,0,,,,,,"",""
+ball,1,19.6,Sunrisers Hyderabad,PK Garg,KS Williamson,JD Unadkat,4,0,,,,,,"",""
+ball,1,19.7,Sunrisers Hyderabad,PK Garg,KS Williamson,JD Unadkat,1,0,,,,,,run out,PK Garg
+ball,2,0.1,Rajasthan Royals,BA Stokes,JC Buttler,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,0.2,Rajasthan Royals,BA Stokes,JC Buttler,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,BA Stokes,JC Buttler,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,0.4,Rajasthan Royals,BA Stokes,JC Buttler,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,BA Stokes,JC Buttler,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,JC Buttler,BA Stokes,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,JC Buttler,BA Stokes,KK Ahmed,1,0,,,,,,"",""
+ball,2,1.2,Rajasthan Royals,BA Stokes,JC Buttler,KK Ahmed,0,0,,,,,,bowled,BA Stokes
+ball,2,1.3,Rajasthan Royals,SPD Smith,JC Buttler,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,SPD Smith,JC Buttler,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,SPD Smith,JC Buttler,KK Ahmed,3,0,,,,,,"",""
+ball,2,1.6,Rajasthan Royals,JC Buttler,SPD Smith,KK Ahmed,0,0,,,,,,"",""
+ball,2,2.1,Rajasthan Royals,SPD Smith,JC Buttler,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,SPD Smith,JC Buttler,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,JC Buttler,SPD Smith,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,2.4,Rajasthan Royals,SPD Smith,JC Buttler,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,JC Buttler,SPD Smith,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,2.6,Rajasthan Royals,JC Buttler,SPD Smith,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,JC Buttler,SPD Smith,T Natarajan,0,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,JC Buttler,SPD Smith,T Natarajan,4,0,,,,,,"",""
+ball,2,3.3,Rajasthan Royals,JC Buttler,SPD Smith,T Natarajan,6,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,JC Buttler,SPD Smith,T Natarajan,1,0,,,,,,run out,SPD Smith
+ball,2,3.5,Rajasthan Royals,JC Buttler,SV Samson,T Natarajan,0,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,JC Buttler,SV Samson,T Natarajan,1,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,JC Buttler,SV Samson,KK Ahmed,0,0,,,,,,caught,JC Buttler
+ball,2,4.2,Rajasthan Royals,RV Uthappa,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.3,Rajasthan Royals,RV Uthappa,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,RV Uthappa,SV Samson,KK Ahmed,6,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,RV Uthappa,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.6,Rajasthan Royals,RV Uthappa,SV Samson,KK Ahmed,4,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,5.2,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,5.4,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,SV Samson,RV Uthappa,T Natarajan,0,0,,,,,,"",""
+ball,2,6.1,Rajasthan Royals,RV Uthappa,SV Samson,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.2,Rajasthan Royals,SV Samson,RV Uthappa,Abhishek Sharma,4,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,SV Samson,RV Uthappa,Abhishek Sharma,4,0,,,,,,"",""
+ball,2,6.4,Rajasthan Royals,SV Samson,RV Uthappa,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,RV Uthappa,SV Samson,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,6.6,Rajasthan Royals,RV Uthappa,SV Samson,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,7.1,Rajasthan Royals,RV Uthappa,SV Samson,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,RV Uthappa,SV Samson,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,SV Samson,RV Uthappa,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.4,Rajasthan Royals,RV Uthappa,SV Samson,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,SV Samson,RV Uthappa,Rashid Khan,2,0,,,,,,"",""
+ball,2,7.6,Rajasthan Royals,SV Samson,RV Uthappa,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.1,Rajasthan Royals,RV Uthappa,SV Samson,V Shankar,1,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,SV Samson,RV Uthappa,V Shankar,2,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,SV Samson,RV Uthappa,V Shankar,1,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,RV Uthappa,SV Samson,V Shankar,2,0,,,,,,"",""
+ball,2,8.5,Rajasthan Royals,RV Uthappa,SV Samson,V Shankar,1,0,,,,,,"",""
+ball,2,8.6,Rajasthan Royals,SV Samson,RV Uthappa,V Shankar,4,0,,,,,,"",""
+ball,2,9.1,Rajasthan Royals,RV Uthappa,SV Samson,Rashid Khan,0,0,,,,,,lbw,RV Uthappa
+ball,2,9.2,Rajasthan Royals,R Parag,SV Samson,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.3,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.4,Rajasthan Royals,R Parag,SV Samson,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.5,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,R Parag,SV Samson,Rashid Khan,0,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,SV Samson,R Parag,V Shankar,1,0,,,,,,"",""
+ball,2,10.2,Rajasthan Royals,R Parag,SV Samson,V Shankar,0,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,R Parag,SV Samson,V Shankar,1,0,,,,,,"",""
+ball,2,10.4,Rajasthan Royals,SV Samson,R Parag,V Shankar,1,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,R Parag,SV Samson,V Shankar,1,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,SV Samson,R Parag,V Shankar,1,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,2,0,,,,,,"",""
+ball,2,11.3,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,0,3,,,,3,,"",""
+ball,2,11.4,Rajasthan Royals,R Parag,SV Samson,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,SV Samson,R Parag,Rashid Khan,0,0,,,,,,caught,SV Samson
+ball,2,12.1,Rajasthan Royals,R Parag,R Tewatia,V Shankar,1,0,,,,,,"",""
+ball,2,12.2,Rajasthan Royals,R Tewatia,R Parag,V Shankar,0,0,,,,,,"",""
+ball,2,12.3,Rajasthan Royals,R Tewatia,R Parag,V Shankar,0,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,R Tewatia,R Parag,V Shankar,1,0,,,,,,"",""
+ball,2,12.5,Rajasthan Royals,R Parag,R Tewatia,V Shankar,0,1,1,,,,,"",""
+ball,2,12.6,Rajasthan Royals,R Parag,R Tewatia,V Shankar,0,1,1,,,,,"",""
+ball,2,12.7,Rajasthan Royals,R Parag,R Tewatia,V Shankar,1,0,,,,,,"",""
+ball,2,12.8,Rajasthan Royals,R Tewatia,R Parag,V Shankar,1,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,13.2,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,R Parag,R Tewatia,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,R Parag,R Tewatia,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,R Parag,R Tewatia,T Natarajan,1,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,1,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,R Parag,R Tewatia,T Natarajan,1,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,1,0,,,,,,"",""
+ball,2,14.5,Rajasthan Royals,R Parag,R Tewatia,T Natarajan,1,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,1,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,R Tewatia,R Parag,KK Ahmed,0,0,,,,,,"",""
+ball,2,15.2,Rajasthan Royals,R Tewatia,R Parag,KK Ahmed,1,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,1,0,,,,,,"",""
+ball,2,15.4,Rajasthan Royals,R Tewatia,R Parag,KK Ahmed,1,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,2,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,6,0,,,,,,"",""
+ball,2,16.1,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,6,0,,,,,,"",""
+ball,2,16.2,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,16.3,Rajasthan Royals,R Tewatia,R Parag,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,16.4,Rajasthan Royals,R Parag,R Tewatia,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,16.5,Rajasthan Royals,R Parag,R Tewatia,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,16.6,Rajasthan Royals,R Parag,R Tewatia,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,17.1,Rajasthan Royals,R Parag,R Tewatia,Rashid Khan,1,0,,,,,,"",""
+ball,2,17.2,Rajasthan Royals,R Tewatia,R Parag,Rashid Khan,4,0,,,,,,"",""
+ball,2,17.3,Rajasthan Royals,R Tewatia,R Parag,Rashid Khan,4,0,,,,,,"",""
+ball,2,17.4,Rajasthan Royals,R Tewatia,R Parag,Rashid Khan,4,0,,,,,,"",""
+ball,2,17.5,Rajasthan Royals,R Tewatia,R Parag,Rashid Khan,0,0,,,,,,"",""
+ball,2,17.6,Rajasthan Royals,R Tewatia,R Parag,Rashid Khan,0,1,,,,1,,"",""
+ball,2,18.1,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,1,0,,,,,,"",""
+ball,2,18.2,Rajasthan Royals,R Parag,R Tewatia,T Natarajan,1,0,,,,,,"",""
+ball,2,18.3,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,4,0,,,,,,"",""
+ball,2,18.4,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,6,0,,,,,,"",""
+ball,2,18.5,Rajasthan Royals,R Tewatia,R Parag,T Natarajan,1,0,,,,,,"",""
+ball,2,18.6,Rajasthan Royals,R Parag,R Tewatia,T Natarajan,1,0,,,,,,"",""
+ball,2,19.1,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,2,0,,,,,,"",""
+ball,2,19.2,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,1,0,,,,,,"",""
+ball,2,19.3,Rajasthan Royals,R Tewatia,R Parag,KK Ahmed,2,0,,,,,,"",""
+ball,2,19.4,Rajasthan Royals,R Tewatia,R Parag,KK Ahmed,1,0,,,,,,"",""
+ball,2,19.5,Rajasthan Royals,R Parag,R Tewatia,KK Ahmed,6,0,,,,,,"",""

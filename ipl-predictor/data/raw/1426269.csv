@@ -1,0 +1,333 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2024
+info,date,2024/04/16
+info,event,Indian Premier League
+info,match_number,31
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,JC Buttler
+info,umpire,MA Gough
+info,umpire,UV Gandhe
+info,reserve_umpire,VM Dhokre
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,Amit Sharma
+info,winner,Rajasthan Royals
+info,winner_wickets,2
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,PD Salt
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,SS Iyer
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,VR Iyer
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,MA Starc
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,Harshit Rana
+info,player,Rajasthan Royals,KR Sen
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,JC Buttler
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,R Ashwin
+info,player,Rajasthan Royals,SO Hetmyer
+info,player,Rajasthan Royals,R Powell
+info,player,Rajasthan Royals,TA Boult
+info,player,Rajasthan Royals,Avesh Khan
+info,player,Rajasthan Royals,YS Chahal
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Amit Sharma,7ea3e0cc
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KR Sen,2e78f685
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Starc,3fb19989
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,TA Boult,a818c1be
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,VM Dhokre,67df71c9
+info,registry,people,VR Iyer,a24be938
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,0.2,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,0.3,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,2,0,,,,,,"",""
+ball,1,0.5,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,0.6,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,1,0,,,,,,"",""
+ball,1,1.2,Kolkata Knight Riders,PD Salt,SP Narine,Avesh Khan,1,0,,,,,,"",""
+ball,1,1.3,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.4,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,0,4,,,4,,,"",""
+ball,1,1.5,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,4,0,,,,,,"",""
+ball,1,1.6,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,0,0,,,,,,"",""
+ball,1,2.1,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,2,0,,,,,,"",""
+ball,1,2.2,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,1,0,,,,,,"",""
+ball,1,2.3,Kolkata Knight Riders,SP Narine,PD Salt,TA Boult,0,0,,,,,,"",""
+ball,1,2.4,Kolkata Knight Riders,SP Narine,PD Salt,TA Boult,1,0,,,,,,"",""
+ball,1,2.5,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,4,0,,,,,,"",""
+ball,1,2.6,Kolkata Knight Riders,PD Salt,SP Narine,TA Boult,0,0,,,,,,"",""
+ball,1,3.1,Kolkata Knight Riders,SP Narine,PD Salt,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.2,Kolkata Knight Riders,PD Salt,SP Narine,Avesh Khan,0,0,,,,,,"",""
+ball,1,3.3,Kolkata Knight Riders,PD Salt,SP Narine,Avesh Khan,0,0,,,,,,caught and bowled,PD Salt
+ball,1,3.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,Avesh Khan,4,0,,,,,,"",""
+ball,1,3.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.1,Kolkata Knight Riders,A Raghuvanshi,SP Narine,TA Boult,4,0,,,,,,"",""
+ball,1,4.2,Kolkata Knight Riders,A Raghuvanshi,SP Narine,TA Boult,1,0,,,,,,"",""
+ball,1,4.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,TA Boult,0,0,,,,,,"",""
+ball,1,4.4,Kolkata Knight Riders,SP Narine,A Raghuvanshi,TA Boult,1,0,,,,,,"",""
+ball,1,4.5,Kolkata Knight Riders,A Raghuvanshi,SP Narine,TA Boult,4,0,,,,,,"",""
+ball,1,4.6,Kolkata Knight Riders,A Raghuvanshi,SP Narine,TA Boult,4,0,,,,,,"",""
+ball,1,5.1,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,0,4,,,,4,,"",""
+ball,1,5.2,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,1,0,,,,,,"",""
+ball,1,5.3,Kolkata Knight Riders,A Raghuvanshi,SP Narine,KR Sen,0,0,,,,,,"",""
+ball,1,5.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,KR Sen,1,0,,,,,,"",""
+ball,1,5.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,6,0,,,,,,"",""
+ball,1,5.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,4,0,,,,,,"",""
+ball,1,6.1,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,0,0,,,,,,"",""
+ball,1,6.2,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,6.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,YS Chahal,1,0,,,,,,"",""
+ball,1,6.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,4,0,,,,,,"",""
+ball,1,6.5,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,6.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,YS Chahal,1,0,,,,,,"",""
+ball,1,7.1,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,1,0,,,,,,"",""
+ball,1,7.2,Kolkata Knight Riders,A Raghuvanshi,SP Narine,R Ashwin,1,0,,,,,,"",""
+ball,1,7.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,0,0,,,,,,"",""
+ball,1,7.4,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,4,0,,,,,,"",""
+ball,1,7.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,4,0,,,,,,"",""
+ball,1,7.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,0,0,,,,,,"",""
+ball,1,8.1,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,4,0,,,,,,"",""
+ball,1,8.2,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,8.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,YS Chahal,1,0,,,,,,"",""
+ball,1,8.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,8.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,YS Chahal,2,0,,,,,,"",""
+ball,1,8.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,YS Chahal,6,0,,,,,,"",""
+ball,1,9.1,Kolkata Knight Riders,A Raghuvanshi,SP Narine,R Ashwin,1,0,,,,,,"",""
+ball,1,9.2,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,0,0,,,,,,"",""
+ball,1,9.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,1,0,,,,,,"",""
+ball,1,9.4,Kolkata Knight Riders,A Raghuvanshi,SP Narine,R Ashwin,1,0,,,,,,"",""
+ball,1,9.5,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,0,1,1,,,,,"",""
+ball,1,9.6,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,6,0,,,,,,"",""
+ball,1,9.7,Kolkata Knight Riders,SP Narine,A Raghuvanshi,R Ashwin,1,0,,,,,,"",""
+ball,1,10.1,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,0,1,1,,,,,"",""
+ball,1,10.2,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,0,0,,,,,,"",""
+ball,1,10.3,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,4,0,,,,,,"",""
+ball,1,10.4,Kolkata Knight Riders,SP Narine,A Raghuvanshi,KR Sen,1,0,,,,,,"",""
+ball,1,10.5,Kolkata Knight Riders,A Raghuvanshi,SP Narine,KR Sen,0,0,,,,,,caught,A Raghuvanshi
+ball,1,10.6,Kolkata Knight Riders,SS Iyer,SP Narine,KR Sen,0,0,,,,,,"",""
+ball,1,10.7,Kolkata Knight Riders,SS Iyer,SP Narine,KR Sen,4,0,,,,,,"",""
+ball,1,11.1,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,0,1,1,,,,,"",""
+ball,1,11.2,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,0,0,,,,,,"",""
+ball,1,11.3,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,6,0,,,,,,"",""
+ball,1,11.4,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,4,0,,,,,,"",""
+ball,1,11.5,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,0,0,,,,,,"",""
+ball,1,11.6,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,0,0,,,,,,"",""
+ball,1,11.7,Kolkata Knight Riders,SP Narine,SS Iyer,R Ashwin,4,0,,,,,,"",""
+ball,1,12.1,Kolkata Knight Riders,SS Iyer,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,12.2,Kolkata Knight Riders,SP Narine,SS Iyer,YS Chahal,1,0,,,,,,"",""
+ball,1,12.3,Kolkata Knight Riders,SS Iyer,SP Narine,YS Chahal,0,0,,,,,,"",""
+ball,1,12.4,Kolkata Knight Riders,SS Iyer,SP Narine,YS Chahal,0,0,,,,,,"",""
+ball,1,12.5,Kolkata Knight Riders,SS Iyer,SP Narine,YS Chahal,6,0,,,,,,"",""
+ball,1,12.6,Kolkata Knight Riders,SS Iyer,SP Narine,YS Chahal,0,0,,,,,,lbw,SS Iyer
+ball,1,13.1,Kolkata Knight Riders,SP Narine,AD Russell,R Ashwin,0,1,1,,,,,"",""
+ball,1,13.2,Kolkata Knight Riders,SP Narine,AD Russell,R Ashwin,2,0,,,,,,"",""
+ball,1,13.3,Kolkata Knight Riders,SP Narine,AD Russell,R Ashwin,0,1,1,,,,,"",""
+ball,1,13.4,Kolkata Knight Riders,SP Narine,AD Russell,R Ashwin,0,5,5,,,,,"",""
+ball,1,13.5,Kolkata Knight Riders,SP Narine,AD Russell,R Ashwin,1,0,,,,,,"",""
+ball,1,13.6,Kolkata Knight Riders,AD Russell,SP Narine,R Ashwin,2,0,,,,,,"",""
+ball,1,13.7,Kolkata Knight Riders,AD Russell,SP Narine,R Ashwin,0,0,,,,,,"",""
+ball,1,13.8,Kolkata Knight Riders,AD Russell,SP Narine,R Ashwin,0,0,,,,,,"",""
+ball,1,13.9,Kolkata Knight Riders,AD Russell,SP Narine,R Ashwin,1,0,,,,,,"",""
+ball,1,14.1,Kolkata Knight Riders,AD Russell,SP Narine,KR Sen,0,0,,,,,,"",""
+ball,1,14.2,Kolkata Knight Riders,AD Russell,SP Narine,KR Sen,4,0,,,,,,"",""
+ball,1,14.3,Kolkata Knight Riders,AD Russell,SP Narine,KR Sen,0,1,1,,,,,"",""
+ball,1,14.4,Kolkata Knight Riders,AD Russell,SP Narine,KR Sen,1,0,,,,,,"",""
+ball,1,14.5,Kolkata Knight Riders,SP Narine,AD Russell,KR Sen,4,0,,,,,,"",""
+ball,1,14.6,Kolkata Knight Riders,SP Narine,AD Russell,KR Sen,1,0,,,,,,"",""
+ball,1,14.7,Kolkata Knight Riders,AD Russell,SP Narine,KR Sen,4,0,,,,,,"",""
+ball,1,15.1,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,1,0,,,,,,"",""
+ball,1,15.2,Kolkata Knight Riders,AD Russell,SP Narine,YS Chahal,1,0,,,,,,"",""
+ball,1,15.3,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,6,0,,,,,,"",""
+ball,1,15.4,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,4,0,,,,,,"",""
+ball,1,15.5,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,0,1,1,,,,,"",""
+ball,1,15.6,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,6,0,,,,,,"",""
+ball,1,15.7,Kolkata Knight Riders,SP Narine,AD Russell,YS Chahal,4,0,,,,,,"",""
+ball,1,16.1,Kolkata Knight Riders,AD Russell,SP Narine,Avesh Khan,0,0,,,,,,caught,AD Russell
+ball,1,16.2,Kolkata Knight Riders,RK Singh,SP Narine,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.3,Kolkata Knight Riders,SP Narine,RK Singh,Avesh Khan,0,1,1,,,,,"",""
+ball,1,16.4,Kolkata Knight Riders,SP Narine,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,1,16.5,Kolkata Knight Riders,SP Narine,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,1,16.6,Kolkata Knight Riders,SP Narine,RK Singh,Avesh Khan,4,0,,,,,,"",""
+ball,1,16.7,Kolkata Knight Riders,SP Narine,RK Singh,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.1,Kolkata Knight Riders,SP Narine,RK Singh,TA Boult,0,0,,,,,,"",""
+ball,1,17.2,Kolkata Knight Riders,SP Narine,RK Singh,TA Boult,4,0,,,,,,"",""
+ball,1,17.3,Kolkata Knight Riders,SP Narine,RK Singh,TA Boult,0,0,,,,,,bowled,SP Narine
+ball,1,17.4,Kolkata Knight Riders,VR Iyer,RK Singh,TA Boult,2,0,,,,,,"",""
+ball,1,17.5,Kolkata Knight Riders,VR Iyer,RK Singh,TA Boult,1,0,,,,,,"",""
+ball,1,17.6,Kolkata Knight Riders,RK Singh,VR Iyer,TA Boult,0,0,,,,,,"",""
+ball,1,18.1,Kolkata Knight Riders,VR Iyer,RK Singh,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.2,Kolkata Knight Riders,RK Singh,VR Iyer,Avesh Khan,6,0,,,,,,"",""
+ball,1,18.3,Kolkata Knight Riders,RK Singh,VR Iyer,Avesh Khan,4,0,,,,,,"",""
+ball,1,18.4,Kolkata Knight Riders,RK Singh,VR Iyer,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.5,Kolkata Knight Riders,VR Iyer,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,1,18.6,Kolkata Knight Riders,VR Iyer,RK Singh,Avesh Khan,4,0,,,,,,"",""
+ball,1,19.1,Kolkata Knight Riders,RK Singh,VR Iyer,KR Sen,1,0,,,,,,"",""
+ball,1,19.2,Kolkata Knight Riders,VR Iyer,RK Singh,KR Sen,0,0,,,,,,caught,VR Iyer
+ball,1,19.3,Kolkata Knight Riders,Ramandeep Singh,RK Singh,KR Sen,1,0,,,,,,"",""
+ball,1,19.4,Kolkata Knight Riders,RK Singh,Ramandeep Singh,KR Sen,0,0,,,,,,"",""
+ball,1,19.5,Kolkata Knight Riders,RK Singh,Ramandeep Singh,KR Sen,6,0,,,,,,"",""
+ball,1,19.6,Kolkata Knight Riders,RK Singh,Ramandeep Singh,KR Sen,1,0,,,,,,"",""
+ball,2,0.1,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,0,1,1,,,,,"",""
+ball,2,0.2,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,1,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,JC Buttler,YBK Jaiswal,MA Starc,1,0,,,,,,"",""
+ball,2,0.4,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,0,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,4,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,0,0,,,,,,"",""
+ball,2,0.7,Rajasthan Royals,YBK Jaiswal,JC Buttler,MA Starc,4,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,JC Buttler,YBK Jaiswal,VG Arora,1,0,,,,,,"",""
+ball,2,1.2,Rajasthan Royals,YBK Jaiswal,JC Buttler,VG Arora,0,0,,,,,,"",""
+ball,2,1.3,Rajasthan Royals,YBK Jaiswal,JC Buttler,VG Arora,6,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,YBK Jaiswal,JC Buttler,VG Arora,4,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,YBK Jaiswal,JC Buttler,VG Arora,0,0,,,,,,caught,YBK Jaiswal
+ball,2,1.6,Rajasthan Royals,SV Samson,JC Buttler,VG Arora,1,0,,,,,,"",""
+ball,2,2.1,Rajasthan Royals,SV Samson,JC Buttler,MA Starc,1,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,4,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,0,1,1,,,,,"",""
+ball,2,2.4,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,0,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,0,1,1,,,,,"",""
+ball,2,2.6,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,4,0,,,,,,"",""
+ball,2,2.7,Rajasthan Royals,JC Buttler,SV Samson,MA Starc,1,0,,,,,,"",""
+ball,2,2.8,Rajasthan Royals,SV Samson,JC Buttler,MA Starc,1,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,SV Samson,JC Buttler,VG Arora,4,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,SV Samson,JC Buttler,VG Arora,4,0,,,,,,"",""
+ball,2,3.3,Rajasthan Royals,SV Samson,JC Buttler,VG Arora,1,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,JC Buttler,SV Samson,VG Arora,0,0,,,,,,"",""
+ball,2,3.5,Rajasthan Royals,JC Buttler,SV Samson,VG Arora,1,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,SV Samson,JC Buttler,VG Arora,0,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,JC Buttler,SV Samson,Harshit Rana,1,0,,,,,,"",""
+ball,2,4.2,Rajasthan Royals,SV Samson,JC Buttler,Harshit Rana,0,0,,,,,,caught,SV Samson
+ball,2,4.3,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,0,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,0,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,0,1,1,,,,,"",""
+ball,2,4.6,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,4,0,,,,,,"",""
+ball,2,4.7,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,1,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,R Parag,JC Buttler,VG Arora,4,0,,,,,,"",""
+ball,2,5.2,Rajasthan Royals,R Parag,JC Buttler,VG Arora,1,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,JC Buttler,R Parag,VG Arora,0,1,,1,,,,"",""
+ball,2,5.4,Rajasthan Royals,JC Buttler,R Parag,VG Arora,6,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,JC Buttler,R Parag,VG Arora,1,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,R Parag,JC Buttler,VG Arora,6,0,,,,,,"",""
+ball,2,5.7,Rajasthan Royals,R Parag,JC Buttler,VG Arora,4,0,,,,,,"",""
+ball,2,6.1,Rajasthan Royals,JC Buttler,R Parag,SP Narine,1,0,,,,,,"",""
+ball,2,6.2,Rajasthan Royals,R Parag,JC Buttler,SP Narine,2,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,R Parag,JC Buttler,SP Narine,0,2,2,,,,,"",""
+ball,2,6.4,Rajasthan Royals,JC Buttler,R Parag,SP Narine,2,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,JC Buttler,R Parag,SP Narine,0,1,,,,1,,"",""
+ball,2,6.6,Rajasthan Royals,R Parag,JC Buttler,SP Narine,1,0,,,,,,"",""
+ball,2,6.7,Rajasthan Royals,JC Buttler,R Parag,SP Narine,0,0,,,,,,"",""
+ball,2,7.1,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,6,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,4,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,1,0,,,,,,"",""
+ball,2,7.4,Rajasthan Royals,JC Buttler,R Parag,Harshit Rana,1,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,R Parag,JC Buttler,Harshit Rana,0,0,,,,,,caught,R Parag
+ball,2,7.6,Rajasthan Royals,Dhruv Jurel,JC Buttler,Harshit Rana,1,0,,,,,,"",""
+ball,2,8.1,Rajasthan Royals,Dhruv Jurel,JC Buttler,SP Narine,1,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,JC Buttler,Dhruv Jurel,SP Narine,1,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,Dhruv Jurel,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,Dhruv Jurel,JC Buttler,SP Narine,0,0,,,,,,lbw,Dhruv Jurel
+ball,2,8.5,Rajasthan Royals,R Ashwin,JC Buttler,SP Narine,0,1,1,,,,,"",""
+ball,2,8.6,Rajasthan Royals,R Ashwin,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,8.7,Rajasthan Royals,R Ashwin,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,9.1,Rajasthan Royals,JC Buttler,R Ashwin,MA Starc,4,0,,,,,,"",""
+ball,2,9.2,Rajasthan Royals,JC Buttler,R Ashwin,MA Starc,0,0,,,,,,"",""
+ball,2,9.3,Rajasthan Royals,JC Buttler,R Ashwin,MA Starc,1,0,,,,,,"",""
+ball,2,9.4,Rajasthan Royals,R Ashwin,JC Buttler,MA Starc,0,0,,,,,,"",""
+ball,2,9.5,Rajasthan Royals,R Ashwin,JC Buttler,MA Starc,1,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,JC Buttler,R Ashwin,MA Starc,2,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,R Ashwin,JC Buttler,CV Varun,0,0,,,,,,"",""
+ball,2,10.2,Rajasthan Royals,R Ashwin,JC Buttler,CV Varun,1,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,JC Buttler,R Ashwin,CV Varun,0,0,,,,,,"",""
+ball,2,10.4,Rajasthan Royals,JC Buttler,R Ashwin,CV Varun,0,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,JC Buttler,R Ashwin,CV Varun,1,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,R Ashwin,JC Buttler,CV Varun,4,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,JC Buttler,R Ashwin,Harshit Rana,1,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,R Ashwin,JC Buttler,Harshit Rana,1,0,,,,,,"",""
+ball,2,11.3,Rajasthan Royals,JC Buttler,R Ashwin,Harshit Rana,1,0,,,,,,"",""
+ball,2,11.4,Rajasthan Royals,R Ashwin,JC Buttler,Harshit Rana,0,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,R Ashwin,JC Buttler,Harshit Rana,1,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,JC Buttler,R Ashwin,Harshit Rana,2,0,,,,,,"",""
+ball,2,12.1,Rajasthan Royals,R Ashwin,JC Buttler,CV Varun,0,0,,,,,,caught,R Ashwin
+ball,2,12.2,Rajasthan Royals,SO Hetmyer,JC Buttler,CV Varun,0,0,,,,,,caught,SO Hetmyer
+ball,2,12.3,Rajasthan Royals,R Powell,JC Buttler,CV Varun,1,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,JC Buttler,R Powell,CV Varun,2,0,,,,,,"",""
+ball,2,12.5,Rajasthan Royals,JC Buttler,R Powell,CV Varun,1,0,,,,,,"",""
+ball,2,12.6,Rajasthan Royals,R Powell,JC Buttler,CV Varun,0,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,JC Buttler,R Powell,SP Narine,1,0,,,,,,"",""
+ball,2,13.2,Rajasthan Royals,R Powell,JC Buttler,SP Narine,1,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,JC Buttler,R Powell,SP Narine,0,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,JC Buttler,R Powell,SP Narine,1,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,R Powell,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,R Powell,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,JC Buttler,R Powell,CV Varun,0,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,JC Buttler,R Powell,CV Varun,4,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,JC Buttler,R Powell,CV Varun,4,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,JC Buttler,R Powell,CV Varun,0,1,1,,,,,"",""
+ball,2,14.5,Rajasthan Royals,JC Buttler,R Powell,CV Varun,4,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,JC Buttler,R Powell,CV Varun,0,0,,,,,,"",""
+ball,2,14.7,Rajasthan Royals,JC Buttler,R Powell,CV Varun,4,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,R Powell,JC Buttler,AD Russell,6,0,,,,,,"",""
+ball,2,15.2,Rajasthan Royals,R Powell,JC Buttler,AD Russell,1,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,JC Buttler,R Powell,AD Russell,1,0,,,,,,"",""
+ball,2,15.4,Rajasthan Royals,R Powell,JC Buttler,AD Russell,1,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,JC Buttler,R Powell,AD Russell,6,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,JC Buttler,R Powell,AD Russell,2,0,,,,,,"",""
+ball,2,16.1,Rajasthan Royals,R Powell,JC Buttler,SP Narine,4,0,,,,,,"",""
+ball,2,16.2,Rajasthan Royals,R Powell,JC Buttler,SP Narine,6,0,,,,,,"",""
+ball,2,16.3,Rajasthan Royals,R Powell,JC Buttler,SP Narine,6,0,,,,,,"",""
+ball,2,16.4,Rajasthan Royals,R Powell,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,16.5,Rajasthan Royals,R Powell,JC Buttler,SP Narine,0,0,,,,,,lbw,R Powell
+ball,2,16.6,Rajasthan Royals,TA Boult,JC Buttler,SP Narine,0,0,,,,,,"",""
+ball,2,17.1,Rajasthan Royals,JC Buttler,TA Boult,MA Starc,6,0,,,,,,"",""
+ball,2,17.2,Rajasthan Royals,JC Buttler,TA Boult,MA Starc,0,1,1,,,,,"",""
+ball,2,17.3,Rajasthan Royals,JC Buttler,TA Boult,MA Starc,0,0,,,,,,"",""
+ball,2,17.4,Rajasthan Royals,JC Buttler,TA Boult,MA Starc,1,0,,,,,,run out,TA Boult
+ball,2,17.5,Rajasthan Royals,JC Buttler,Avesh Khan,MA Starc,0,0,,,,,,"",""
+ball,2,17.6,Rajasthan Royals,JC Buttler,Avesh Khan,MA Starc,4,0,,,,,,"",""
+ball,2,17.7,Rajasthan Royals,JC Buttler,Avesh Khan,MA Starc,0,5,5,,,,,"",""
+ball,2,17.8,Rajasthan Royals,JC Buttler,Avesh Khan,MA Starc,1,0,,,,,,"",""
+ball,2,18.1,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,6,0,,,,,,"",""
+ball,2,18.2,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,0,0,,,,,,"",""
+ball,2,18.3,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,4,0,,,,,,"",""
+ball,2,18.4,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,6,0,,,,,,"",""
+ball,2,18.5,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,2,0,,,,,,"",""
+ball,2,18.6,Rajasthan Royals,JC Buttler,Avesh Khan,Harshit Rana,1,0,,,,,,"",""
+ball,2,19.1,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,6,0,,,,,,"",""
+ball,2,19.2,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,0,0,,,,,,"",""
+ball,2,19.3,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,0,0,,,,,,"",""
+ball,2,19.4,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,0,0,,,,,,"",""
+ball,2,19.5,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,2,0,,,,,,"",""
+ball,2,19.6,Rajasthan Royals,JC Buttler,Avesh Khan,CV Varun,1,0,,,,,,"",""

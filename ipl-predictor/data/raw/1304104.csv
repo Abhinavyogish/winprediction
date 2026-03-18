@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Delhi Capitals
+info,gender,male
+info,season,2022
+info,date,2022/05/11
+info,event,Indian Premier League
+info,match_number,58
+info,venue,"Dr DY Patil Sports Academy, Mumbai"
+info,city,Navi Mumbai
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,MR Marsh
+info,umpire,NA Patwardhan
+info,umpire,Nitin Menon
+info,reserve_umpire,Tapan Sharma
+info,tv_umpire,VK Sharma
+info,match_referee,M Nayyar
+info,winner,Delhi Capitals
+info,winner_wickets,8
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,JC Buttler
+info,player,Rajasthan Royals,R Ashwin
+info,player,Rajasthan Royals,D Padikkal
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,HE van der Dussen
+info,player,Rajasthan Royals,TA Boult
+info,player,Rajasthan Royals,M Prasidh Krishna
+info,player,Rajasthan Royals,YS Chahal
+info,player,Rajasthan Royals,KR Sen
+info,player,Delhi Capitals,KS Bharat
+info,player,Delhi Capitals,DA Warner
+info,player,Delhi Capitals,MR Marsh
+info,player,Delhi Capitals,RR Pant
+info,player,Delhi Capitals,R Powell
+info,player,Delhi Capitals,Lalit Yadav
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,SN Thakur
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,A Nortje
+info,player,Delhi Capitals,C Sakariya
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AR Patel,2e171977
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,KR Sen,2e78f685
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NA Patwardhan,e6ef687d
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Powell,650d5e49
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Rajasthan Royals,YBK Jaiswal,JC Buttler,C Sakariya,1,0,,,,,,"",""
+ball,1,0.2,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,1,1,,,,,"",""
+ball,1,0.3,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,1,0,,,,,,"",""
+ball,1,0.4,Rajasthan Royals,YBK Jaiswal,JC Buttler,C Sakariya,1,0,,,,,,"",""
+ball,1,0.5,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,0.6,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,0.7,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,1,0,,,,,,"",""
+ball,1,1.1,Rajasthan Royals,JC Buttler,YBK Jaiswal,A Nortje,4,0,,,,,,"",""
+ball,1,1.2,Rajasthan Royals,JC Buttler,YBK Jaiswal,A Nortje,1,0,,,,,,"",""
+ball,1,1.3,Rajasthan Royals,YBK Jaiswal,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,1,1.4,Rajasthan Royals,YBK Jaiswal,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,1,1.5,Rajasthan Royals,YBK Jaiswal,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,1,1.6,Rajasthan Royals,YBK Jaiswal,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,1,2.1,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.2,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.3,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.4,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.5,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,1,1,,,,,"",""
+ball,1,2.6,Rajasthan Royals,JC Buttler,YBK Jaiswal,C Sakariya,0,0,,,,,,caught,JC Buttler
+ball,1,2.7,Rajasthan Royals,R Ashwin,YBK Jaiswal,C Sakariya,0,0,,,,,,"",""
+ball,1,3.1,Rajasthan Royals,YBK Jaiswal,R Ashwin,A Nortje,4,0,,,,,,"",""
+ball,1,3.2,Rajasthan Royals,YBK Jaiswal,R Ashwin,A Nortje,0,0,,,,,,"",""
+ball,1,3.3,Rajasthan Royals,YBK Jaiswal,R Ashwin,A Nortje,1,0,,,,,,"",""
+ball,1,3.4,Rajasthan Royals,R Ashwin,YBK Jaiswal,A Nortje,0,0,,,,,,"",""
+ball,1,3.5,Rajasthan Royals,R Ashwin,YBK Jaiswal,A Nortje,1,0,,,,,,"",""
+ball,1,3.6,Rajasthan Royals,YBK Jaiswal,R Ashwin,A Nortje,6,0,,,,,,"",""
+ball,1,4.1,Rajasthan Royals,R Ashwin,YBK Jaiswal,SN Thakur,0,0,,,,,,"",""
+ball,1,4.2,Rajasthan Royals,R Ashwin,YBK Jaiswal,SN Thakur,4,0,,,,,,"",""
+ball,1,4.3,Rajasthan Royals,R Ashwin,YBK Jaiswal,SN Thakur,0,0,,,,,,"",""
+ball,1,4.4,Rajasthan Royals,R Ashwin,YBK Jaiswal,SN Thakur,4,0,,,,,,"",""
+ball,1,4.5,Rajasthan Royals,R Ashwin,YBK Jaiswal,SN Thakur,1,0,,,,,,"",""
+ball,1,4.6,Rajasthan Royals,YBK Jaiswal,R Ashwin,SN Thakur,0,0,,,,,,"",""
+ball,1,5.1,Rajasthan Royals,R Ashwin,YBK Jaiswal,AR Patel,0,0,,,,,,"",""
+ball,1,5.2,Rajasthan Royals,R Ashwin,YBK Jaiswal,AR Patel,0,0,,,,,,"",""
+ball,1,5.3,Rajasthan Royals,R Ashwin,YBK Jaiswal,AR Patel,4,0,,,,,,"",""
+ball,1,5.4,Rajasthan Royals,R Ashwin,YBK Jaiswal,AR Patel,6,0,,,,,,"",""
+ball,1,5.5,Rajasthan Royals,R Ashwin,YBK Jaiswal,AR Patel,1,0,,,,,,"",""
+ball,1,5.6,Rajasthan Royals,YBK Jaiswal,R Ashwin,AR Patel,0,0,,,,,,"",""
+ball,1,6.1,Rajasthan Royals,R Ashwin,YBK Jaiswal,MR Marsh,1,0,,,,,,"",""
+ball,1,6.2,Rajasthan Royals,YBK Jaiswal,R Ashwin,MR Marsh,1,0,,,,,,"",""
+ball,1,6.3,Rajasthan Royals,R Ashwin,YBK Jaiswal,MR Marsh,1,0,,,,,,"",""
+ball,1,6.4,Rajasthan Royals,YBK Jaiswal,R Ashwin,MR Marsh,1,0,,,,,,"",""
+ball,1,6.5,Rajasthan Royals,R Ashwin,YBK Jaiswal,MR Marsh,1,0,,,,,,"",""
+ball,1,6.6,Rajasthan Royals,YBK Jaiswal,R Ashwin,MR Marsh,1,0,,,,,,"",""
+ball,1,7.1,Rajasthan Royals,YBK Jaiswal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.2,Rajasthan Royals,R Ashwin,YBK Jaiswal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.3,Rajasthan Royals,YBK Jaiswal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.4,Rajasthan Royals,R Ashwin,YBK Jaiswal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.5,Rajasthan Royals,YBK Jaiswal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.6,Rajasthan Royals,R Ashwin,YBK Jaiswal,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,8.1,Rajasthan Royals,YBK Jaiswal,R Ashwin,MR Marsh,0,0,,,,,,caught,YBK Jaiswal
+ball,1,8.2,Rajasthan Royals,D Padikkal,R Ashwin,MR Marsh,4,0,,,,,,"",""
+ball,1,8.3,Rajasthan Royals,D Padikkal,R Ashwin,MR Marsh,1,0,,,,,,"",""
+ball,1,8.4,Rajasthan Royals,R Ashwin,D Padikkal,MR Marsh,1,0,,,,,,"",""
+ball,1,8.5,Rajasthan Royals,D Padikkal,R Ashwin,MR Marsh,4,0,,,,,,"",""
+ball,1,8.6,Rajasthan Royals,D Padikkal,R Ashwin,MR Marsh,0,0,,,,,,"",""
+ball,1,9.1,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.2,Rajasthan Royals,D Padikkal,R Ashwin,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,9.3,Rajasthan Royals,D Padikkal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.4,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.5,Rajasthan Royals,D Padikkal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.6,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,10.1,Rajasthan Royals,D Padikkal,R Ashwin,SN Thakur,0,0,,,,,,"",""
+ball,1,10.2,Rajasthan Royals,D Padikkal,R Ashwin,SN Thakur,1,0,,,,,,"",""
+ball,1,10.3,Rajasthan Royals,R Ashwin,D Padikkal,SN Thakur,2,0,,,,,,"",""
+ball,1,10.4,Rajasthan Royals,R Ashwin,D Padikkal,SN Thakur,0,0,,,,,,"",""
+ball,1,10.5,Rajasthan Royals,R Ashwin,D Padikkal,SN Thakur,0,0,,,,,,"",""
+ball,1,10.6,Rajasthan Royals,R Ashwin,D Padikkal,SN Thakur,1,0,,,,,,"",""
+ball,1,11.1,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.2,Rajasthan Royals,D Padikkal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.3,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.4,Rajasthan Royals,D Padikkal,R Ashwin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.5,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,11.6,Rajasthan Royals,R Ashwin,D Padikkal,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,12.1,Rajasthan Royals,R Ashwin,D Padikkal,AR Patel,0,0,,,,,,"",""
+ball,1,12.2,Rajasthan Royals,R Ashwin,D Padikkal,AR Patel,1,0,,,,,,"",""
+ball,1,12.3,Rajasthan Royals,D Padikkal,R Ashwin,AR Patel,0,0,,,,,,"",""
+ball,1,12.4,Rajasthan Royals,D Padikkal,R Ashwin,AR Patel,6,0,,,,,,"",""
+ball,1,12.5,Rajasthan Royals,D Padikkal,R Ashwin,AR Patel,6,0,,,,,,"",""
+ball,1,12.6,Rajasthan Royals,D Padikkal,R Ashwin,AR Patel,1,0,,,,,,"",""
+ball,1,13.1,Rajasthan Royals,D Padikkal,R Ashwin,C Sakariya,1,0,,,,,,"",""
+ball,1,13.2,Rajasthan Royals,R Ashwin,D Padikkal,C Sakariya,2,0,,,,,,"",""
+ball,1,13.3,Rajasthan Royals,R Ashwin,D Padikkal,C Sakariya,4,0,,,,,,"",""
+ball,1,13.4,Rajasthan Royals,R Ashwin,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,1,13.5,Rajasthan Royals,D Padikkal,R Ashwin,C Sakariya,1,0,,,,,,"",""
+ball,1,13.6,Rajasthan Royals,R Ashwin,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,1,14.1,Rajasthan Royals,R Ashwin,D Padikkal,MR Marsh,0,0,,,,,,caught,R Ashwin
+ball,1,14.2,Rajasthan Royals,SV Samson,D Padikkal,MR Marsh,1,0,,,,,,"",""
+ball,1,14.3,Rajasthan Royals,D Padikkal,SV Samson,MR Marsh,4,0,,,,,,"",""
+ball,1,14.4,Rajasthan Royals,D Padikkal,SV Samson,MR Marsh,4,0,,,,,,"",""
+ball,1,14.5,Rajasthan Royals,D Padikkal,SV Samson,MR Marsh,0,0,,,,,,"",""
+ball,1,14.6,Rajasthan Royals,D Padikkal,SV Samson,MR Marsh,0,0,,,,,,"",""
+ball,1,15.1,Rajasthan Royals,SV Samson,D Padikkal,SN Thakur,4,0,,,,,,"",""
+ball,1,15.2,Rajasthan Royals,SV Samson,D Padikkal,SN Thakur,1,0,,,,,,"",""
+ball,1,15.3,Rajasthan Royals,D Padikkal,SV Samson,SN Thakur,0,0,,,,,,"",""
+ball,1,15.4,Rajasthan Royals,D Padikkal,SV Samson,SN Thakur,0,0,,,,,,"",""
+ball,1,15.5,Rajasthan Royals,D Padikkal,SV Samson,SN Thakur,4,0,,,,,,"",""
+ball,1,15.6,Rajasthan Royals,D Padikkal,SV Samson,SN Thakur,0,0,,,,,,"",""
+ball,1,16.1,Rajasthan Royals,SV Samson,D Padikkal,A Nortje,0,0,,,,,,caught,SV Samson
+ball,1,16.2,Rajasthan Royals,R Parag,D Padikkal,A Nortje,1,0,,,,,,"",""
+ball,1,16.3,Rajasthan Royals,D Padikkal,R Parag,A Nortje,1,0,,,,,,"",""
+ball,1,16.4,Rajasthan Royals,R Parag,D Padikkal,A Nortje,6,0,,,,,,"",""
+ball,1,16.5,Rajasthan Royals,R Parag,D Padikkal,A Nortje,1,0,,,,,,"",""
+ball,1,16.6,Rajasthan Royals,D Padikkal,R Parag,A Nortje,0,1,1,,,,,"",""
+ball,1,16.7,Rajasthan Royals,D Padikkal,R Parag,A Nortje,4,0,,,,,,"",""
+ball,1,17.1,Rajasthan Royals,R Parag,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,1,17.2,Rajasthan Royals,D Padikkal,R Parag,C Sakariya,1,0,,,,,,"",""
+ball,1,17.3,Rajasthan Royals,R Parag,D Padikkal,C Sakariya,0,1,1,,,,,"",""
+ball,1,17.4,Rajasthan Royals,R Parag,D Padikkal,C Sakariya,0,0,,,,,,caught,R Parag
+ball,1,17.5,Rajasthan Royals,HE van der Dussen,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,1,17.6,Rajasthan Royals,D Padikkal,HE van der Dussen,C Sakariya,1,0,,,,,,"",""
+ball,1,17.7,Rajasthan Royals,HE van der Dussen,D Padikkal,C Sakariya,2,0,,,,,,"",""
+ball,1,18.1,Rajasthan Royals,D Padikkal,HE van der Dussen,A Nortje,0,0,,,,,,caught,D Padikkal
+ball,1,18.2,Rajasthan Royals,TA Boult,HE van der Dussen,A Nortje,1,0,,,,,,"",""
+ball,1,18.3,Rajasthan Royals,HE van der Dussen,TA Boult,A Nortje,1,0,,,,,,"",""
+ball,1,18.4,Rajasthan Royals,TA Boult,HE van der Dussen,A Nortje,1,0,,,,,,"",""
+ball,1,18.5,Rajasthan Royals,HE van der Dussen,TA Boult,A Nortje,4,0,,,,,,"",""
+ball,1,18.6,Rajasthan Royals,HE van der Dussen,TA Boult,A Nortje,1,0,,,,,,"",""
+ball,1,19.1,Rajasthan Royals,HE van der Dussen,TA Boult,SN Thakur,1,0,,,,,,"",""
+ball,1,19.2,Rajasthan Royals,TA Boult,HE van der Dussen,SN Thakur,0,1,1,,,,,"",""
+ball,1,19.3,Rajasthan Royals,TA Boult,HE van der Dussen,SN Thakur,1,0,,,,,,"",""
+ball,1,19.4,Rajasthan Royals,HE van der Dussen,TA Boult,SN Thakur,0,0,,,,,,"",""
+ball,1,19.5,Rajasthan Royals,HE van der Dussen,TA Boult,SN Thakur,0,0,,,,,,"",""
+ball,1,19.6,Rajasthan Royals,HE van der Dussen,TA Boult,SN Thakur,2,0,,,,,,"",""
+ball,1,19.7,Rajasthan Royals,HE van der Dussen,TA Boult,SN Thakur,0,1,,,1,,,"",""
+ball,2,0.1,Delhi Capitals,KS Bharat,DA Warner,TA Boult,0,0,,,,,,"",""
+ball,2,0.2,Delhi Capitals,KS Bharat,DA Warner,TA Boult,0,0,,,,,,caught,KS Bharat
+ball,2,0.3,Delhi Capitals,MR Marsh,DA Warner,TA Boult,0,0,,,,,,"",""
+ball,2,0.4,Delhi Capitals,MR Marsh,DA Warner,TA Boult,1,0,,,,,,"",""
+ball,2,0.5,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,2,0.6,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,2,1.1,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.2,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.3,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.4,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.5,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.6,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,2.1,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,2,2.2,Delhi Capitals,DA Warner,MR Marsh,TA Boult,1,0,,,,,,"",""
+ball,2,2.3,Delhi Capitals,MR Marsh,DA Warner,TA Boult,1,0,,,,,,"",""
+ball,2,2.4,Delhi Capitals,DA Warner,MR Marsh,TA Boult,1,0,,,,,,"",""
+ball,2,2.5,Delhi Capitals,MR Marsh,DA Warner,TA Boult,0,0,,,,,,"",""
+ball,2,2.6,Delhi Capitals,MR Marsh,DA Warner,TA Boult,1,0,,,,,,"",""
+ball,2,3.1,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,3.2,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,3.3,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,6,0,,,,,,"",""
+ball,2,3.4,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,3.5,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,0,1,,,,1,,"",""
+ball,2,3.6,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,4.1,Delhi Capitals,MR Marsh,DA Warner,TA Boult,4,0,,,,,,"",""
+ball,2,4.2,Delhi Capitals,MR Marsh,DA Warner,TA Boult,0,0,,,,,,"",""
+ball,2,4.3,Delhi Capitals,MR Marsh,DA Warner,TA Boult,1,0,,,,,,"",""
+ball,2,4.4,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,2,4.5,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,1,1,,,,,"",""
+ball,2,4.6,Delhi Capitals,DA Warner,MR Marsh,TA Boult,4,0,,,,,,"",""
+ball,2,4.7,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,1,1,,,,,"",""
+ball,2,4.8,Delhi Capitals,DA Warner,MR Marsh,TA Boult,1,0,,,,,,"",""
+ball,2,5.1,Delhi Capitals,DA Warner,MR Marsh,M Prasidh Krishna,3,0,,,,,,"",""
+ball,2,5.2,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,5.3,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,5.4,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,5.5,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,5.6,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,6.1,Delhi Capitals,MR Marsh,DA Warner,KR Sen,1,0,,,,,,"",""
+ball,2,6.2,Delhi Capitals,DA Warner,MR Marsh,KR Sen,1,0,,,,,,"",""
+ball,2,6.3,Delhi Capitals,MR Marsh,DA Warner,KR Sen,6,0,,,,,,"",""
+ball,2,6.4,Delhi Capitals,MR Marsh,DA Warner,KR Sen,0,0,,,,,,"",""
+ball,2,6.5,Delhi Capitals,MR Marsh,DA Warner,KR Sen,6,0,,,,,,"",""
+ball,2,6.6,Delhi Capitals,MR Marsh,DA Warner,KR Sen,2,0,,,,,,"",""
+ball,2,7.1,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,0,0,,,,,,"",""
+ball,2,7.2,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,0,0,,,,,,"",""
+ball,2,7.3,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,7.4,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,0,0,,,,,,"",""
+ball,2,7.5,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,7.6,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,0,0,,,,,,"",""
+ball,2,8.1,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,8.2,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,6,0,,,,,,"",""
+ball,2,8.3,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,2,0,,,,,,"",""
+ball,2,8.4,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,1,0,,,,,,"",""
+ball,2,8.5,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,8.6,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,0,0,,,,,,"",""
+ball,2,9.1,Delhi Capitals,MR Marsh,DA Warner,KR Sen,0,1,,,,1,,"",""
+ball,2,9.2,Delhi Capitals,DA Warner,MR Marsh,KR Sen,0,0,,,,,,"",""
+ball,2,9.3,Delhi Capitals,DA Warner,MR Marsh,KR Sen,1,0,,,,,,"",""
+ball,2,9.4,Delhi Capitals,MR Marsh,DA Warner,KR Sen,0,0,,,,,,"",""
+ball,2,9.5,Delhi Capitals,MR Marsh,DA Warner,KR Sen,4,0,,,,,,"",""
+ball,2,9.6,Delhi Capitals,MR Marsh,DA Warner,KR Sen,1,0,,,,,,"",""
+ball,2,10.1,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,0,0,,,,,,"",""
+ball,2,10.2,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,6,0,,,,,,"",""
+ball,2,10.3,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,10.4,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,1,0,,,,,,"",""
+ball,2,10.5,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,0,0,,,,,,"",""
+ball,2,10.6,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,11.1,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,0,0,,,,,,"",""
+ball,2,11.2,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,11.3,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,11.4,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,0,1,1,,,,,"",""
+ball,2,11.5,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,0,0,,,,,,"",""
+ball,2,11.6,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,11.7,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,12.1,Delhi Capitals,DA Warner,MR Marsh,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,12.2,Delhi Capitals,DA Warner,MR Marsh,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,12.3,Delhi Capitals,DA Warner,MR Marsh,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,12.4,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,12.5,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,12.6,Delhi Capitals,MR Marsh,DA Warner,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,13.1,Delhi Capitals,MR Marsh,DA Warner,KR Sen,1,0,,,,,,"",""
+ball,2,13.2,Delhi Capitals,DA Warner,MR Marsh,KR Sen,0,0,,,,,,"",""
+ball,2,13.3,Delhi Capitals,DA Warner,MR Marsh,KR Sen,4,0,,,,,,"",""
+ball,2,13.4,Delhi Capitals,DA Warner,MR Marsh,KR Sen,1,0,,,,,,"",""
+ball,2,13.5,Delhi Capitals,MR Marsh,DA Warner,KR Sen,0,0,,,,,,"",""
+ball,2,13.6,Delhi Capitals,MR Marsh,DA Warner,KR Sen,1,0,,,,,,"",""
+ball,2,14.1,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,0,0,,,,,,"",""
+ball,2,14.2,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,14.3,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,4,0,,,,,,"",""
+ball,2,14.4,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,1,0,,,,,,"",""
+ball,2,14.5,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,14.6,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,0,1,1,,,,,"",""
+ball,2,14.7,Delhi Capitals,DA Warner,MR Marsh,YS Chahal,1,0,,,,,,"",""
+ball,2,15.1,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,4,0,,,,,,"",""
+ball,2,15.2,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,15.3,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,6,0,,,,,,"",""
+ball,2,15.4,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,15.5,Delhi Capitals,DA Warner,MR Marsh,R Ashwin,1,0,,,,,,"",""
+ball,2,15.6,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,0,1,1,,,,,"",""
+ball,2,15.7,Delhi Capitals,MR Marsh,DA Warner,R Ashwin,1,0,,,,,,"",""
+ball,2,16.1,Delhi Capitals,MR Marsh,DA Warner,TA Boult,0,0,,,,,,"",""
+ball,2,16.2,Delhi Capitals,MR Marsh,DA Warner,TA Boult,4,0,,,,,,"",""
+ball,2,16.3,Delhi Capitals,MR Marsh,DA Warner,TA Boult,6,0,,,,,,"",""
+ball,2,16.4,Delhi Capitals,MR Marsh,DA Warner,TA Boult,1,0,,,,,,"",""
+ball,2,16.5,Delhi Capitals,DA Warner,MR Marsh,TA Boult,4,0,,,,,,"",""
+ball,2,16.6,Delhi Capitals,DA Warner,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,2,17.1,Delhi Capitals,MR Marsh,DA Warner,YS Chahal,0,0,,,,,,caught,MR Marsh
+ball,2,17.2,Delhi Capitals,RR Pant,DA Warner,YS Chahal,1,0,,,,,,"",""
+ball,2,17.3,Delhi Capitals,DA Warner,RR Pant,YS Chahal,1,0,,,,,,"",""
+ball,2,17.4,Delhi Capitals,RR Pant,DA Warner,YS Chahal,6,0,,,,,,"",""
+ball,2,17.5,Delhi Capitals,RR Pant,DA Warner,YS Chahal,0,0,,,,,,"",""
+ball,2,17.6,Delhi Capitals,RR Pant,DA Warner,YS Chahal,6,0,,,,,,"",""
+ball,2,18.1,Delhi Capitals,DA Warner,RR Pant,KR Sen,3,0,,,,,,"",""

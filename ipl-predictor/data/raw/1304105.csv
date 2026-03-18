@@ -1,0 +1,268 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Mumbai Indians
+info,gender,male
+info,season,2022
+info,date,2022/05/12
+info,event,Indian Premier League
+info,match_number,59
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,DR Sams
+info,umpire,Chirra Ravikanthreddy
+info,umpire,CB Gaffaney
+info,reserve_umpire,A Totre
+info,tv_umpire,Nitin Menon
+info,match_referee,Shakti Singh
+info,winner,Mumbai Indians
+info,winner_wickets,5
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,RV Uthappa
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,DJ Bravo
+info,player,Chennai Super Kings,Simarjeet Singh
+info,player,Chennai Super Kings,M Theekshana
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,DR Sams
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,T Stubbs
+info,player,Mumbai Indians,HR Shokeen
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,Ramandeep Singh
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,RP Meredith
+info,player,Mumbai Indians,K Kartikeya
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,Chirra Ravikanthreddy,8b680f55
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,HR Shokeen,0c9652b0
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RP Meredith,64775749
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Dube,a4e37e47
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,Simarjeet Singh,30df8c66
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,DP Conway,DR Sams,1,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,DP Conway,RD Gaikwad,DR Sams,0,0,,,,,,lbw,DP Conway
+ball,1,0.3,Chennai Super Kings,MM Ali,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,MM Ali,RD Gaikwad,DR Sams,0,1,1,,,,,"",""
+ball,1,0.5,Chennai Super Kings,MM Ali,RD Gaikwad,DR Sams,0,0,,,,,,caught,MM Ali
+ball,1,0.6,Chennai Super Kings,RV Uthappa,RD Gaikwad,DR Sams,0,1,1,,,,,"",""
+ball,1,0.7,Chennai Super Kings,RV Uthappa,RD Gaikwad,DR Sams,0,1,1,,,,,"",""
+ball,1,0.8,Chennai Super Kings,RV Uthappa,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,0.9,Chennai Super Kings,RV Uthappa,RD Gaikwad,DR Sams,1,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,RV Uthappa,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,RV Uthappa,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,RV Uthappa,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,RV Uthappa,RD Gaikwad,JJ Bumrah,0,0,,,,,,lbw,RV Uthappa
+ball,1,1.5,Chennai Super Kings,AT Rayudu,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,AT Rayudu,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,RD Gaikwad,AT Rayudu,DR Sams,1,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,AT Rayudu,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,AT Rayudu,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,AT Rayudu,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,AT Rayudu,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,AT Rayudu,RD Gaikwad,DR Sams,0,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,RD Gaikwad,AT Rayudu,JJ Bumrah,4,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,RD Gaikwad,AT Rayudu,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,RD Gaikwad,AT Rayudu,JJ Bumrah,1,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,AT Rayudu,RD Gaikwad,JJ Bumrah,4,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,AT Rayudu,RD Gaikwad,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,AT Rayudu,RD Gaikwad,JJ Bumrah,2,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,RD Gaikwad,AT Rayudu,DR Sams,0,0,,,,,,caught,RD Gaikwad
+ball,1,4.2,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,0,1,1,,,,,"",""
+ball,1,4.3,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,0,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,0,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,2,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,0,1,1,,,,,"",""
+ball,1,4.7,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,4,0,,,,,,"",""
+ball,1,4.8,Chennai Super Kings,MS Dhoni,AT Rayudu,DR Sams,0,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,AT Rayudu,MS Dhoni,RP Meredith,0,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,AT Rayudu,MS Dhoni,RP Meredith,0,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,AT Rayudu,MS Dhoni,RP Meredith,4,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,AT Rayudu,MS Dhoni,RP Meredith,0,0,,,,,,caught,AT Rayudu
+ball,1,5.5,Chennai Super Kings,S Dube,MS Dhoni,RP Meredith,2,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,S Dube,MS Dhoni,RP Meredith,1,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,S Dube,MS Dhoni,HR Shokeen,2,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,S Dube,MS Dhoni,HR Shokeen,0,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,S Dube,MS Dhoni,HR Shokeen,0,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,S Dube,MS Dhoni,HR Shokeen,1,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,MS Dhoni,S Dube,HR Shokeen,0,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,MS Dhoni,S Dube,HR Shokeen,0,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,S Dube,MS Dhoni,RP Meredith,0,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,S Dube,MS Dhoni,RP Meredith,4,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,S Dube,MS Dhoni,RP Meredith,0,0,,,,,,caught,S Dube
+ball,1,7.4,Chennai Super Kings,DJ Bravo,MS Dhoni,RP Meredith,0,5,5,,,,,"",""
+ball,1,7.5,Chennai Super Kings,DJ Bravo,MS Dhoni,RP Meredith,0,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,DJ Bravo,MS Dhoni,RP Meredith,0,0,,,,,,"",""
+ball,1,7.7,Chennai Super Kings,DJ Bravo,MS Dhoni,RP Meredith,1,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,0,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,1,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,0,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,0,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,4,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,4,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,DJ Bravo,MS Dhoni,HR Shokeen,1,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,6,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,0,2,,,,2,,"",""
+ball,1,9.4,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,0,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,0,1,1,,,,,"",""
+ball,1,9.6,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,0,0,,,,,,"",""
+ball,1,9.7,Chennai Super Kings,MS Dhoni,DJ Bravo,HR Shokeen,1,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,0,1,,,,1,,"",""
+ball,1,10.2,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,1,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,0,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,1,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,MS Dhoni,DJ Bravo,K Kartikeya,2,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,DJ Bravo,MS Dhoni,JJ Bumrah,0,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,DJ Bravo,MS Dhoni,JJ Bumrah,0,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,DJ Bravo,MS Dhoni,JJ Bumrah,0,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,DJ Bravo,MS Dhoni,JJ Bumrah,0,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,DJ Bravo,MS Dhoni,JJ Bumrah,1,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,MS Dhoni,DJ Bravo,JJ Bumrah,0,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,6,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,DJ Bravo,MS Dhoni,K Kartikeya,0,0,,,,,,caught,DJ Bravo
+ball,1,12.3,Chennai Super Kings,Simarjeet Singh,MS Dhoni,K Kartikeya,0,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,Simarjeet Singh,MS Dhoni,K Kartikeya,2,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,Simarjeet Singh,MS Dhoni,K Kartikeya,0,0,,,,,,lbw,Simarjeet Singh
+ball,1,12.6,Chennai Super Kings,M Theekshana,MS Dhoni,K Kartikeya,0,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,MS Dhoni,M Theekshana,Ramandeep Singh,1,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,M Theekshana,MS Dhoni,Ramandeep Singh,0,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,M Theekshana,MS Dhoni,Ramandeep Singh,0,0,,,,,,caught,M Theekshana
+ball,1,13.4,Chennai Super Kings,Mukesh Choudhary,MS Dhoni,Ramandeep Singh,0,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,Mukesh Choudhary,MS Dhoni,Ramandeep Singh,0,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,Mukesh Choudhary,MS Dhoni,Ramandeep Singh,4,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,0,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,0,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,0,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,0,1,1,,,,,"",""
+ball,1,14.5,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,0,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,DR Sams,1,0,,,,,,"",""
+ball,1,14.7,Chennai Super Kings,Mukesh Choudhary,MS Dhoni,DR Sams,0,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,4,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,0,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,0,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,6,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,0,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,MS Dhoni,Mukesh Choudhary,RP Meredith,0,0,,,,,,run out,Mukesh Choudhary
+ball,2,0.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,Ishan Kishan,RG Sharma,Mukesh Choudhary,2,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,Ishan Kishan,RG Sharma,Mukesh Choudhary,0,0,,,,,,caught,Ishan Kishan
+ball,2,0.6,Mumbai Indians,DR Sams,RG Sharma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,DR Sams,RG Sharma,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,0,1,1,,,,,"",""
+ball,2,2.7,Mumbai Indians,RG Sharma,DR Sams,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,5,5,,,,,"",""
+ball,2,3.4,Mumbai Indians,RG Sharma,DR Sams,Simarjeet Singh,0,0,,,,,,caught,RG Sharma
+ball,2,3.5,Mumbai Indians,Tilak Varma,DR Sams,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,DR Sams,Tilak Varma,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,3.7,Mumbai Indians,Tilak Varma,DR Sams,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,DR Sams,Tilak Varma,Mukesh Choudhary,0,1,1,,,,,"",""
+ball,2,4.2,Mumbai Indians,DR Sams,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,DR Sams,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,DR Sams,Tilak Varma,Mukesh Choudhary,0,0,,,,,,lbw,DR Sams
+ball,2,4.5,Mumbai Indians,T Stubbs,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,T Stubbs,Tilak Varma,Mukesh Choudhary,0,0,,,,,,lbw,T Stubbs
+ball,2,4.7,Mumbai Indians,HR Shokeen,Tilak Varma,Mukesh Choudhary,0,1,,,,1,,"",""
+ball,2,5.1,Mumbai Indians,HR Shokeen,Tilak Varma,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,HR Shokeen,Tilak Varma,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,HR Shokeen,Tilak Varma,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,HR Shokeen,Tilak Varma,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Tilak Varma,HR Shokeen,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,Tilak Varma,HR Shokeen,Mukesh Choudhary,4,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,Tilak Varma,HR Shokeen,Mukesh Choudhary,0,1,1,,,,,"",""
+ball,2,6.4,Mumbai Indians,Tilak Varma,HR Shokeen,Mukesh Choudhary,1,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,HR Shokeen,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,HR Shokeen,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,6.7,Mumbai Indians,HR Shokeen,Tilak Varma,Mukesh Choudhary,0,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Tilak Varma,HR Shokeen,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,4,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,2,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,0,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,1,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,Tilak Varma,HR Shokeen,DJ Bravo,1,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,1,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,HR Shokeen,Tilak Varma,M Theekshana,0,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,HR Shokeen,Tilak Varma,M Theekshana,1,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,1,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,HR Shokeen,Tilak Varma,M Theekshana,4,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,HR Shokeen,Tilak Varma,M Theekshana,1,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,4,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,2,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,0,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,HR Shokeen,Tilak Varma,DJ Bravo,1,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,Tilak Varma,HR Shokeen,DJ Bravo,2,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,Tilak Varma,HR Shokeen,DJ Bravo,0,1,1,,,,,"",""
+ball,2,10.6,Mumbai Indians,Tilak Varma,HR Shokeen,DJ Bravo,0,0,,,,,,"",""
+ball,2,10.7,Mumbai Indians,Tilak Varma,HR Shokeen,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,0,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,0,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,4,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,2,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,Tilak Varma,HR Shokeen,M Theekshana,1,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,HR Shokeen,Tilak Varma,M Theekshana,0,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,Tilak Varma,HR Shokeen,MM Ali,0,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,Tilak Varma,HR Shokeen,MM Ali,1,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,HR Shokeen,Tilak Varma,MM Ali,0,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,HR Shokeen,Tilak Varma,MM Ali,0,0,,,,,,bowled,HR Shokeen
+ball,2,12.5,Mumbai Indians,TH David,Tilak Varma,MM Ali,1,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,Tilak Varma,TH David,MM Ali,1,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,Tilak Varma,TH David,M Theekshana,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,TH David,Tilak Varma,M Theekshana,1,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,Tilak Varma,TH David,M Theekshana,2,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,Tilak Varma,TH David,M Theekshana,1,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,TH David,Tilak Varma,M Theekshana,0,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,TH David,Tilak Varma,M Theekshana,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,TH David,Tilak Varma,MM Ali,6,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,TH David,Tilak Varma,MM Ali,1,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,Tilak Varma,TH David,MM Ali,0,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,Tilak Varma,TH David,MM Ali,1,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,TH David,Tilak Varma,MM Ali,6,0,,,,,,"",""

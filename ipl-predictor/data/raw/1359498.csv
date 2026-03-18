@@ -1,0 +1,326 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2023
+info,date,2023/04/17
+info,event,Indian Premier League
+info,match_number,24
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,DP Conway
+info,umpire,KN Ananthapadmanabhan
+info,umpire,Navdeep Singh
+info,reserve_umpire,Abhijit Bhattacharya
+info,tv_umpire,MA Gough
+info,match_referee,Amit Sharma
+info,winner,Chennai Super Kings
+info,winner_runs,8
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,AM Rahane
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,TU Deshpande
+info,player,Chennai Super Kings,M Theekshana
+info,player,Chennai Super Kings,M Pathirana
+info,player,Chennai Super Kings,Akash Singh
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,F du Plessis
+info,player,Royal Challengers Bangalore,MK Lomror
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,KD Karthik
+info,player,Royal Challengers Bangalore,SS Prabhudessai
+info,player,Royal Challengers Bangalore,WD Parnell
+info,player,Royal Challengers Bangalore,PWH de Silva
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Royal Challengers Bangalore,Vijaykumar Vyshak
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Akash Singh,b483905d
+info,registry,people,Amit Sharma,7ea3e0cc
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Navdeep Singh,a3e3d8a4
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,DP Conway,RD Gaikwad,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,RD Gaikwad,DP Conway,WD Parnell,0,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,RD Gaikwad,DP Conway,WD Parnell,1,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,DP Conway,RD Gaikwad,WD Parnell,4,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,DP Conway,RD Gaikwad,WD Parnell,1,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,RD Gaikwad,DP Conway,WD Parnell,1,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,DP Conway,RD Gaikwad,WD Parnell,6,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,RD Gaikwad,DP Conway,Mohammed Siraj,0,0,,,,,,caught,RD Gaikwad
+ball,1,2.3,Chennai Super Kings,AM Rahane,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,AM Rahane,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,DP Conway,AM Rahane,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,AM Rahane,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,1,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,DP Conway,AM Rahane,WD Parnell,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,DP Conway,AM Rahane,WD Parnell,1,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,0,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,DP Conway,AM Rahane,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,DP Conway,AM Rahane,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,AM Rahane,DP Conway,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,AM Rahane,DP Conway,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,DP Conway,AM Rahane,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,DP Conway,AM Rahane,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,DP Conway,AM Rahane,WD Parnell,1,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,4,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,0,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,0,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,6,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,AM Rahane,DP Conway,WD Parnell,4,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,DP Conway,AM Rahane,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,AM Rahane,DP Conway,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,DP Conway,AM Rahane,GJ Maxwell,0,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,DP Conway,AM Rahane,GJ Maxwell,0,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,DP Conway,AM Rahane,GJ Maxwell,6,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,DP Conway,AM Rahane,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,DP Conway,AM Rahane,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,AM Rahane,DP Conway,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,DP Conway,AM Rahane,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,AM Rahane,DP Conway,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,DP Conway,AM Rahane,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,AM Rahane,DP Conway,PWH de Silva,2,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,0,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,0,1,1,,,,,"",""
+ball,1,8.3,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,6,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,2,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,0,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,DP Conway,AM Rahane,HV Patel,1,0,,,,,,"",""
+ball,1,8.7,Chennai Super Kings,AM Rahane,DP Conway,HV Patel,4,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,DP Conway,AM Rahane,PWH de Silva,6,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,DP Conway,AM Rahane,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,AM Rahane,DP Conway,PWH de Silva,0,0,,,,,,bowled,AM Rahane
+ball,1,9.4,Chennai Super Kings,S Dube,DP Conway,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,DP Conway,S Dube,PWH de Silva,2,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,DP Conway,S Dube,PWH de Silva,4,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,S Dube,DP Conway,GJ Maxwell,0,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,S Dube,DP Conway,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,DP Conway,S Dube,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,S Dube,DP Conway,GJ Maxwell,6,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,S Dube,DP Conway,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,DP Conway,S Dube,GJ Maxwell,1,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,S Dube,DP Conway,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,S Dube,DP Conway,HV Patel,0,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,S Dube,DP Conway,HV Patel,6,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,S Dube,DP Conway,HV Patel,2,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,S Dube,DP Conway,HV Patel,0,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,S Dube,DP Conway,HV Patel,1,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,DP Conway,S Dube,HV Patel,0,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,13.3,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,13.7,Chennai Super Kings,S Dube,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,S Dube,DP Conway,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,S Dube,DP Conway,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,S Dube,DP Conway,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,DP Conway,S Dube,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,S Dube,DP Conway,HV Patel,0,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,S Dube,DP Conway,HV Patel,4,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,S Dube,DP Conway,HV Patel,1,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,DP Conway,S Dube,HV Patel,0,0,,,,,,bowled,DP Conway
+ball,1,15.5,Chennai Super Kings,AT Rayudu,S Dube,HV Patel,1,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,S Dube,AT Rayudu,HV Patel,1,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,S Dube,AT Rayudu,WD Parnell,6,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,S Dube,AT Rayudu,WD Parnell,0,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,S Dube,AT Rayudu,WD Parnell,0,0,,,,,,caught,S Dube
+ball,1,16.4,Chennai Super Kings,MM Ali,AT Rayudu,WD Parnell,1,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,AT Rayudu,MM Ali,WD Parnell,1,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,MM Ali,AT Rayudu,WD Parnell,6,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,AT Rayudu,MM Ali,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,AT Rayudu,MM Ali,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,AT Rayudu,MM Ali,Vijaykumar Vyshak,2,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,AT Rayudu,MM Ali,Vijaykumar Vyshak,0,0,,,,,,caught,AT Rayudu
+ball,1,17.5,Chennai Super Kings,RA Jadeja,MM Ali,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,17.6,Chennai Super Kings,MM Ali,RA Jadeja,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,1,18.1,Chennai Super Kings,MM Ali,RA Jadeja,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,MM Ali,RA Jadeja,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.3,Chennai Super Kings,RA Jadeja,MM Ali,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,RA Jadeja,MM Ali,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,MM Ali,RA Jadeja,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,RA Jadeja,MM Ali,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,RA Jadeja,MM Ali,HV Patel,1,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,MM Ali,RA Jadeja,HV Patel,1,1,,1,,,,"",""
+ball,1,19.3,Chennai Super Kings,RA Jadeja,MM Ali,HV Patel,0,1,,,,1,,"",""
+ball,1,19.4,Chennai Super Kings,MM Ali,RA Jadeja,HV Patel,0,1,1,,,,,"",""
+ball,1,19.5,Chennai Super Kings,MM Ali,RA Jadeja,HV Patel,1,1,,1,,,,"",""
+ball,1,19.6,Chennai Super Kings,RA Jadeja,MM Ali,GJ Maxwell,6,0,,,,,,"",""
+ball,1,19.7,Chennai Super Kings,RA Jadeja,MM Ali,GJ Maxwell,0,1,1,,,,,"",""
+ball,1,19.8,Chennai Super Kings,RA Jadeja,MM Ali,GJ Maxwell,0,0,,,,,,caught,RA Jadeja
+ball,1,19.9,Chennai Super Kings,MS Dhoni,MM Ali,GJ Maxwell,1,0,,,,,,"",""
+ball,1,19.10,Chennai Super Kings,MM Ali,MS Dhoni,GJ Maxwell,1,0,,,,,,"",""
+ball,2,0.1,Royal Challengers Bangalore,V Kohli,F du Plessis,Akash Singh,2,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,V Kohli,F du Plessis,Akash Singh,4,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,V Kohli,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,V Kohli,F du Plessis,Akash Singh,0,0,,,,,,bowled,V Kohli
+ball,2,0.5,Royal Challengers Bangalore,MK Lomror,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,MK Lomror,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bangalore,F du Plessis,MK Lomror,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,F du Plessis,MK Lomror,TU Deshpande,4,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bangalore,F du Plessis,MK Lomror,TU Deshpande,1,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bangalore,MK Lomror,F du Plessis,TU Deshpande,0,4,,,,4,,"",""
+ball,2,1.5,Royal Challengers Bangalore,MK Lomror,F du Plessis,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,MK Lomror,F du Plessis,TU Deshpande,0,0,,,,,,caught,MK Lomror
+ball,2,2.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,1,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Akash Singh,6,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Akash Singh,0,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Akash Singh,6,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,TU Deshpande,1,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,TU Deshpande,1,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,TU Deshpande,4,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,TU Deshpande,4,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,TU Deshpande,6,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,TU Deshpande,1,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,0,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,0,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,6,0,,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,4,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,2,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Akash Singh,4,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,0,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Theekshana,6,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Theekshana,1,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,6,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,0,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,0,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,4,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,6,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,0,1,1,,,,,"",""
+ball,2,7.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,1,0,,,,,,"",""
+ball,2,7.7,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Pathirana,0,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,2,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,6,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Pathirana,1,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,4,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,4,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,0,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,6,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Pathirana,1,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Theekshana,1,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,M Theekshana,1,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,6,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,6,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,0,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,RA Jadeja,0,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,M Theekshana,0,0,,,,,,caught,GJ Maxwell
+ball,2,12.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,M Theekshana,1,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,M Theekshana,0,1,,,,1,,"",""
+ball,2,12.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,M Theekshana,1,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,M Theekshana,1,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MM Ali,0,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MM Ali,6,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MM Ali,1,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,MM Ali,6,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,MM Ali,0,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,MM Ali,0,0,,,,,,caught,F du Plessis
+ball,2,14.1,Royal Challengers Bangalore,Shahbaz Ahmed,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,RA Jadeja,1,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,Shahbaz Ahmed,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,RA Jadeja,6,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,RA Jadeja,0,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,RA Jadeja,1,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,0,1,1,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,4,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,2,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,2,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,1,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,Shahbaz Ahmed,KD Karthik,M Theekshana,1,0,,,,,,"",""
+ball,2,15.7,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,M Theekshana,1,0,,,,,,"",""
+ball,2,16.1,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,TU Deshpande,4,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,TU Deshpande,0,0,,,,,,"",""
+ball,2,16.3,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,TU Deshpande,2,0,,,,,,"",""
+ball,2,16.4,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,TU Deshpande,4,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,KD Karthik,Shahbaz Ahmed,TU Deshpande,0,0,,,,,,caught,KD Karthik
+ball,2,16.6,Royal Challengers Bangalore,SS Prabhudessai,Shahbaz Ahmed,TU Deshpande,0,1,1,,,,,"",""
+ball,2,16.7,Royal Challengers Bangalore,SS Prabhudessai,Shahbaz Ahmed,TU Deshpande,0,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bangalore,Shahbaz Ahmed,SS Prabhudessai,M Pathirana,0,0,,,,,,caught,Shahbaz Ahmed
+ball,2,17.2,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,M Pathirana,0,0,,,,,,"",""
+ball,2,17.3,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,M Pathirana,0,0,,,,,,"",""
+ball,2,17.4,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,M Pathirana,1,0,,,,,,"",""
+ball,2,17.5,Royal Challengers Bangalore,SS Prabhudessai,WD Parnell,M Pathirana,0,1,1,,,,,"",""
+ball,2,17.6,Royal Challengers Bangalore,SS Prabhudessai,WD Parnell,M Pathirana,1,0,,,,,,"",""
+ball,2,17.7,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,M Pathirana,1,0,,,,,,"",""
+ball,2,18.1,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,TU Deshpande,0,1,1,,,,,"",""
+ball,2,18.2,Royal Challengers Bangalore,WD Parnell,SS Prabhudessai,TU Deshpande,0,0,,,,,,caught,WD Parnell
+ball,2,18.3,Royal Challengers Bangalore,PWH de Silva,SS Prabhudessai,TU Deshpande,1,0,,,,,,"",""
+ball,2,18.4,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,TU Deshpande,0,0,,,,,,"",""
+ball,2,18.5,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,TU Deshpande,0,1,1,,,,,"",""
+ball,2,18.6,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,TU Deshpande,6,0,,,,,,"",""
+ball,2,18.7,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,TU Deshpande,2,0,,,,,,"",""
+ball,2,18.8,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,TU Deshpande,1,0,,,,,,"",""
+ball,2,19.1,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,M Pathirana,1,0,,,,,,"",""
+ball,2,19.2,Royal Challengers Bangalore,PWH de Silva,SS Prabhudessai,M Pathirana,1,0,,,,,,"",""
+ball,2,19.3,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,M Pathirana,6,0,,,,,,"",""
+ball,2,19.4,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,M Pathirana,0,0,,,,,,"",""
+ball,2,19.5,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,M Pathirana,2,0,,,,,,"",""
+ball,2,19.6,Royal Challengers Bangalore,SS Prabhudessai,PWH de Silva,M Pathirana,0,0,,,,,,caught,SS Prabhudessai

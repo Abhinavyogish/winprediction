@@ -1,0 +1,281 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Kolkata Knight Riders
+info,gender,male
+info,season,2022
+info,date,2022/05/07
+info,event,Indian Premier League
+info,match_number,53
+info,venue,"Maharashtra Cricket Association Stadium, Pune"
+info,city,Pune
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,Avesh Khan
+info,umpire,AK Chaudhary
+info,umpire,MA Gough
+info,reserve_umpire,MV Saidharshan Kumar
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,V Narayan Kutty
+info,winner,Lucknow Super Giants
+info,winner_runs,75
+info,player,Lucknow Super Giants,Q de Kock
+info,player,Lucknow Super Giants,KL Rahul
+info,player,Lucknow Super Giants,DJ Hooda
+info,player,Lucknow Super Giants,KH Pandya
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,MP Stoinis
+info,player,Lucknow Super Giants,JO Holder
+info,player,Lucknow Super Giants,PVD Chameera
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,player,Kolkata Knight Riders,B Indrajith
+info,player,Kolkata Knight Riders,AJ Finch
+info,player,Kolkata Knight Riders,SS Iyer
+info,player,Kolkata Knight Riders,N Rana
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Shivam Mavi
+info,player,Kolkata Knight Riders,TG Southee
+info,player,Kolkata Knight Riders,Harshit Rana
+info,registry,people,A Badoni,872b03f7
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Indrajith,ff1e68fa
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,JO Holder,0f721006
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,V Narayan Kutty,4bacee3d
+ball,1,0.1,Lucknow Super Giants,Q de Kock,KL Rahul,TG Southee,0,0,,,,,,"",""
+ball,1,0.2,Lucknow Super Giants,Q de Kock,KL Rahul,TG Southee,0,0,,,,,,"",""
+ball,1,0.3,Lucknow Super Giants,Q de Kock,KL Rahul,TG Southee,0,0,,,,,,"",""
+ball,1,0.4,Lucknow Super Giants,Q de Kock,KL Rahul,TG Southee,2,0,,,,,,"",""
+ball,1,0.5,Lucknow Super Giants,Q de Kock,KL Rahul,TG Southee,0,0,,,,,,run out,KL Rahul
+ball,1,0.6,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,0,0,,,,,,"",""
+ball,1,1.1,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,0,0,,,,,,"",""
+ball,1,1.2,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,0,0,,,,,,"",""
+ball,1,1.3,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,0,0,,,,,,"",""
+ball,1,1.4,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,4,0,,,,,,"",""
+ball,1,1.5,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,4,0,,,,,,"",""
+ball,1,1.6,Lucknow Super Giants,DJ Hooda,Q de Kock,Shivam Mavi,2,0,,,,,,"",""
+ball,1,2.1,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,4,0,,,,,,"",""
+ball,1,2.2,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,6,0,,,,,,"",""
+ball,1,2.3,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,4,0,,,,,,"",""
+ball,1,2.4,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,0,0,,,,,,"",""
+ball,1,2.5,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,2,0,,,,,,"",""
+ball,1,2.6,Lucknow Super Giants,Q de Kock,DJ Hooda,TG Southee,1,0,,,,,,"",""
+ball,1,3.1,Lucknow Super Giants,Q de Kock,DJ Hooda,SP Narine,1,0,,,,,,"",""
+ball,1,3.2,Lucknow Super Giants,DJ Hooda,Q de Kock,SP Narine,0,0,,,,,,"",""
+ball,1,3.3,Lucknow Super Giants,DJ Hooda,Q de Kock,SP Narine,6,0,,,,,,"",""
+ball,1,3.4,Lucknow Super Giants,DJ Hooda,Q de Kock,SP Narine,1,0,,,,,,"",""
+ball,1,3.5,Lucknow Super Giants,Q de Kock,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,3.6,Lucknow Super Giants,Q de Kock,DJ Hooda,SP Narine,2,0,,,,,,"",""
+ball,1,4.1,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,0,0,,,,,,"",""
+ball,1,4.2,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,1,0,,,,,,"",""
+ball,1,4.3,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,4,0,,,,,,"",""
+ball,1,4.4,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,1,0,,,,,,"",""
+ball,1,4.5,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,4,0,,,,,,"",""
+ball,1,4.6,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,0,0,,,,,,"",""
+ball,1,5.1,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,4,0,,,,,,"",""
+ball,1,5.2,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,0,0,,,,,,"",""
+ball,1,5.3,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,0,0,,,,,,"",""
+ball,1,5.4,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,6,0,,,,,,"",""
+ball,1,5.5,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,6,0,,,,,,"",""
+ball,1,5.6,Lucknow Super Giants,Q de Kock,DJ Hooda,Harshit Rana,1,0,,,,,,"",""
+ball,1,6.1,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,2,0,,,,,,"",""
+ball,1,6.2,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,2,0,,,,,,"",""
+ball,1,6.3,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,1,0,,,,,,"",""
+ball,1,6.4,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,1,0,,,,,,"",""
+ball,1,6.5,Lucknow Super Giants,Q de Kock,DJ Hooda,AS Roy,1,0,,,,,,"",""
+ball,1,6.6,Lucknow Super Giants,DJ Hooda,Q de Kock,AS Roy,0,0,,,,,,"",""
+ball,1,7.1,Lucknow Super Giants,Q de Kock,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,7.2,Lucknow Super Giants,Q de Kock,DJ Hooda,SP Narine,0,0,,,,,,caught,Q de Kock
+ball,1,7.3,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,7.4,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,1,0,,,,,,"",""
+ball,1,7.5,Lucknow Super Giants,DJ Hooda,KH Pandya,SP Narine,0,0,,,,,,"",""
+ball,1,7.6,Lucknow Super Giants,DJ Hooda,KH Pandya,SP Narine,2,0,,,,,,"",""
+ball,1,8.1,Lucknow Super Giants,KH Pandya,DJ Hooda,Shivam Mavi,0,0,,,,,,"",""
+ball,1,8.2,Lucknow Super Giants,KH Pandya,DJ Hooda,Shivam Mavi,1,0,,,,,,"",""
+ball,1,8.3,Lucknow Super Giants,DJ Hooda,KH Pandya,Shivam Mavi,1,0,,,,,,"",""
+ball,1,8.4,Lucknow Super Giants,KH Pandya,DJ Hooda,Shivam Mavi,0,0,,,,,,"",""
+ball,1,8.5,Lucknow Super Giants,KH Pandya,DJ Hooda,Shivam Mavi,1,0,,,,,,"",""
+ball,1,8.6,Lucknow Super Giants,DJ Hooda,KH Pandya,Shivam Mavi,0,0,,,,,,"",""
+ball,1,9.1,Lucknow Super Giants,KH Pandya,DJ Hooda,Harshit Rana,4,0,,,,,,"",""
+ball,1,9.2,Lucknow Super Giants,KH Pandya,DJ Hooda,Harshit Rana,0,1,,,,1,,"",""
+ball,1,9.3,Lucknow Super Giants,DJ Hooda,KH Pandya,Harshit Rana,4,0,,,,,,"",""
+ball,1,9.4,Lucknow Super Giants,DJ Hooda,KH Pandya,Harshit Rana,1,0,,,,,,"",""
+ball,1,9.5,Lucknow Super Giants,KH Pandya,DJ Hooda,Harshit Rana,0,0,,,,,,"",""
+ball,1,9.6,Lucknow Super Giants,KH Pandya,DJ Hooda,Harshit Rana,1,0,,,,,,"",""
+ball,1,10.1,Lucknow Super Giants,KH Pandya,DJ Hooda,AS Roy,1,0,,,,,,"",""
+ball,1,10.2,Lucknow Super Giants,DJ Hooda,KH Pandya,AS Roy,6,0,,,,,,"",""
+ball,1,10.3,Lucknow Super Giants,DJ Hooda,KH Pandya,AS Roy,1,0,,,,,,"",""
+ball,1,10.4,Lucknow Super Giants,KH Pandya,DJ Hooda,AS Roy,0,0,,,,,,"",""
+ball,1,10.5,Lucknow Super Giants,KH Pandya,DJ Hooda,AS Roy,1,0,,,,,,"",""
+ball,1,10.6,Lucknow Super Giants,DJ Hooda,KH Pandya,AS Roy,1,0,,,,,,"",""
+ball,1,11.1,Lucknow Super Giants,DJ Hooda,KH Pandya,SP Narine,1,0,,,,,,"",""
+ball,1,11.2,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,2,0,,,,,,"",""
+ball,1,11.3,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,11.4,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,11.5,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,0,0,,,,,,"",""
+ball,1,11.6,Lucknow Super Giants,KH Pandya,DJ Hooda,SP Narine,1,0,,,,,,"",""
+ball,1,12.1,Lucknow Super Giants,KH Pandya,DJ Hooda,AD Russell,1,0,,,,,,"",""
+ball,1,12.2,Lucknow Super Giants,DJ Hooda,KH Pandya,AD Russell,1,0,,,,,,"",""
+ball,1,12.3,Lucknow Super Giants,KH Pandya,DJ Hooda,AD Russell,1,0,,,,,,"",""
+ball,1,12.4,Lucknow Super Giants,DJ Hooda,KH Pandya,AD Russell,0,0,,,,,,caught,DJ Hooda
+ball,1,12.5,Lucknow Super Giants,A Badoni,KH Pandya,AD Russell,2,0,,,,,,"",""
+ball,1,12.6,Lucknow Super Giants,A Badoni,KH Pandya,AD Russell,1,0,,,,,,"",""
+ball,1,13.1,Lucknow Super Giants,A Badoni,KH Pandya,TG Southee,0,0,,,,,,"",""
+ball,1,13.2,Lucknow Super Giants,A Badoni,KH Pandya,TG Southee,0,0,,,,,,"",""
+ball,1,13.3,Lucknow Super Giants,A Badoni,KH Pandya,TG Southee,1,0,,,,,,"",""
+ball,1,13.4,Lucknow Super Giants,KH Pandya,A Badoni,TG Southee,0,0,,,,,,"",""
+ball,1,13.5,Lucknow Super Giants,KH Pandya,A Badoni,TG Southee,4,0,,,,,,"",""
+ball,1,13.6,Lucknow Super Giants,KH Pandya,A Badoni,TG Southee,1,0,,,,,,"",""
+ball,1,14.1,Lucknow Super Giants,KH Pandya,A Badoni,AD Russell,1,0,,,,,,"",""
+ball,1,14.2,Lucknow Super Giants,A Badoni,KH Pandya,AD Russell,1,0,,,,,,"",""
+ball,1,14.3,Lucknow Super Giants,KH Pandya,A Badoni,AD Russell,2,0,,,,,,"",""
+ball,1,14.4,Lucknow Super Giants,KH Pandya,A Badoni,AD Russell,2,0,,,,,,"",""
+ball,1,14.5,Lucknow Super Giants,KH Pandya,A Badoni,AD Russell,0,0,,,,,,caught,KH Pandya
+ball,1,14.6,Lucknow Super Giants,MP Stoinis,A Badoni,AD Russell,1,0,,,,,,"",""
+ball,1,15.1,Lucknow Super Giants,MP Stoinis,A Badoni,SP Narine,1,0,,,,,,"",""
+ball,1,15.2,Lucknow Super Giants,A Badoni,MP Stoinis,SP Narine,1,0,,,,,,"",""
+ball,1,15.3,Lucknow Super Giants,MP Stoinis,A Badoni,SP Narine,1,0,,,,,,"",""
+ball,1,15.4,Lucknow Super Giants,A Badoni,MP Stoinis,SP Narine,0,0,,,,,,"",""
+ball,1,15.5,Lucknow Super Giants,A Badoni,MP Stoinis,SP Narine,0,0,,,,,,"",""
+ball,1,15.6,Lucknow Super Giants,A Badoni,MP Stoinis,SP Narine,0,0,,,,,,"",""
+ball,1,16.1,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,0,0,,,,,,"",""
+ball,1,16.2,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,0,0,,,,,,"",""
+ball,1,16.3,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,1,0,,,,,,"",""
+ball,1,16.4,Lucknow Super Giants,A Badoni,MP Stoinis,Shivam Mavi,1,0,,,,,,"",""
+ball,1,16.5,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,0,1,1,,,,,"",""
+ball,1,16.6,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,4,0,,,,,,"",""
+ball,1,16.7,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,0,0,,,,,,"",""
+ball,1,17.1,Lucknow Super Giants,A Badoni,MP Stoinis,AD Russell,2,0,,,,,,"",""
+ball,1,17.2,Lucknow Super Giants,A Badoni,MP Stoinis,AD Russell,1,0,,,,,,"",""
+ball,1,17.3,Lucknow Super Giants,MP Stoinis,A Badoni,AD Russell,1,0,,,,,,"",""
+ball,1,17.4,Lucknow Super Giants,A Badoni,MP Stoinis,AD Russell,0,1,1,,,,,"",""
+ball,1,17.5,Lucknow Super Giants,A Badoni,MP Stoinis,AD Russell,1,0,,,,,,"",""
+ball,1,17.6,Lucknow Super Giants,MP Stoinis,A Badoni,AD Russell,1,0,,,,,,"",""
+ball,1,17.7,Lucknow Super Giants,A Badoni,MP Stoinis,AD Russell,2,0,,,,,,"",""
+ball,1,18.1,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,6,0,,,,,,"",""
+ball,1,18.2,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,6,0,,,,,,"",""
+ball,1,18.3,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,6,0,,,,,,"",""
+ball,1,18.4,Lucknow Super Giants,MP Stoinis,A Badoni,Shivam Mavi,0,0,,,,,,caught,MP Stoinis
+ball,1,18.5,Lucknow Super Giants,JO Holder,A Badoni,Shivam Mavi,6,0,,,,,,"",""
+ball,1,18.6,Lucknow Super Giants,JO Holder,A Badoni,Shivam Mavi,6,0,,,,,,"",""
+ball,1,19.1,Lucknow Super Giants,A Badoni,JO Holder,TG Southee,1,0,,,,,,"",""
+ball,1,19.2,Lucknow Super Giants,JO Holder,A Badoni,TG Southee,1,0,,,,,,"",""
+ball,1,19.3,Lucknow Super Giants,A Badoni,JO Holder,TG Southee,1,0,,,,,,"",""
+ball,1,19.4,Lucknow Super Giants,JO Holder,A Badoni,TG Southee,0,0,,,,,,caught,JO Holder
+ball,1,19.5,Lucknow Super Giants,PVD Chameera,A Badoni,TG Southee,0,1,,,1,,,"",""
+ball,1,19.6,Lucknow Super Giants,A Badoni,PVD Chameera,TG Southee,0,0,,,,,,run out,PVD Chameera
+ball,2,0.1,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,0.2,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,0.3,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,0.4,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,0.5,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,0.6,Kolkata Knight Riders,B Indrajith,AJ Finch,Mohsin Khan,0,0,,,,,,caught,B Indrajith
+ball,2,1.1,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.2,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.3,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,2,0,,,,,,"",""
+ball,2,1.4,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.5,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,1,0,,,,,,"",""
+ball,2,1.6,Kolkata Knight Riders,SS Iyer,AJ Finch,PVD Chameera,1,0,,,,,,"",""
+ball,2,2.1,Kolkata Knight Riders,SS Iyer,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,2.2,Kolkata Knight Riders,SS Iyer,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,2.3,Kolkata Knight Riders,SS Iyer,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,2.4,Kolkata Knight Riders,SS Iyer,AJ Finch,Mohsin Khan,1,0,,,,,,"",""
+ball,2,2.5,Kolkata Knight Riders,AJ Finch,SS Iyer,Mohsin Khan,0,1,,,,1,,"",""
+ball,2,2.6,Kolkata Knight Riders,SS Iyer,AJ Finch,Mohsin Khan,0,0,,,,,,"",""
+ball,2,3.1,Kolkata Knight Riders,AJ Finch,SS Iyer,PVD Chameera,1,0,,,,,,"",""
+ball,2,3.2,Kolkata Knight Riders,SS Iyer,AJ Finch,PVD Chameera,4,0,,,,,,"",""
+ball,2,3.3,Kolkata Knight Riders,SS Iyer,AJ Finch,PVD Chameera,0,0,,,,,,"",""
+ball,2,3.4,Kolkata Knight Riders,SS Iyer,AJ Finch,PVD Chameera,0,0,,,,,,caught,SS Iyer
+ball,2,3.5,Kolkata Knight Riders,N Rana,AJ Finch,PVD Chameera,0,0,,,,,,"",""
+ball,2,3.6,Kolkata Knight Riders,N Rana,AJ Finch,PVD Chameera,0,0,,,,,,"",""
+ball,2,4.1,Kolkata Knight Riders,AJ Finch,N Rana,Avesh Khan,2,0,,,,,,"",""
+ball,2,4.2,Kolkata Knight Riders,AJ Finch,N Rana,Avesh Khan,2,0,,,,,,"",""
+ball,2,4.3,Kolkata Knight Riders,AJ Finch,N Rana,Avesh Khan,0,1,1,,,,,"",""
+ball,2,4.4,Kolkata Knight Riders,AJ Finch,N Rana,Avesh Khan,4,0,,,,,,"",""
+ball,2,4.5,Kolkata Knight Riders,AJ Finch,N Rana,Avesh Khan,1,0,,,,,,"",""
+ball,2,4.6,Kolkata Knight Riders,N Rana,AJ Finch,Avesh Khan,0,0,,,,,,"",""
+ball,2,4.7,Kolkata Knight Riders,N Rana,AJ Finch,Avesh Khan,0,0,,,,,,"",""
+ball,2,5.1,Kolkata Knight Riders,AJ Finch,N Rana,JO Holder,1,0,,,,,,"",""
+ball,2,5.2,Kolkata Knight Riders,N Rana,AJ Finch,JO Holder,1,0,,,,,,"",""
+ball,2,5.3,Kolkata Knight Riders,AJ Finch,N Rana,JO Holder,0,0,,,,,,"",""
+ball,2,5.4,Kolkata Knight Riders,AJ Finch,N Rana,JO Holder,0,0,,,,,,caught,AJ Finch
+ball,2,5.5,Kolkata Knight Riders,RK Singh,N Rana,JO Holder,1,0,,,,,,"",""
+ball,2,5.6,Kolkata Knight Riders,N Rana,RK Singh,JO Holder,1,0,,,,,,"",""
+ball,2,6.1,Kolkata Knight Riders,N Rana,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,2,6.2,Kolkata Knight Riders,N Rana,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,2,6.3,Kolkata Knight Riders,N Rana,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,2,6.4,Kolkata Knight Riders,N Rana,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,2,6.5,Kolkata Knight Riders,N Rana,RK Singh,Avesh Khan,0,0,,,,,,bowled,N Rana
+ball,2,6.6,Kolkata Knight Riders,AD Russell,RK Singh,Avesh Khan,0,0,,,,,,"",""
+ball,2,7.1,Kolkata Knight Riders,RK Singh,AD Russell,Mohsin Khan,1,0,,,,,,"",""
+ball,2,7.2,Kolkata Knight Riders,AD Russell,RK Singh,Mohsin Khan,0,0,,,,,,"",""
+ball,2,7.3,Kolkata Knight Riders,AD Russell,RK Singh,Mohsin Khan,0,0,,,,,,"",""
+ball,2,7.4,Kolkata Knight Riders,AD Russell,RK Singh,Mohsin Khan,4,0,,,,,,"",""
+ball,2,7.5,Kolkata Knight Riders,AD Russell,RK Singh,Mohsin Khan,0,0,,,,,,"",""
+ball,2,7.6,Kolkata Knight Riders,AD Russell,RK Singh,Mohsin Khan,0,0,,,,,,"",""
+ball,2,8.1,Kolkata Knight Riders,RK Singh,AD Russell,JO Holder,1,0,,,,,,"",""
+ball,2,8.2,Kolkata Knight Riders,AD Russell,RK Singh,JO Holder,6,0,,,,,,"",""
+ball,2,8.3,Kolkata Knight Riders,AD Russell,RK Singh,JO Holder,6,0,,,,,,"",""
+ball,2,8.4,Kolkata Knight Riders,AD Russell,RK Singh,JO Holder,2,0,,,,,,"",""
+ball,2,8.5,Kolkata Knight Riders,AD Russell,RK Singh,JO Holder,6,0,,,,,,"",""
+ball,2,8.6,Kolkata Knight Riders,AD Russell,RK Singh,JO Holder,4,0,,,,,,"",""
+ball,2,9.1,Kolkata Knight Riders,RK Singh,AD Russell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.2,Kolkata Knight Riders,AD Russell,RK Singh,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,9.3,Kolkata Knight Riders,AD Russell,RK Singh,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.4,Kolkata Knight Riders,AD Russell,RK Singh,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.5,Kolkata Knight Riders,AD Russell,RK Singh,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.6,Kolkata Knight Riders,RK Singh,AD Russell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.1,Kolkata Knight Riders,RK Singh,AD Russell,PVD Chameera,0,0,,,,,,"",""
+ball,2,10.2,Kolkata Knight Riders,RK Singh,AD Russell,PVD Chameera,0,0,,,,,,"",""
+ball,2,10.3,Kolkata Knight Riders,RK Singh,AD Russell,PVD Chameera,0,0,,,,,,"",""
+ball,2,10.4,Kolkata Knight Riders,RK Singh,AD Russell,PVD Chameera,1,0,,,,,,"",""
+ball,2,10.5,Kolkata Knight Riders,AD Russell,RK Singh,PVD Chameera,4,0,,,,,,"",""
+ball,2,10.6,Kolkata Knight Riders,AD Russell,RK Singh,PVD Chameera,0,0,,,,,,"",""
+ball,2,11.1,Kolkata Knight Riders,RK Singh,AD Russell,Ravi Bishnoi,0,0,,,,,,caught,RK Singh
+ball,2,11.2,Kolkata Knight Riders,SP Narine,AD Russell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,11.3,Kolkata Knight Riders,SP Narine,AD Russell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,11.4,Kolkata Knight Riders,SP Narine,AD Russell,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,11.5,Kolkata Knight Riders,SP Narine,AD Russell,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,11.6,Kolkata Knight Riders,SP Narine,AD Russell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,12.1,Kolkata Knight Riders,AD Russell,SP Narine,Avesh Khan,6,0,,,,,,"",""
+ball,2,12.2,Kolkata Knight Riders,AD Russell,SP Narine,Avesh Khan,0,0,,,,,,caught,AD Russell
+ball,2,12.3,Kolkata Knight Riders,AS Roy,SP Narine,Avesh Khan,0,0,,,,,,"",""
+ball,2,12.4,Kolkata Knight Riders,AS Roy,SP Narine,Avesh Khan,0,0,,,,,,caught,AS Roy
+ball,2,12.5,Kolkata Knight Riders,Shivam Mavi,SP Narine,Avesh Khan,0,1,1,,,,,"",""
+ball,2,12.6,Kolkata Knight Riders,Shivam Mavi,SP Narine,Avesh Khan,1,0,,,,,,"",""
+ball,2,12.7,Kolkata Knight Riders,SP Narine,Shivam Mavi,Avesh Khan,1,0,,,,,,"",""
+ball,2,13.1,Kolkata Knight Riders,SP Narine,Shivam Mavi,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,13.2,Kolkata Knight Riders,SP Narine,Shivam Mavi,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,13.3,Kolkata Knight Riders,SP Narine,Shivam Mavi,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,13.4,Kolkata Knight Riders,SP Narine,Shivam Mavi,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,13.5,Kolkata Knight Riders,SP Narine,Shivam Mavi,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.6,Kolkata Knight Riders,Shivam Mavi,SP Narine,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,14.1,Kolkata Knight Riders,SP Narine,Shivam Mavi,JO Holder,0,0,,,,,,caught,SP Narine
+ball,2,14.2,Kolkata Knight Riders,TG Southee,Shivam Mavi,JO Holder,0,0,,,,,,caught,TG Southee
+ball,2,14.3,Kolkata Knight Riders,Harshit Rana,Shivam Mavi,JO Holder,2,0,,,,,,run out,Harshit Rana

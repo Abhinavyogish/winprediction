@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2021
+info,date,2021/09/29
+info,event,Indian Premier League
+info,match_number,43
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,YS Chahal
+info,umpire,AY Dandekar
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,K Srinivasan
+info,tv_umpire,RK Illingworth
+info,match_referee,M Nayyar
+info,winner,Royal Challengers Bangalore
+info,winner_wickets,7
+info,player,Rajasthan Royals,E Lewis
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,MK Lomror
+info,player,Rajasthan Royals,LS Livingstone
+info,player,Rajasthan Royals,R Tewatia
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,CH Morris
+info,player,Rajasthan Royals,C Sakariya
+info,player,Rajasthan Royals,Kartik Tyagi
+info,player,Rajasthan Royals,Mustafizur Rahman
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,D Padikkal
+info,player,Royal Challengers Bangalore,KS Bharat
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,AB de Villiers
+info,player,Royal Challengers Bangalore,DT Christian
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,GHS Garton
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Royal Challengers Bangalore,YS Chahal
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,K Srinivasan,042a8b69
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,V Kohli,ba607b88
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,2,0,,,,,,"",""
+ball,1,0.2,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,0,0,,,,,,"",""
+ball,1,0.3,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,0,0,,,,,,"",""
+ball,1,0.4,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,0,0,,,,,,"",""
+ball,1,0.5,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,1,0,,,,,,"",""
+ball,1,0.6,Rajasthan Royals,YBK Jaiswal,E Lewis,GHS Garton,0,0,,,,,,"",""
+ball,1,1.1,Rajasthan Royals,E Lewis,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,1.2,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.3,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.4,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.5,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.6,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.1,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.2,Rajasthan Royals,YBK Jaiswal,E Lewis,GJ Maxwell,6,0,,,,,,"",""
+ball,1,2.3,Rajasthan Royals,YBK Jaiswal,E Lewis,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.4,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,4,0,,,,,,"",""
+ball,1,2.5,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.6,Rajasthan Royals,YBK Jaiswal,E Lewis,GJ Maxwell,0,0,,,,,,"",""
+ball,1,3.1,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,6,0,,,,,,"",""
+ball,1,3.2,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,0,0,,,,,,"",""
+ball,1,3.3,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,2,0,,,,,,"",""
+ball,1,3.4,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,4,0,,,,,,"",""
+ball,1,3.5,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,6,0,,,,,,"",""
+ball,1,3.6,Rajasthan Royals,E Lewis,YBK Jaiswal,GHS Garton,0,0,,,,,,"",""
+ball,1,4.1,Rajasthan Royals,YBK Jaiswal,E Lewis,HV Patel,1,0,,,,,,"",""
+ball,1,4.2,Rajasthan Royals,E Lewis,YBK Jaiswal,HV Patel,4,0,,,,,,"",""
+ball,1,4.3,Rajasthan Royals,E Lewis,YBK Jaiswal,HV Patel,1,0,,,,,,"",""
+ball,1,4.4,Rajasthan Royals,YBK Jaiswal,E Lewis,HV Patel,1,0,,,,,,"",""
+ball,1,4.5,Rajasthan Royals,E Lewis,YBK Jaiswal,HV Patel,6,0,,,,,,"",""
+ball,1,4.6,Rajasthan Royals,E Lewis,YBK Jaiswal,HV Patel,0,0,,,,,,"",""
+ball,1,5.1,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.2,Rajasthan Royals,E Lewis,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.3,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.4,Rajasthan Royals,E Lewis,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.5,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.6,Rajasthan Royals,YBK Jaiswal,E Lewis,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,6.1,Rajasthan Royals,E Lewis,YBK Jaiswal,DT Christian,0,0,,,,,,"",""
+ball,1,6.2,Rajasthan Royals,E Lewis,YBK Jaiswal,DT Christian,1,0,,,,,,"",""
+ball,1,6.3,Rajasthan Royals,YBK Jaiswal,E Lewis,DT Christian,4,0,,,,,,"",""
+ball,1,6.4,Rajasthan Royals,YBK Jaiswal,E Lewis,DT Christian,1,0,,,,,,"",""
+ball,1,6.5,Rajasthan Royals,E Lewis,YBK Jaiswal,DT Christian,1,0,,,,,,"",""
+ball,1,6.6,Rajasthan Royals,YBK Jaiswal,E Lewis,DT Christian,4,0,,,,,,"",""
+ball,1,7.1,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.2,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.3,Rajasthan Royals,YBK Jaiswal,E Lewis,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.4,Rajasthan Royals,YBK Jaiswal,E Lewis,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.5,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,2,0,,,,,,"",""
+ball,1,7.6,Rajasthan Royals,E Lewis,YBK Jaiswal,GJ Maxwell,0,0,,,,,,"",""
+ball,1,8.1,Rajasthan Royals,YBK Jaiswal,E Lewis,DT Christian,6,0,,,,,,"",""
+ball,1,8.2,Rajasthan Royals,YBK Jaiswal,E Lewis,DT Christian,0,0,,,,,,caught,YBK Jaiswal
+ball,1,8.3,Rajasthan Royals,SV Samson,E Lewis,DT Christian,0,0,,,,,,"",""
+ball,1,8.4,Rajasthan Royals,SV Samson,E Lewis,DT Christian,2,0,,,,,,"",""
+ball,1,8.5,Rajasthan Royals,SV Samson,E Lewis,DT Christian,1,0,,,,,,"",""
+ball,1,8.6,Rajasthan Royals,E Lewis,SV Samson,DT Christian,1,0,,,,,,"",""
+ball,1,9.1,Rajasthan Royals,E Lewis,SV Samson,HV Patel,0,1,1,,,,,"",""
+ball,1,9.2,Rajasthan Royals,E Lewis,SV Samson,HV Patel,0,0,,,,,,"",""
+ball,1,9.3,Rajasthan Royals,E Lewis,SV Samson,HV Patel,4,0,,,,,,"",""
+ball,1,9.4,Rajasthan Royals,E Lewis,SV Samson,HV Patel,4,0,,,,,,"",""
+ball,1,9.5,Rajasthan Royals,E Lewis,SV Samson,HV Patel,1,0,,,,,,"",""
+ball,1,9.6,Rajasthan Royals,SV Samson,E Lewis,HV Patel,0,0,,,,,,"",""
+ball,1,9.7,Rajasthan Royals,SV Samson,E Lewis,HV Patel,0,0,,,,,,"",""
+ball,1,10.1,Rajasthan Royals,E Lewis,SV Samson,YS Chahal,0,0,,,,,,"",""
+ball,1,10.2,Rajasthan Royals,E Lewis,SV Samson,YS Chahal,1,0,,,,,,"",""
+ball,1,10.3,Rajasthan Royals,SV Samson,E Lewis,YS Chahal,0,0,,,,,,"",""
+ball,1,10.4,Rajasthan Royals,SV Samson,E Lewis,YS Chahal,1,0,,,,,,"",""
+ball,1,10.5,Rajasthan Royals,E Lewis,SV Samson,YS Chahal,1,0,,,,,,"",""
+ball,1,10.6,Rajasthan Royals,SV Samson,E Lewis,YS Chahal,6,0,,,,,,"",""
+ball,1,11.1,Rajasthan Royals,E Lewis,SV Samson,GHS Garton,0,0,,,,,,caught,E Lewis
+ball,1,11.2,Rajasthan Royals,SV Samson,MK Lomror,GHS Garton,1,0,,,,,,"",""
+ball,1,11.3,Rajasthan Royals,MK Lomror,SV Samson,GHS Garton,0,1,1,,,,,"",""
+ball,1,11.4,Rajasthan Royals,MK Lomror,SV Samson,GHS Garton,1,0,,,,,,"",""
+ball,1,11.5,Rajasthan Royals,SV Samson,MK Lomror,GHS Garton,0,0,,,,,,"",""
+ball,1,11.6,Rajasthan Royals,SV Samson,MK Lomror,GHS Garton,0,0,,,,,,"",""
+ball,1,11.7,Rajasthan Royals,SV Samson,MK Lomror,GHS Garton,6,0,,,,,,"",""
+ball,1,12.1,Rajasthan Royals,MK Lomror,SV Samson,YS Chahal,1,0,,,,,,"",""
+ball,1,12.2,Rajasthan Royals,SV Samson,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,12.3,Rajasthan Royals,MK Lomror,SV Samson,YS Chahal,1,0,,,,,,"",""
+ball,1,12.4,Rajasthan Royals,SV Samson,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,12.5,Rajasthan Royals,MK Lomror,SV Samson,YS Chahal,0,0,,,,,,stumped,MK Lomror
+ball,1,12.6,Rajasthan Royals,LS Livingstone,SV Samson,YS Chahal,0,0,,,,,,"",""
+ball,1,13.1,Rajasthan Royals,SV Samson,LS Livingstone,Shahbaz Ahmed,0,0,,,,,,caught,SV Samson
+ball,1,13.2,Rajasthan Royals,R Tewatia,LS Livingstone,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.3,Rajasthan Royals,LS Livingstone,R Tewatia,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.4,Rajasthan Royals,R Tewatia,LS Livingstone,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.5,Rajasthan Royals,LS Livingstone,R Tewatia,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.6,Rajasthan Royals,R Tewatia,LS Livingstone,Shahbaz Ahmed,0,0,,,,,,caught,R Tewatia
+ball,1,14.1,Rajasthan Royals,LS Livingstone,R Parag,YS Chahal,0,1,,,,1,,"",""
+ball,1,14.2,Rajasthan Royals,R Parag,LS Livingstone,YS Chahal,0,0,,,,,,"",""
+ball,1,14.3,Rajasthan Royals,R Parag,LS Livingstone,YS Chahal,0,0,,,,,,"",""
+ball,1,14.4,Rajasthan Royals,R Parag,LS Livingstone,YS Chahal,0,0,,,,,,"",""
+ball,1,14.5,Rajasthan Royals,R Parag,LS Livingstone,YS Chahal,1,0,,,,,,"",""
+ball,1,14.6,Rajasthan Royals,LS Livingstone,R Parag,YS Chahal,1,0,,,,,,"",""
+ball,1,15.1,Rajasthan Royals,LS Livingstone,R Parag,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.2,Rajasthan Royals,R Parag,LS Livingstone,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.3,Rajasthan Royals,LS Livingstone,R Parag,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.4,Rajasthan Royals,R Parag,LS Livingstone,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.5,Rajasthan Royals,LS Livingstone,R Parag,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.6,Rajasthan Royals,R Parag,LS Livingstone,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,16.1,Rajasthan Royals,R Parag,LS Livingstone,YS Chahal,1,0,,,,,,"",""
+ball,1,16.2,Rajasthan Royals,LS Livingstone,R Parag,YS Chahal,0,0,,,,,,caught,LS Livingstone
+ball,1,16.3,Rajasthan Royals,CH Morris,R Parag,YS Chahal,1,0,,,,,,"",""
+ball,1,16.4,Rajasthan Royals,R Parag,CH Morris,YS Chahal,0,0,,,,,,"",""
+ball,1,16.5,Rajasthan Royals,R Parag,CH Morris,YS Chahal,0,0,,,,,,"",""
+ball,1,16.6,Rajasthan Royals,R Parag,CH Morris,YS Chahal,1,0,,,,,,"",""
+ball,1,17.1,Rajasthan Royals,R Parag,CH Morris,HV Patel,1,0,,,,,,"",""
+ball,1,17.2,Rajasthan Royals,CH Morris,R Parag,HV Patel,0,0,,,,,,"",""
+ball,1,17.3,Rajasthan Royals,CH Morris,R Parag,HV Patel,4,0,,,,,,"",""
+ball,1,17.4,Rajasthan Royals,CH Morris,R Parag,HV Patel,0,0,,,,,,"",""
+ball,1,17.5,Rajasthan Royals,CH Morris,R Parag,HV Patel,2,0,,,,,,"",""
+ball,1,17.6,Rajasthan Royals,CH Morris,R Parag,HV Patel,1,0,,,,,,"",""
+ball,1,18.1,Rajasthan Royals,CH Morris,R Parag,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.2,Rajasthan Royals,R Parag,CH Morris,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.3,Rajasthan Royals,CH Morris,R Parag,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.4,Rajasthan Royals,CH Morris,R Parag,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,18.5,Rajasthan Royals,CH Morris,R Parag,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,18.6,Rajasthan Royals,CH Morris,R Parag,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.7,Rajasthan Royals,R Parag,CH Morris,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,19.1,Rajasthan Royals,R Parag,CH Morris,HV Patel,0,0,,,,,,"",""
+ball,1,19.2,Rajasthan Royals,R Parag,CH Morris,HV Patel,0,0,,,,,,caught,R Parag
+ball,1,19.3,Rajasthan Royals,CH Morris,C Sakariya,HV Patel,0,0,,,,,,caught,CH Morris
+ball,1,19.4,Rajasthan Royals,Kartik Tyagi,C Sakariya,HV Patel,1,0,,,,,,"",""
+ball,1,19.5,Rajasthan Royals,C Sakariya,Kartik Tyagi,HV Patel,2,0,,,,,,"",""
+ball,1,19.6,Rajasthan Royals,C Sakariya,Kartik Tyagi,HV Patel,0,0,,,,,,caught,C Sakariya
+ball,2,0.1,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,0,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,4,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,0,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,4,0,,,,,,"",""
+ball,2,0.5,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,V Kohli,D Padikkal,CH Morris,4,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bangalore,D Padikkal,V Kohli,Kartik Tyagi,0,3,3,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,D Padikkal,V Kohli,Kartik Tyagi,4,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bangalore,D Padikkal,V Kohli,Kartik Tyagi,1,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bangalore,V Kohli,D Padikkal,Kartik Tyagi,0,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bangalore,V Kohli,D Padikkal,Kartik Tyagi,0,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,V Kohli,D Padikkal,Kartik Tyagi,4,0,,,,,,"",""
+ball,2,1.7,Royal Challengers Bangalore,V Kohli,D Padikkal,Kartik Tyagi,2,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,1,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,V Kohli,D Padikkal,C Sakariya,0,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,V Kohli,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,0,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,0,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,1,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,0,2,,,,2,,"",""
+ball,2,4.1,Royal Challengers Bangalore,V Kohli,D Padikkal,C Sakariya,0,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,V Kohli,D Padikkal,C Sakariya,1,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,0,1,1,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,0,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,4,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,D Padikkal,V Kohli,C Sakariya,1,0,,,,,,"",""
+ball,2,4.7,Royal Challengers Bangalore,V Kohli,D Padikkal,C Sakariya,0,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,D Padikkal,V Kohli,Mustafizur Rahman,0,0,,,,,,bowled,D Padikkal
+ball,2,5.3,Royal Challengers Bangalore,KS Bharat,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,KS Bharat,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,V Kohli,KS Bharat,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,V Kohli,KS Bharat,Mustafizur Rahman,3,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,V Kohli,KS Bharat,CH Morris,1,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,KS Bharat,V Kohli,CH Morris,1,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,V Kohli,KS Bharat,CH Morris,1,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,KS Bharat,V Kohli,CH Morris,1,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bangalore,V Kohli,KS Bharat,CH Morris,0,0,,,,,,run out,V Kohli
+ball,2,6.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,CH Morris,1,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,4,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,0,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,0,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Kartik Tyagi,1,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Kartik Tyagi,0,1,1,,,,,"",""
+ball,2,8.3,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Kartik Tyagi,1,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Kartik Tyagi,1,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Kartik Tyagi,4,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Kartik Tyagi,1,0,,,,,,"",""
+ball,2,8.7,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Kartik Tyagi,0,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,1,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,1,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,0,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,1,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,0,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,1,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,0,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,0,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,1,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,4,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,4,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,1,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,0,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,0,1,1,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,1,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,MK Lomror,1,0,,,,,,"",""
+ball,2,11.7,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,MK Lomror,1,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,CH Morris,1,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,CH Morris,2,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,CH Morris,6,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,CH Morris,1,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,CH Morris,0,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,CH Morris,1,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,1,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,1,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,4,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,R Tewatia,1,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,R Tewatia,1,0,,,,,,"",""
+ball,2,14.1,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,C Sakariya,4,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,C Sakariya,0,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,C Sakariya,1,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,C Sakariya,0,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,C Sakariya,2,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,C Sakariya,1,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,GJ Maxwell,KS Bharat,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,KS Bharat,GJ Maxwell,Mustafizur Rahman,0,0,,,,,,caught,KS Bharat
+ball,2,16.1,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,6,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,2,0,,,,,,"",""
+ball,2,16.3,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,4,0,,,,,,"",""
+ball,2,16.4,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,2,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,4,0,,,,,,"",""
+ball,2,16.6,Royal Challengers Bangalore,GJ Maxwell,AB de Villiers,CH Morris,4,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bangalore,AB de Villiers,GJ Maxwell,R Parag,4,0,,,,,,"",""

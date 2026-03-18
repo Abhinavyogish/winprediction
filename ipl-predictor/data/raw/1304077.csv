@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Royal Challengers Bangalore
+info,team,Lucknow Super Giants
+info,gender,male
+info,season,2022
+info,date,2022/04/19
+info,event,Indian Premier League
+info,match_number,31
+info,venue,"Dr DY Patil Sports Academy, Mumbai"
+info,city,Mumbai
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,CB Gaffaney
+info,umpire,N Pandit
+info,reserve_umpire,Chirra Ravikanthreddy
+info,tv_umpire,J Madanagopal
+info,match_referee,Prakash Bhatt
+info,winner,Royal Challengers Bangalore
+info,winner_runs,18
+info,player,Royal Challengers Bangalore,Anuj Rawat
+info,player,Royal Challengers Bangalore,F du Plessis
+info,player,Royal Challengers Bangalore,V Kohli
+info,player,Royal Challengers Bangalore,GJ Maxwell
+info,player,Royal Challengers Bangalore,SS Prabhudessai
+info,player,Royal Challengers Bangalore,Shahbaz Ahmed
+info,player,Royal Challengers Bangalore,KD Karthik
+info,player,Royal Challengers Bangalore,HV Patel
+info,player,Royal Challengers Bangalore,PWH de Silva
+info,player,Royal Challengers Bangalore,JR Hazlewood
+info,player,Royal Challengers Bangalore,Mohammed Siraj
+info,player,Lucknow Super Giants,Q de Kock
+info,player,Lucknow Super Giants,KL Rahul
+info,player,Lucknow Super Giants,MK Pandey
+info,player,Lucknow Super Giants,KH Pandya
+info,player,Lucknow Super Giants,DJ Hooda
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,MP Stoinis
+info,player,Lucknow Super Giants,JO Holder
+info,player,Lucknow Super Giants,PVD Chameera
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,player,Lucknow Super Giants,Avesh Khan
+info,registry,people,A Badoni,872b03f7
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,Chirra Ravikanthreddy,8b680f55
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Pandit,4947c258
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Q de Kock,372455c4
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.2,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,0,2,,,,2,,"",""
+ball,1,0.3,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,0,1,1,,,,,"",""
+ball,1,0.4,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.5,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,4,0,,,,,,"",""
+ball,1,0.6,Royal Challengers Bangalore,Anuj Rawat,F du Plessis,PVD Chameera,0,0,,,,,,caught,Anuj Rawat
+ball,1,0.7,Royal Challengers Bangalore,V Kohli,F du Plessis,PVD Chameera,0,0,,,,,,caught,V Kohli
+ball,1,1.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,1,0,,,,,,"",""
+ball,1,1.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Avesh Khan,2,0,,,,,,"",""
+ball,1,1.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Avesh Khan,0,0,,,,,,"",""
+ball,1,2.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,PVD Chameera,4,0,,,,,,"",""
+ball,1,2.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,PVD Chameera,1,0,,,,,,"",""
+ball,1,2.3,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,PVD Chameera,0,0,,,,,,"",""
+ball,1,2.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,PVD Chameera,4,0,,,,,,"",""
+ball,1,2.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,PVD Chameera,4,0,,,,,,"",""
+ball,1,2.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,PVD Chameera,6,0,,,,,,"",""
+ball,1,3.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,KH Pandya,0,0,,,,,,"",""
+ball,1,3.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,KH Pandya,0,0,,,,,,"",""
+ball,1,3.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,KH Pandya,1,0,,,,,,"",""
+ball,1,3.4,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,KH Pandya,4,0,,,,,,"",""
+ball,1,3.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,3.6,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,KH Pandya,1,0,,,,,,"",""
+ball,1,4.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.2,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.3,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,4,0,,,,,,"",""
+ball,1,4.4,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,Avesh Khan,1,0,,,,,,"",""
+ball,1,4.5,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.6,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,Avesh Khan,2,0,,,,,,"",""
+ball,1,5.1,Royal Challengers Bangalore,F du Plessis,GJ Maxwell,KH Pandya,1,0,,,,,,"",""
+ball,1,5.2,Royal Challengers Bangalore,GJ Maxwell,F du Plessis,KH Pandya,0,0,,,,,,caught,GJ Maxwell
+ball,1,5.3,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,5.4,Royal Challengers Bangalore,F du Plessis,SS Prabhudessai,KH Pandya,1,0,,,,,,"",""
+ball,1,5.5,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,5.6,Royal Challengers Bangalore,F du Plessis,SS Prabhudessai,KH Pandya,0,0,,,,,,"",""
+ball,1,6.1,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,6.2,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,6.3,Royal Challengers Bangalore,F du Plessis,SS Prabhudessai,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,6.4,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,6.5,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,0,1,,1,,,,"",""
+ball,1,6.6,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,6.7,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,6.8,Royal Challengers Bangalore,F du Plessis,SS Prabhudessai,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,7.1,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,JO Holder,0,0,,,,,,"",""
+ball,1,7.2,Royal Challengers Bangalore,SS Prabhudessai,F du Plessis,JO Holder,0,0,,,,,,caught,SS Prabhudessai
+ball,1,7.3,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,0,0,,,,,,"",""
+ball,1,7.4,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,7.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,1,0,,,,,,"",""
+ball,1,7.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,8.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MP Stoinis,2,0,,,,,,"",""
+ball,1,8.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MP Stoinis,4,0,,,,,,"",""
+ball,1,8.3,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MP Stoinis,1,0,,,,,,"",""
+ball,1,8.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,MP Stoinis,4,0,,,,,,"",""
+ball,1,8.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,MP Stoinis,1,0,,,,,,"",""
+ball,1,8.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MP Stoinis,0,1,1,,,,,"",""
+ball,1,8.7,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,MP Stoinis,1,0,,,,,,"",""
+ball,1,9.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,9.2,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,0,0,,,,,,"",""
+ball,1,9.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,0,0,,,,,,"",""
+ball,1,9.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,1,0,,,,,,"",""
+ball,1,9.5,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,0,1,1,,,,,"",""
+ball,1,9.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,9.7,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,4,0,,,,,,"",""
+ball,1,10.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,0,0,,,,,,"",""
+ball,1,10.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,10.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,1,0,,,,,,"",""
+ball,1,10.4,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,10.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,1,0,,,,,,"",""
+ball,1,10.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,11.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.2,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,11.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,11.6,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.1,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,PVD Chameera,1,0,,,,,,"",""
+ball,1,12.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,PVD Chameera,1,0,,,,,,"",""
+ball,1,12.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,PVD Chameera,0,0,,,,,,"",""
+ball,1,12.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,PVD Chameera,1,0,,,,,,"",""
+ball,1,12.5,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,PVD Chameera,2,0,,,,,,"",""
+ball,1,12.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,PVD Chameera,2,0,,,,,,"",""
+ball,1,13.1,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,13.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,13.5,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.6,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,14.2,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,4,0,,,,,,"",""
+ball,1,14.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,0,0,,,,,,"",""
+ball,1,14.4,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,1,0,,,,,,"",""
+ball,1,14.5,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,KH Pandya,1,0,,,,,,"",""
+ball,1,14.6,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,KH Pandya,6,0,,,,,,"",""
+ball,1,15.1,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,0,1,1,,,,,"",""
+ball,1,15.2,Royal Challengers Bangalore,Shahbaz Ahmed,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,15.3,Royal Challengers Bangalore,F du Plessis,Shahbaz Ahmed,JO Holder,0,0,,,,,,run out,Shahbaz Ahmed
+ball,1,15.4,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,4,0,,,,,,"",""
+ball,1,15.5,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,1,0,,,,,,"",""
+ball,1,15.6,Royal Challengers Bangalore,KD Karthik,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,15.7,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,2,0,,,,,,"",""
+ball,1,16.1,Royal Challengers Bangalore,KD Karthik,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.2,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,4,0,,,,,,"",""
+ball,1,16.3,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,2,0,,,,,,"",""
+ball,1,16.4,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.5,Royal Challengers Bangalore,KD Karthik,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.6,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.1,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,17.2,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,17.3,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,17.4,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,17.5,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,17.6,Royal Challengers Bangalore,F du Plessis,KD Karthik,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,18.1,Royal Challengers Bangalore,KD Karthik,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.2,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.3,Royal Challengers Bangalore,KD Karthik,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.4,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,0,1,1,,,,,"",""
+ball,1,18.5,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,2,0,,,,,,"",""
+ball,1,18.6,Royal Challengers Bangalore,F du Plessis,KD Karthik,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.7,Royal Challengers Bangalore,KD Karthik,F du Plessis,Avesh Khan,6,0,,,,,,"",""
+ball,1,19.1,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,1,0,,,,,,"",""
+ball,1,19.2,Royal Challengers Bangalore,KD Karthik,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,19.3,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,1,0,,,,,,"",""
+ball,1,19.4,Royal Challengers Bangalore,KD Karthik,F du Plessis,JO Holder,1,0,,,,,,"",""
+ball,1,19.5,Royal Challengers Bangalore,F du Plessis,KD Karthik,JO Holder,0,0,,,,,,caught,F du Plessis
+ball,1,19.6,Royal Challengers Bangalore,HV Patel,KD Karthik,JO Holder,0,0,,,,,,"",""
+ball,2,0.1,Lucknow Super Giants,Q de Kock,KL Rahul,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.2,Lucknow Super Giants,Q de Kock,KL Rahul,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,0.3,Lucknow Super Giants,KL Rahul,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.4,Lucknow Super Giants,KL Rahul,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,0.5,Lucknow Super Giants,KL Rahul,Q de Kock,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,0.6,Lucknow Super Giants,KL Rahul,Q de Kock,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,1.1,Lucknow Super Giants,Q de Kock,KL Rahul,GJ Maxwell,1,0,,,,,,"",""
+ball,2,1.2,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,0,1,1,,,,,"",""
+ball,2,1.3,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,2,0,,,,,,"",""
+ball,2,1.4,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,0,0,,,,,,"",""
+ball,2,1.5,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,0,0,,,,,,"",""
+ball,2,1.6,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,0,0,,,,,,"",""
+ball,2,1.7,Lucknow Super Giants,KL Rahul,Q de Kock,GJ Maxwell,1,0,,,,,,"",""
+ball,2,2.1,Lucknow Super Giants,KL Rahul,Q de Kock,JR Hazlewood,1,0,,,,,,"",""
+ball,2,2.2,Lucknow Super Giants,Q de Kock,KL Rahul,JR Hazlewood,1,0,,,,,,"",""
+ball,2,2.3,Lucknow Super Giants,KL Rahul,Q de Kock,JR Hazlewood,0,0,,,,,,"",""
+ball,2,2.4,Lucknow Super Giants,KL Rahul,Q de Kock,JR Hazlewood,1,0,,,,,,"",""
+ball,2,2.5,Lucknow Super Giants,Q de Kock,KL Rahul,JR Hazlewood,0,0,,,,,,caught,Q de Kock
+ball,2,2.6,Lucknow Super Giants,MK Pandey,KL Rahul,JR Hazlewood,0,0,,,,,,"",""
+ball,2,3.1,Lucknow Super Giants,KL Rahul,MK Pandey,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,3.2,Lucknow Super Giants,MK Pandey,KL Rahul,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,3.3,Lucknow Super Giants,KL Rahul,MK Pandey,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,3.4,Lucknow Super Giants,MK Pandey,KL Rahul,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,3.5,Lucknow Super Giants,MK Pandey,KL Rahul,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,2,3.6,Lucknow Super Giants,MK Pandey,KL Rahul,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,4.1,Lucknow Super Giants,KL Rahul,MK Pandey,JR Hazlewood,1,0,,,,,,"",""
+ball,2,4.2,Lucknow Super Giants,MK Pandey,KL Rahul,JR Hazlewood,1,0,,,,,,"",""
+ball,2,4.3,Lucknow Super Giants,KL Rahul,MK Pandey,JR Hazlewood,6,0,,,,,,"",""
+ball,2,4.4,Lucknow Super Giants,KL Rahul,MK Pandey,JR Hazlewood,1,0,,,,,,"",""
+ball,2,4.5,Lucknow Super Giants,MK Pandey,KL Rahul,JR Hazlewood,0,0,,,,,,"",""
+ball,2,4.6,Lucknow Super Giants,MK Pandey,KL Rahul,JR Hazlewood,0,0,,,,,,caught,MK Pandey
+ball,2,5.1,Lucknow Super Giants,KL Rahul,KH Pandya,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.2,Lucknow Super Giants,KH Pandya,KL Rahul,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.3,Lucknow Super Giants,KL Rahul,KH Pandya,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.4,Lucknow Super Giants,KH Pandya,KL Rahul,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,5.5,Lucknow Super Giants,KH Pandya,KL Rahul,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,5.6,Lucknow Super Giants,KH Pandya,KL Rahul,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,6.1,Lucknow Super Giants,KL Rahul,KH Pandya,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,6.2,Lucknow Super Giants,KL Rahul,KH Pandya,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,6.3,Lucknow Super Giants,KH Pandya,KL Rahul,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,6.4,Lucknow Super Giants,KH Pandya,KL Rahul,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,6.5,Lucknow Super Giants,KH Pandya,KL Rahul,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,6.6,Lucknow Super Giants,KH Pandya,KL Rahul,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,7.1,Lucknow Super Giants,KH Pandya,KL Rahul,HV Patel,4,0,,,,,,"",""
+ball,2,7.2,Lucknow Super Giants,KH Pandya,KL Rahul,HV Patel,0,0,,,,,,"",""
+ball,2,7.3,Lucknow Super Giants,KH Pandya,KL Rahul,HV Patel,1,0,,,,,,"",""
+ball,2,7.4,Lucknow Super Giants,KL Rahul,KH Pandya,HV Patel,0,0,,,,,,"",""
+ball,2,7.5,Lucknow Super Giants,KL Rahul,KH Pandya,HV Patel,4,0,,,,,,"",""
+ball,2,7.6,Lucknow Super Giants,KL Rahul,KH Pandya,HV Patel,0,5,5,,,,,"",""
+ball,2,7.7,Lucknow Super Giants,KL Rahul,KH Pandya,HV Patel,0,0,,,,,,caught,KL Rahul
+ball,2,8.1,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,0,1,,,,1,,"",""
+ball,2,8.2,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,8.3,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,8.4,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,8.5,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,8.6,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,9.1,Lucknow Super Giants,DJ Hooda,KH Pandya,PWH de Silva,0,0,,,,,,"",""
+ball,2,9.2,Lucknow Super Giants,DJ Hooda,KH Pandya,PWH de Silva,4,0,,,,,,"",""
+ball,2,9.3,Lucknow Super Giants,DJ Hooda,KH Pandya,PWH de Silva,0,0,,,,,,"",""
+ball,2,9.4,Lucknow Super Giants,DJ Hooda,KH Pandya,PWH de Silva,0,1,,,,1,,"",""
+ball,2,9.5,Lucknow Super Giants,KH Pandya,DJ Hooda,PWH de Silva,6,0,,,,,,"",""
+ball,2,9.6,Lucknow Super Giants,KH Pandya,DJ Hooda,PWH de Silva,0,0,,,,,,"",""
+ball,2,10.1,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,2,10.2,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,10.3,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,10.4,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,10.5,Lucknow Super Giants,KH Pandya,DJ Hooda,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,10.6,Lucknow Super Giants,DJ Hooda,KH Pandya,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,11.1,Lucknow Super Giants,DJ Hooda,KH Pandya,HV Patel,2,0,,,,,,"",""
+ball,2,11.2,Lucknow Super Giants,DJ Hooda,KH Pandya,HV Patel,1,0,,,,,,"",""
+ball,2,11.3,Lucknow Super Giants,KH Pandya,DJ Hooda,HV Patel,4,0,,,,,,"",""
+ball,2,11.4,Lucknow Super Giants,KH Pandya,DJ Hooda,HV Patel,0,1,1,,,,,"",""
+ball,2,11.5,Lucknow Super Giants,KH Pandya,DJ Hooda,HV Patel,1,0,,,,,,"",""
+ball,2,11.6,Lucknow Super Giants,DJ Hooda,KH Pandya,HV Patel,1,0,,,,,,"",""
+ball,2,11.7,Lucknow Super Giants,KH Pandya,DJ Hooda,HV Patel,1,0,,,,,,"",""
+ball,2,12.1,Lucknow Super Giants,KH Pandya,DJ Hooda,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,12.2,Lucknow Super Giants,KH Pandya,DJ Hooda,Mohammed Siraj,0,1,,,,1,,"",""
+ball,2,12.3,Lucknow Super Giants,DJ Hooda,KH Pandya,Mohammed Siraj,0,0,,,,,,caught,DJ Hooda
+ball,2,12.4,Lucknow Super Giants,A Badoni,KH Pandya,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,12.5,Lucknow Super Giants,A Badoni,KH Pandya,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,12.6,Lucknow Super Giants,A Badoni,KH Pandya,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,13.1,Lucknow Super Giants,KH Pandya,A Badoni,GJ Maxwell,4,0,,,,,,"",""
+ball,2,13.2,Lucknow Super Giants,KH Pandya,A Badoni,GJ Maxwell,0,0,,,,,,"",""
+ball,2,13.3,Lucknow Super Giants,KH Pandya,A Badoni,GJ Maxwell,0,0,,,,,,"",""
+ball,2,13.4,Lucknow Super Giants,KH Pandya,A Badoni,GJ Maxwell,0,0,,,,,,caught,KH Pandya
+ball,2,13.5,Lucknow Super Giants,MP Stoinis,A Badoni,GJ Maxwell,1,0,,,,,,"",""
+ball,2,13.6,Lucknow Super Giants,A Badoni,MP Stoinis,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.1,Lucknow Super Giants,A Badoni,MP Stoinis,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,14.2,Lucknow Super Giants,A Badoni,MP Stoinis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,14.3,Lucknow Super Giants,A Badoni,MP Stoinis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,14.4,Lucknow Super Giants,A Badoni,MP Stoinis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,14.5,Lucknow Super Giants,A Badoni,MP Stoinis,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.6,Lucknow Super Giants,MP Stoinis,A Badoni,Mohammed Siraj,0,1,1,,,,,"",""
+ball,2,14.7,Lucknow Super Giants,MP Stoinis,A Badoni,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,15.1,Lucknow Super Giants,MP Stoinis,A Badoni,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.2,Lucknow Super Giants,A Badoni,MP Stoinis,PWH de Silva,0,1,,,,1,,"",""
+ball,2,15.3,Lucknow Super Giants,MP Stoinis,A Badoni,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.4,Lucknow Super Giants,A Badoni,MP Stoinis,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.5,Lucknow Super Giants,MP Stoinis,A Badoni,PWH de Silva,6,0,,,,,,"",""
+ball,2,15.6,Lucknow Super Giants,MP Stoinis,A Badoni,PWH de Silva,1,0,,,,,,"",""
+ball,2,16.1,Lucknow Super Giants,MP Stoinis,A Badoni,JR Hazlewood,4,0,,,,,,"",""
+ball,2,16.2,Lucknow Super Giants,MP Stoinis,A Badoni,JR Hazlewood,1,0,,,,,,"",""
+ball,2,16.3,Lucknow Super Giants,A Badoni,MP Stoinis,JR Hazlewood,2,0,,,,,,"",""
+ball,2,16.4,Lucknow Super Giants,A Badoni,MP Stoinis,JR Hazlewood,0,0,,,,,,caught,A Badoni
+ball,2,16.5,Lucknow Super Giants,JO Holder,MP Stoinis,JR Hazlewood,0,1,1,,,,,"",""
+ball,2,16.6,Lucknow Super Giants,JO Holder,MP Stoinis,JR Hazlewood,1,0,,,,,,"",""
+ball,2,16.7,Lucknow Super Giants,MP Stoinis,JO Holder,JR Hazlewood,1,0,,,,,,"",""
+ball,2,17.1,Lucknow Super Giants,MP Stoinis,JO Holder,HV Patel,1,0,,,,,,"",""
+ball,2,17.2,Lucknow Super Giants,JO Holder,MP Stoinis,HV Patel,1,0,,,,,,"",""
+ball,2,17.3,Lucknow Super Giants,MP Stoinis,JO Holder,HV Patel,0,1,1,,,,,"",""
+ball,2,17.4,Lucknow Super Giants,MP Stoinis,JO Holder,HV Patel,1,0,,,,,,"",""
+ball,2,17.5,Lucknow Super Giants,JO Holder,MP Stoinis,HV Patel,1,0,,,,,,"",""
+ball,2,17.6,Lucknow Super Giants,MP Stoinis,JO Holder,HV Patel,4,0,,,,,,"",""
+ball,2,17.7,Lucknow Super Giants,MP Stoinis,JO Holder,HV Patel,1,0,,,,,,"",""
+ball,2,18.1,Lucknow Super Giants,MP Stoinis,JO Holder,JR Hazlewood,0,0,,,,,,"",""
+ball,2,18.2,Lucknow Super Giants,MP Stoinis,JO Holder,JR Hazlewood,0,0,,,,,,bowled,MP Stoinis
+ball,2,18.3,Lucknow Super Giants,PVD Chameera,JO Holder,JR Hazlewood,0,0,,,,,,"",""
+ball,2,18.4,Lucknow Super Giants,PVD Chameera,JO Holder,JR Hazlewood,0,0,,,,,,"",""
+ball,2,18.5,Lucknow Super Giants,PVD Chameera,JO Holder,JR Hazlewood,0,1,1,,,,,"",""
+ball,2,18.6,Lucknow Super Giants,PVD Chameera,JO Holder,JR Hazlewood,1,0,,,,,,"",""
+ball,2,18.7,Lucknow Super Giants,JO Holder,PVD Chameera,JR Hazlewood,1,0,,,,,,"",""
+ball,2,19.1,Lucknow Super Giants,JO Holder,PVD Chameera,HV Patel,0,0,,,,,,"",""
+ball,2,19.2,Lucknow Super Giants,JO Holder,PVD Chameera,HV Patel,6,0,,,,,,"",""
+ball,2,19.3,Lucknow Super Giants,JO Holder,PVD Chameera,HV Patel,0,0,,,,,,"",""
+ball,2,19.4,Lucknow Super Giants,JO Holder,PVD Chameera,HV Patel,6,0,,,,,,"",""
+ball,2,19.5,Lucknow Super Giants,JO Holder,PVD Chameera,HV Patel,0,0,,,,,,caught,JO Holder
+ball,2,19.6,Lucknow Super Giants,Ravi Bishnoi,PVD Chameera,HV Patel,0,0,,,,,,"",""

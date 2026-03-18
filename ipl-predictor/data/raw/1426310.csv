@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Royal Challengers Bengaluru
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2024
+info,date,2024/05/22
+info,event,Indian Premier League
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,R Ashwin
+info,umpire,KN Ananthapadmanabhan
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,R Pandit
+info,tv_umpire,AK Chaudhary
+info,match_referee,V Narayan Kutty
+info,winner,Rajasthan Royals
+info,winner_wickets,4
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,F du Plessis
+info,player,Royal Challengers Bengaluru,C Green
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,GJ Maxwell
+info,player,Royal Challengers Bengaluru,MK Lomror
+info,player,Royal Challengers Bengaluru,KD Karthik
+info,player,Royal Challengers Bengaluru,Swapnil Singh
+info,player,Royal Challengers Bengaluru,KV Sharma
+info,player,Royal Challengers Bengaluru,Yash Dayal
+info,player,Royal Challengers Bengaluru,Mohammed Siraj
+info,player,Royal Challengers Bengaluru,LH Ferguson
+info,player,Rajasthan Royals,YS Chahal
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,T Kohler-Cadmore
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,SO Hetmyer
+info,player,Rajasthan Royals,R Powell
+info,player,Rajasthan Royals,R Ashwin
+info,player,Rajasthan Royals,TA Boult
+info,player,Rajasthan Royals,Avesh Khan
+info,player,Rajasthan Royals,Sandeep Sharma
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,C Green,eaa76d3c
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KV Sharma,119678fd
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Powell,650d5e49
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Boult,a818c1be
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YS Chahal,57ee1fde
+info,registry,people,Yash Dayal,7210d461
+ball,1,0.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,1,0,,,,,,"",""
+ball,1,0.2,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,0.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,1,,,,1,,"",""
+ball,1,0.5,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,0,0,,,,,,"",""
+ball,1,0.6,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,Royal Challengers Bengaluru,F du Plessis,V Kohli,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,1.2,Royal Challengers Bengaluru,F du Plessis,V Kohli,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,1.3,Royal Challengers Bengaluru,V Kohli,F du Plessis,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,1.4,Royal Challengers Bengaluru,V Kohli,F du Plessis,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,1.5,Royal Challengers Bengaluru,F du Plessis,V Kohli,Sandeep Sharma,6,0,,,,,,"",""
+ball,1,1.6,Royal Challengers Bengaluru,F du Plessis,V Kohli,Sandeep Sharma,0,0,,,,,,"",""
+ball,1,2.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,0,0,,,,,,"",""
+ball,1,2.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,1,0,,,,,,"",""
+ball,1,2.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,2.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,2.5,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,1,0,,,,,,"",""
+ball,1,2.6,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,1,0,,,,,,"",""
+ball,1,3.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,Avesh Khan,6,0,,,,,,"",""
+ball,1,3.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,Avesh Khan,4,0,,,,,,"",""
+ball,1,3.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.5,Royal Challengers Bengaluru,V Kohli,F du Plessis,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.6,Royal Challengers Bengaluru,F du Plessis,V Kohli,Avesh Khan,4,0,,,,,,"",""
+ball,1,4.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,2,0,,,,,,"",""
+ball,1,4.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,0,0,,,,,,"",""
+ball,1,4.3,Royal Challengers Bengaluru,V Kohli,F du Plessis,TA Boult,0,1,,,,1,,"",""
+ball,1,4.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,TA Boult,0,0,,,,,,caught,F du Plessis
+ball,1,4.5,Royal Challengers Bengaluru,C Green,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,4.6,Royal Challengers Bengaluru,C Green,V Kohli,TA Boult,0,0,,,,,,"",""
+ball,1,5.1,Royal Challengers Bengaluru,V Kohli,C Green,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,5.2,Royal Challengers Bengaluru,V Kohli,C Green,Sandeep Sharma,2,0,,,,,,"",""
+ball,1,5.3,Royal Challengers Bengaluru,V Kohli,C Green,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,5.4,Royal Challengers Bengaluru,C Green,V Kohli,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,5.5,Royal Challengers Bengaluru,V Kohli,C Green,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,5.6,Royal Challengers Bengaluru,V Kohli,C Green,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,6.1,Royal Challengers Bengaluru,V Kohli,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,6.2,Royal Challengers Bengaluru,C Green,V Kohli,R Ashwin,1,0,,,,,,"",""
+ball,1,6.3,Royal Challengers Bengaluru,V Kohli,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,6.4,Royal Challengers Bengaluru,C Green,V Kohli,R Ashwin,0,0,,,,,,"",""
+ball,1,6.5,Royal Challengers Bengaluru,C Green,V Kohli,R Ashwin,0,1,1,,,,,"",""
+ball,1,6.6,Royal Challengers Bengaluru,C Green,V Kohli,R Ashwin,1,0,,,,,,"",""
+ball,1,6.7,Royal Challengers Bengaluru,V Kohli,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,7.1,Royal Challengers Bengaluru,V Kohli,C Green,YS Chahal,0,0,,,,,,"",""
+ball,1,7.2,Royal Challengers Bengaluru,V Kohli,C Green,YS Chahal,0,0,,,,,,caught,V Kohli
+ball,1,7.3,Royal Challengers Bengaluru,RM Patidar,C Green,YS Chahal,0,0,,,,,,"",""
+ball,1,7.4,Royal Challengers Bengaluru,RM Patidar,C Green,YS Chahal,1,0,,,,,,"",""
+ball,1,7.5,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,0,0,,,,,,"",""
+ball,1,7.6,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,1,0,,,,,,"",""
+ball,1,8.1,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,1,0,,,,,,"",""
+ball,1,8.2,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,0,0,,,,,,"",""
+ball,1,8.3,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,8.4,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,1,0,,,,,,"",""
+ball,1,8.5,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,0,0,,,,,,"",""
+ball,1,8.6,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,2,0,,,,,,"",""
+ball,1,9.1,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,6,0,,,,,,"",""
+ball,1,9.2,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,4,0,,,,,,"",""
+ball,1,9.3,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,1,0,,,,,,"",""
+ball,1,9.4,Royal Challengers Bengaluru,RM Patidar,C Green,YS Chahal,0,0,,,,,,"",""
+ball,1,9.5,Royal Challengers Bengaluru,RM Patidar,C Green,YS Chahal,1,0,,,,,,"",""
+ball,1,9.6,Royal Challengers Bengaluru,C Green,RM Patidar,YS Chahal,1,0,,,,,,"",""
+ball,1,10.1,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,1,0,,,,,,"",""
+ball,1,10.2,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,0,0,,,,,,"",""
+ball,1,10.3,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,0,1,1,,,,,"",""
+ball,1,10.4,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,0,0,,,,,,"",""
+ball,1,10.5,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,2,0,,,,,,"",""
+ball,1,10.6,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,10.7,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,1,0,,,,,,"",""
+ball,1,11.1,Royal Challengers Bengaluru,C Green,RM Patidar,Avesh Khan,1,0,,,,,,"",""
+ball,1,11.2,Royal Challengers Bengaluru,RM Patidar,C Green,Avesh Khan,2,0,,,,,,"",""
+ball,1,11.3,Royal Challengers Bengaluru,RM Patidar,C Green,Avesh Khan,4,0,,,,,,"",""
+ball,1,11.4,Royal Challengers Bengaluru,RM Patidar,C Green,Avesh Khan,1,0,,,,,,"",""
+ball,1,11.5,Royal Challengers Bengaluru,C Green,RM Patidar,Avesh Khan,4,0,,,,,,"",""
+ball,1,11.6,Royal Challengers Bengaluru,C Green,RM Patidar,Avesh Khan,1,0,,,,,,"",""
+ball,1,12.1,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,1,0,,,,,,"",""
+ball,1,12.2,Royal Challengers Bengaluru,RM Patidar,C Green,R Ashwin,1,0,,,,,,"",""
+ball,1,12.3,Royal Challengers Bengaluru,C Green,RM Patidar,R Ashwin,0,0,,,,,,caught,C Green
+ball,1,12.4,Royal Challengers Bengaluru,GJ Maxwell,RM Patidar,R Ashwin,0,0,,,,,,caught,GJ Maxwell
+ball,1,12.5,Royal Challengers Bengaluru,MK Lomror,RM Patidar,R Ashwin,0,0,,,,,,"",""
+ball,1,12.6,Royal Challengers Bengaluru,MK Lomror,RM Patidar,R Ashwin,0,0,,,,,,"",""
+ball,1,13.1,Royal Challengers Bengaluru,RM Patidar,MK Lomror,YS Chahal,6,0,,,,,,"",""
+ball,1,13.2,Royal Challengers Bengaluru,RM Patidar,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,13.3,Royal Challengers Bengaluru,MK Lomror,RM Patidar,YS Chahal,6,0,,,,,,"",""
+ball,1,13.4,Royal Challengers Bengaluru,MK Lomror,RM Patidar,YS Chahal,1,0,,,,,,"",""
+ball,1,13.5,Royal Challengers Bengaluru,RM Patidar,MK Lomror,YS Chahal,4,0,,,,,,"",""
+ball,1,13.6,Royal Challengers Bengaluru,RM Patidar,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,14.1,Royal Challengers Bengaluru,RM Patidar,MK Lomror,Avesh Khan,6,0,,,,,,"",""
+ball,1,14.2,Royal Challengers Bengaluru,RM Patidar,MK Lomror,Avesh Khan,0,0,,,,,,caught,RM Patidar
+ball,1,14.3,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Avesh Khan,0,0,,,,,,"",""
+ball,1,14.4,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Avesh Khan,1,0,,,,,,"",""
+ball,1,14.5,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Avesh Khan,1,0,,,,,,"",""
+ball,1,14.6,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Avesh Khan,1,0,,,,,,"",""
+ball,1,15.1,Royal Challengers Bengaluru,KD Karthik,MK Lomror,YS Chahal,0,0,,,,,,"",""
+ball,1,15.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,YS Chahal,0,0,,,,,,"",""
+ball,1,15.3,Royal Challengers Bengaluru,KD Karthik,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,15.4,Royal Challengers Bengaluru,MK Lomror,KD Karthik,YS Chahal,1,0,,,,,,"",""
+ball,1,15.5,Royal Challengers Bengaluru,KD Karthik,MK Lomror,YS Chahal,1,0,,,,,,"",""
+ball,1,15.6,Royal Challengers Bengaluru,MK Lomror,KD Karthik,YS Chahal,6,0,,,,,,"",""
+ball,1,16.1,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,16.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,16.3,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,16.4,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,16.5,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Sandeep Sharma,2,0,,,,,,"",""
+ball,1,16.6,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,17.1,Royal Challengers Bengaluru,MK Lomror,KD Karthik,TA Boult,2,0,,,,,,"",""
+ball,1,17.2,Royal Challengers Bengaluru,MK Lomror,KD Karthik,TA Boult,4,0,,,,,,"",""
+ball,1,17.3,Royal Challengers Bengaluru,MK Lomror,KD Karthik,TA Boult,0,0,,,,,,"",""
+ball,1,17.4,Royal Challengers Bengaluru,MK Lomror,KD Karthik,TA Boult,2,0,,,,,,"",""
+ball,1,17.5,Royal Challengers Bengaluru,MK Lomror,KD Karthik,TA Boult,1,0,,,,,,"",""
+ball,1,17.6,Royal Challengers Bengaluru,KD Karthik,MK Lomror,TA Boult,1,0,,,,,,"",""
+ball,1,18.1,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Avesh Khan,0,0,,,,,,"",""
+ball,1,18.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Avesh Khan,0,0,,,,,,caught,KD Karthik
+ball,1,18.3,Royal Challengers Bengaluru,Swapnil Singh,MK Lomror,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.4,Royal Challengers Bengaluru,MK Lomror,Swapnil Singh,Avesh Khan,4,0,,,,,,"",""
+ball,1,18.5,Royal Challengers Bengaluru,MK Lomror,Swapnil Singh,Avesh Khan,0,0,,,,,,caught,MK Lomror
+ball,1,18.6,Royal Challengers Bengaluru,KV Sharma,Swapnil Singh,Avesh Khan,0,0,,,,,,"",""
+ball,1,19.1,Royal Challengers Bengaluru,Swapnil Singh,KV Sharma,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,19.2,Royal Challengers Bengaluru,KV Sharma,Swapnil Singh,Sandeep Sharma,4,0,,,,,,"",""
+ball,1,19.3,Royal Challengers Bengaluru,KV Sharma,Swapnil Singh,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,19.4,Royal Challengers Bengaluru,Swapnil Singh,KV Sharma,Sandeep Sharma,6,0,,,,,,"",""
+ball,1,19.5,Royal Challengers Bengaluru,Swapnil Singh,KV Sharma,Sandeep Sharma,1,0,,,,,,"",""
+ball,1,19.6,Royal Challengers Bengaluru,KV Sharma,Swapnil Singh,Sandeep Sharma,0,0,,,,,,caught,KV Sharma
+ball,2,0.1,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Swapnil Singh,0,0,,,,,,"",""
+ball,2,0.2,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Swapnil Singh,0,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Swapnil Singh,1,0,,,,,,"",""
+ball,2,0.4,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Swapnil Singh,0,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Swapnil Singh,1,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Swapnil Singh,0,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.2,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.3,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,0,1,,,,1,,"",""
+ball,2,1.6,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,2.1,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,0,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,4,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,4,0,,,,,,"",""
+ball,2,2.4,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,0,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,4,0,,,,,,"",""
+ball,2,2.6,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,4,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,3.3,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,3.5,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Yash Dayal,1,0,,,,,,"",""
+ball,2,4.2,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,Yash Dayal,1,0,,,,,,"",""
+ball,2,4.3,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Yash Dayal,0,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Yash Dayal,4,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Yash Dayal,0,0,,,,,,"",""
+ball,2,4.6,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,Yash Dayal,4,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.2,Rajasthan Royals,YBK Jaiswal,T Kohler-Cadmore,LH Ferguson,1,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,T Kohler-Cadmore,YBK Jaiswal,LH Ferguson,0,0,,,,,,bowled,T Kohler-Cadmore
+ball,2,5.4,Rajasthan Royals,SV Samson,YBK Jaiswal,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,SV Samson,YBK Jaiswal,LH Ferguson,1,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,YBK Jaiswal,SV Samson,LH Ferguson,0,0,,,,,,"",""
+ball,2,6.1,Rajasthan Royals,SV Samson,YBK Jaiswal,Swapnil Singh,6,0,,,,,,"",""
+ball,2,6.2,Rajasthan Royals,SV Samson,YBK Jaiswal,Swapnil Singh,1,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,YBK Jaiswal,SV Samson,Swapnil Singh,1,0,,,,,,"",""
+ball,2,6.4,Rajasthan Royals,SV Samson,YBK Jaiswal,Swapnil Singh,1,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,YBK Jaiswal,SV Samson,Swapnil Singh,4,0,,,,,,"",""
+ball,2,6.6,Rajasthan Royals,YBK Jaiswal,SV Samson,Swapnil Singh,4,0,,,,,,"",""
+ball,2,7.1,Rajasthan Royals,SV Samson,YBK Jaiswal,LH Ferguson,1,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,YBK Jaiswal,SV Samson,LH Ferguson,4,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,YBK Jaiswal,SV Samson,LH Ferguson,1,0,,,,,,"",""
+ball,2,7.4,Rajasthan Royals,SV Samson,YBK Jaiswal,LH Ferguson,1,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,YBK Jaiswal,SV Samson,LH Ferguson,2,0,,,,,,"",""
+ball,2,7.6,Rajasthan Royals,YBK Jaiswal,SV Samson,LH Ferguson,1,0,,,,,,"",""
+ball,2,8.1,Rajasthan Royals,YBK Jaiswal,SV Samson,KV Sharma,1,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,SV Samson,YBK Jaiswal,KV Sharma,1,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,YBK Jaiswal,SV Samson,KV Sharma,1,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,SV Samson,YBK Jaiswal,KV Sharma,1,0,,,,,,"",""
+ball,2,8.5,Rajasthan Royals,YBK Jaiswal,SV Samson,KV Sharma,1,0,,,,,,"",""
+ball,2,8.6,Rajasthan Royals,SV Samson,YBK Jaiswal,KV Sharma,1,0,,,,,,"",""
+ball,2,9.1,Rajasthan Royals,SV Samson,YBK Jaiswal,C Green,1,0,,,,,,"",""
+ball,2,9.2,Rajasthan Royals,YBK Jaiswal,SV Samson,C Green,0,0,,,,,,caught,YBK Jaiswal
+ball,2,9.3,Rajasthan Royals,R Parag,SV Samson,C Green,1,0,,,,,,"",""
+ball,2,9.4,Rajasthan Royals,SV Samson,R Parag,C Green,1,0,,,,,,"",""
+ball,2,9.5,Rajasthan Royals,R Parag,SV Samson,C Green,1,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,SV Samson,R Parag,C Green,1,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,SV Samson,R Parag,KV Sharma,0,1,1,,,,,stumped,SV Samson
+ball,2,10.2,Rajasthan Royals,Dhruv Jurel,R Parag,KV Sharma,4,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,Dhruv Jurel,R Parag,KV Sharma,1,0,,,,,,"",""
+ball,2,10.4,Rajasthan Royals,R Parag,Dhruv Jurel,KV Sharma,4,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,R Parag,Dhruv Jurel,KV Sharma,0,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,R Parag,Dhruv Jurel,KV Sharma,0,1,1,,,,,"",""
+ball,2,10.7,Rajasthan Royals,R Parag,Dhruv Jurel,KV Sharma,1,0,,,,,,"",""
+ball,2,10.8,Rajasthan Royals,Dhruv Jurel,R Parag,KV Sharma,1,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,Dhruv Jurel,R Parag,C Green,0,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,Dhruv Jurel,R Parag,C Green,1,0,,,,,,"",""
+ball,2,11.3,Rajasthan Royals,R Parag,Dhruv Jurel,C Green,0,0,,,,,,"",""
+ball,2,11.4,Rajasthan Royals,R Parag,Dhruv Jurel,C Green,0,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,R Parag,Dhruv Jurel,C Green,1,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,Dhruv Jurel,R Parag,C Green,0,0,,,,,,"",""
+ball,2,12.1,Rajasthan Royals,R Parag,Dhruv Jurel,LH Ferguson,3,0,,,,,,"",""
+ball,2,12.2,Rajasthan Royals,Dhruv Jurel,R Parag,LH Ferguson,0,0,,,,,,"",""
+ball,2,12.3,Rajasthan Royals,Dhruv Jurel,R Parag,LH Ferguson,1,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,R Parag,Dhruv Jurel,LH Ferguson,6,0,,,,,,"",""
+ball,2,12.5,Rajasthan Royals,R Parag,Dhruv Jurel,LH Ferguson,0,0,,,,,,"",""
+ball,2,12.6,Rajasthan Royals,R Parag,Dhruv Jurel,LH Ferguson,1,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,R Parag,Dhruv Jurel,C Green,1,0,,,,,,run out,Dhruv Jurel
+ball,2,13.2,Rajasthan Royals,R Parag,SO Hetmyer,C Green,0,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,R Parag,SO Hetmyer,C Green,1,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,SO Hetmyer,R Parag,C Green,0,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,SO Hetmyer,R Parag,C Green,1,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,R Parag,SO Hetmyer,C Green,1,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,2,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.5,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Siraj,0,1,1,,,,,"",""
+ball,2,14.7,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,SO Hetmyer,R Parag,C Green,6,0,,,,,,"",""
+ball,2,15.2,Rajasthan Royals,SO Hetmyer,R Parag,C Green,1,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,R Parag,SO Hetmyer,C Green,6,0,,,,,,"",""
+ball,2,15.4,Rajasthan Royals,R Parag,SO Hetmyer,C Green,4,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,R Parag,SO Hetmyer,C Green,0,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,R Parag,SO Hetmyer,C Green,0,0,,,,,,"",""
+ball,2,16.1,Rajasthan Royals,SO Hetmyer,R Parag,Yash Dayal,1,0,,,,,,"",""
+ball,2,16.2,Rajasthan Royals,R Parag,SO Hetmyer,Yash Dayal,1,0,,,,,,"",""
+ball,2,16.3,Rajasthan Royals,SO Hetmyer,R Parag,Yash Dayal,4,0,,,,,,"",""
+ball,2,16.4,Rajasthan Royals,SO Hetmyer,R Parag,Yash Dayal,4,0,,,,,,"",""
+ball,2,16.5,Rajasthan Royals,SO Hetmyer,R Parag,Yash Dayal,1,0,,,,,,"",""
+ball,2,16.6,Rajasthan Royals,R Parag,SO Hetmyer,Yash Dayal,0,0,,,,,,"",""
+ball,2,17.1,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,17.2,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,0,1,1,,,,,"",""
+ball,2,17.3,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,0,1,1,,,,,"",""
+ball,2,17.4,Rajasthan Royals,R Parag,SO Hetmyer,Mohammed Siraj,0,0,,,,,,bowled,R Parag
+ball,2,17.5,Rajasthan Royals,R Powell,SO Hetmyer,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,17.6,Rajasthan Royals,SO Hetmyer,R Powell,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,17.7,Rajasthan Royals,R Powell,SO Hetmyer,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,17.8,Rajasthan Royals,SO Hetmyer,R Powell,Mohammed Siraj,0,0,,,,,,caught,SO Hetmyer
+ball,2,18.1,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,4,0,,,,,,"",""
+ball,2,18.2,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,4,0,,,,,,"",""
+ball,2,18.3,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.4,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.5,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.6,Rajasthan Royals,R Powell,R Ashwin,LH Ferguson,6,0,,,,,,"",""

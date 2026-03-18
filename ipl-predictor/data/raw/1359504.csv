@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gujarat Titans
+info,team,Lucknow Super Giants
+info,gender,male
+info,season,2023
+info,date,2023/04/22
+info,event,Indian Premier League
+info,match_number,30
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Gujarat Titans
+info,toss_decision,bat
+info,player_of_match,MM Sharma
+info,umpire,A Totre
+info,umpire,RJ Tucker
+info,reserve_umpire,PM Joshi
+info,tv_umpire,J Madanagopal
+info,match_referee,R Seth
+info,winner,Gujarat Titans
+info,winner_runs,7
+info,player,Gujarat Titans,J Yadav
+info,player,Gujarat Titans,WP Saha
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,HH Pandya
+info,player,Gujarat Titans,A Manohar
+info,player,Gujarat Titans,V Shankar
+info,player,Gujarat Titans,DA Miller
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,Mohammed Shami
+info,player,Gujarat Titans,Noor Ahmad
+info,player,Gujarat Titans,MM Sharma
+info,player,Lucknow Super Giants,A Mishra
+info,player,Lucknow Super Giants,KL Rahul
+info,player,Lucknow Super Giants,KR Mayers
+info,player,Lucknow Super Giants,KH Pandya
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,MP Stoinis
+info,player,Lucknow Super Giants,DJ Hooda
+info,player,Lucknow Super Giants,PN Mankad
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,Naveen-ul-Haq
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Manohar,0890552f
+info,registry,people,A Mishra,6b19d823
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Yadav,81049310
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KR Mayers,73c18486
+info,registry,people,MM Sharma,759ac88f
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,R Seth,540a44ba
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,WP Saha,fe11caa6
+ball,1,0.1,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,0.2,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,0.3,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,0.4,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,0.5,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,0.6,Gujarat Titans,WP Saha,Shubman Gill,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.1,Gujarat Titans,Shubman Gill,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,1.2,Gujarat Titans,Shubman Gill,WP Saha,KH Pandya,0,0,,,,,,caught,Shubman Gill
+ball,1,1.3,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,1.4,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,1.5,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,1,0,,,,,,"",""
+ball,1,1.6,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,0,0,,,,,,"",""
+ball,1,2.1,Gujarat Titans,HH Pandya,WP Saha,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,2.2,Gujarat Titans,HH Pandya,WP Saha,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,2.3,Gujarat Titans,WP Saha,HH Pandya,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,2.4,Gujarat Titans,WP Saha,HH Pandya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,2.5,Gujarat Titans,WP Saha,HH Pandya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,2.6,Gujarat Titans,WP Saha,HH Pandya,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,3.1,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,4,0,,,,,,"",""
+ball,1,3.2,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,2,0,,,,,,"",""
+ball,1,3.3,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,0,0,,,,,,"",""
+ball,1,3.4,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,1,0,,,,,,"",""
+ball,1,3.5,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,3.6,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,4.1,Gujarat Titans,WP Saha,HH Pandya,Avesh Khan,2,0,,,,,,"",""
+ball,1,4.2,Gujarat Titans,WP Saha,HH Pandya,Avesh Khan,2,0,,,,,,"",""
+ball,1,4.3,Gujarat Titans,WP Saha,HH Pandya,Avesh Khan,4,0,,,,,,"",""
+ball,1,4.4,Gujarat Titans,WP Saha,HH Pandya,Avesh Khan,1,0,,,,,,"",""
+ball,1,4.5,Gujarat Titans,HH Pandya,WP Saha,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.6,Gujarat Titans,HH Pandya,WP Saha,Avesh Khan,0,0,,,,,,"",""
+ball,1,5.1,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,5.2,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,5.3,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.4,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.5,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.6,Gujarat Titans,HH Pandya,WP Saha,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,6.1,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,1,0,,,,,,"",""
+ball,1,6.2,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,6.3,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,1,0,,,,,,"",""
+ball,1,6.4,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,0,0,,,,,,"",""
+ball,1,6.5,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,2,0,,,,,,"",""
+ball,1,6.6,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,0,0,,,,,,"",""
+ball,1,7.1,Gujarat Titans,HH Pandya,WP Saha,MP Stoinis,2,0,,,,,,"",""
+ball,1,7.2,Gujarat Titans,HH Pandya,WP Saha,MP Stoinis,0,0,,,,,,"",""
+ball,1,7.3,Gujarat Titans,HH Pandya,WP Saha,MP Stoinis,0,0,,,,,,"",""
+ball,1,7.4,Gujarat Titans,HH Pandya,WP Saha,MP Stoinis,1,0,,,,,,"",""
+ball,1,7.5,Gujarat Titans,WP Saha,HH Pandya,MP Stoinis,0,0,,,,,,"",""
+ball,1,7.6,Gujarat Titans,WP Saha,HH Pandya,MP Stoinis,4,0,,,,,,"",""
+ball,1,8.1,Gujarat Titans,HH Pandya,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.2,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.3,Gujarat Titans,HH Pandya,WP Saha,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,8.4,Gujarat Titans,HH Pandya,WP Saha,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.5,Gujarat Titans,WP Saha,HH Pandya,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.6,Gujarat Titans,HH Pandya,WP Saha,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,9.1,Gujarat Titans,WP Saha,HH Pandya,A Mishra,0,0,,,,,,"",""
+ball,1,9.2,Gujarat Titans,WP Saha,HH Pandya,A Mishra,1,0,,,,,,"",""
+ball,1,9.3,Gujarat Titans,HH Pandya,WP Saha,A Mishra,1,0,,,,,,"",""
+ball,1,9.4,Gujarat Titans,WP Saha,HH Pandya,A Mishra,2,0,,,,,,"",""
+ball,1,9.5,Gujarat Titans,WP Saha,HH Pandya,A Mishra,1,0,,,,,,"",""
+ball,1,9.6,Gujarat Titans,HH Pandya,WP Saha,A Mishra,1,0,,,,,,"",""
+ball,1,10.1,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,0,0,,,,,,"",""
+ball,1,10.2,Gujarat Titans,HH Pandya,WP Saha,KH Pandya,1,0,,,,,,"",""
+ball,1,10.3,Gujarat Titans,WP Saha,HH Pandya,KH Pandya,0,0,,,,,,caught,WP Saha
+ball,1,10.4,Gujarat Titans,A Manohar,HH Pandya,KH Pandya,1,0,,,,,,"",""
+ball,1,10.5,Gujarat Titans,HH Pandya,A Manohar,KH Pandya,1,0,,,,,,"",""
+ball,1,10.6,Gujarat Titans,A Manohar,HH Pandya,KH Pandya,1,0,,,,,,"",""
+ball,1,11.1,Gujarat Titans,A Manohar,HH Pandya,A Mishra,0,0,,,,,,"",""
+ball,1,11.2,Gujarat Titans,A Manohar,HH Pandya,A Mishra,1,0,,,,,,"",""
+ball,1,11.3,Gujarat Titans,HH Pandya,A Manohar,A Mishra,1,0,,,,,,"",""
+ball,1,11.4,Gujarat Titans,A Manohar,HH Pandya,A Mishra,0,0,,,,,,caught,A Manohar
+ball,1,11.5,Gujarat Titans,V Shankar,HH Pandya,A Mishra,0,0,,,,,,"",""
+ball,1,11.6,Gujarat Titans,V Shankar,HH Pandya,A Mishra,1,0,,,,,,"",""
+ball,1,12.1,Gujarat Titans,V Shankar,HH Pandya,Avesh Khan,1,0,,,,,,"",""
+ball,1,12.2,Gujarat Titans,HH Pandya,V Shankar,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.3,Gujarat Titans,HH Pandya,V Shankar,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.4,Gujarat Titans,HH Pandya,V Shankar,Avesh Khan,1,0,,,,,,"",""
+ball,1,12.5,Gujarat Titans,V Shankar,HH Pandya,Avesh Khan,4,0,,,,,,"",""
+ball,1,12.6,Gujarat Titans,V Shankar,HH Pandya,Avesh Khan,1,0,,,,,,"",""
+ball,1,13.1,Gujarat Titans,V Shankar,HH Pandya,MP Stoinis,0,0,,,,,,"",""
+ball,1,13.2,Gujarat Titans,V Shankar,HH Pandya,MP Stoinis,1,0,,,,,,"",""
+ball,1,13.3,Gujarat Titans,HH Pandya,V Shankar,MP Stoinis,1,0,,,,,,"",""
+ball,1,13.4,Gujarat Titans,V Shankar,HH Pandya,MP Stoinis,1,0,,,,,,"",""
+ball,1,13.5,Gujarat Titans,HH Pandya,V Shankar,MP Stoinis,1,0,,,,,,"",""
+ball,1,13.6,Gujarat Titans,V Shankar,HH Pandya,MP Stoinis,0,0,,,,,,"",""
+ball,1,14.1,Gujarat Titans,HH Pandya,V Shankar,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,14.2,Gujarat Titans,HH Pandya,V Shankar,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,14.3,Gujarat Titans,V Shankar,HH Pandya,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,14.4,Gujarat Titans,HH Pandya,V Shankar,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,14.5,Gujarat Titans,V Shankar,HH Pandya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,14.6,Gujarat Titans,V Shankar,HH Pandya,Naveen-ul-Haq,0,0,,,,,,bowled,V Shankar
+ball,1,15.1,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,15.2,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.3,Gujarat Titans,DA Miller,HH Pandya,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.4,Gujarat Titans,DA Miller,HH Pandya,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.5,Gujarat Titans,DA Miller,HH Pandya,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.6,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,16.1,Gujarat Titans,HH Pandya,DA Miller,Avesh Khan,0,0,,,,,,"",""
+ball,1,16.2,Gujarat Titans,HH Pandya,DA Miller,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.3,Gujarat Titans,DA Miller,HH Pandya,Avesh Khan,0,0,,,,,,"",""
+ball,1,16.4,Gujarat Titans,DA Miller,HH Pandya,Avesh Khan,1,0,,,,,,"",""
+ball,1,16.5,Gujarat Titans,HH Pandya,DA Miller,Avesh Khan,2,0,,,,,,"",""
+ball,1,16.6,Gujarat Titans,HH Pandya,DA Miller,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.1,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,17.2,Gujarat Titans,DA Miller,HH Pandya,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,17.3,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,17.4,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,17.5,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,17.6,Gujarat Titans,HH Pandya,DA Miller,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,18.1,Gujarat Titans,HH Pandya,DA Miller,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.2,Gujarat Titans,DA Miller,HH Pandya,Naveen-ul-Haq,0,1,,,,1,,"",""
+ball,1,18.3,Gujarat Titans,HH Pandya,DA Miller,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.4,Gujarat Titans,DA Miller,HH Pandya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.5,Gujarat Titans,DA Miller,HH Pandya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.6,Gujarat Titans,DA Miller,HH Pandya,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,19.1,Gujarat Titans,HH Pandya,DA Miller,MP Stoinis,6,0,,,,,,"",""
+ball,1,19.2,Gujarat Titans,HH Pandya,DA Miller,MP Stoinis,0,0,,,,,,caught,HH Pandya
+ball,1,19.3,Gujarat Titans,R Tewatia,DA Miller,MP Stoinis,1,0,,,,,,"",""
+ball,1,19.4,Gujarat Titans,DA Miller,R Tewatia,MP Stoinis,1,0,,,,,,"",""
+ball,1,19.5,Gujarat Titans,R Tewatia,DA Miller,MP Stoinis,1,0,,,,,,"",""
+ball,1,19.6,Gujarat Titans,DA Miller,R Tewatia,MP Stoinis,0,0,,,,,,caught,DA Miller
+ball,2,0.1,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.2,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.3,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.4,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.5,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.6,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.1,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,1,0,,,,,,"",""
+ball,2,1.2,Lucknow Super Giants,KL Rahul,KR Mayers,J Yadav,1,0,,,,,,"",""
+ball,2,1.3,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,0,0,,,,,,"",""
+ball,2,1.4,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,4,0,,,,,,"",""
+ball,2,1.5,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,0,0,,,,,,"",""
+ball,2,1.6,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,0,0,,,,,,"",""
+ball,2,2.1,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.2,Lucknow Super Giants,KR Mayers,KL Rahul,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.3,Lucknow Super Giants,KR Mayers,KL Rahul,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.4,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,4,0,,,,,,"",""
+ball,2,2.5,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,4,0,,,,,,"",""
+ball,2,2.6,Lucknow Super Giants,KL Rahul,KR Mayers,Mohammed Shami,4,0,,,,,,"",""
+ball,2,3.1,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,1,0,,,,,,"",""
+ball,2,3.2,Lucknow Super Giants,KL Rahul,KR Mayers,J Yadav,1,0,,,,,,"",""
+ball,2,3.3,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,4,0,,,,,,"",""
+ball,2,3.4,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,1,0,,,,,,"",""
+ball,2,3.5,Lucknow Super Giants,KL Rahul,KR Mayers,J Yadav,1,0,,,,,,"",""
+ball,2,3.6,Lucknow Super Giants,KR Mayers,KL Rahul,J Yadav,2,0,,,,,,"",""
+ball,2,4.1,Lucknow Super Giants,KL Rahul,KR Mayers,Rashid Khan,4,0,,,,,,"",""
+ball,2,4.2,Lucknow Super Giants,KL Rahul,KR Mayers,Rashid Khan,4,0,,,,,,"",""
+ball,2,4.3,Lucknow Super Giants,KL Rahul,KR Mayers,Rashid Khan,1,0,,,,,,"",""
+ball,2,4.4,Lucknow Super Giants,KR Mayers,KL Rahul,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.5,Lucknow Super Giants,KR Mayers,KL Rahul,Rashid Khan,6,0,,,,,,"",""
+ball,2,4.6,Lucknow Super Giants,KR Mayers,KL Rahul,Rashid Khan,1,0,,,,,,"",""
+ball,2,5.1,Lucknow Super Giants,KR Mayers,KL Rahul,MM Sharma,0,0,,,,,,"",""
+ball,2,5.2,Lucknow Super Giants,KR Mayers,KL Rahul,MM Sharma,1,0,,,,,,"",""
+ball,2,5.3,Lucknow Super Giants,KL Rahul,KR Mayers,MM Sharma,4,0,,,,,,"",""
+ball,2,5.4,Lucknow Super Giants,KL Rahul,KR Mayers,MM Sharma,1,0,,,,,,"",""
+ball,2,5.5,Lucknow Super Giants,KR Mayers,KL Rahul,MM Sharma,1,0,,,,,,"",""
+ball,2,5.6,Lucknow Super Giants,KL Rahul,KR Mayers,MM Sharma,0,0,,,,,,"",""
+ball,2,6.1,Lucknow Super Giants,KR Mayers,KL Rahul,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.2,Lucknow Super Giants,KL Rahul,KR Mayers,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.3,Lucknow Super Giants,KR Mayers,KL Rahul,Rashid Khan,0,0,,,,,,bowled,KR Mayers
+ball,2,6.4,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.5,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.6,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.1,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,4,0,,,,,,"",""
+ball,2,7.2,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,2,0,,,,,,"",""
+ball,2,7.3,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.4,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.5,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.6,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.1,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,4,0,,,,,,"",""
+ball,2,8.2,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.3,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,2,0,,,,,,"",""
+ball,2,8.4,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.5,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.6,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.1,Lucknow Super Giants,KL Rahul,KH Pandya,HH Pandya,1,0,,,,,,"",""
+ball,2,9.2,Lucknow Super Giants,KH Pandya,KL Rahul,HH Pandya,0,0,,,,,,"",""
+ball,2,9.3,Lucknow Super Giants,KH Pandya,KL Rahul,HH Pandya,1,0,,,,,,"",""
+ball,2,9.4,Lucknow Super Giants,KL Rahul,KH Pandya,HH Pandya,1,0,,,,,,"",""
+ball,2,9.5,Lucknow Super Giants,KH Pandya,KL Rahul,HH Pandya,0,0,,,,,,"",""
+ball,2,9.6,Lucknow Super Giants,KH Pandya,KL Rahul,HH Pandya,4,0,,,,,,"",""
+ball,2,10.1,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,0,0,,,,,,"",""
+ball,2,10.2,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,4,0,,,,,,"",""
+ball,2,10.3,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,0,0,,,,,,"",""
+ball,2,10.4,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.5,Lucknow Super Giants,KH Pandya,KL Rahul,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.6,Lucknow Super Giants,KL Rahul,KH Pandya,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.1,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,0,0,,,,,,"",""
+ball,2,11.2,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,1,0,,,,,,"",""
+ball,2,11.4,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,11.5,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,2,0,,,,,,"",""
+ball,2,11.6,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,12.1,Lucknow Super Giants,KL Rahul,KH Pandya,R Tewatia,0,0,,,,,,"",""
+ball,2,12.2,Lucknow Super Giants,KL Rahul,KH Pandya,R Tewatia,1,0,,,,,,"",""
+ball,2,12.3,Lucknow Super Giants,KH Pandya,KL Rahul,R Tewatia,6,0,,,,,,"",""
+ball,2,12.4,Lucknow Super Giants,KH Pandya,KL Rahul,R Tewatia,0,0,,,,,,"",""
+ball,2,12.5,Lucknow Super Giants,KH Pandya,KL Rahul,R Tewatia,0,1,1,,,,,"",""
+ball,2,12.6,Lucknow Super Giants,KH Pandya,KL Rahul,R Tewatia,0,0,,,,,,"",""
+ball,2,12.7,Lucknow Super Giants,KH Pandya,KL Rahul,R Tewatia,0,0,,,,,,"",""
+ball,2,13.1,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,2,0,,,,,,"",""
+ball,2,13.2,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,0,0,,,,,,"",""
+ball,2,13.3,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,2,0,,,,,,"",""
+ball,2,13.4,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,2,0,,,,,,"",""
+ball,2,13.5,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,0,0,,,,,,"",""
+ball,2,13.6,Lucknow Super Giants,KL Rahul,KH Pandya,J Yadav,1,0,,,,,,"",""
+ball,2,14.1,Lucknow Super Giants,KL Rahul,KH Pandya,Noor Ahmad,1,0,,,,,,"",""
+ball,2,14.2,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,14.3,Lucknow Super Giants,KH Pandya,KL Rahul,Noor Ahmad,0,0,,,,,,stumped,KH Pandya
+ball,2,14.4,Lucknow Super Giants,N Pooran,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,14.5,Lucknow Super Giants,N Pooran,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,14.6,Lucknow Super Giants,N Pooran,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,15.1,Lucknow Super Giants,KL Rahul,N Pooran,J Yadav,0,0,,,,,,"",""
+ball,2,15.2,Lucknow Super Giants,KL Rahul,N Pooran,J Yadav,1,0,,,,,,"",""
+ball,2,15.3,Lucknow Super Giants,N Pooran,KL Rahul,J Yadav,0,0,,,,,,"",""
+ball,2,15.4,Lucknow Super Giants,N Pooran,KL Rahul,J Yadav,1,0,,,,,,"",""
+ball,2,15.5,Lucknow Super Giants,KL Rahul,N Pooran,J Yadav,0,0,,,,,,"",""
+ball,2,15.6,Lucknow Super Giants,KL Rahul,N Pooran,J Yadav,1,0,,,,,,"",""
+ball,2,16.1,Lucknow Super Giants,KL Rahul,N Pooran,Noor Ahmad,0,0,,,,,,"",""
+ball,2,16.2,Lucknow Super Giants,KL Rahul,N Pooran,Noor Ahmad,0,0,,,,,,"",""
+ball,2,16.3,Lucknow Super Giants,KL Rahul,N Pooran,Noor Ahmad,1,0,,,,,,"",""
+ball,2,16.4,Lucknow Super Giants,N Pooran,KL Rahul,Noor Ahmad,0,0,,,,,,"",""
+ball,2,16.5,Lucknow Super Giants,N Pooran,KL Rahul,Noor Ahmad,0,0,,,,,,caught,N Pooran
+ball,2,16.6,Lucknow Super Giants,A Badoni,KL Rahul,Noor Ahmad,3,0,,,,,,"",""
+ball,2,17.1,Lucknow Super Giants,A Badoni,KL Rahul,MM Sharma,1,0,,,,,,"",""
+ball,2,17.2,Lucknow Super Giants,KL Rahul,A Badoni,MM Sharma,1,0,,,,,,"",""
+ball,2,17.3,Lucknow Super Giants,A Badoni,KL Rahul,MM Sharma,1,0,,,,,,"",""
+ball,2,17.4,Lucknow Super Giants,KL Rahul,A Badoni,MM Sharma,1,0,,,,,,"",""
+ball,2,17.5,Lucknow Super Giants,A Badoni,KL Rahul,MM Sharma,1,0,,,,,,"",""
+ball,2,17.6,Lucknow Super Giants,KL Rahul,A Badoni,MM Sharma,1,0,,,,,,"",""
+ball,2,18.1,Lucknow Super Giants,KL Rahul,A Badoni,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.2,Lucknow Super Giants,A Badoni,KL Rahul,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.3,Lucknow Super Giants,KL Rahul,A Badoni,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.4,Lucknow Super Giants,A Badoni,KL Rahul,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.5,Lucknow Super Giants,KL Rahul,A Badoni,Mohammed Shami,0,0,,,,,,"",""
+ball,2,18.6,Lucknow Super Giants,KL Rahul,A Badoni,Mohammed Shami,0,1,,,,1,,"",""
+ball,2,19.1,Lucknow Super Giants,KL Rahul,A Badoni,MM Sharma,2,0,,,,,,"",""
+ball,2,19.2,Lucknow Super Giants,KL Rahul,A Badoni,MM Sharma,0,0,,,,,,caught,KL Rahul
+ball,2,19.3,Lucknow Super Giants,MP Stoinis,A Badoni,MM Sharma,0,0,,,,,,caught,MP Stoinis
+ball,2,19.4,Lucknow Super Giants,DJ Hooda,A Badoni,MM Sharma,1,0,,,,,,run out,A Badoni
+ball,2,19.5,Lucknow Super Giants,DJ Hooda,PN Mankad,MM Sharma,1,0,,,,,,run out,DJ Hooda
+ball,2,19.6,Lucknow Super Giants,Ravi Bishnoi,PN Mankad,MM Sharma,0,0,,,,,,"",""

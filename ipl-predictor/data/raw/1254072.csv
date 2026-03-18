@@ -1,0 +1,322 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Kolkata Knight Riders
+info,gender,male
+info,season,2021
+info,date,2021/04/21
+info,event,Indian Premier League
+info,match_number,15
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,AY Dandekar
+info,umpire,PR Reiffel
+info,reserve_umpire,YC Barde
+info,tv_umpire,AK Chaudhary
+info,match_referee,Shakti Singh
+info,winner,Chennai Super Kings
+info,winner_runs,18
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,F du Plessis
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,SK Raina
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,SM Curran
+info,player,Chennai Super Kings,SN Thakur
+info,player,Chennai Super Kings,DL Chahar
+info,player,Chennai Super Kings,L Ngidi
+info,player,Kolkata Knight Riders,N Rana
+info,player,Kolkata Knight Riders,Shubman Gill
+info,player,Kolkata Knight Riders,RA Tripathi
+info,player,Kolkata Knight Riders,EJG Morgan
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,KD Karthik
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,PJ Cummins
+info,player,Kolkata Knight Riders,KL Nagarkoti
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,M Prasidh Krishna
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,F du Plessis,3355b542
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,4,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,1,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,4,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,6,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,4,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,2,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,4,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,0,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,6,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,F du Plessis,RD Gaikwad,M Prasidh Krishna,3,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,4,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,0,1,1,,,,,"",""
+ball,1,5.5,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,RD Gaikwad,F du Plessis,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.7,Chennai Super Kings,F du Plessis,RD Gaikwad,PJ Cummins,1,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,0,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,0,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,4,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,1,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,RD Gaikwad,F du Plessis,AD Russell,6,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,RD Gaikwad,F du Plessis,AD Russell,0,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,RD Gaikwad,F du Plessis,AD Russell,1,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,F du Plessis,RD Gaikwad,AD Russell,0,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,F du Plessis,RD Gaikwad,AD Russell,1,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,RD Gaikwad,F du Plessis,AD Russell,4,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,F du Plessis,RD Gaikwad,CV Varun,1,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,1,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,0,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,1,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,1,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,RD Gaikwad,F du Plessis,SP Narine,1,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,F du Plessis,RD Gaikwad,SP Narine,1,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,F du Plessis,RD Gaikwad,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,RD Gaikwad,F du Plessis,KL Nagarkoti,6,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,RD Gaikwad,F du Plessis,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,F du Plessis,RD Gaikwad,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,RD Gaikwad,F du Plessis,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,F du Plessis,RD Gaikwad,KL Nagarkoti,6,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,1,1,,1,,,,"",""
+ball,1,11.4,Chennai Super Kings,F du Plessis,RD Gaikwad,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,6,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,1,1,,1,,,,"",""
+ball,1,11.7,Chennai Super Kings,F du Plessis,RD Gaikwad,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,11.8,Chennai Super Kings,RD Gaikwad,F du Plessis,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,RD Gaikwad,F du Plessis,CV Varun,0,0,,,,,,caught,RD Gaikwad
+ball,1,12.3,Chennai Super Kings,MM Ali,F du Plessis,CV Varun,1,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,F du Plessis,MM Ali,CV Varun,4,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,F du Plessis,MM Ali,CV Varun,0,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,F du Plessis,MM Ali,CV Varun,1,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,F du Plessis,MM Ali,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,MM Ali,F du Plessis,KL Nagarkoti,0,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,MM Ali,F du Plessis,KL Nagarkoti,4,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,MM Ali,F du Plessis,KL Nagarkoti,1,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,F du Plessis,MM Ali,KL Nagarkoti,3,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,MM Ali,F du Plessis,KL Nagarkoti,0,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,F du Plessis,MM Ali,PJ Cummins,4,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,F du Plessis,MM Ali,PJ Cummins,0,1,1,,,,,"",""
+ball,1,14.3,Chennai Super Kings,F du Plessis,MM Ali,PJ Cummins,1,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,MM Ali,F du Plessis,PJ Cummins,0,5,5,,,,,"",""
+ball,1,14.5,Chennai Super Kings,MM Ali,F du Plessis,PJ Cummins,1,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,F du Plessis,MM Ali,PJ Cummins,1,0,,,,,,"",""
+ball,1,14.7,Chennai Super Kings,MM Ali,F du Plessis,PJ Cummins,1,0,,,,,,"",""
+ball,1,14.8,Chennai Super Kings,F du Plessis,MM Ali,PJ Cummins,0,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,MM Ali,F du Plessis,M Prasidh Krishna,6,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,MM Ali,F du Plessis,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,F du Plessis,MM Ali,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,F du Plessis,MM Ali,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,F du Plessis,MM Ali,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,F du Plessis,MM Ali,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,MM Ali,F du Plessis,SP Narine,4,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,MM Ali,F du Plessis,SP Narine,6,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,MM Ali,F du Plessis,SP Narine,0,0,,,,,,stumped,MM Ali
+ball,1,16.4,Chennai Super Kings,MS Dhoni,F du Plessis,SP Narine,1,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,F du Plessis,MS Dhoni,SP Narine,1,1,,1,,,,"",""
+ball,1,16.6,Chennai Super Kings,MS Dhoni,F du Plessis,SP Narine,4,0,,,,,,"",""
+ball,1,16.7,Chennai Super Kings,MS Dhoni,F du Plessis,SP Narine,0,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,F du Plessis,MS Dhoni,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,F du Plessis,MS Dhoni,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,MS Dhoni,F du Plessis,M Prasidh Krishna,2,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,MS Dhoni,F du Plessis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,MS Dhoni,F du Plessis,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,17.6,Chennai Super Kings,MS Dhoni,F du Plessis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,17.7,Chennai Super Kings,MS Dhoni,F du Plessis,M Prasidh Krishna,6,0,,,,,,"",""
+ball,1,18.1,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,0,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,4,0,,,,,,"",""
+ball,1,18.3,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,4,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,4,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,0,1,1,,,,,"",""
+ball,1,18.6,Chennai Super Kings,F du Plessis,MS Dhoni,AD Russell,1,0,,,,,,"",""
+ball,1,18.7,Chennai Super Kings,MS Dhoni,F du Plessis,AD Russell,0,1,1,,,,,"",""
+ball,1,18.8,Chennai Super Kings,MS Dhoni,F du Plessis,AD Russell,0,0,,,,,,caught,MS Dhoni
+ball,1,19.1,Chennai Super Kings,F du Plessis,RA Jadeja,PJ Cummins,0,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,F du Plessis,RA Jadeja,PJ Cummins,6,0,,,,,,"",""
+ball,1,19.3,Chennai Super Kings,F du Plessis,RA Jadeja,PJ Cummins,0,0,,,,,,"",""
+ball,1,19.4,Chennai Super Kings,F du Plessis,RA Jadeja,PJ Cummins,6,0,,,,,,"",""
+ball,1,19.5,Chennai Super Kings,F du Plessis,RA Jadeja,PJ Cummins,1,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,RA Jadeja,F du Plessis,PJ Cummins,6,0,,,,,,"",""
+ball,2,0.1,Kolkata Knight Riders,N Rana,Shubman Gill,DL Chahar,0,0,,,,,,"",""
+ball,2,0.2,Kolkata Knight Riders,N Rana,Shubman Gill,DL Chahar,0,0,,,,,,"",""
+ball,2,0.3,Kolkata Knight Riders,N Rana,Shubman Gill,DL Chahar,1,0,,,,,,"",""
+ball,2,0.4,Kolkata Knight Riders,Shubman Gill,N Rana,DL Chahar,0,0,,,,,,caught,Shubman Gill
+ball,2,0.5,Kolkata Knight Riders,RA Tripathi,N Rana,DL Chahar,0,0,,,,,,"",""
+ball,2,0.6,Kolkata Knight Riders,RA Tripathi,N Rana,DL Chahar,4,0,,,,,,"",""
+ball,2,1.1,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,4,0,,,,,,"",""
+ball,2,1.2,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,4,0,,,,,,"",""
+ball,2,1.3,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,0,0,,,,,,"",""
+ball,2,1.4,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,0,0,,,,,,"",""
+ball,2,1.5,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,0,1,1,,,,,"",""
+ball,2,1.6,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,0,0,,,,,,"",""
+ball,2,1.7,Kolkata Knight Riders,N Rana,RA Tripathi,SM Curran,0,0,,,,,,"",""
+ball,2,2.1,Kolkata Knight Riders,RA Tripathi,N Rana,DL Chahar,1,0,,,,,,"",""
+ball,2,2.2,Kolkata Knight Riders,N Rana,RA Tripathi,DL Chahar,0,1,,,,1,,"",""
+ball,2,2.3,Kolkata Knight Riders,RA Tripathi,N Rana,DL Chahar,1,0,,,,,,"",""
+ball,2,2.4,Kolkata Knight Riders,N Rana,RA Tripathi,DL Chahar,0,0,,,,,,"",""
+ball,2,2.5,Kolkata Knight Riders,N Rana,RA Tripathi,DL Chahar,0,0,,,,,,caught,N Rana
+ball,2,2.6,Kolkata Knight Riders,RA Tripathi,EJG Morgan,DL Chahar,0,0,,,,,,"",""
+ball,2,3.1,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,0,1,1,,,,,"",""
+ball,2,3.2,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,0,0,,,,,,"",""
+ball,2,3.3,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,0,0,,,,,,"",""
+ball,2,3.4,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,0,0,,,,,,"",""
+ball,2,3.5,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,0,0,,,,,,"",""
+ball,2,3.6,Kolkata Knight Riders,EJG Morgan,RA Tripathi,L Ngidi,3,0,,,,,,"",""
+ball,2,3.7,Kolkata Knight Riders,RA Tripathi,EJG Morgan,L Ngidi,1,0,,,,,,"",""
+ball,2,4.1,Kolkata Knight Riders,RA Tripathi,EJG Morgan,DL Chahar,1,0,,,,,,"",""
+ball,2,4.2,Kolkata Knight Riders,EJG Morgan,RA Tripathi,DL Chahar,4,0,,,,,,"",""
+ball,2,4.3,Kolkata Knight Riders,EJG Morgan,RA Tripathi,DL Chahar,0,0,,,,,,caught,EJG Morgan
+ball,2,4.4,Kolkata Knight Riders,SP Narine,RA Tripathi,DL Chahar,0,0,,,,,,"",""
+ball,2,4.5,Kolkata Knight Riders,SP Narine,RA Tripathi,DL Chahar,4,0,,,,,,"",""
+ball,2,4.6,Kolkata Knight Riders,SP Narine,RA Tripathi,DL Chahar,0,0,,,,,,caught,SP Narine
+ball,2,5.1,Kolkata Knight Riders,RA Tripathi,KD Karthik,L Ngidi,0,0,,,,,,"",""
+ball,2,5.2,Kolkata Knight Riders,RA Tripathi,KD Karthik,L Ngidi,0,0,,,,,,caught,RA Tripathi
+ball,2,5.3,Kolkata Knight Riders,AD Russell,KD Karthik,L Ngidi,4,0,,,,,,"",""
+ball,2,5.4,Kolkata Knight Riders,AD Russell,KD Karthik,L Ngidi,4,0,,,,,,"",""
+ball,2,5.5,Kolkata Knight Riders,AD Russell,KD Karthik,L Ngidi,0,0,,,,,,"",""
+ball,2,5.6,Kolkata Knight Riders,AD Russell,KD Karthik,L Ngidi,6,0,,,,,,"",""
+ball,2,6.1,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.2,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.3,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,4,0,,,,,,"",""
+ball,2,6.4,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,0,0,,,,,,"",""
+ball,2,6.5,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.6,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.1,Kolkata Knight Riders,AD Russell,KD Karthik,DL Chahar,6,0,,,,,,"",""
+ball,2,7.2,Kolkata Knight Riders,AD Russell,KD Karthik,DL Chahar,1,0,,,,,,"",""
+ball,2,7.3,Kolkata Knight Riders,KD Karthik,AD Russell,DL Chahar,0,0,,,,,,"",""
+ball,2,7.4,Kolkata Knight Riders,KD Karthik,AD Russell,DL Chahar,0,0,,,,,,"",""
+ball,2,7.5,Kolkata Knight Riders,KD Karthik,AD Russell,DL Chahar,6,0,,,,,,"",""
+ball,2,7.6,Kolkata Knight Riders,KD Karthik,AD Russell,DL Chahar,0,0,,,,,,"",""
+ball,2,8.1,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.2,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,0,0,,,,,,"",""
+ball,2,8.3,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,4,0,,,,,,"",""
+ball,2,8.4,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.5,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,0,0,,,,,,"",""
+ball,2,8.6,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.1,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,6,0,,,,,,"",""
+ball,2,9.2,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,0,1,1,,,,,"",""
+ball,2,9.3,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,0,1,1,,,,,"",""
+ball,2,9.4,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,4,0,,,,,,"",""
+ball,2,9.5,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,6,0,,,,,,"",""
+ball,2,9.6,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,0,0,,,,,,"",""
+ball,2,9.7,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,0,0,,,,,,"",""
+ball,2,9.8,Kolkata Knight Riders,AD Russell,KD Karthik,SN Thakur,6,0,,,,,,"",""
+ball,2,10.1,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,4,0,,,,,,"",""
+ball,2,10.2,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.3,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.4,Kolkata Knight Riders,KD Karthik,AD Russell,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.5,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.6,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,0,1,,1,,,,"",""
+ball,2,10.7,Kolkata Knight Riders,AD Russell,KD Karthik,RA Jadeja,6,0,,,,,,"",""
+ball,2,11.1,Kolkata Knight Riders,KD Karthik,AD Russell,SM Curran,1,0,,,,,,"",""
+ball,2,11.2,Kolkata Knight Riders,AD Russell,KD Karthik,SM Curran,0,0,,,,,,bowled,AD Russell
+ball,2,11.3,Kolkata Knight Riders,PJ Cummins,KD Karthik,SM Curran,1,0,,,,,,"",""
+ball,2,11.4,Kolkata Knight Riders,KD Karthik,PJ Cummins,SM Curran,0,0,,,,,,"",""
+ball,2,11.5,Kolkata Knight Riders,KD Karthik,PJ Cummins,SM Curran,6,0,,,,,,"",""
+ball,2,11.6,Kolkata Knight Riders,KD Karthik,PJ Cummins,SM Curran,4,0,,,,,,"",""
+ball,2,12.1,Kolkata Knight Riders,PJ Cummins,KD Karthik,RA Jadeja,0,0,,,,,,"",""
+ball,2,12.2,Kolkata Knight Riders,PJ Cummins,KD Karthik,RA Jadeja,0,0,,,,,,"",""
+ball,2,12.3,Kolkata Knight Riders,PJ Cummins,KD Karthik,RA Jadeja,1,0,,,,,,"",""
+ball,2,12.4,Kolkata Knight Riders,KD Karthik,PJ Cummins,RA Jadeja,2,0,,,,,,"",""
+ball,2,12.5,Kolkata Knight Riders,KD Karthik,PJ Cummins,RA Jadeja,1,0,,,,,,"",""
+ball,2,12.6,Kolkata Knight Riders,PJ Cummins,KD Karthik,RA Jadeja,0,0,,,,,,"",""
+ball,2,13.1,Kolkata Knight Riders,KD Karthik,PJ Cummins,SN Thakur,1,0,,,,,,"",""
+ball,2,13.2,Kolkata Knight Riders,PJ Cummins,KD Karthik,SN Thakur,1,0,,,,,,"",""
+ball,2,13.3,Kolkata Knight Riders,KD Karthik,PJ Cummins,SN Thakur,1,0,,,,,,"",""
+ball,2,13.4,Kolkata Knight Riders,PJ Cummins,KD Karthik,SN Thakur,0,0,,,,,,"",""
+ball,2,13.5,Kolkata Knight Riders,PJ Cummins,KD Karthik,SN Thakur,4,0,,,,,,"",""
+ball,2,13.6,Kolkata Knight Riders,PJ Cummins,KD Karthik,SN Thakur,4,0,,,,,,"",""
+ball,2,14.1,Kolkata Knight Riders,KD Karthik,PJ Cummins,L Ngidi,1,0,,,,,,"",""
+ball,2,14.2,Kolkata Knight Riders,PJ Cummins,KD Karthik,L Ngidi,6,0,,,,,,"",""
+ball,2,14.3,Kolkata Knight Riders,PJ Cummins,KD Karthik,L Ngidi,0,0,,,,,,"",""
+ball,2,14.4,Kolkata Knight Riders,PJ Cummins,KD Karthik,L Ngidi,0,0,,,,,,"",""
+ball,2,14.5,Kolkata Knight Riders,PJ Cummins,KD Karthik,L Ngidi,1,0,,,,,,"",""
+ball,2,14.6,Kolkata Knight Riders,KD Karthik,PJ Cummins,L Ngidi,0,0,,,,,,lbw,KD Karthik
+ball,2,15.1,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,2,0,,,,,,"",""
+ball,2,15.2,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,6,0,,,,,,"",""
+ball,2,15.3,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,6,0,,,,,,"",""
+ball,2,15.4,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,6,0,,,,,,"",""
+ball,2,15.5,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,4,0,,,,,,"",""
+ball,2,15.6,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,SM Curran,6,0,,,,,,"",""
+ball,2,16.1,Kolkata Knight Riders,KL Nagarkoti,PJ Cummins,L Ngidi,0,0,,,,,,"",""
+ball,2,16.2,Kolkata Knight Riders,KL Nagarkoti,PJ Cummins,L Ngidi,0,0,,,,,,caught,KL Nagarkoti
+ball,2,16.3,Kolkata Knight Riders,PJ Cummins,CV Varun,L Ngidi,0,0,,,,,,"",""
+ball,2,16.4,Kolkata Knight Riders,PJ Cummins,CV Varun,L Ngidi,0,4,,,4,,,"",""
+ball,2,16.5,Kolkata Knight Riders,PJ Cummins,CV Varun,L Ngidi,1,0,,,,,,"",""
+ball,2,16.6,Kolkata Knight Riders,CV Varun,PJ Cummins,L Ngidi,0,0,,,,,,"",""
+ball,2,17.1,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,2,0,,,,,,"",""
+ball,2,17.2,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,2,0,,,,,,"",""
+ball,2,17.3,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,0,0,,,,,,"",""
+ball,2,17.4,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,0,0,,,,,,"",""
+ball,2,17.5,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,0,1,1,,,,,"",""
+ball,2,17.6,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,0,1,1,,,,,"",""
+ball,2,17.7,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,0,1,1,,,,,"",""
+ball,2,17.8,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,4,0,,,,,,"",""
+ball,2,17.9,Kolkata Knight Riders,PJ Cummins,CV Varun,SN Thakur,1,0,,,,,,"",""
+ball,2,18.1,Kolkata Knight Riders,PJ Cummins,CV Varun,SM Curran,0,0,,,,,,"",""
+ball,2,18.2,Kolkata Knight Riders,PJ Cummins,CV Varun,SM Curran,6,0,,,,,,"",""
+ball,2,18.3,Kolkata Knight Riders,PJ Cummins,CV Varun,SM Curran,1,0,,,,,,run out,CV Varun
+ball,2,18.4,Kolkata Knight Riders,PJ Cummins,M Prasidh Krishna,SM Curran,0,0,,,,,,"",""
+ball,2,18.5,Kolkata Knight Riders,PJ Cummins,M Prasidh Krishna,SM Curran,0,1,,,,1,,"",""
+ball,2,18.6,Kolkata Knight Riders,M Prasidh Krishna,PJ Cummins,SM Curran,0,0,,,,,,"",""
+ball,2,19.1,Kolkata Knight Riders,PJ Cummins,M Prasidh Krishna,SN Thakur,1,0,,,,,,run out,M Prasidh Krishna

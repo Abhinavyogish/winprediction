@@ -1,0 +1,330 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Delhi Capitals
+info,gender,male
+info,season,2023
+info,date,2023/05/20
+info,event,Indian Premier League
+info,match_number,67
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Chennai Super Kings
+info,toss_decision,bat
+info,player_of_match,RD Gaikwad
+info,umpire,CB Gaffaney
+info,umpire,NA Patwardhan
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,AK Chaudhary
+info,match_referee,Sanjay Verma
+info,winner,Chennai Super Kings
+info,winner_runs,77
+info,player,Chennai Super Kings,M Pathirana
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,AM Rahane
+info,player,Chennai Super Kings,MM Ali
+info,player,Chennai Super Kings,AT Rayudu
+info,player,Chennai Super Kings,DL Chahar
+info,player,Chennai Super Kings,TU Deshpande
+info,player,Chennai Super Kings,M Theekshana
+info,player,Delhi Capitals,KK Ahmed
+info,player,Delhi Capitals,PP Shaw
+info,player,Delhi Capitals,DA Warner
+info,player,Delhi Capitals,PD Salt
+info,player,Delhi Capitals,RR Rossouw
+info,player,Delhi Capitals,YV Dhull
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,Aman Hakim Khan
+info,player,Delhi Capitals,Lalit Yadav
+info,player,Delhi Capitals,A Nortje
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,C Sakariya
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Aman Hakim Khan,378daa89
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,DP Conway,df5a6881
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NA Patwardhan,e6ef687d
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dube,a4e37e47
+info,registry,people,Sanjay Verma,bc19a37f
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,YV Dhull,dd7e9b3b
+ball,1,0.1,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,1,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,0,1,,,,1,,"",""
+ball,1,0.3,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,4,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,DP Conway,RD Gaikwad,Lalit Yadav,1,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,RD Gaikwad,DP Conway,Lalit Yadav,4,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,RD Gaikwad,DP Conway,Lalit Yadav,1,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,DP Conway,RD Gaikwad,Lalit Yadav,6,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,DP Conway,RD Gaikwad,Lalit Yadav,1,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,RD Gaikwad,DP Conway,Lalit Yadav,0,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,1,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,1,1,,,,,"",""
+ball,1,2.4,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,4,0,,,,,,"",""
+ball,1,2.7,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,4,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,DP Conway,RD Gaikwad,AR Patel,1,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,6,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,DP Conway,RD Gaikwad,AR Patel,1,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,0,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,1,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,4,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,4,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,0,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,0,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,1,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,1,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,DP Conway,RD Gaikwad,AR Patel,1,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,2,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,0,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,0,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,2,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,DP Conway,RD Gaikwad,AR Patel,1,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,6,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,6,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,RD Gaikwad,DP Conway,AR Patel,1,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,DP Conway,RD Gaikwad,AR Patel,0,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,1,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,4,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,4,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,0,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,0,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,1,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,RD Gaikwad,DP Conway,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,DP Conway,RD Gaikwad,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,0,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,1,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,1,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,1,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,DP Conway,RD Gaikwad,A Nortje,1,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,RD Gaikwad,DP Conway,A Nortje,6,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,6,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,4,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,DP Conway,RD Gaikwad,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,RD Gaikwad,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,DP Conway,RD Gaikwad,C Sakariya,1,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,RD Gaikwad,DP Conway,C Sakariya,0,0,,,,,,caught,RD Gaikwad
+ball,1,14.4,Chennai Super Kings,S Dube,DP Conway,C Sakariya,1,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,DP Conway,S Dube,C Sakariya,4,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,DP Conway,S Dube,C Sakariya,0,1,1,,,,,"",""
+ball,1,14.7,Chennai Super Kings,DP Conway,S Dube,C Sakariya,1,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,DP Conway,S Dube,Lalit Yadav,4,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,DP Conway,S Dube,Lalit Yadav,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,S Dube,DP Conway,Lalit Yadav,6,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,S Dube,DP Conway,Lalit Yadav,0,1,1,,,,,"",""
+ball,1,15.5,Chennai Super Kings,S Dube,DP Conway,Lalit Yadav,0,1,1,,,,,"",""
+ball,1,15.6,Chennai Super Kings,S Dube,DP Conway,Lalit Yadav,1,0,,,,,,"",""
+ball,1,15.7,Chennai Super Kings,DP Conway,S Dube,Lalit Yadav,4,0,,,,,,"",""
+ball,1,15.8,Chennai Super Kings,DP Conway,S Dube,Lalit Yadav,1,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,DP Conway,S Dube,A Nortje,4,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,DP Conway,S Dube,A Nortje,0,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,DP Conway,S Dube,A Nortje,6,0,,,,,,"",""
+ball,1,16.4,Chennai Super Kings,DP Conway,S Dube,A Nortje,1,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,S Dube,DP Conway,A Nortje,1,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,DP Conway,S Dube,A Nortje,0,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,6,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,0,1,1,,,,,"",""
+ball,1,17.3,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,6,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,1,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,DP Conway,S Dube,KK Ahmed,0,1,,1,,,,"",""
+ball,1,17.6,Chennai Super Kings,DP Conway,S Dube,KK Ahmed,1,0,,,,,,"",""
+ball,1,17.7,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,0,0,,,,,,"",""
+ball,1,17.8,Chennai Super Kings,S Dube,DP Conway,KK Ahmed,0,0,,,,,,caught,S Dube
+ball,1,18.1,Chennai Super Kings,DP Conway,MS Dhoni,A Nortje,0,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,DP Conway,MS Dhoni,A Nortje,0,0,,,,,,caught,DP Conway
+ball,1,18.3,Chennai Super Kings,RA Jadeja,MS Dhoni,A Nortje,1,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,MS Dhoni,RA Jadeja,A Nortje,1,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,RA Jadeja,MS Dhoni,A Nortje,6,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,RA Jadeja,MS Dhoni,A Nortje,4,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,MS Dhoni,RA Jadeja,C Sakariya,1,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,RA Jadeja,MS Dhoni,C Sakariya,4,0,,,,,,"",""
+ball,1,19.3,Chennai Super Kings,RA Jadeja,MS Dhoni,C Sakariya,4,0,,,,,,"",""
+ball,1,19.4,Chennai Super Kings,RA Jadeja,MS Dhoni,C Sakariya,0,1,1,,,,,"",""
+ball,1,19.5,Chennai Super Kings,RA Jadeja,MS Dhoni,C Sakariya,0,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,RA Jadeja,MS Dhoni,C Sakariya,1,0,,,,,,"",""
+ball,1,19.7,Chennai Super Kings,MS Dhoni,RA Jadeja,C Sakariya,2,1,,1,,,,"",""
+ball,1,19.8,Chennai Super Kings,MS Dhoni,RA Jadeja,C Sakariya,0,1,1,,,,,"",""
+ball,1,19.9,Chennai Super Kings,MS Dhoni,RA Jadeja,C Sakariya,1,0,,,,,,"",""
+ball,2,0.1,Delhi Capitals,PP Shaw,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,0.2,Delhi Capitals,PP Shaw,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,0.3,Delhi Capitals,PP Shaw,DA Warner,DL Chahar,4,0,,,,,,"",""
+ball,2,0.4,Delhi Capitals,PP Shaw,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,2,0.5,Delhi Capitals,DA Warner,PP Shaw,DL Chahar,0,0,,,,,,"",""
+ball,2,0.6,Delhi Capitals,DA Warner,PP Shaw,DL Chahar,0,0,,,,,,"",""
+ball,2,1.1,Delhi Capitals,PP Shaw,DA Warner,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.2,Delhi Capitals,PP Shaw,DA Warner,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.3,Delhi Capitals,PP Shaw,DA Warner,TU Deshpande,0,0,,,,,,caught,PP Shaw
+ball,2,1.4,Delhi Capitals,PD Salt,DA Warner,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.5,Delhi Capitals,PD Salt,DA Warner,TU Deshpande,1,0,,,,,,"",""
+ball,2,1.6,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,0,0,,,,,,"",""
+ball,2,2.1,Delhi Capitals,PD Salt,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,2.2,Delhi Capitals,PD Salt,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,2,2.3,Delhi Capitals,DA Warner,PD Salt,DL Chahar,0,0,,,,,,"",""
+ball,2,2.4,Delhi Capitals,DA Warner,PD Salt,DL Chahar,0,0,,,,,,"",""
+ball,2,2.5,Delhi Capitals,DA Warner,PD Salt,DL Chahar,2,0,,,,,,"",""
+ball,2,2.6,Delhi Capitals,DA Warner,PD Salt,DL Chahar,0,0,,,,,,"",""
+ball,2,3.1,Delhi Capitals,PD Salt,DA Warner,TU Deshpande,1,0,,,,,,"",""
+ball,2,3.2,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,4,0,,,,,,"",""
+ball,2,3.3,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.4,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.5,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.6,Delhi Capitals,DA Warner,PD Salt,TU Deshpande,1,0,,,,,,"",""
+ball,2,4.1,Delhi Capitals,DA Warner,PD Salt,DL Chahar,6,0,,,,,,"",""
+ball,2,4.2,Delhi Capitals,DA Warner,PD Salt,DL Chahar,4,0,,,,,,"",""
+ball,2,4.3,Delhi Capitals,DA Warner,PD Salt,DL Chahar,1,0,,,,,,"",""
+ball,2,4.4,Delhi Capitals,PD Salt,DA Warner,DL Chahar,0,0,,,,,,caught,PD Salt
+ball,2,4.5,Delhi Capitals,RR Rossouw,DA Warner,DL Chahar,0,0,,,,,,bowled,RR Rossouw
+ball,2,4.6,Delhi Capitals,YV Dhull,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,5.1,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,1,0,,,,,,"",""
+ball,2,5.2,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,0,0,,,,,,"",""
+ball,2,5.3,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,0,0,,,,,,"",""
+ball,2,5.4,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,0,0,,,,,,"",""
+ball,2,5.5,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,1,0,,,,,,"",""
+ball,2,5.6,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,6,0,,,,,,"",""
+ball,2,6.1,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,4,0,,,,,,"",""
+ball,2,6.2,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.3,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.4,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.5,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.6,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.1,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,1,0,,,,,,"",""
+ball,2,7.2,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,0,0,,,,,,"",""
+ball,2,7.3,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,1,0,,,,,,"",""
+ball,2,7.4,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,1,0,,,,,,"",""
+ball,2,7.5,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,0,0,,,,,,"",""
+ball,2,7.6,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,1,0,,,,,,"",""
+ball,2,8.1,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.2,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.3,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,6,0,,,,,,"",""
+ball,2,8.4,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,0,1,1,,,,,"",""
+ball,2,8.5,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,4,0,,,,,,"",""
+ball,2,8.6,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,0,0,,,,,,"",""
+ball,2,8.7,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.1,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,2,0,,,,,,"",""
+ball,2,9.2,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,4,0,,,,,,"",""
+ball,2,9.3,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,1,0,,,,,,"",""
+ball,2,9.4,Delhi Capitals,YV Dhull,DA Warner,M Theekshana,1,0,,,,,,"",""
+ball,2,9.5,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,2,0,,,,,,"",""
+ball,2,9.6,Delhi Capitals,DA Warner,YV Dhull,M Theekshana,1,0,,,,,,"",""
+ball,2,10.1,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.2,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.3,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.4,Delhi Capitals,DA Warner,YV Dhull,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.5,Delhi Capitals,YV Dhull,DA Warner,RA Jadeja,0,0,,,,,,caught,YV Dhull
+ball,2,10.6,Delhi Capitals,AR Patel,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.1,Delhi Capitals,AR Patel,DA Warner,M Pathirana,4,0,,,,,,"",""
+ball,2,11.2,Delhi Capitals,AR Patel,DA Warner,M Pathirana,0,1,1,,,,,"",""
+ball,2,11.3,Delhi Capitals,AR Patel,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,11.4,Delhi Capitals,DA Warner,AR Patel,M Pathirana,1,0,,,,,,"",""
+ball,2,11.5,Delhi Capitals,AR Patel,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,11.6,Delhi Capitals,DA Warner,AR Patel,M Pathirana,0,0,,,,,,"",""
+ball,2,11.7,Delhi Capitals,DA Warner,AR Patel,M Pathirana,0,0,,,,,,"",""
+ball,2,12.1,Delhi Capitals,AR Patel,DA Warner,RA Jadeja,6,0,,,,,,"",""
+ball,2,12.2,Delhi Capitals,AR Patel,DA Warner,RA Jadeja,1,0,,,,,,"",""
+ball,2,12.3,Delhi Capitals,DA Warner,AR Patel,RA Jadeja,4,0,,,,,,"",""
+ball,2,12.4,Delhi Capitals,DA Warner,AR Patel,RA Jadeja,6,0,,,,,,"",""
+ball,2,12.5,Delhi Capitals,DA Warner,AR Patel,RA Jadeja,6,0,,,,,,"",""
+ball,2,12.6,Delhi Capitals,DA Warner,AR Patel,RA Jadeja,0,0,,,,,,"",""
+ball,2,13.1,Delhi Capitals,AR Patel,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,2,13.2,Delhi Capitals,DA Warner,AR Patel,DL Chahar,1,0,,,,,,"",""
+ball,2,13.3,Delhi Capitals,AR Patel,DA Warner,DL Chahar,0,0,,,,,,caught,AR Patel
+ball,2,13.4,Delhi Capitals,Aman Hakim Khan,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,13.5,Delhi Capitals,Aman Hakim Khan,DA Warner,DL Chahar,0,0,,,,,,"",""
+ball,2,13.6,Delhi Capitals,Aman Hakim Khan,DA Warner,DL Chahar,1,0,,,,,,"",""
+ball,2,14.1,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,0,2,2,,,,,"",""
+ball,2,14.2,Delhi Capitals,DA Warner,Aman Hakim Khan,M Pathirana,0,0,,,,,,"",""
+ball,2,14.3,Delhi Capitals,DA Warner,Aman Hakim Khan,M Pathirana,1,0,,,,,,"",""
+ball,2,14.4,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,14.5,Delhi Capitals,DA Warner,Aman Hakim Khan,M Pathirana,1,0,,,,,,"",""
+ball,2,14.6,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,0,0,,,,,,"",""
+ball,2,14.7,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,0,1,1,,,,,"",""
+ball,2,14.8,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,0,0,,,,,,"",""
+ball,2,15.1,Delhi Capitals,DA Warner,Aman Hakim Khan,TU Deshpande,0,0,,,,,,"",""
+ball,2,15.2,Delhi Capitals,DA Warner,Aman Hakim Khan,TU Deshpande,0,1,1,,,,,"",""
+ball,2,15.3,Delhi Capitals,DA Warner,Aman Hakim Khan,TU Deshpande,1,0,,,,,,"",""
+ball,2,15.4,Delhi Capitals,Aman Hakim Khan,DA Warner,TU Deshpande,4,0,,,,,,"",""
+ball,2,15.5,Delhi Capitals,Aman Hakim Khan,DA Warner,TU Deshpande,1,0,,,,,,"",""
+ball,2,15.6,Delhi Capitals,DA Warner,Aman Hakim Khan,TU Deshpande,4,0,,,,,,"",""
+ball,2,15.7,Delhi Capitals,DA Warner,Aman Hakim Khan,TU Deshpande,4,0,,,,,,"",""
+ball,2,16.1,Delhi Capitals,Aman Hakim Khan,DA Warner,M Pathirana,0,0,,,,,,caught,Aman Hakim Khan
+ball,2,16.2,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,0,1,1,,,,,"",""
+ball,2,16.3,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,16.4,Delhi Capitals,DA Warner,Lalit Yadav,M Pathirana,1,0,,,,,,"",""
+ball,2,16.5,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,0,1,1,,,,,"",""
+ball,2,16.6,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,0,0,,,,,,"",""
+ball,2,16.7,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,16.8,Delhi Capitals,DA Warner,Lalit Yadav,M Pathirana,1,0,,,,,,"",""
+ball,2,17.1,Delhi Capitals,DA Warner,Lalit Yadav,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.2,Delhi Capitals,Lalit Yadav,DA Warner,TU Deshpande,0,1,,,,1,,"",""
+ball,2,17.3,Delhi Capitals,DA Warner,Lalit Yadav,TU Deshpande,0,0,,,,,,"",""
+ball,2,17.4,Delhi Capitals,DA Warner,Lalit Yadav,TU Deshpande,1,0,,,,,,"",""
+ball,2,17.5,Delhi Capitals,Lalit Yadav,DA Warner,TU Deshpande,2,0,,,,,,"",""
+ball,2,17.6,Delhi Capitals,Lalit Yadav,DA Warner,TU Deshpande,0,1,,,,1,,"",""
+ball,2,18.1,Delhi Capitals,Lalit Yadav,DA Warner,M Pathirana,1,0,,,,,,"",""
+ball,2,18.2,Delhi Capitals,DA Warner,Lalit Yadav,M Pathirana,0,0,,,,,,"",""
+ball,2,18.3,Delhi Capitals,DA Warner,Lalit Yadav,M Pathirana,0,0,,,,,,caught,DA Warner
+ball,2,18.4,Delhi Capitals,A Nortje,Lalit Yadav,M Pathirana,0,1,,,,1,,"",""
+ball,2,18.5,Delhi Capitals,Lalit Yadav,A Nortje,M Pathirana,0,0,,,,,,"",""
+ball,2,18.6,Delhi Capitals,Lalit Yadav,A Nortje,M Pathirana,1,0,,,,,,"",""
+ball,2,19.1,Delhi Capitals,Lalit Yadav,A Nortje,M Theekshana,0,0,,,,,,"",""
+ball,2,19.2,Delhi Capitals,Lalit Yadav,A Nortje,M Theekshana,0,0,,,,,,"",""
+ball,2,19.3,Delhi Capitals,Lalit Yadav,A Nortje,M Theekshana,0,0,,,,,,caught,Lalit Yadav
+ball,2,19.4,Delhi Capitals,Kuldeep Yadav,A Nortje,M Theekshana,0,0,,,,,,lbw,Kuldeep Yadav
+ball,2,19.5,Delhi Capitals,C Sakariya,A Nortje,M Theekshana,0,0,,,,,,"",""
+ball,2,19.6,Delhi Capitals,C Sakariya,A Nortje,M Theekshana,0,0,,,,,,"",""

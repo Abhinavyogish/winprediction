@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Mumbai Indians
+info,gender,male
+info,season,2025
+info,date,2025/04/04
+info,event,Indian Premier League
+info,match_number,16
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,DS Rathi
+info,umpire,Nitin Menon
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,HAS Khalid
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,Lucknow Super Giants
+info,winner_runs,12
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,DA Miller
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,SN Thakur
+info,player,Lucknow Super Giants,Akash Deep
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Mumbai Indians,V Puthur
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,RA Bawa
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,TA Boult
+info,player,Mumbai Indians,Ashwani Kumar
+info,registry,people,A Badoni,872b03f7
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,C Bosch,172dff15
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RA Bawa,ba6b2f91
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Puthur,1e030637
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,2,0,,,,,,"",""
+ball,1,0.2,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,0.3,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,4,0,,,,,,"",""
+ball,1,0.4,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,0.5,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,0.6,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,Lucknow Super Giants,AK Markram,MR Marsh,DL Chahar,4,0,,,,,,"",""
+ball,1,1.2,Lucknow Super Giants,AK Markram,MR Marsh,DL Chahar,1,0,,,,,,"",""
+ball,1,1.3,Lucknow Super Giants,MR Marsh,AK Markram,DL Chahar,0,0,,,,,,"",""
+ball,1,1.4,Lucknow Super Giants,MR Marsh,AK Markram,DL Chahar,0,1,1,,,,,"",""
+ball,1,1.5,Lucknow Super Giants,MR Marsh,AK Markram,DL Chahar,4,0,,,,,,"",""
+ball,1,1.6,Lucknow Super Giants,MR Marsh,AK Markram,DL Chahar,4,0,,,,,,"",""
+ball,1,1.7,Lucknow Super Giants,MR Marsh,AK Markram,DL Chahar,1,0,,,,,,"",""
+ball,1,2.1,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,2.2,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,6,0,,,,,,"",""
+ball,1,2.3,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,0,0,,,,,,"",""
+ball,1,2.4,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,4,0,,,,,,"",""
+ball,1,2.5,Lucknow Super Giants,MR Marsh,AK Markram,TA Boult,1,0,,,,,,"",""
+ball,1,2.6,Lucknow Super Giants,AK Markram,MR Marsh,TA Boult,0,0,,,,,,"",""
+ball,1,3.1,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,3.2,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,3.3,Lucknow Super Giants,AK Markram,MR Marsh,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,3.4,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,3.5,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,3.6,Lucknow Super Giants,AK Markram,MR Marsh,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,4.1,Lucknow Super Giants,MR Marsh,AK Markram,MJ Santner,0,0,,,,,,"",""
+ball,1,4.2,Lucknow Super Giants,MR Marsh,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,4.3,Lucknow Super Giants,AK Markram,MR Marsh,MJ Santner,1,0,,,,,,"",""
+ball,1,4.4,Lucknow Super Giants,MR Marsh,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,4.5,Lucknow Super Giants,MR Marsh,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,4.6,Lucknow Super Giants,MR Marsh,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,5.1,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,6,0,,,,,,"",""
+ball,1,5.2,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,5.3,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,2,0,,,,,,"",""
+ball,1,5.4,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,2,0,,,,,,"",""
+ball,1,5.5,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,0,1,1,,,,,"",""
+ball,1,5.6,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,5.7,Lucknow Super Giants,MR Marsh,AK Markram,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,6.1,Lucknow Super Giants,AK Markram,MR Marsh,V Puthur,0,0,,,,,,"",""
+ball,1,6.2,Lucknow Super Giants,AK Markram,MR Marsh,V Puthur,0,0,,,,,,"",""
+ball,1,6.3,Lucknow Super Giants,AK Markram,MR Marsh,V Puthur,0,0,,,,,,"",""
+ball,1,6.4,Lucknow Super Giants,AK Markram,MR Marsh,V Puthur,6,0,,,,,,"",""
+ball,1,6.5,Lucknow Super Giants,AK Markram,MR Marsh,V Puthur,1,0,,,,,,"",""
+ball,1,6.6,Lucknow Super Giants,MR Marsh,AK Markram,V Puthur,0,0,,,,,,caught and bowled,MR Marsh
+ball,1,7.1,Lucknow Super Giants,AK Markram,N Pooran,MJ Santner,0,0,,,,,,"",""
+ball,1,7.2,Lucknow Super Giants,AK Markram,N Pooran,MJ Santner,1,0,,,,,,"",""
+ball,1,7.3,Lucknow Super Giants,N Pooran,AK Markram,MJ Santner,0,0,,,,,,"",""
+ball,1,7.4,Lucknow Super Giants,N Pooran,AK Markram,MJ Santner,6,0,,,,,,"",""
+ball,1,7.5,Lucknow Super Giants,N Pooran,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,7.6,Lucknow Super Giants,N Pooran,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,8.1,Lucknow Super Giants,N Pooran,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,8.2,Lucknow Super Giants,AK Markram,N Pooran,HH Pandya,0,0,,,,,,"",""
+ball,1,8.3,Lucknow Super Giants,AK Markram,N Pooran,HH Pandya,0,0,,,,,,"",""
+ball,1,8.4,Lucknow Super Giants,AK Markram,N Pooran,HH Pandya,0,1,1,,,,,"",""
+ball,1,8.5,Lucknow Super Giants,AK Markram,N Pooran,HH Pandya,1,0,,,,,,"",""
+ball,1,8.6,Lucknow Super Giants,N Pooran,AK Markram,HH Pandya,0,0,,,,,,caught,N Pooran
+ball,1,8.7,Lucknow Super Giants,RR Pant,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,9.1,Lucknow Super Giants,RR Pant,AK Markram,V Puthur,0,0,,,,,,"",""
+ball,1,9.2,Lucknow Super Giants,RR Pant,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,9.3,Lucknow Super Giants,AK Markram,RR Pant,V Puthur,0,0,,,,,,"",""
+ball,1,9.4,Lucknow Super Giants,AK Markram,RR Pant,V Puthur,6,0,,,,,,"",""
+ball,1,9.5,Lucknow Super Giants,AK Markram,RR Pant,V Puthur,1,0,,,,,,"",""
+ball,1,9.6,Lucknow Super Giants,RR Pant,AK Markram,V Puthur,0,0,,,,,,"",""
+ball,1,10.1,Lucknow Super Giants,AK Markram,RR Pant,HH Pandya,6,0,,,,,,"",""
+ball,1,10.2,Lucknow Super Giants,AK Markram,RR Pant,HH Pandya,1,0,,,,,,"",""
+ball,1,10.3,Lucknow Super Giants,RR Pant,AK Markram,HH Pandya,0,0,,,,,,"",""
+ball,1,10.4,Lucknow Super Giants,RR Pant,AK Markram,HH Pandya,0,0,,,,,,caught,RR Pant
+ball,1,10.5,Lucknow Super Giants,A Badoni,AK Markram,HH Pandya,0,0,,,,,,"",""
+ball,1,10.6,Lucknow Super Giants,A Badoni,AK Markram,HH Pandya,0,1,1,,,,,"",""
+ball,1,10.7,Lucknow Super Giants,A Badoni,AK Markram,HH Pandya,0,0,,,,,,"",""
+ball,1,11.1,Lucknow Super Giants,AK Markram,A Badoni,MJ Santner,4,0,,,,,,"",""
+ball,1,11.2,Lucknow Super Giants,AK Markram,A Badoni,MJ Santner,1,0,,,,,,"",""
+ball,1,11.3,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,0,0,,,,,,"",""
+ball,1,11.4,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,0,0,,,,,,"",""
+ball,1,11.5,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,11.6,Lucknow Super Giants,AK Markram,A Badoni,MJ Santner,2,0,,,,,,"",""
+ball,1,12.1,Lucknow Super Giants,A Badoni,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,12.2,Lucknow Super Giants,AK Markram,A Badoni,V Puthur,1,0,,,,,,"",""
+ball,1,12.3,Lucknow Super Giants,A Badoni,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,12.4,Lucknow Super Giants,AK Markram,A Badoni,V Puthur,1,0,,,,,,"",""
+ball,1,12.5,Lucknow Super Giants,A Badoni,AK Markram,V Puthur,2,0,,,,,,"",""
+ball,1,12.6,Lucknow Super Giants,A Badoni,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,13.1,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,13.2,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,13.3,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,4,0,,,,,,"",""
+ball,1,13.4,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,13.5,Lucknow Super Giants,AK Markram,A Badoni,MJ Santner,1,0,,,,,,"",""
+ball,1,13.6,Lucknow Super Giants,A Badoni,AK Markram,MJ Santner,1,0,,,,,,"",""
+ball,1,14.1,Lucknow Super Giants,A Badoni,AK Markram,DL Chahar,1,0,,,,,,"",""
+ball,1,14.2,Lucknow Super Giants,AK Markram,A Badoni,DL Chahar,1,0,,,,,,"",""
+ball,1,14.3,Lucknow Super Giants,A Badoni,AK Markram,DL Chahar,2,0,,,,,,"",""
+ball,1,14.4,Lucknow Super Giants,A Badoni,AK Markram,DL Chahar,3,0,,,,,,"",""
+ball,1,14.5,Lucknow Super Giants,AK Markram,A Badoni,DL Chahar,0,0,,,,,,"",""
+ball,1,14.6,Lucknow Super Giants,AK Markram,A Badoni,DL Chahar,1,0,,,,,,"",""
+ball,1,15.1,Lucknow Super Giants,AK Markram,A Badoni,Ashwani Kumar,0,1,1,,,,,"",""
+ball,1,15.2,Lucknow Super Giants,AK Markram,A Badoni,Ashwani Kumar,6,0,,,,,,"",""
+ball,1,15.3,Lucknow Super Giants,AK Markram,A Badoni,Ashwani Kumar,0,0,,,,,,"",""
+ball,1,15.4,Lucknow Super Giants,AK Markram,A Badoni,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,15.5,Lucknow Super Giants,A Badoni,AK Markram,Ashwani Kumar,4,0,,,,,,"",""
+ball,1,15.6,Lucknow Super Giants,A Badoni,AK Markram,Ashwani Kumar,0,0,,,,,,caught,A Badoni
+ball,1,15.7,Lucknow Super Giants,DA Miller,AK Markram,Ashwani Kumar,1,0,,,,,,"",""
+ball,1,16.1,Lucknow Super Giants,DA Miller,AK Markram,V Puthur,4,0,,,,,,"",""
+ball,1,16.2,Lucknow Super Giants,DA Miller,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,16.3,Lucknow Super Giants,AK Markram,DA Miller,V Puthur,1,0,,,,,,"",""
+ball,1,16.4,Lucknow Super Giants,DA Miller,AK Markram,V Puthur,0,0,,,,,,"",""
+ball,1,16.5,Lucknow Super Giants,DA Miller,AK Markram,V Puthur,1,0,,,,,,"",""
+ball,1,16.6,Lucknow Super Giants,AK Markram,DA Miller,V Puthur,0,1,1,,,,,"",""
+ball,1,16.7,Lucknow Super Giants,AK Markram,DA Miller,V Puthur,1,0,,,,,,"",""
+ball,1,17.1,Lucknow Super Giants,AK Markram,DA Miller,HH Pandya,0,1,1,,,,,"",""
+ball,1,17.2,Lucknow Super Giants,AK Markram,DA Miller,HH Pandya,1,0,,,,,,"",""
+ball,1,17.3,Lucknow Super Giants,DA Miller,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,17.4,Lucknow Super Giants,AK Markram,DA Miller,HH Pandya,1,0,,,,,,"",""
+ball,1,17.5,Lucknow Super Giants,DA Miller,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,1,17.6,Lucknow Super Giants,AK Markram,DA Miller,HH Pandya,0,0,,,,,,caught,AK Markram
+ball,1,17.7,Lucknow Super Giants,Abdul Samad,DA Miller,HH Pandya,4,0,,,,,,"",""
+ball,1,18.1,Lucknow Super Giants,DA Miller,Abdul Samad,TA Boult,4,0,,,,,,"",""
+ball,1,18.2,Lucknow Super Giants,DA Miller,Abdul Samad,TA Boult,1,0,,,,,,"",""
+ball,1,18.3,Lucknow Super Giants,Abdul Samad,DA Miller,TA Boult,0,0,,,,,,caught,Abdul Samad
+ball,1,18.4,Lucknow Super Giants,SN Thakur,DA Miller,TA Boult,1,0,,,,,,"",""
+ball,1,18.5,Lucknow Super Giants,DA Miller,SN Thakur,TA Boult,1,0,,,,,,"",""
+ball,1,18.6,Lucknow Super Giants,SN Thakur,DA Miller,TA Boult,4,0,,,,,,"",""
+ball,1,19.1,Lucknow Super Giants,DA Miller,SN Thakur,HH Pandya,2,0,,,,,,"",""
+ball,1,19.2,Lucknow Super Giants,DA Miller,SN Thakur,HH Pandya,6,0,,,,,,"",""
+ball,1,19.3,Lucknow Super Giants,DA Miller,SN Thakur,HH Pandya,4,0,,,,,,"",""
+ball,1,19.4,Lucknow Super Giants,DA Miller,SN Thakur,HH Pandya,0,0,,,,,,caught,DA Miller
+ball,1,19.5,Lucknow Super Giants,Akash Deep,SN Thakur,HH Pandya,0,0,,,,,,caught,Akash Deep
+ball,1,19.6,Lucknow Super Giants,Avesh Khan,SN Thakur,HH Pandya,0,1,1,,,,,"",""
+ball,1,19.7,Lucknow Super Giants,Avesh Khan,SN Thakur,HH Pandya,2,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,WG Jacks,RD Rickelton,SN Thakur,2,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,WG Jacks,RD Rickelton,SN Thakur,1,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RD Rickelton,WG Jacks,SN Thakur,1,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,WG Jacks,RD Rickelton,SN Thakur,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,WG Jacks,RD Rickelton,SN Thakur,1,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,RD Rickelton,WG Jacks,SN Thakur,4,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,WG Jacks,RD Rickelton,Akash Deep,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,WG Jacks,RD Rickelton,Akash Deep,1,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,RD Rickelton,WG Jacks,Akash Deep,1,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,WG Jacks,RD Rickelton,Akash Deep,0,0,,,,,,caught,WG Jacks
+ball,2,1.5,Mumbai Indians,Naman Dhir,RD Rickelton,Akash Deep,2,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,Naman Dhir,RD Rickelton,Akash Deep,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,RD Rickelton,Naman Dhir,SN Thakur,4,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,RD Rickelton,Naman Dhir,SN Thakur,0,0,,,,,,caught,RD Rickelton
+ball,2,2.3,Mumbai Indians,SA Yadav,Naman Dhir,SN Thakur,1,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,Naman Dhir,SA Yadav,SN Thakur,6,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,Naman Dhir,SA Yadav,SN Thakur,1,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,SA Yadav,Naman Dhir,SN Thakur,0,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,6,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,6,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,4,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,4,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,1,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,SA Yadav,Naman Dhir,Akash Deep,0,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Naman Dhir,SA Yadav,Avesh Khan,1,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,SA Yadav,Naman Dhir,Avesh Khan,0,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,SA Yadav,Naman Dhir,Avesh Khan,0,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,SA Yadav,Naman Dhir,Avesh Khan,1,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,Naman Dhir,SA Yadav,Avesh Khan,1,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,SA Yadav,Naman Dhir,Avesh Khan,6,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Naman Dhir,SA Yadav,DS Rathi,0,4,,,,4,,"",""
+ball,2,5.2,Mumbai Indians,Naman Dhir,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,SA Yadav,Naman Dhir,DS Rathi,1,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,Naman Dhir,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,SA Yadav,Naman Dhir,DS Rathi,1,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,Naman Dhir,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,0,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,4,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,Naman Dhir,SA Yadav,Akash Deep,1,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,SA Yadav,Naman Dhir,Akash Deep,4,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,SA Yadav,Naman Dhir,Akash Deep,2,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,Naman Dhir,SA Yadav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Naman Dhir,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,SA Yadav,Naman Dhir,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,SA Yadav,Naman Dhir,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Naman Dhir,SA Yadav,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Naman Dhir,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,Naman Dhir,SA Yadav,DS Rathi,0,0,,,,,,bowled,Naman Dhir
+ball,2,8.2,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,0,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,SA Yadav,Tilak Varma,DS Rathi,0,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,SA Yadav,Tilak Varma,DS Rathi,1,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,0,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,4,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,4,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,1,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,Tilak Varma,SA Yadav,Avesh Khan,1,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,0,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,0,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,0,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,0,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,Tilak Varma,SA Yadav,DS Rathi,1,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,SA Yadav,Tilak Varma,DS Rathi,0,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,SA Yadav,Tilak Varma,DS Rathi,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,SA Yadav,Tilak Varma,SN Thakur,1,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,Tilak Varma,SA Yadav,SN Thakur,1,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,SA Yadav,Tilak Varma,SN Thakur,0,1,1,,,,,"",""
+ball,2,12.4,Mumbai Indians,SA Yadav,Tilak Varma,SN Thakur,1,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,Tilak Varma,SA Yadav,SN Thakur,0,1,1,,,,,"",""
+ball,2,12.6,Mumbai Indians,Tilak Varma,SA Yadav,SN Thakur,1,0,,,,,,"",""
+ball,2,12.7,Mumbai Indians,SA Yadav,Tilak Varma,SN Thakur,4,0,,,,,,"",""
+ball,2,12.8,Mumbai Indians,SA Yadav,Tilak Varma,SN Thakur,2,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,0,1,1,,,,,"",""
+ball,2,14.2,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,1,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,Tilak Varma,SA Yadav,Akash Deep,1,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,4,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,2,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,0,0,,,,,,"",""
+ball,2,14.7,Mumbai Indians,SA Yadav,Tilak Varma,Akash Deep,1,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,Tilak Varma,SA Yadav,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.4,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,15.6,Mumbai Indians,SA Yadav,Tilak Varma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,16.1,Mumbai Indians,SA Yadav,Tilak Varma,Avesh Khan,0,0,,,,,,caught,SA Yadav
+ball,2,16.2,Mumbai Indians,HH Pandya,Tilak Varma,Avesh Khan,4,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,HH Pandya,Tilak Varma,Avesh Khan,1,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,Tilak Varma,HH Pandya,Avesh Khan,0,1,1,,,,,"",""
+ball,2,16.5,Mumbai Indians,Tilak Varma,HH Pandya,Avesh Khan,1,0,,,,,,"",""
+ball,2,16.6,Mumbai Indians,HH Pandya,Tilak Varma,Avesh Khan,1,0,,,,,,"",""
+ball,2,16.7,Mumbai Indians,Tilak Varma,HH Pandya,Avesh Khan,4,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,HH Pandya,Tilak Varma,DS Rathi,1,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,Tilak Varma,HH Pandya,DS Rathi,1,0,,,,,,"",""
+ball,2,17.3,Mumbai Indians,HH Pandya,Tilak Varma,DS Rathi,2,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,HH Pandya,Tilak Varma,DS Rathi,2,0,,,,,,"",""
+ball,2,17.5,Mumbai Indians,HH Pandya,Tilak Varma,DS Rathi,4,0,,,,,,"",""
+ball,2,17.6,Mumbai Indians,HH Pandya,Tilak Varma,DS Rathi,1,0,,,,,,"",""
+ball,2,18.1,Mumbai Indians,HH Pandya,Tilak Varma,SN Thakur,1,0,,,,,,"",""
+ball,2,18.2,Mumbai Indians,Tilak Varma,HH Pandya,SN Thakur,1,0,,,,,,"",""
+ball,2,18.3,Mumbai Indians,HH Pandya,Tilak Varma,SN Thakur,1,0,,,,,,"",""
+ball,2,18.4,Mumbai Indians,Tilak Varma,HH Pandya,SN Thakur,1,0,,,,,,"",""
+ball,2,18.5,Mumbai Indians,HH Pandya,Tilak Varma,SN Thakur,1,0,,,,,,retired out,Tilak Varma
+ball,2,18.6,Mumbai Indians,MJ Santner,HH Pandya,SN Thakur,2,0,,,,,,"",""
+ball,2,19.1,Mumbai Indians,HH Pandya,MJ Santner,Avesh Khan,6,0,,,,,,"",""
+ball,2,19.2,Mumbai Indians,HH Pandya,MJ Santner,Avesh Khan,2,0,,,,,,"",""
+ball,2,19.3,Mumbai Indians,HH Pandya,MJ Santner,Avesh Khan,0,0,,,,,,"",""
+ball,2,19.4,Mumbai Indians,HH Pandya,MJ Santner,Avesh Khan,0,0,,,,,,"",""
+ball,2,19.5,Mumbai Indians,HH Pandya,MJ Santner,Avesh Khan,1,0,,,,,,"",""
+ball,2,19.6,Mumbai Indians,MJ Santner,HH Pandya,Avesh Khan,0,0,,,,,,"",""

@@ -1,0 +1,298 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Royal Challengers Bengaluru
+info,team,Mumbai Indians
+info,gender,male
+info,season,2024
+info,date,2024/04/11
+info,event,Indian Premier League
+info,match_number,25
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,JJ Bumrah
+info,umpire,Nitin Menon
+info,umpire,VA Kulkarni
+info,reserve_umpire,M Kuppuraj
+info,tv_umpire,VK Sharma
+info,match_referee,J Srinath
+info,winner,Mumbai Indians
+info,winner_wickets,7
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,F du Plessis
+info,player,Royal Challengers Bengaluru,WG Jacks
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,GJ Maxwell
+info,player,Royal Challengers Bengaluru,KD Karthik
+info,player,Royal Challengers Bengaluru,MK Lomror
+info,player,Royal Challengers Bengaluru,Saurav Chauhan
+info,player,Royal Challengers Bengaluru,Vijaykumar Vyshak
+info,player,Royal Challengers Bengaluru,Akash Deep
+info,player,Royal Challengers Bengaluru,RJW Topley
+info,player,Royal Challengers Bengaluru,Mohammed Siraj
+info,player,Mumbai Indians,Akash Madhwal
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,Mohammad Nabi
+info,player,Mumbai Indians,R Shepherd
+info,player,Mumbai Indians,S Gopal
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,G Coetzee
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Akash Madhwal,4bd09374
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Kuppuraj,aa4063d0
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Saurav Chauhan,9e7225b0
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VA Kulkarni,8fe0c4f8
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,0.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,0.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,0.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,0.5,Royal Challengers Bengaluru,V Kohli,F du Plessis,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,0.6,Royal Challengers Bengaluru,F du Plessis,V Kohli,Mohammad Nabi,4,0,,,,,,"",""
+ball,1,1.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,1.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,1.3,Royal Challengers Bengaluru,V Kohli,F du Plessis,G Coetzee,1,0,,,,,,"",""
+ball,1,1.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,G Coetzee,0,0,,,,,,"",""
+ball,1,1.5,Royal Challengers Bengaluru,F du Plessis,V Kohli,G Coetzee,0,0,,,,,,"",""
+ball,1,1.6,Royal Challengers Bengaluru,F du Plessis,V Kohli,G Coetzee,6,0,,,,,,"",""
+ball,1,2.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.3,Royal Challengers Bengaluru,V Kohli,F du Plessis,JJ Bumrah,0,0,,,,,,caught,V Kohli
+ball,1,2.4,Royal Challengers Bengaluru,WG Jacks,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.5,Royal Challengers Bengaluru,WG Jacks,F du Plessis,JJ Bumrah,4,0,,,,,,"",""
+ball,1,2.6,Royal Challengers Bengaluru,WG Jacks,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.1,Royal Challengers Bengaluru,F du Plessis,WG Jacks,Akash Madhwal,1,0,,,,,,"",""
+ball,1,3.2,Royal Challengers Bengaluru,WG Jacks,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,3.3,Royal Challengers Bengaluru,WG Jacks,F du Plessis,Akash Madhwal,0,0,,,,,,"",""
+ball,1,3.4,Royal Challengers Bengaluru,WG Jacks,F du Plessis,Akash Madhwal,0,0,,,,,,caught,WG Jacks
+ball,1,3.5,Royal Challengers Bengaluru,RM Patidar,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,3.6,Royal Challengers Bengaluru,RM Patidar,F du Plessis,Akash Madhwal,1,0,,,,,,"",""
+ball,1,4.1,Royal Challengers Bengaluru,RM Patidar,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,4.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,G Coetzee,1,0,,,,,,"",""
+ball,1,4.3,Royal Challengers Bengaluru,F du Plessis,RM Patidar,G Coetzee,0,0,,,,,,"",""
+ball,1,4.4,Royal Challengers Bengaluru,F du Plessis,RM Patidar,G Coetzee,0,0,,,,,,"",""
+ball,1,4.5,Royal Challengers Bengaluru,F du Plessis,RM Patidar,G Coetzee,6,0,,,,,,"",""
+ball,1,4.6,Royal Challengers Bengaluru,F du Plessis,RM Patidar,G Coetzee,0,0,,,,,,"",""
+ball,1,5.1,Royal Challengers Bengaluru,RM Patidar,F du Plessis,Akash Madhwal,0,0,,,,,,"",""
+ball,1,5.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,5.3,Royal Challengers Bengaluru,RM Patidar,F du Plessis,Akash Madhwal,1,0,,,,,,"",""
+ball,1,5.4,Royal Challengers Bengaluru,F du Plessis,RM Patidar,Akash Madhwal,0,0,,,,,,"",""
+ball,1,5.5,Royal Challengers Bengaluru,F du Plessis,RM Patidar,Akash Madhwal,0,0,,,,,,"",""
+ball,1,5.6,Royal Challengers Bengaluru,F du Plessis,RM Patidar,Akash Madhwal,4,0,,,,,,"",""
+ball,1,6.1,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,1,0,,,,,,"",""
+ball,1,6.2,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,3,0,,,,,,"",""
+ball,1,6.3,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,1,0,,,,,,"",""
+ball,1,6.4,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,2,0,,,,,,"",""
+ball,1,6.5,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,2,0,,,,,,"",""
+ball,1,6.6,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,1,0,,,,,,"",""
+ball,1,7.1,Royal Challengers Bengaluru,F du Plessis,RM Patidar,R Shepherd,1,0,,,,,,"",""
+ball,1,7.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,R Shepherd,0,1,,,,1,,"",""
+ball,1,7.3,Royal Challengers Bengaluru,F du Plessis,RM Patidar,R Shepherd,4,0,,,,,,"",""
+ball,1,7.4,Royal Challengers Bengaluru,F du Plessis,RM Patidar,R Shepherd,1,0,,,,,,"",""
+ball,1,7.5,Royal Challengers Bengaluru,RM Patidar,F du Plessis,R Shepherd,2,0,,,,,,"",""
+ball,1,7.6,Royal Challengers Bengaluru,RM Patidar,F du Plessis,R Shepherd,4,0,,,,,,"",""
+ball,1,8.1,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,1,0,,,,,,"",""
+ball,1,8.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,8.3,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,8.4,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,6,0,,,,,,"",""
+ball,1,8.5,Royal Challengers Bengaluru,RM Patidar,F du Plessis,S Gopal,1,0,,,,,,"",""
+ball,1,8.6,Royal Challengers Bengaluru,F du Plessis,RM Patidar,S Gopal,1,0,,,,,,"",""
+ball,1,9.1,Royal Challengers Bengaluru,F du Plessis,RM Patidar,HH Pandya,0,0,,,,,,"",""
+ball,1,9.2,Royal Challengers Bengaluru,F du Plessis,RM Patidar,HH Pandya,0,0,,,,,,"",""
+ball,1,9.3,Royal Challengers Bengaluru,F du Plessis,RM Patidar,HH Pandya,1,0,,,,,,"",""
+ball,1,9.4,Royal Challengers Bengaluru,RM Patidar,F du Plessis,HH Pandya,2,0,,,,,,"",""
+ball,1,9.5,Royal Challengers Bengaluru,RM Patidar,F du Plessis,HH Pandya,6,0,,,,,,"",""
+ball,1,9.6,Royal Challengers Bengaluru,RM Patidar,F du Plessis,HH Pandya,0,1,1,,,,,"",""
+ball,1,9.7,Royal Challengers Bengaluru,RM Patidar,F du Plessis,HH Pandya,0,1,1,,,,,"",""
+ball,1,9.8,Royal Challengers Bengaluru,RM Patidar,F du Plessis,HH Pandya,2,0,,,,,,"",""
+ball,1,10.1,Royal Challengers Bengaluru,F du Plessis,RM Patidar,JJ Bumrah,1,0,,,,,,"",""
+ball,1,10.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,10.3,Royal Challengers Bengaluru,RM Patidar,F du Plessis,JJ Bumrah,1,0,,,,,,"",""
+ball,1,10.4,Royal Challengers Bengaluru,F du Plessis,RM Patidar,JJ Bumrah,1,0,,,,,,"",""
+ball,1,10.5,Royal Challengers Bengaluru,RM Patidar,F du Plessis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,10.6,Royal Challengers Bengaluru,RM Patidar,F du Plessis,JJ Bumrah,1,0,,,,,,"",""
+ball,1,11.1,Royal Challengers Bengaluru,RM Patidar,F du Plessis,G Coetzee,6,0,,,,,,"",""
+ball,1,11.2,Royal Challengers Bengaluru,RM Patidar,F du Plessis,G Coetzee,6,0,,,,,,"",""
+ball,1,11.3,Royal Challengers Bengaluru,RM Patidar,F du Plessis,G Coetzee,0,0,,,,,,caught,RM Patidar
+ball,1,11.4,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,11.5,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,G Coetzee,0,1,1,,,,,"",""
+ball,1,11.6,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,G Coetzee,0,1,1,,,,,"",""
+ball,1,11.7,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,11.8,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,G Coetzee,0,0,,,,,,"",""
+ball,1,12.1,Royal Challengers Bengaluru,F du Plessis,GJ Maxwell,S Gopal,1,0,,,,,,"",""
+ball,1,12.2,Royal Challengers Bengaluru,GJ Maxwell,F du Plessis,S Gopal,0,0,,,,,,lbw,GJ Maxwell
+ball,1,12.3,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,12.4,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,12.5,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,1,0,,,,,,"",""
+ball,1,12.6,Royal Challengers Bengaluru,F du Plessis,KD Karthik,S Gopal,2,0,,,,,,"",""
+ball,1,13.1,Royal Challengers Bengaluru,KD Karthik,F du Plessis,R Shepherd,1,0,,,,,,"",""
+ball,1,13.2,Royal Challengers Bengaluru,F du Plessis,KD Karthik,R Shepherd,1,0,,,,,,"",""
+ball,1,13.3,Royal Challengers Bengaluru,KD Karthik,F du Plessis,R Shepherd,1,0,,,,,,"",""
+ball,1,13.4,Royal Challengers Bengaluru,F du Plessis,KD Karthik,R Shepherd,4,0,,,,,,"",""
+ball,1,13.5,Royal Challengers Bengaluru,F du Plessis,KD Karthik,R Shepherd,1,0,,,,,,"",""
+ball,1,13.6,Royal Challengers Bengaluru,KD Karthik,F du Plessis,R Shepherd,2,0,,,,,,"",""
+ball,1,14.1,Royal Challengers Bengaluru,F du Plessis,KD Karthik,S Gopal,1,0,,,,,,"",""
+ball,1,14.2,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,1,0,,,,,,"",""
+ball,1,14.3,Royal Challengers Bengaluru,F du Plessis,KD Karthik,S Gopal,6,0,,,,,,"",""
+ball,1,14.4,Royal Challengers Bengaluru,F du Plessis,KD Karthik,S Gopal,1,0,,,,,,"",""
+ball,1,14.5,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,14.6,Royal Challengers Bengaluru,KD Karthik,F du Plessis,S Gopal,0,0,,,,,,"",""
+ball,1,15.1,Royal Challengers Bengaluru,F du Plessis,KD Karthik,Akash Madhwal,0,1,1,,,,,"",""
+ball,1,15.2,Royal Challengers Bengaluru,F du Plessis,KD Karthik,Akash Madhwal,1,0,,,,,,"",""
+ball,1,15.3,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,15.4,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,0,0,,,,,,"",""
+ball,1,15.5,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,15.6,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,15.7,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,0,1,1,,,,,"",""
+ball,1,15.8,Royal Challengers Bengaluru,KD Karthik,F du Plessis,Akash Madhwal,4,0,,,,,,"",""
+ball,1,16.1,Royal Challengers Bengaluru,F du Plessis,KD Karthik,JJ Bumrah,2,0,,,,,,"",""
+ball,1,16.2,Royal Challengers Bengaluru,F du Plessis,KD Karthik,JJ Bumrah,0,1,,,1,,,"",""
+ball,1,16.3,Royal Challengers Bengaluru,KD Karthik,F du Plessis,JJ Bumrah,1,0,,,,,,"",""
+ball,1,16.4,Royal Challengers Bengaluru,F du Plessis,KD Karthik,JJ Bumrah,0,0,,,,,,caught,F du Plessis
+ball,1,16.5,Royal Challengers Bengaluru,MK Lomror,KD Karthik,JJ Bumrah,0,0,,,,,,lbw,MK Lomror
+ball,1,16.6,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,JJ Bumrah,1,0,,,,,,"",""
+ball,1,17.1,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,G Coetzee,0,0,,,,,,"",""
+ball,1,17.2,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,G Coetzee,4,0,,,,,,"",""
+ball,1,17.3,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,G Coetzee,0,1,1,,,,,"",""
+ball,1,17.4,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,G Coetzee,1,0,,,,,,"",""
+ball,1,17.5,Royal Challengers Bengaluru,KD Karthik,Saurav Chauhan,G Coetzee,1,0,,,,,,"",""
+ball,1,17.6,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,G Coetzee,1,0,,,,,,"",""
+ball,1,17.7,Royal Challengers Bengaluru,KD Karthik,Saurav Chauhan,G Coetzee,6,0,,,,,,"",""
+ball,1,18.1,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.2,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,JJ Bumrah,2,0,,,,,,"",""
+ball,1,18.3,Royal Challengers Bengaluru,Saurav Chauhan,KD Karthik,JJ Bumrah,0,0,,,,,,caught,Saurav Chauhan
+ball,1,18.4,Royal Challengers Bengaluru,Vijaykumar Vyshak,KD Karthik,JJ Bumrah,0,0,,,,,,caught,Vijaykumar Vyshak
+ball,1,18.5,Royal Challengers Bengaluru,Akash Deep,KD Karthik,JJ Bumrah,1,0,,,,,,"",""
+ball,1,18.6,Royal Challengers Bengaluru,KD Karthik,Akash Deep,JJ Bumrah,6,0,,,,,,"",""
+ball,1,19.1,Royal Challengers Bengaluru,Akash Deep,KD Karthik,Akash Madhwal,1,0,,,,,,"",""
+ball,1,19.2,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,0,0,,,,,,"",""
+ball,1,19.3,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,0,1,1,,,,,"",""
+ball,1,19.4,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,6,0,,,,,,"",""
+ball,1,19.5,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,6,0,,,,,,"",""
+ball,1,19.6,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,4,0,,,,,,"",""
+ball,1,19.7,Royal Challengers Bengaluru,KD Karthik,Akash Deep,Akash Madhwal,1,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,1,1,,,,,"",""
+ball,2,0.3,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,1,0,,,,,,"",""
+ball,2,0.7,Mumbai Indians,RG Sharma,Ishan Kishan,RJW Topley,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,6,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,4,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,4,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,4,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,1,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,RG Sharma,Ishan Kishan,RJW Topley,1,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,Ishan Kishan,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,1,1,,,,,"",""
+ball,2,3.5,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,1,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,1,0,,,,,,"",""
+ball,2,3.7,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,6,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,6,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,6,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,6,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Ishan Kishan,RG Sharma,GJ Maxwell,4,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,Ishan Kishan,RG Sharma,GJ Maxwell,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,RG Sharma,Ishan Kishan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,Ishan Kishan,RG Sharma,GJ Maxwell,6,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,Ishan Kishan,RG Sharma,GJ Maxwell,4,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,Ishan Kishan,RG Sharma,GJ Maxwell,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Ishan Kishan,RG Sharma,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,RG Sharma,Ishan Kishan,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,RG Sharma,Ishan Kishan,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,RG Sharma,Ishan Kishan,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,RG Sharma,Ishan Kishan,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,RG Sharma,Ishan Kishan,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,RG Sharma,Ishan Kishan,WG Jacks,1,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Ishan Kishan,RG Sharma,WG Jacks,1,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,RG Sharma,Ishan Kishan,WG Jacks,1,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,Ishan Kishan,RG Sharma,WG Jacks,0,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Ishan Kishan,RG Sharma,WG Jacks,4,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Ishan Kishan,RG Sharma,WG Jacks,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,0,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,6,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,1,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,0,1,1,,,,,"",""
+ball,2,8.5,Mumbai Indians,RG Sharma,Ishan Kishan,Akash Deep,1,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,Ishan Kishan,RG Sharma,Akash Deep,0,0,,,,,,caught,Ishan Kishan
+ball,2,8.7,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,2,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,RG Sharma,SA Yadav,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,RG Sharma,SA Yadav,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,RG Sharma,SA Yadav,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,SA Yadav,RG Sharma,Vijaykumar Vyshak,2,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,SA Yadav,RG Sharma,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,SA Yadav,RG Sharma,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,4,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,0,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,6,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,2,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,6,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,SA Yadav,RG Sharma,Akash Deep,6,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,RG Sharma,SA Yadav,WG Jacks,4,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,RG Sharma,SA Yadav,WG Jacks,0,0,,,,,,caught,RG Sharma
+ball,2,11.3,Mumbai Indians,HH Pandya,SA Yadav,WG Jacks,6,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,HH Pandya,SA Yadav,WG Jacks,1,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,SA Yadav,HH Pandya,WG Jacks,4,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,SA Yadav,HH Pandya,WG Jacks,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,4,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,0,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,6,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,4,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,4,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,SA Yadav,HH Pandya,RJW Topley,0,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,HH Pandya,SA Yadav,Vijaykumar Vyshak,6,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,HH Pandya,SA Yadav,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,SA Yadav,HH Pandya,Vijaykumar Vyshak,0,0,,,,,,caught,SA Yadav
+ball,2,13.4,Mumbai Indians,Tilak Varma,HH Pandya,Vijaykumar Vyshak,4,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,Tilak Varma,HH Pandya,Vijaykumar Vyshak,0,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,Tilak Varma,HH Pandya,Vijaykumar Vyshak,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,Tilak Varma,HH Pandya,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,HH Pandya,Tilak Varma,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,Tilak Varma,HH Pandya,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,Tilak Varma,HH Pandya,Mohammed Siraj,4,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,Tilak Varma,HH Pandya,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,Tilak Varma,HH Pandya,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,Tilak Varma,HH Pandya,Akash Deep,4,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,Tilak Varma,HH Pandya,Akash Deep,1,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,HH Pandya,Tilak Varma,Akash Deep,6,0,,,,,,"",""

@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Kings XI Punjab
+info,gender,male
+info,season,2020/21
+info,date,2020/10/10
+info,event,Indian Premier League
+info,match_number,24
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,bat
+info,player_of_match,KD Karthik
+info,umpire,UV Gandhe
+info,umpire,CB Gaffaney
+info,reserve_umpire,PG Pathak
+info,tv_umpire,VK Sharma
+info,match_referee,M Nayyar
+info,winner,Kolkata Knight Riders
+info,winner_runs,2
+info,player,Kolkata Knight Riders,RA Tripathi
+info,player,Kolkata Knight Riders,Shubman Gill
+info,player,Kolkata Knight Riders,N Rana
+info,player,Kolkata Knight Riders,EJG Morgan
+info,player,Kolkata Knight Riders,KD Karthik
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,PJ Cummins
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,KL Nagarkoti
+info,player,Kolkata Knight Riders,M Prasidh Krishna
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kings XI Punjab,KL Rahul
+info,player,Kings XI Punjab,MA Agarwal
+info,player,Kings XI Punjab,N Pooran
+info,player,Kings XI Punjab,P Simran Singh
+info,player,Kings XI Punjab,GJ Maxwell
+info,player,Kings XI Punjab,Mandeep Singh
+info,player,Kings XI Punjab,CJ Jordan
+info,player,Kings XI Punjab,Ravi Bishnoi
+info,player,Kings XI Punjab,Mohammed Shami
+info,player,Kings XI Punjab,Arshdeep Singh
+info,player,Kings XI Punjab,Mujeeb Ur Rahman
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,VK Sharma,a7a49df4
+ball,1,0.1,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mohammed Shami,0,1,,,,1,,"",""
+ball,1,0.2,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.3,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,2,0,,,,,,"",""
+ball,1,0.4,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,4,0,,,,,,"",""
+ball,1,0.5,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,0,0,,,,,,"",""
+ball,1,0.6,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,0,0,,,,,,"",""
+ball,1,1.1,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.2,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.3,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.4,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.5,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.6,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,2.1,Kolkata Knight Riders,Shubman Gill,RA Tripathi,Mohammed Shami,1,0,,,,,,"",""
+ball,1,2.2,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.3,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mohammed Shami,4,0,,,,,,"",""
+ball,1,2.4,Kolkata Knight Riders,RA Tripathi,Shubman Gill,Mohammed Shami,0,0,,,,,,bowled,RA Tripathi
+ball,1,2.5,Kolkata Knight Riders,N Rana,Shubman Gill,Mohammed Shami,0,0,,,,,,"",""
+ball,1,2.6,Kolkata Knight Riders,N Rana,Shubman Gill,Mohammed Shami,1,0,,,,,,"",""
+ball,1,3.1,Kolkata Knight Riders,N Rana,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,3.2,Kolkata Knight Riders,N Rana,Shubman Gill,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,3.3,Kolkata Knight Riders,Shubman Gill,N Rana,Arshdeep Singh,0,0,,,,,,run out,N Rana
+ball,1,3.4,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,3.5,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,3.6,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,4.1,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.2,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.3,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.4,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.5,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,4,0,,,,,,"",""
+ball,1,4.6,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.1,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.2,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.3,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mohammed Shami,4,0,,,,,,"",""
+ball,1,5.4,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.5,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mohammed Shami,1,0,,,,,,"",""
+ball,1,5.6,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mohammed Shami,1,0,,,,,,"",""
+ball,1,6.1,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,6.2,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,6.3,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,6.4,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,0,3,3,,,,,"",""
+ball,1,6.5,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,6.6,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,6.7,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,7.1,Kolkata Knight Riders,EJG Morgan,Shubman Gill,CJ Jordan,2,0,,,,,,"",""
+ball,1,7.2,Kolkata Knight Riders,EJG Morgan,Shubman Gill,CJ Jordan,0,0,,,,,,"",""
+ball,1,7.3,Kolkata Knight Riders,EJG Morgan,Shubman Gill,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.4,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.5,Kolkata Knight Riders,EJG Morgan,Shubman Gill,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.6,Kolkata Knight Riders,Shubman Gill,EJG Morgan,CJ Jordan,2,0,,,,,,"",""
+ball,1,8.1,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,8.2,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,8.3,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,8.4,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.5,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,8.6,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,9.1,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.2,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,9.3,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.4,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.5,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.6,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.1,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.2,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.3,Kolkata Knight Riders,Shubman Gill,EJG Morgan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.4,Kolkata Knight Riders,EJG Morgan,Shubman Gill,Ravi Bishnoi,0,0,,,,,,caught,EJG Morgan
+ball,1,10.5,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.6,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.1,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.2,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,11.3,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.4,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.5,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.6,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,12.1,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.2,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.3,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.4,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,12.5,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.6,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,13.1,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.2,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,13.3,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,13.4,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.5,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,13.6,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,14.1,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,14.2,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.3,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,14.4,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,14.5,Kolkata Knight Riders,Shubman Gill,KD Karthik,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.6,Kolkata Knight Riders,KD Karthik,Shubman Gill,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.1,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,15.2,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,15.3,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,15.4,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,15.5,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,15.6,Kolkata Knight Riders,KD Karthik,Shubman Gill,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,16.1,Kolkata Knight Riders,Shubman Gill,KD Karthik,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.2,Kolkata Knight Riders,KD Karthik,Shubman Gill,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.3,Kolkata Knight Riders,KD Karthik,Shubman Gill,CJ Jordan,6,0,,,,,,"",""
+ball,1,16.4,Kolkata Knight Riders,KD Karthik,Shubman Gill,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.5,Kolkata Knight Riders,KD Karthik,Shubman Gill,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.6,Kolkata Knight Riders,Shubman Gill,KD Karthik,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.1,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mohammed Shami,2,0,,,,,,"",""
+ball,1,17.2,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mohammed Shami,4,0,,,,,,"",""
+ball,1,17.3,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mohammed Shami,4,0,,,,,,"",""
+ball,1,17.4,Kolkata Knight Riders,KD Karthik,Shubman Gill,Mohammed Shami,0,1,,,1,,,"",""
+ball,1,17.5,Kolkata Knight Riders,Shubman Gill,KD Karthik,Mohammed Shami,1,0,,,,,,run out,Shubman Gill
+ball,1,17.6,Kolkata Knight Riders,AD Russell,KD Karthik,Mohammed Shami,1,0,,,,,,"",""
+ball,1,18.1,Kolkata Knight Riders,AD Russell,KD Karthik,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,18.2,Kolkata Knight Riders,AD Russell,KD Karthik,Arshdeep Singh,0,0,,,,,,caught,AD Russell
+ball,1,18.3,Kolkata Knight Riders,PJ Cummins,KD Karthik,Arshdeep Singh,0,1,1,,,,,"",""
+ball,1,18.4,Kolkata Knight Riders,PJ Cummins,KD Karthik,Arshdeep Singh,0,1,1,,,,,"",""
+ball,1,18.5,Kolkata Knight Riders,PJ Cummins,KD Karthik,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,18.6,Kolkata Knight Riders,PJ Cummins,KD Karthik,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,18.7,Kolkata Knight Riders,KD Karthik,PJ Cummins,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,18.8,Kolkata Knight Riders,KD Karthik,PJ Cummins,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,19.1,Kolkata Knight Riders,PJ Cummins,KD Karthik,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.2,Kolkata Knight Riders,KD Karthik,PJ Cummins,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.3,Kolkata Knight Riders,KD Karthik,PJ Cummins,CJ Jordan,0,1,,,,1,,"",""
+ball,1,19.4,Kolkata Knight Riders,PJ Cummins,KD Karthik,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.5,Kolkata Knight Riders,KD Karthik,PJ Cummins,CJ Jordan,0,1,1,,,,,"",""
+ball,1,19.6,Kolkata Knight Riders,KD Karthik,PJ Cummins,CJ Jordan,0,0,,,,,,"",""
+ball,1,19.7,Kolkata Knight Riders,KD Karthik,PJ Cummins,CJ Jordan,1,0,,,,,,run out,KD Karthik
+ball,2,0.1,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,0,0,,,,,,"",""
+ball,2,0.2,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,0.3,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,0.4,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,0,0,,,,,,"",""
+ball,2,0.5,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,0,0,,,,,,"",""
+ball,2,0.6,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,1.1,Kings XI Punjab,KL Rahul,MA Agarwal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.2,Kings XI Punjab,KL Rahul,MA Agarwal,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,1.3,Kings XI Punjab,KL Rahul,MA Agarwal,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.4,Kings XI Punjab,KL Rahul,MA Agarwal,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,1.5,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.6,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,2.1,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,2.2,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,2.3,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,2,0,,,,,,"",""
+ball,2,2.4,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,2.5,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,2,2.6,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,3.1,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,3.2,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,3.3,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,3.4,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,3.5,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,3.6,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,4.1,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,0,0,,,,,,"",""
+ball,2,4.2,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,4.3,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,4.4,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,0,0,,,,,,"",""
+ball,2,4.5,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,4,0,,,,,,"",""
+ball,2,4.6,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,2,0,,,,,,"",""
+ball,2,5.1,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,5.2,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,3,0,,,,,,"",""
+ball,2,5.3,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,5.4,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,4,0,,,,,,"",""
+ball,2,5.5,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,5.6,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,6.1,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,6.2,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,6.3,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,6.4,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,2,0,,,,,,"",""
+ball,2,6.5,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,6.6,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,7.1,Kings XI Punjab,MA Agarwal,KL Rahul,SP Narine,1,0,,,,,,"",""
+ball,2,7.2,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,1,0,,,,,,"",""
+ball,2,7.3,Kings XI Punjab,MA Agarwal,KL Rahul,SP Narine,4,0,,,,,,"",""
+ball,2,7.4,Kings XI Punjab,MA Agarwal,KL Rahul,SP Narine,1,0,,,,,,"",""
+ball,2,7.5,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,0,0,,,,,,"",""
+ball,2,7.6,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,1,0,,,,,,"",""
+ball,2,8.1,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,2,0,,,,,,"",""
+ball,2,8.2,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,8.3,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,8.4,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,0,0,,,,,,"",""
+ball,2,8.5,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,0,0,,,,,,"",""
+ball,2,8.6,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,9.1,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,2,0,,,,,,"",""
+ball,2,9.2,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,2,0,,,,,,"",""
+ball,2,9.3,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,1,0,,,,,,"",""
+ball,2,9.4,Kings XI Punjab,MA Agarwal,KL Rahul,SP Narine,1,0,,,,,,"",""
+ball,2,9.5,Kings XI Punjab,KL Rahul,MA Agarwal,SP Narine,0,1,,,,1,,"",""
+ball,2,9.6,Kings XI Punjab,MA Agarwal,KL Rahul,SP Narine,2,0,,,,,,"",""
+ball,2,10.1,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,0,0,,,,,,"",""
+ball,2,10.2,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,10.3,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,4,0,,,,,,"",""
+ball,2,10.4,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,4,0,,,,,,"",""
+ball,2,10.5,Kings XI Punjab,MA Agarwal,KL Rahul,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,10.6,Kings XI Punjab,KL Rahul,MA Agarwal,KL Nagarkoti,0,0,,,,,,"",""
+ball,2,11.1,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,11.2,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,11.3,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,0,0,,,,,,"",""
+ball,2,11.4,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,11.5,Kings XI Punjab,KL Rahul,MA Agarwal,CV Varun,1,0,,,,,,"",""
+ball,2,11.6,Kings XI Punjab,MA Agarwal,KL Rahul,CV Varun,4,0,,,,,,"",""
+ball,2,12.1,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,4,0,,,,,,"",""
+ball,2,12.2,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,4,0,,,,,,"",""
+ball,2,12.3,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,12.4,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,12.5,Kings XI Punjab,KL Rahul,MA Agarwal,PJ Cummins,1,0,,,,,,"",""
+ball,2,12.6,Kings XI Punjab,MA Agarwal,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,13.1,Kings XI Punjab,MA Agarwal,KL Rahul,N Rana,1,0,,,,,,"",""
+ball,2,13.2,Kings XI Punjab,KL Rahul,MA Agarwal,N Rana,1,0,,,,,,"",""
+ball,2,13.3,Kings XI Punjab,MA Agarwal,KL Rahul,N Rana,1,0,,,,,,"",""
+ball,2,13.4,Kings XI Punjab,KL Rahul,MA Agarwal,N Rana,1,0,,,,,,"",""
+ball,2,13.5,Kings XI Punjab,MA Agarwal,KL Rahul,N Rana,1,0,,,,,,"",""
+ball,2,13.6,Kings XI Punjab,KL Rahul,MA Agarwal,N Rana,2,0,,,,,,"",""
+ball,2,14.1,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,2,0,,,,,,"",""
+ball,2,14.2,Kings XI Punjab,MA Agarwal,KL Rahul,M Prasidh Krishna,0,0,,,,,,caught,MA Agarwal
+ball,2,14.3,Kings XI Punjab,N Pooran,KL Rahul,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,14.4,Kings XI Punjab,KL Rahul,N Pooran,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,14.5,Kings XI Punjab,N Pooran,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,14.6,Kings XI Punjab,N Pooran,KL Rahul,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,15.1,Kings XI Punjab,KL Rahul,N Pooran,KL Nagarkoti,2,0,,,,,,"",""
+ball,2,15.2,Kings XI Punjab,KL Rahul,N Pooran,KL Nagarkoti,4,0,,,,,,"",""
+ball,2,15.3,Kings XI Punjab,KL Rahul,N Pooran,KL Nagarkoti,2,0,,,,,,"",""
+ball,2,15.4,Kings XI Punjab,KL Rahul,N Pooran,KL Nagarkoti,1,0,,,,,,"",""
+ball,2,15.5,Kings XI Punjab,N Pooran,KL Rahul,KL Nagarkoti,4,0,,,,,,"",""
+ball,2,15.6,Kings XI Punjab,N Pooran,KL Rahul,KL Nagarkoti,6,0,,,,,,"",""
+ball,2,16.1,Kings XI Punjab,KL Rahul,N Pooran,CV Varun,1,0,,,,,,"",""
+ball,2,16.2,Kings XI Punjab,N Pooran,KL Rahul,CV Varun,0,0,,,,,,"",""
+ball,2,16.3,Kings XI Punjab,N Pooran,KL Rahul,CV Varun,4,0,,,,,,"",""
+ball,2,16.4,Kings XI Punjab,N Pooran,KL Rahul,CV Varun,0,0,,,,,,"",""
+ball,2,16.5,Kings XI Punjab,N Pooran,KL Rahul,CV Varun,1,0,,,,,,"",""
+ball,2,16.6,Kings XI Punjab,KL Rahul,N Pooran,CV Varun,1,0,,,,,,"",""
+ball,2,17.1,Kings XI Punjab,KL Rahul,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,2,17.2,Kings XI Punjab,N Pooran,KL Rahul,SP Narine,0,0,,,,,,bowled,N Pooran
+ball,2,17.3,Kings XI Punjab,P Simran Singh,KL Rahul,SP Narine,0,0,,,,,,"",""
+ball,2,17.4,Kings XI Punjab,P Simran Singh,KL Rahul,SP Narine,0,0,,,,,,"",""
+ball,2,17.5,Kings XI Punjab,P Simran Singh,KL Rahul,SP Narine,0,0,,,,,,"",""
+ball,2,17.6,Kings XI Punjab,P Simran Singh,KL Rahul,SP Narine,1,0,,,,,,"",""
+ball,2,18.1,Kings XI Punjab,P Simran Singh,KL Rahul,M Prasidh Krishna,2,0,,,,,,"",""
+ball,2,18.2,Kings XI Punjab,P Simran Singh,KL Rahul,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,18.3,Kings XI Punjab,KL Rahul,P Simran Singh,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,18.4,Kings XI Punjab,P Simran Singh,KL Rahul,M Prasidh Krishna,0,0,,,,,,caught,P Simran Singh
+ball,2,18.5,Kings XI Punjab,KL Rahul,GJ Maxwell,M Prasidh Krishna,2,0,,,,,,"",""
+ball,2,18.6,Kings XI Punjab,KL Rahul,GJ Maxwell,M Prasidh Krishna,0,0,,,,,,bowled,KL Rahul
+ball,2,19.1,Kings XI Punjab,GJ Maxwell,Mandeep Singh,SP Narine,2,0,,,,,,"",""
+ball,2,19.2,Kings XI Punjab,GJ Maxwell,Mandeep Singh,SP Narine,0,0,,,,,,"",""
+ball,2,19.3,Kings XI Punjab,GJ Maxwell,Mandeep Singh,SP Narine,4,0,,,,,,"",""
+ball,2,19.4,Kings XI Punjab,GJ Maxwell,Mandeep Singh,SP Narine,0,1,,,,1,,"",""
+ball,2,19.5,Kings XI Punjab,Mandeep Singh,GJ Maxwell,SP Narine,0,0,,,,,,caught,Mandeep Singh
+ball,2,19.6,Kings XI Punjab,GJ Maxwell,CJ Jordan,SP Narine,4,0,,,,,,"",""

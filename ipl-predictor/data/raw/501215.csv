@@ -1,0 +1,267 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kochi Tuskers Kerala
+info,team,Chennai Super Kings
+info,gender,male
+info,season,2011
+info,date,2011/04/18
+info,event,Indian Premier League
+info,match_number,18
+info,venue,Nehru Stadium
+info,city,Kochi
+info,toss_winner,Kochi Tuskers Kerala
+info,toss_decision,field
+info,player_of_match,BB McCullum
+info,umpire,K Hariharan
+info,umpire,AL Hill
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,Raju Mukherjee
+info,winner,Kochi Tuskers Kerala
+info,winner_wickets,7
+info,method,D/L
+info,player,Chennai Super Kings,MEK Hussey
+info,player,Chennai Super Kings,M Vijay
+info,player,Chennai Super Kings,SK Raina
+info,player,Chennai Super Kings,S Badrinath
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,JA Morkel
+info,player,Chennai Super Kings,S Anirudha
+info,player,Chennai Super Kings,R Ashwin
+info,player,Chennai Super Kings,SB Jakati
+info,player,Chennai Super Kings,TG Southee
+info,player,Chennai Super Kings,DE Bollinger
+info,player,Kochi Tuskers Kerala,BB McCullum
+info,player,Kochi Tuskers Kerala,DPMD Jayawardene
+info,player,Kochi Tuskers Kerala,PA Patel
+info,player,Kochi Tuskers Kerala,BJ Hodge
+info,player,Kochi Tuskers Kerala,RA Jadeja
+info,player,Kochi Tuskers Kerala,KM Jadhav
+info,player,Kochi Tuskers Kerala,NLTC Perera
+info,player,Kochi Tuskers Kerala,RV Gomez
+info,player,Kochi Tuskers Kerala,R Vinay Kumar
+info,player,Kochi Tuskers Kerala,RP Singh
+info,player,Kochi Tuskers Kerala,RR Powar
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,DE Bollinger,45c2196c
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,K Hariharan,2386ccff
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Vijay,4b57e452
+info,registry,people,MEK Hussey,48fd7349
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RR Powar,5d096f3d
+info,registry,people,RV Gomez,b2570b38
+info,registry,people,Raju Mukherjee,7a3244b5
+info,registry,people,S Anirudha,95a2ea61
+info,registry,people,S Badrinath,3576e47e
+info,registry,people,SB Jakati,c8179c68
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,TG Southee,13c35c9e
+ball,1,0.1,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,4,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,4,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,M Vijay,MEK Hussey,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,M Vijay,MEK Hussey,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,M Vijay,MEK Hussey,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,MEK Hussey,M Vijay,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,MEK Hussey,M Vijay,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,MEK Hussey,M Vijay,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,M Vijay,MEK Hussey,RP Singh,0,1,1,,,,,"",""
+ball,1,2.2,Chennai Super Kings,M Vijay,MEK Hussey,RP Singh,1,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,MEK Hussey,M Vijay,RP Singh,0,0,,,,,,caught,MEK Hussey
+ball,1,2.4,Chennai Super Kings,SK Raina,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,SK Raina,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,SK Raina,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,2.7,Chennai Super Kings,SK Raina,M Vijay,RP Singh,0,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,M Vijay,SK Raina,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,SK Raina,M Vijay,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,SK Raina,M Vijay,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,M Vijay,SK Raina,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,M Vijay,SK Raina,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,SK Raina,M Vijay,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,SK Raina,M Vijay,RP Singh,4,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,SK Raina,M Vijay,RP Singh,1,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,M Vijay,SK Raina,RP Singh,4,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,M Vijay,SK Raina,RP Singh,4,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,M Vijay,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,M Vijay,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,SK Raina,M Vijay,NLTC Perera,0,1,1,,,,,"",""
+ball,1,5.2,Chennai Super Kings,SK Raina,M Vijay,NLTC Perera,0,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,SK Raina,M Vijay,NLTC Perera,0,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,SK Raina,M Vijay,NLTC Perera,1,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,M Vijay,SK Raina,NLTC Perera,4,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,M Vijay,SK Raina,NLTC Perera,4,0,,,,,,"",""
+ball,1,5.7,Chennai Super Kings,M Vijay,SK Raina,NLTC Perera,0,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,SK Raina,M Vijay,RR Powar,0,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,SK Raina,M Vijay,RR Powar,0,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,SK Raina,M Vijay,RR Powar,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,M Vijay,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,M Vijay,SK Raina,RR Powar,4,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,M Vijay,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,SK Raina,M Vijay,NLTC Perera,1,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,M Vijay,SK Raina,NLTC Perera,0,0,,,,,,lbw,M Vijay
+ball,1,7.3,Chennai Super Kings,S Badrinath,SK Raina,NLTC Perera,0,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,S Badrinath,SK Raina,NLTC Perera,1,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,SK Raina,S Badrinath,NLTC Perera,4,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,SK Raina,S Badrinath,NLTC Perera,1,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,2,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,4,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,2,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,SK Raina,S Badrinath,RV Gomez,4,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,SK Raina,S Badrinath,RV Gomez,1,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,S Badrinath,SK Raina,RV Gomez,0,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,S Badrinath,SK Raina,RV Gomez,1,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,SK Raina,S Badrinath,RV Gomez,0,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,SK Raina,S Badrinath,RV Gomez,1,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,SK Raina,S Badrinath,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,SK Raina,S Badrinath,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,S Badrinath,SK Raina,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,S Badrinath,SK Raina,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,S Badrinath,SK Raina,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,SK Raina,S Badrinath,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,2,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,2,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,S Badrinath,SK Raina,NLTC Perera,1,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,SK Raina,S Badrinath,NLTC Perera,2,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,SK Raina,S Badrinath,NLTC Perera,1,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,S Badrinath,SK Raina,NLTC Perera,1,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,SK Raina,S Badrinath,NLTC Perera,1,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,S Badrinath,SK Raina,NLTC Perera,1,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,S Badrinath,SK Raina,RV Gomez,2,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,S Badrinath,SK Raina,RV Gomez,0,0,,,,,,lbw,S Badrinath
+ball,1,13.3,Chennai Super Kings,MS Dhoni,SK Raina,RV Gomez,1,0,,,,,,"",""
+ball,1,13.4,Chennai Super Kings,SK Raina,MS Dhoni,RV Gomez,0,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,SK Raina,MS Dhoni,RV Gomez,6,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,SK Raina,MS Dhoni,RV Gomez,4,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,MS Dhoni,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,MS Dhoni,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,MS Dhoni,SK Raina,RP Singh,0,1,,,,1,,"",""
+ball,1,14.4,Chennai Super Kings,SK Raina,MS Dhoni,RP Singh,1,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,MS Dhoni,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,MS Dhoni,SK Raina,RP Singh,0,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,SK Raina,MS Dhoni,NLTC Perera,0,0,,,,,,run out,SK Raina
+ball,1,15.2,Chennai Super Kings,JA Morkel,MS Dhoni,NLTC Perera,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,MS Dhoni,JA Morkel,NLTC Perera,4,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,MS Dhoni,JA Morkel,NLTC Perera,1,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,JA Morkel,MS Dhoni,NLTC Perera,1,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,MS Dhoni,JA Morkel,NLTC Perera,1,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,MS Dhoni,JA Morkel,RA Jadeja,0,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,MS Dhoni,JA Morkel,RA Jadeja,0,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,MS Dhoni,JA Morkel,RA Jadeja,1,0,,,,,,"",""
+ball,1,16.4,Chennai Super Kings,JA Morkel,MS Dhoni,RA Jadeja,6,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,JA Morkel,MS Dhoni,RA Jadeja,1,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,MS Dhoni,JA Morkel,RA Jadeja,6,0,,,,,,"",""
+ball,2,0.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,0.2,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,0.3,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,0.4,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,6,0,,,,,,"",""
+ball,2,0.5,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,0.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,1,0,,,,,,"",""
+ball,2,1.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,DE Bollinger,0,1,,,,1,,"",""
+ball,2,1.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,0,0,,,,,,"",""
+ball,2,1.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,0,0,,,,,,"",""
+ball,2,1.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,1,0,,,,,,"",""
+ball,2,1.5,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,DE Bollinger,1,0,,,,,,"",""
+ball,2,1.6,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,0,0,,,,,,"",""
+ball,2,2.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,6,0,,,,,,"",""
+ball,2,2.2,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,2.3,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,2.4,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,4,0,,,,,,"",""
+ball,2,2.5,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,2.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,JA Morkel,0,0,,,,,,"",""
+ball,2,3.1,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,0,0,,,,,,"",""
+ball,2,3.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,0,0,,,,,,"",""
+ball,2,3.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,4,0,,,,,,"",""
+ball,2,3.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,DE Bollinger,1,0,,,,,,"",""
+ball,2,3.5,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,DE Bollinger,0,0,,,,,,"",""
+ball,2,3.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,DE Bollinger,4,0,,,,,,"",""
+ball,2,4.1,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,R Ashwin,6,0,,,,,,"",""
+ball,2,4.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,R Ashwin,4,0,,,,,,"",""
+ball,2,4.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,R Ashwin,0,0,,,,,,caught,DPMD Jayawardene
+ball,2,4.4,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,1,0,,,,,,"",""
+ball,2,4.5,Kochi Tuskers Kerala,PA Patel,BB McCullum,R Ashwin,0,0,,,,,,"",""
+ball,2,4.6,Kochi Tuskers Kerala,PA Patel,BB McCullum,R Ashwin,0,0,,,,,,"",""
+ball,2,5.1,Kochi Tuskers Kerala,BB McCullum,PA Patel,TG Southee,1,0,,,,,,"",""
+ball,2,5.2,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,0,0,,,,,,"",""
+ball,2,5.3,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,4,0,,,,,,"",""
+ball,2,5.4,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,0,0,,,,,,"",""
+ball,2,5.5,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,0,0,,,,,,"",""
+ball,2,5.6,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,4,0,,,,,,"",""
+ball,2,6.1,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,0,0,,,,,,"",""
+ball,2,6.2,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,1,0,,,,,,"",""
+ball,2,6.3,Kochi Tuskers Kerala,PA Patel,BB McCullum,R Ashwin,1,0,,,,,,"",""
+ball,2,6.4,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,1,0,,,,,,"",""
+ball,2,6.5,Kochi Tuskers Kerala,PA Patel,BB McCullum,R Ashwin,0,0,,,,,,"",""
+ball,2,6.6,Kochi Tuskers Kerala,PA Patel,BB McCullum,R Ashwin,4,0,,,,,,"",""
+ball,2,7.1,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,1,0,,,,,,"",""
+ball,2,7.2,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,1,0,,,,,,"",""
+ball,2,7.3,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,6,0,,,,,,"",""
+ball,2,7.4,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,1,0,,,,,,"",""
+ball,2,7.5,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,0,0,,,,,,"",""
+ball,2,7.6,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,1,0,,,,,,"",""
+ball,2,8.1,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,0,1,1,,,,,"",""
+ball,2,8.2,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,0,0,,,,,,"",""
+ball,2,8.3,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,2,0,,,,,,"",""
+ball,2,8.4,Kochi Tuskers Kerala,PA Patel,BB McCullum,TG Southee,3,0,,,,,,"",""
+ball,2,8.5,Kochi Tuskers Kerala,BB McCullum,PA Patel,TG Southee,4,0,,,,,,"",""
+ball,2,8.6,Kochi Tuskers Kerala,BB McCullum,PA Patel,TG Southee,4,0,,,,,,"",""
+ball,2,8.7,Kochi Tuskers Kerala,BB McCullum,PA Patel,TG Southee,1,0,,,,,,"",""
+ball,2,9.1,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,2,0,,,,,,"",""
+ball,2,9.2,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,1,0,,,,,,"",""
+ball,2,9.3,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,1,0,,,,,,"",""
+ball,2,9.4,Kochi Tuskers Kerala,BB McCullum,PA Patel,SB Jakati,1,0,,,,,,"",""
+ball,2,9.5,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,4,0,,,,,,"",""
+ball,2,9.6,Kochi Tuskers Kerala,PA Patel,BB McCullum,SB Jakati,0,0,,,,,,"",""
+ball,2,10.1,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,0,0,,,,,,"",""
+ball,2,10.2,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,0,0,,,,,,"",""
+ball,2,10.3,Kochi Tuskers Kerala,BB McCullum,PA Patel,R Ashwin,0,0,,,,,,caught,BB McCullum
+ball,2,10.4,Kochi Tuskers Kerala,PA Patel,BJ Hodge,R Ashwin,1,0,,,,,,"",""
+ball,2,10.5,Kochi Tuskers Kerala,BJ Hodge,PA Patel,R Ashwin,0,0,,,,,,"",""
+ball,2,10.6,Kochi Tuskers Kerala,BJ Hodge,PA Patel,R Ashwin,1,0,,,,,,"",""
+ball,2,11.1,Kochi Tuskers Kerala,BJ Hodge,PA Patel,SB Jakati,3,0,,,,,,"",""
+ball,2,11.2,Kochi Tuskers Kerala,PA Patel,BJ Hodge,SB Jakati,6,0,,,,,,"",""
+ball,2,11.3,Kochi Tuskers Kerala,PA Patel,BJ Hodge,SB Jakati,1,0,,,,,,"",""
+ball,2,11.4,Kochi Tuskers Kerala,BJ Hodge,PA Patel,SB Jakati,0,0,,,,,,"",""
+ball,2,11.5,Kochi Tuskers Kerala,BJ Hodge,PA Patel,SB Jakati,1,0,,,,,,"",""
+ball,2,11.6,Kochi Tuskers Kerala,PA Patel,BJ Hodge,SB Jakati,0,0,,,,,,"",""
+ball,2,12.1,Kochi Tuskers Kerala,BJ Hodge,PA Patel,DE Bollinger,4,0,,,,,,"",""
+ball,2,12.2,Kochi Tuskers Kerala,BJ Hodge,PA Patel,DE Bollinger,1,0,,,,,,"",""
+ball,2,12.3,Kochi Tuskers Kerala,PA Patel,BJ Hodge,DE Bollinger,0,0,,,,,,"",""
+ball,2,12.4,Kochi Tuskers Kerala,PA Patel,BJ Hodge,DE Bollinger,1,0,,,,,,"",""
+ball,2,12.5,Kochi Tuskers Kerala,BJ Hodge,PA Patel,DE Bollinger,1,0,,,,,,"",""
+ball,2,12.6,Kochi Tuskers Kerala,PA Patel,BJ Hodge,DE Bollinger,0,0,,,,,,caught,PA Patel
+ball,2,13.1,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,TG Southee,0,0,,,,,,"",""
+ball,2,13.2,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,TG Southee,4,0,,,,,,"",""
+ball,2,13.3,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,TG Southee,1,0,,,,,,"",""
+ball,2,13.4,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,TG Southee,0,1,1,,,,,"",""
+ball,2,13.5,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,TG Southee,6,0,,,,,,"",""
+ball,2,13.6,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,TG Southee,1,0,,,,,,"",""
+ball,2,13.7,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,TG Southee,1,0,,,,,,"",""
+ball,2,14.1,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,R Ashwin,1,0,,,,,,"",""
+ball,2,14.2,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,R Ashwin,1,0,,,,,,"",""
+ball,2,14.3,Kochi Tuskers Kerala,BJ Hodge,RA Jadeja,R Ashwin,1,0,,,,,,"",""
+ball,2,14.4,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,R Ashwin,0,0,,,,,,"",""
+ball,2,14.5,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,R Ashwin,6,0,,,,,,"",""
+ball,2,14.6,Kochi Tuskers Kerala,RA Jadeja,BJ Hodge,R Ashwin,2,0,,,,,,"",""

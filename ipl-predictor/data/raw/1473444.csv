@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Lucknow Super Giants
+info,gender,male
+info,season,2025
+info,date,2025/03/27
+info,event,Indian Premier League
+info,match_number,7
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,SN Thakur
+info,umpire,Abhijit Bhattacharya
+info,umpire,UV Gandhe
+info,reserve_umpire,AK Argal
+info,tv_umpire,VK Sharma
+info,match_referee,V Narayan Kutty
+info,winner,Lucknow Super Giants
+info,winner_wickets,5
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,A Manohar
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,HV Patel
+info,player,Sunrisers Hyderabad,Mohammed Shami
+info,player,Sunrisers Hyderabad,Simarjeet Singh
+info,player,Sunrisers Hyderabad,A Zampa
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,DA Miller
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,SN Thakur
+info,player,Lucknow Super Giants,Ravi Bishnoi
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Lucknow Super Giants,Avesh Khan
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Manohar,0890552f
+info,registry,people,A Zampa,14f96089
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Simarjeet Singh,30df8c66
+info,registry,people,TM Head,12b610c2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VK Sharma,a7a49df4
+ball,1,0.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,SN Thakur,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,SN Thakur,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,SN Thakur,4,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,SN Thakur,0,0,,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,SN Thakur,1,0,,,,,,"",""
+ball,1,0.6,Sunrisers Hyderabad,Abhishek Sharma,TM Head,SN Thakur,1,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,Avesh Khan,4,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,Abhishek Sharma,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,Abhishek Sharma,TM Head,Avesh Khan,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Avesh Khan,4,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,SN Thakur,0,0,,,,,,caught,Abhishek Sharma
+ball,1,2.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,SN Thakur,0,0,,,,,,caught,Ishan Kishan
+ball,1,2.3,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,SN Thakur,1,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,SN Thakur,4,0,,,,,,"",""
+ball,1,2.5,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,SN Thakur,0,1,1,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,SN Thakur,0,1,1,,,,,"",""
+ball,1,2.7,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,SN Thakur,1,0,,,,,,"",""
+ball,1,2.8,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,SN Thakur,4,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Avesh Khan,6,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,Avesh Khan,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Avesh Khan,6,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Avesh Khan,0,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Avesh Khan,4,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,DS Rathi,1,0,,,,,,"",""
+ball,1,4.2,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,1,1,,1,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,DS Rathi,1,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,0,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,2,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,1,0,,,,,,"",""
+ball,1,4.7,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,DS Rathi,2,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,DS Rathi,3,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,4,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,0,0,,,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,1,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,DS Rathi,1,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,DS Rathi,0,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,Prince Yadav,4,0,,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,Prince Yadav,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,TM Head,Nithish Kumar Reddy,Prince Yadav,0,0,,,,,,bowled,TM Head
+ball,1,7.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,0,1,1,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,2,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,7.7,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,0,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,DS Rathi,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,DS Rathi,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,DS Rathi,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,DS Rathi,6,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,DS Rathi,0,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,DS Rathi,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,1,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,0,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,0,1,1,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,0,1,1,,,,,"",""
+ball,1,9.7,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,1,0,,,,,,"",""
+ball,1,9.8,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,4,0,,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,0,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Prince Yadav,0,0,,,,,,run out,H Klaasen
+ball,1,12.1,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Prince Yadav,1,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Prince Yadav,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Prince Yadav,2,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Prince Yadav,0,1,1,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Prince Yadav,0,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,Aniket Verma,Nithish Kumar Reddy,Prince Yadav,1,0,,,,,,"",""
+ball,1,13.7,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Prince Yadav,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Hyderabad,Nithish Kumar Reddy,Aniket Verma,Ravi Bishnoi,0,0,,,,,,bowled,Nithish Kumar Reddy
+ball,1,14.2,Sunrisers Hyderabad,A Manohar,Aniket Verma,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,A Manohar,Aniket Verma,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,Aniket Verma,A Manohar,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,14.5,Sunrisers Hyderabad,Aniket Verma,A Manohar,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,Aniket Verma,A Manohar,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,A Manohar,Aniket Verma,DS Rathi,0,0,,,,,,"",""
+ball,1,15.2,Sunrisers Hyderabad,A Manohar,Aniket Verma,DS Rathi,1,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,Aniket Verma,A Manohar,DS Rathi,0,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,Aniket Verma,A Manohar,DS Rathi,6,0,,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,Aniket Verma,A Manohar,DS Rathi,6,0,,,,,,"",""
+ball,1,15.6,Sunrisers Hyderabad,Aniket Verma,A Manohar,DS Rathi,0,0,,,,,,caught,Aniket Verma
+ball,1,16.1,Sunrisers Hyderabad,A Manohar,PJ Cummins,SN Thakur,0,0,,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,A Manohar,PJ Cummins,SN Thakur,0,0,,,,,,caught,A Manohar
+ball,1,16.3,Sunrisers Hyderabad,HV Patel,PJ Cummins,SN Thakur,0,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,HV Patel,PJ Cummins,SN Thakur,1,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,PJ Cummins,HV Patel,SN Thakur,6,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,PJ Cummins,HV Patel,SN Thakur,6,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,HV Patel,PJ Cummins,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,PJ Cummins,HV Patel,Avesh Khan,6,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,PJ Cummins,HV Patel,Avesh Khan,0,0,,,,,,caught,PJ Cummins
+ball,1,17.4,Sunrisers Hyderabad,Mohammed Shami,HV Patel,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,HV Patel,Mohammed Shami,Avesh Khan,2,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,HV Patel,Mohammed Shami,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,HV Patel,Mohammed Shami,SN Thakur,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,Mohammed Shami,HV Patel,SN Thakur,0,0,,,,,,"",""
+ball,1,18.3,Sunrisers Hyderabad,Mohammed Shami,HV Patel,SN Thakur,0,0,,,,,,caught,Mohammed Shami
+ball,1,18.4,Sunrisers Hyderabad,Simarjeet Singh,HV Patel,SN Thakur,1,0,,,,,,"",""
+ball,1,18.5,Sunrisers Hyderabad,HV Patel,Simarjeet Singh,SN Thakur,1,0,,,,,,"",""
+ball,1,18.6,Sunrisers Hyderabad,Simarjeet Singh,HV Patel,SN Thakur,0,0,,,,,,"",""
+ball,1,19.1,Sunrisers Hyderabad,HV Patel,Simarjeet Singh,Avesh Khan,1,0,,,,,,"",""
+ball,1,19.2,Sunrisers Hyderabad,Simarjeet Singh,HV Patel,Avesh Khan,1,0,,,,,,"",""
+ball,1,19.3,Sunrisers Hyderabad,HV Patel,Simarjeet Singh,Avesh Khan,1,0,,,,,,"",""
+ball,1,19.4,Sunrisers Hyderabad,Simarjeet Singh,HV Patel,Avesh Khan,1,0,,,,,,"",""
+ball,1,19.5,Sunrisers Hyderabad,HV Patel,Simarjeet Singh,Avesh Khan,2,0,,,,,,"",""
+ball,1,19.6,Sunrisers Hyderabad,HV Patel,Simarjeet Singh,Avesh Khan,1,0,,,,,,"",""
+ball,2,0.1,Lucknow Super Giants,MR Marsh,AK Markram,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,0.2,Lucknow Super Giants,AK Markram,MR Marsh,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,0.3,Lucknow Super Giants,MR Marsh,AK Markram,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,0.4,Lucknow Super Giants,MR Marsh,AK Markram,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,0.5,Lucknow Super Giants,AK Markram,MR Marsh,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,0.6,Lucknow Super Giants,AK Markram,MR Marsh,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,1.1,Lucknow Super Giants,MR Marsh,AK Markram,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.2,Lucknow Super Giants,MR Marsh,AK Markram,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.3,Lucknow Super Giants,AK Markram,MR Marsh,Mohammed Shami,0,0,,,,,,caught,AK Markram
+ball,2,1.4,Lucknow Super Giants,N Pooran,MR Marsh,Mohammed Shami,0,5,5,,,,,"",""
+ball,2,1.5,Lucknow Super Giants,N Pooran,MR Marsh,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.6,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,4,0,,,,,,"",""
+ball,2,1.7,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.1,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,2.2,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,2.3,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,2.4,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,6,0,,,,,,"",""
+ball,2,2.5,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,6,0,,,,,,"",""
+ball,2,2.6,Lucknow Super Giants,N Pooran,MR Marsh,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,3.1,Lucknow Super Giants,N Pooran,MR Marsh,Mohammed Shami,4,0,,,,,,"",""
+ball,2,3.2,Lucknow Super Giants,N Pooran,MR Marsh,Mohammed Shami,1,0,,,,,,"",""
+ball,2,3.3,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,6,0,,,,,,"",""
+ball,2,3.4,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.5,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,6,0,,,,,,"",""
+ball,2,3.6,Lucknow Super Giants,MR Marsh,N Pooran,Mohammed Shami,0,1,,,,1,,"",""
+ball,2,4.1,Lucknow Super Giants,MR Marsh,N Pooran,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,4.2,Lucknow Super Giants,MR Marsh,N Pooran,Abhishek Sharma,4,0,,,,,,"",""
+ball,2,4.3,Lucknow Super Giants,MR Marsh,N Pooran,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,4.4,Lucknow Super Giants,MR Marsh,N Pooran,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,4.5,Lucknow Super Giants,N Pooran,MR Marsh,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,4.6,Lucknow Super Giants,N Pooran,MR Marsh,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,5.1,Lucknow Super Giants,MR Marsh,N Pooran,PJ Cummins,1,0,,,,,,"",""
+ball,2,5.2,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,4,0,,,,,,"",""
+ball,2,5.3,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,0,0,,,,,,"",""
+ball,2,5.4,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,4,0,,,,,,"",""
+ball,2,5.5,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,0,1,1,,,,,"",""
+ball,2,5.6,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,0,0,,,,,,"",""
+ball,2,5.7,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,1,0,,,,,,"",""
+ball,2,6.1,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,1,0,,,,,,"",""
+ball,2,6.2,Lucknow Super Giants,MR Marsh,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,2,6.3,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,6,0,,,,,,"",""
+ball,2,6.4,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,0,1,1,,,,,"",""
+ball,2,6.5,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,6,0,,,,,,"",""
+ball,2,6.6,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,4,0,,,,,,"",""
+ball,2,6.7,Lucknow Super Giants,N Pooran,MR Marsh,A Zampa,0,0,,,,,,"",""
+ball,2,7.1,Lucknow Super Giants,MR Marsh,N Pooran,HV Patel,1,0,,,,,,"",""
+ball,2,7.2,Lucknow Super Giants,N Pooran,MR Marsh,HV Patel,1,0,,,,,,"",""
+ball,2,7.3,Lucknow Super Giants,MR Marsh,N Pooran,HV Patel,4,0,,,,,,"",""
+ball,2,7.4,Lucknow Super Giants,MR Marsh,N Pooran,HV Patel,0,1,1,,,,,"",""
+ball,2,7.5,Lucknow Super Giants,MR Marsh,N Pooran,HV Patel,1,0,,,,,,"",""
+ball,2,7.6,Lucknow Super Giants,N Pooran,MR Marsh,HV Patel,0,1,1,,,,,"",""
+ball,2,7.7,Lucknow Super Giants,N Pooran,MR Marsh,HV Patel,0,1,1,,,,,"",""
+ball,2,7.8,Lucknow Super Giants,N Pooran,MR Marsh,HV Patel,4,0,,,,,,"",""
+ball,2,7.9,Lucknow Super Giants,N Pooran,MR Marsh,HV Patel,1,0,,,,,,"",""
+ball,2,8.1,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,3,0,,,,,,"",""
+ball,2,8.2,Lucknow Super Giants,MR Marsh,N Pooran,PJ Cummins,0,1,1,,,,,"",""
+ball,2,8.3,Lucknow Super Giants,MR Marsh,N Pooran,PJ Cummins,4,0,,,,,,"",""
+ball,2,8.4,Lucknow Super Giants,MR Marsh,N Pooran,PJ Cummins,1,0,,,,,,"",""
+ball,2,8.5,Lucknow Super Giants,N Pooran,MR Marsh,PJ Cummins,0,0,,,,,,lbw,N Pooran
+ball,2,8.6,Lucknow Super Giants,RR Pant,MR Marsh,PJ Cummins,0,0,,,,,,"",""
+ball,2,8.7,Lucknow Super Giants,RR Pant,MR Marsh,PJ Cummins,0,0,,,,,,"",""
+ball,2,9.1,Lucknow Super Giants,MR Marsh,RR Pant,A Zampa,4,0,,,,,,"",""
+ball,2,9.2,Lucknow Super Giants,MR Marsh,RR Pant,A Zampa,1,0,,,,,,"",""
+ball,2,9.3,Lucknow Super Giants,RR Pant,MR Marsh,A Zampa,1,0,,,,,,"",""
+ball,2,9.4,Lucknow Super Giants,MR Marsh,RR Pant,A Zampa,1,0,,,,,,"",""
+ball,2,9.5,Lucknow Super Giants,RR Pant,MR Marsh,A Zampa,1,0,,,,,,"",""
+ball,2,9.6,Lucknow Super Giants,MR Marsh,RR Pant,A Zampa,1,0,,,,,,"",""
+ball,2,10.1,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,0,0,,,,,,"",""
+ball,2,10.2,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,0,1,1,,,,,"",""
+ball,2,10.3,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,4,0,,,,,,"",""
+ball,2,10.4,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,4,0,,,,,,"",""
+ball,2,10.5,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,0,0,,,,,,"",""
+ball,2,10.6,Lucknow Super Giants,MR Marsh,RR Pant,PJ Cummins,0,0,,,,,,caught,MR Marsh
+ball,2,10.7,Lucknow Super Giants,A Badoni,RR Pant,PJ Cummins,0,0,,,,,,"",""
+ball,2,11.1,Lucknow Super Giants,RR Pant,A Badoni,Simarjeet Singh,6,0,,,,,,"",""
+ball,2,11.2,Lucknow Super Giants,RR Pant,A Badoni,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,11.3,Lucknow Super Giants,RR Pant,A Badoni,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,11.4,Lucknow Super Giants,RR Pant,A Badoni,Simarjeet Singh,1,0,,,,,,"",""
+ball,2,11.5,Lucknow Super Giants,A Badoni,RR Pant,Simarjeet Singh,4,0,,,,,,"",""
+ball,2,11.6,Lucknow Super Giants,A Badoni,RR Pant,Simarjeet Singh,0,0,,,,,,"",""
+ball,2,12.1,Lucknow Super Giants,RR Pant,A Badoni,A Zampa,1,0,,,,,,"",""
+ball,2,12.2,Lucknow Super Giants,A Badoni,RR Pant,A Zampa,1,0,,,,,,"",""
+ball,2,12.3,Lucknow Super Giants,RR Pant,A Badoni,A Zampa,1,0,,,,,,"",""
+ball,2,12.4,Lucknow Super Giants,A Badoni,RR Pant,A Zampa,1,0,,,,,,"",""
+ball,2,12.5,Lucknow Super Giants,RR Pant,A Badoni,A Zampa,1,0,,,,,,"",""
+ball,2,12.6,Lucknow Super Giants,A Badoni,RR Pant,A Zampa,0,0,,,,,,caught,A Badoni
+ball,2,13.1,Lucknow Super Giants,RR Pant,DA Miller,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.2,Lucknow Super Giants,DA Miller,RR Pant,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.3,Lucknow Super Giants,RR Pant,DA Miller,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.4,Lucknow Super Giants,DA Miller,RR Pant,Mohammed Shami,4,0,,,,,,"",""
+ball,2,13.5,Lucknow Super Giants,DA Miller,RR Pant,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.6,Lucknow Super Giants,RR Pant,DA Miller,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.1,Lucknow Super Giants,RR Pant,DA Miller,HV Patel,0,1,1,,,,,"",""
+ball,2,14.2,Lucknow Super Giants,RR Pant,DA Miller,HV Patel,0,0,,,,,,caught,RR Pant
+ball,2,14.3,Lucknow Super Giants,Abdul Samad,DA Miller,HV Patel,1,0,,,,,,"",""
+ball,2,14.4,Lucknow Super Giants,DA Miller,Abdul Samad,HV Patel,1,0,,,,,,"",""
+ball,2,14.5,Lucknow Super Giants,Abdul Samad,DA Miller,HV Patel,4,0,,,,,,"",""
+ball,2,14.6,Lucknow Super Giants,Abdul Samad,DA Miller,HV Patel,0,0,,,,,,"",""
+ball,2,14.7,Lucknow Super Giants,Abdul Samad,DA Miller,HV Patel,6,0,,,,,,"",""
+ball,2,15.1,Lucknow Super Giants,DA Miller,Abdul Samad,A Zampa,1,0,,,,,,"",""
+ball,2,15.2,Lucknow Super Giants,Abdul Samad,DA Miller,A Zampa,6,0,,,,,,"",""
+ball,2,15.3,Lucknow Super Giants,Abdul Samad,DA Miller,A Zampa,4,0,,,,,,"",""
+ball,2,15.4,Lucknow Super Giants,Abdul Samad,DA Miller,A Zampa,1,0,,,,,,"",""
+ball,2,15.5,Lucknow Super Giants,DA Miller,Abdul Samad,A Zampa,1,0,,,,,,"",""
+ball,2,15.6,Lucknow Super Giants,Abdul Samad,DA Miller,A Zampa,0,0,,,,,,"",""
+ball,2,16.1,Lucknow Super Giants,DA Miller,Abdul Samad,Ishan Kishan,4,0,,,,,,"",""

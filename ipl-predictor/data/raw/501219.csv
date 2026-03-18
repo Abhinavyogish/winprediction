@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Kochi Tuskers Kerala
+info,gender,male
+info,season,2011
+info,date,2011/04/20
+info,event,Indian Premier League
+info,match_number,22
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,DPMD Jayawardene
+info,umpire,Aleem Dar
+info,umpire,RB Tiffin
+info,reserve_umpire,S Das
+info,tv_umpire,SS Hazare
+info,match_referee,AJ Pycroft
+info,winner,Kochi Tuskers Kerala
+info,winner_runs,6
+info,player,Kochi Tuskers Kerala,BB McCullum
+info,player,Kochi Tuskers Kerala,DPMD Jayawardene
+info,player,Kochi Tuskers Kerala,PA Patel
+info,player,Kochi Tuskers Kerala,BJ Hodge
+info,player,Kochi Tuskers Kerala,RA Jadeja
+info,player,Kochi Tuskers Kerala,KM Jadhav
+info,player,Kochi Tuskers Kerala,RV Gomez
+info,player,Kochi Tuskers Kerala,R Vinay Kumar
+info,player,Kochi Tuskers Kerala,RR Powar
+info,player,Kochi Tuskers Kerala,RP Singh
+info,player,Kochi Tuskers Kerala,M Muralitharan
+info,player,Kolkata Knight Riders,MS Bisla
+info,player,Kolkata Knight Riders,JH Kallis
+info,player,Kolkata Knight Riders,G Gambhir
+info,player,Kolkata Knight Riders,MK Tiwary
+info,player,Kolkata Knight Riders,EJG Morgan
+info,player,Kolkata Knight Riders,Shakib Al Hasan
+info,player,Kolkata Knight Riders,YK Pathan
+info,player,Kolkata Knight Riders,R Bhatia
+info,player,Kolkata Knight Riders,B Lee
+info,player,Kolkata Knight Riders,Iqbal Abdulla
+info,player,Kolkata Knight Riders,L Balaji
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BJ Hodge,b57f8a9a
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,Iqbal Abdulla,85aae393
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,L Balaji,b2b50355
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,MS Bisla,5afd4539
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,R Bhatia,33a364a6
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RR Powar,5d096f3d
+info,registry,people,RV Gomez,b2570b38
+info,registry,people,S Das,475e38b6
+info,registry,people,SS Hazare,166e5081
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,YK Pathan,3c6ffae8
+ball,1,0.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,0,0,,,,,,"",""
+ball,1,0.2,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,0,0,,,,,,"",""
+ball,1,0.3,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,1,0,,,,,,"",""
+ball,1,0.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,B Lee,4,0,,,,,,"",""
+ball,1,0.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,B Lee,0,0,,,,,,"",""
+ball,1,0.6,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,B Lee,0,1,,,,1,,"",""
+ball,1,1.1,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,1,1,,,,,"",""
+ball,1,1.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,0,,,,,,"",""
+ball,1,1.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,0,,,,,,"",""
+ball,1,1.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,4,0,,,,,,"",""
+ball,1,1.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,0,,,,,,"",""
+ball,1,1.6,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,0,,,,,,"",""
+ball,1,1.7,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,L Balaji,0,0,,,,,,"",""
+ball,1,2.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,0,0,,,,,,"",""
+ball,1,2.2,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,4,0,,,,,,"",""
+ball,1,2.3,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,6,0,,,,,,"",""
+ball,1,2.4,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,0,0,,,,,,"",""
+ball,1,2.5,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,4,0,,,,,,"",""
+ball,1,2.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,B Lee,1,0,,,,,,"",""
+ball,1,3.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,3.2,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,3.3,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,3.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,4,0,,,,,,"",""
+ball,1,3.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,3.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,4.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,4.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,4.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,4.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,4.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,4.6,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,5.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,5.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,5.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,5.4,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,4,0,,,,,,"",""
+ball,1,5.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,5.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,6.1,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,6.2,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,6.3,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,6.4,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,6.5,Kochi Tuskers Kerala,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,6.6,Kochi Tuskers Kerala,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,0,0,,,,,,caught,BB McCullum
+ball,1,7.1,Kochi Tuskers Kerala,DPMD Jayawardene,PA Patel,YK Pathan,1,0,,,,,,"",""
+ball,1,7.2,Kochi Tuskers Kerala,PA Patel,DPMD Jayawardene,YK Pathan,0,0,,,,,,"",""
+ball,1,7.3,Kochi Tuskers Kerala,PA Patel,DPMD Jayawardene,YK Pathan,1,0,,,,,,"",""
+ball,1,7.4,Kochi Tuskers Kerala,DPMD Jayawardene,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,7.5,Kochi Tuskers Kerala,DPMD Jayawardene,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,7.6,Kochi Tuskers Kerala,DPMD Jayawardene,PA Patel,YK Pathan,0,0,,,,,,lbw,DPMD Jayawardene
+ball,1,8.1,Kochi Tuskers Kerala,PA Patel,BJ Hodge,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,8.2,Kochi Tuskers Kerala,BJ Hodge,PA Patel,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,8.3,Kochi Tuskers Kerala,BJ Hodge,PA Patel,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,8.4,Kochi Tuskers Kerala,PA Patel,BJ Hodge,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,8.5,Kochi Tuskers Kerala,PA Patel,BJ Hodge,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,8.6,Kochi Tuskers Kerala,BJ Hodge,PA Patel,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,9.1,Kochi Tuskers Kerala,BJ Hodge,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,9.2,Kochi Tuskers Kerala,BJ Hodge,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,9.3,Kochi Tuskers Kerala,BJ Hodge,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,9.4,Kochi Tuskers Kerala,BJ Hodge,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,9.5,Kochi Tuskers Kerala,BJ Hodge,PA Patel,YK Pathan,0,0,,,,,,bowled,BJ Hodge
+ball,1,9.6,Kochi Tuskers Kerala,RA Jadeja,PA Patel,YK Pathan,0,0,,,,,,"",""
+ball,1,10.1,Kochi Tuskers Kerala,PA Patel,RA Jadeja,L Balaji,0,1,1,,,,,"",""
+ball,1,10.2,Kochi Tuskers Kerala,PA Patel,RA Jadeja,L Balaji,0,0,,,,,,"",""
+ball,1,10.3,Kochi Tuskers Kerala,PA Patel,RA Jadeja,L Balaji,1,0,,,,,,"",""
+ball,1,10.4,Kochi Tuskers Kerala,RA Jadeja,PA Patel,L Balaji,0,0,,,,,,"",""
+ball,1,10.5,Kochi Tuskers Kerala,RA Jadeja,PA Patel,L Balaji,0,0,,,,,,"",""
+ball,1,10.6,Kochi Tuskers Kerala,RA Jadeja,PA Patel,L Balaji,1,0,,,,,,"",""
+ball,1,10.7,Kochi Tuskers Kerala,PA Patel,RA Jadeja,L Balaji,0,0,,,,,,"",""
+ball,1,11.1,Kochi Tuskers Kerala,RA Jadeja,PA Patel,YK Pathan,1,0,,,,,,"",""
+ball,1,11.2,Kochi Tuskers Kerala,PA Patel,RA Jadeja,YK Pathan,4,0,,,,,,"",""
+ball,1,11.3,Kochi Tuskers Kerala,PA Patel,RA Jadeja,YK Pathan,1,0,,,,,,"",""
+ball,1,11.4,Kochi Tuskers Kerala,RA Jadeja,PA Patel,YK Pathan,0,1,,,,1,,"",""
+ball,1,11.5,Kochi Tuskers Kerala,PA Patel,RA Jadeja,YK Pathan,0,0,,,,,,lbw,PA Patel
+ball,1,11.6,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,YK Pathan,1,0,,,,,,"",""
+ball,1,12.1,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,L Balaji,0,0,,,,,,"",""
+ball,1,12.2,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,L Balaji,0,0,,,,,,"",""
+ball,1,12.3,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,L Balaji,4,0,,,,,,"",""
+ball,1,12.4,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,L Balaji,2,0,,,,,,"",""
+ball,1,12.5,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,L Balaji,1,0,,,,,,"",""
+ball,1,12.6,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,L Balaji,6,0,,,,,,"",""
+ball,1,13.1,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,YK Pathan,1,0,,,,,,"",""
+ball,1,13.2,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,YK Pathan,2,0,,,,,,"",""
+ball,1,13.3,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,YK Pathan,1,0,,,,,,"",""
+ball,1,13.4,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,YK Pathan,1,0,,,,,,"",""
+ball,1,13.5,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,YK Pathan,6,0,,,,,,"",""
+ball,1,13.6,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,YK Pathan,0,0,,,,,,"",""
+ball,1,14.1,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.2,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,14.3,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.4,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.5,Kochi Tuskers Kerala,RA Jadeja,KM Jadhav,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.6,Kochi Tuskers Kerala,KM Jadhav,RA Jadeja,Shakib Al Hasan,0,0,,,,,,bowled,KM Jadhav
+ball,1,15.1,Kochi Tuskers Kerala,RA Jadeja,RV Gomez,B Lee,0,0,,,,,,"",""
+ball,1,15.2,Kochi Tuskers Kerala,RA Jadeja,RV Gomez,B Lee,4,0,,,,,,"",""
+ball,1,15.3,Kochi Tuskers Kerala,RA Jadeja,RV Gomez,B Lee,0,1,1,,,,,"",""
+ball,1,15.4,Kochi Tuskers Kerala,RA Jadeja,RV Gomez,B Lee,0,0,,,,,,"",""
+ball,1,15.5,Kochi Tuskers Kerala,RA Jadeja,RV Gomez,B Lee,0,0,,,,,,caught,RA Jadeja
+ball,1,15.6,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,B Lee,1,0,,,,,,"",""
+ball,1,15.7,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,B Lee,0,0,,,,,,"",""
+ball,1,16.1,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,16.2,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,16.3,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,1,,,,1,,"",""
+ball,1,16.4,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,Iqbal Abdulla,0,0,,,,,,"",""
+ball,1,16.5,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,Iqbal Abdulla,4,0,,,,,,"",""
+ball,1,16.6,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,Iqbal Abdulla,1,0,,,,,,"",""
+ball,1,17.1,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,B Lee,2,0,,,,,,"",""
+ball,1,17.2,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,B Lee,1,0,,,,,,"",""
+ball,1,17.3,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,B Lee,1,0,,,,,,"",""
+ball,1,17.4,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,B Lee,1,0,,,,,,"",""
+ball,1,17.5,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,B Lee,1,0,,,,,,"",""
+ball,1,17.6,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,B Lee,1,0,,,,,,"",""
+ball,1,18.1,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,18.2,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,18.3,Kochi Tuskers Kerala,RV Gomez,R Vinay Kumar,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,18.4,Kochi Tuskers Kerala,R Vinay Kumar,RV Gomez,Shakib Al Hasan,0,0,,,,,,bowled,R Vinay Kumar
+ball,1,18.5,Kochi Tuskers Kerala,RR Powar,RV Gomez,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,18.6,Kochi Tuskers Kerala,RR Powar,RV Gomez,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,19.1,Kochi Tuskers Kerala,RR Powar,RV Gomez,L Balaji,0,0,,,,,,"",""
+ball,1,19.2,Kochi Tuskers Kerala,RR Powar,RV Gomez,L Balaji,0,0,,,,,,"",""
+ball,1,19.3,Kochi Tuskers Kerala,RR Powar,RV Gomez,L Balaji,1,0,,,,,,"",""
+ball,1,19.4,Kochi Tuskers Kerala,RV Gomez,RR Powar,L Balaji,0,1,,,,1,,"",""
+ball,1,19.5,Kochi Tuskers Kerala,RR Powar,RV Gomez,L Balaji,1,0,,,,,,"",""
+ball,1,19.6,Kochi Tuskers Kerala,RV Gomez,RR Powar,L Balaji,0,1,,,1,,,"",""
+ball,2,0.1,Kolkata Knight Riders,MS Bisla,JH Kallis,RP Singh,1,0,,,,,,"",""
+ball,2,0.2,Kolkata Knight Riders,JH Kallis,MS Bisla,RP Singh,1,0,,,,,,"",""
+ball,2,0.3,Kolkata Knight Riders,MS Bisla,JH Kallis,RP Singh,0,0,,,,,,"",""
+ball,2,0.4,Kolkata Knight Riders,MS Bisla,JH Kallis,RP Singh,0,4,,,,4,,"",""
+ball,2,0.5,Kolkata Knight Riders,MS Bisla,JH Kallis,RP Singh,1,0,,,,,,"",""
+ball,2,0.6,Kolkata Knight Riders,JH Kallis,MS Bisla,RP Singh,0,0,,,,,,"",""
+ball,2,1.1,Kolkata Knight Riders,MS Bisla,JH Kallis,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,1.2,Kolkata Knight Riders,JH Kallis,MS Bisla,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,1.3,Kolkata Knight Riders,JH Kallis,MS Bisla,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,1.4,Kolkata Knight Riders,MS Bisla,JH Kallis,R Vinay Kumar,4,0,,,,,,"",""
+ball,2,1.5,Kolkata Knight Riders,MS Bisla,JH Kallis,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,1.6,Kolkata Knight Riders,MS Bisla,JH Kallis,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,2.1,Kolkata Knight Riders,MS Bisla,JH Kallis,RA Jadeja,1,0,,,,,,"",""
+ball,2,2.2,Kolkata Knight Riders,JH Kallis,MS Bisla,RA Jadeja,1,0,,,,,,"",""
+ball,2,2.3,Kolkata Knight Riders,MS Bisla,JH Kallis,RA Jadeja,1,0,,,,,,"",""
+ball,2,2.4,Kolkata Knight Riders,JH Kallis,MS Bisla,RA Jadeja,1,0,,,,,,"",""
+ball,2,2.5,Kolkata Knight Riders,MS Bisla,JH Kallis,RA Jadeja,4,0,,,,,,"",""
+ball,2,2.6,Kolkata Knight Riders,MS Bisla,JH Kallis,RA Jadeja,0,0,,,,,,"",""
+ball,2,3.1,Kolkata Knight Riders,JH Kallis,MS Bisla,R Vinay Kumar,2,0,,,,,,"",""
+ball,2,3.2,Kolkata Knight Riders,JH Kallis,MS Bisla,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,3.3,Kolkata Knight Riders,JH Kallis,MS Bisla,R Vinay Kumar,0,0,,,,,,caught,JH Kallis
+ball,2,3.4,Kolkata Knight Riders,G Gambhir,MS Bisla,R Vinay Kumar,2,0,,,,,,"",""
+ball,2,3.5,Kolkata Knight Riders,G Gambhir,MS Bisla,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,3.6,Kolkata Knight Riders,G Gambhir,MS Bisla,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,4.1,Kolkata Knight Riders,G Gambhir,MS Bisla,RP Singh,0,0,,,,,,"",""
+ball,2,4.2,Kolkata Knight Riders,G Gambhir,MS Bisla,RP Singh,0,0,,,,,,bowled,G Gambhir
+ball,2,4.3,Kolkata Knight Riders,MK Tiwary,MS Bisla,RP Singh,0,0,,,,,,"",""
+ball,2,4.4,Kolkata Knight Riders,MK Tiwary,MS Bisla,RP Singh,0,0,,,,,,"",""
+ball,2,4.5,Kolkata Knight Riders,MK Tiwary,MS Bisla,RP Singh,0,0,,,,,,"",""
+ball,2,4.6,Kolkata Knight Riders,MK Tiwary,MS Bisla,RP Singh,1,0,,,,,,"",""
+ball,2,5.1,Kolkata Knight Riders,MK Tiwary,MS Bisla,RA Jadeja,0,0,,,,,,"",""
+ball,2,5.2,Kolkata Knight Riders,MK Tiwary,MS Bisla,RA Jadeja,6,0,,,,,,"",""
+ball,2,5.3,Kolkata Knight Riders,MK Tiwary,MS Bisla,RA Jadeja,0,0,,,,,,"",""
+ball,2,5.4,Kolkata Knight Riders,MK Tiwary,MS Bisla,RA Jadeja,1,0,,,,,,"",""
+ball,2,5.5,Kolkata Knight Riders,MS Bisla,MK Tiwary,RA Jadeja,2,0,,,,,,"",""
+ball,2,5.6,Kolkata Knight Riders,MS Bisla,MK Tiwary,RA Jadeja,0,0,,,,,,bowled,MS Bisla
+ball,2,6.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,0,0,,,,,,"",""
+ball,2,6.2,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,6.3,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,0,0,,,,,,"",""
+ball,2,6.4,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,1,0,,,,,,"",""
+ball,2,6.5,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,2,0,,,,,,"",""
+ball,2,6.6,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,7.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,0,0,,,,,,"",""
+ball,2,7.2,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,1,0,,,,,,"",""
+ball,2,7.3,Kolkata Knight Riders,EJG Morgan,MK Tiwary,M Muralitharan,0,0,,,,,,"",""
+ball,2,7.4,Kolkata Knight Riders,EJG Morgan,MK Tiwary,M Muralitharan,1,0,,,,,,"",""
+ball,2,7.5,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,1,0,,,,,,"",""
+ball,2,7.6,Kolkata Knight Riders,EJG Morgan,MK Tiwary,M Muralitharan,4,0,,,,,,"",""
+ball,2,8.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,8.2,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,1,0,,,,,,"",""
+ball,2,8.3,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,0,0,,,,,,"",""
+ball,2,8.4,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,8.5,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,0,0,,,,,,"",""
+ball,2,8.6,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,0,0,,,,,,"",""
+ball,2,9.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,0,0,,,,,,"",""
+ball,2,9.2,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,1,0,,,,,,"",""
+ball,2,9.3,Kolkata Knight Riders,EJG Morgan,MK Tiwary,M Muralitharan,1,0,,,,,,"",""
+ball,2,9.4,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,0,0,,,,,,"",""
+ball,2,9.5,Kolkata Knight Riders,MK Tiwary,EJG Morgan,M Muralitharan,1,0,,,,,,"",""
+ball,2,9.6,Kolkata Knight Riders,EJG Morgan,MK Tiwary,M Muralitharan,0,4,,,4,,,"",""
+ball,2,10.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RA Jadeja,2,0,,,,,,"",""
+ball,2,10.2,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.3,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.4,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.5,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.6,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,11.2,Kolkata Knight Riders,EJG Morgan,MK Tiwary,RR Powar,1,0,,,,,,"",""
+ball,2,11.3,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,6,0,,,,,,"",""
+ball,2,11.4,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,0,0,,,,,,"",""
+ball,2,11.5,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,0,0,,,,,,"",""
+ball,2,11.6,Kolkata Knight Riders,MK Tiwary,EJG Morgan,RR Powar,1,0,,,,,,"",""
+ball,2,12.1,Kolkata Knight Riders,MK Tiwary,EJG Morgan,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,12.2,Kolkata Knight Riders,MK Tiwary,EJG Morgan,R Vinay Kumar,0,0,,,,,,run out,EJG Morgan
+ball,2,12.3,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,12.4,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,12.5,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,12.6,Kolkata Knight Riders,Shakib Al Hasan,MK Tiwary,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,13.1,Kolkata Knight Riders,Shakib Al Hasan,MK Tiwary,M Muralitharan,1,0,,,,,,"",""
+ball,2,13.2,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,,,,,,"",""
+ball,2,13.3,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,,,,,,"",""
+ball,2,13.4,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,,,,,,"",""
+ball,2,13.5,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,M Muralitharan,1,0,,,,,,"",""
+ball,2,13.6,Kolkata Knight Riders,Shakib Al Hasan,MK Tiwary,M Muralitharan,0,0,,,,,,"",""
+ball,2,14.1,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,RP Singh,4,0,,,,,,"",""
+ball,2,14.2,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,RP Singh,4,0,,,,,,"",""
+ball,2,14.3,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,RP Singh,0,0,,,,,,"",""
+ball,2,14.4,Kolkata Knight Riders,MK Tiwary,Shakib Al Hasan,RP Singh,1,0,,,,,,"",""
+ball,2,14.5,Kolkata Knight Riders,Shakib Al Hasan,MK Tiwary,RP Singh,0,0,,,,,,"",""
+ball,2,14.6,Kolkata Knight Riders,Shakib Al Hasan,MK Tiwary,RP Singh,0,0,,,,,,bowled,Shakib Al Hasan
+ball,2,15.1,Kolkata Knight Riders,MK Tiwary,YK Pathan,RR Powar,2,0,,,,,,"",""
+ball,2,15.2,Kolkata Knight Riders,MK Tiwary,YK Pathan,RR Powar,1,0,,,,,,"",""
+ball,2,15.3,Kolkata Knight Riders,YK Pathan,MK Tiwary,RR Powar,2,0,,,,,,"",""
+ball,2,15.4,Kolkata Knight Riders,YK Pathan,MK Tiwary,RR Powar,6,0,,,,,,"",""
+ball,2,15.5,Kolkata Knight Riders,YK Pathan,MK Tiwary,RR Powar,0,0,,,,,,caught,YK Pathan
+ball,2,15.6,Kolkata Knight Riders,MK Tiwary,R Bhatia,RR Powar,1,0,,,,,,"",""
+ball,2,16.1,Kolkata Knight Riders,MK Tiwary,R Bhatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,16.2,Kolkata Knight Riders,MK Tiwary,R Bhatia,RA Jadeja,1,0,,,,,,"",""
+ball,2,16.3,Kolkata Knight Riders,R Bhatia,MK Tiwary,RA Jadeja,0,0,,,,,,"",""
+ball,2,16.4,Kolkata Knight Riders,R Bhatia,MK Tiwary,RA Jadeja,1,0,,,,,,"",""
+ball,2,16.5,Kolkata Knight Riders,MK Tiwary,R Bhatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,16.6,Kolkata Knight Riders,MK Tiwary,R Bhatia,RA Jadeja,0,1,1,,,,,stumped,MK Tiwary
+ball,2,16.7,Kolkata Knight Riders,B Lee,R Bhatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,17.1,Kolkata Knight Riders,R Bhatia,B Lee,M Muralitharan,0,2,2,,,,,"",""
+ball,2,17.2,Kolkata Knight Riders,B Lee,R Bhatia,M Muralitharan,1,0,,,,,,"",""
+ball,2,17.3,Kolkata Knight Riders,R Bhatia,B Lee,M Muralitharan,1,0,,,,,,"",""
+ball,2,17.4,Kolkata Knight Riders,B Lee,R Bhatia,M Muralitharan,0,0,,,,,,caught,B Lee
+ball,2,17.5,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,M Muralitharan,0,0,,,,,,"",""
+ball,2,17.6,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,M Muralitharan,1,0,,,,,,"",""
+ball,2,17.7,Kolkata Knight Riders,R Bhatia,Iqbal Abdulla,M Muralitharan,1,0,,,,,,"",""
+ball,2,18.1,Kolkata Knight Riders,R Bhatia,Iqbal Abdulla,RP Singh,4,0,,,,,,"",""
+ball,2,18.2,Kolkata Knight Riders,R Bhatia,Iqbal Abdulla,RP Singh,1,0,,,,,,"",""
+ball,2,18.3,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,RP Singh,1,0,,,,,,"",""
+ball,2,18.4,Kolkata Knight Riders,R Bhatia,Iqbal Abdulla,RP Singh,1,0,,,,,,"",""
+ball,2,18.5,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,RP Singh,4,0,,,,,,"",""
+ball,2,18.6,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,RP Singh,1,0,,,,,,"",""
+ball,2,19.1,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,R Vinay Kumar,0,0,,,,,,"",""
+ball,2,19.2,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,R Vinay Kumar,2,0,,,,,,"",""
+ball,2,19.3,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,R Vinay Kumar,2,0,,,,,,"",""
+ball,2,19.4,Kolkata Knight Riders,Iqbal Abdulla,R Bhatia,R Vinay Kumar,1,0,,,,,,"",""
+ball,2,19.5,Kolkata Knight Riders,R Bhatia,Iqbal Abdulla,R Vinay Kumar,1,0,,,,,,run out,R Bhatia
+ball,2,19.6,Kolkata Knight Riders,L Balaji,Iqbal Abdulla,R Vinay Kumar,1,0,,,,,,"",""

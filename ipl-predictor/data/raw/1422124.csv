@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Royal Challengers Bengaluru
+info,gender,male
+info,season,2024
+info,date,2024/03/25
+info,event,Indian Premier League
+info,match_number,6
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Royal Challengers Bengaluru
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,AK Chaudhary
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,BNJ Oxenford
+info,match_referee,M Nayyar
+info,winner,Royal Challengers Bengaluru
+info,winner_wickets,4
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,S Dhawan
+info,player,Punjab Kings,JM Bairstow
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,LS Livingstone
+info,player,Punjab Kings,SM Curran
+info,player,Punjab Kings,JM Sharma
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,Harpreet Brar
+info,player,Punjab Kings,HV Patel
+info,player,Punjab Kings,K Rabada
+info,player,Punjab Kings,RD Chahar
+info,player,Royal Challengers Bengaluru,Yash Dayal
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,F du Plessis
+info,player,Royal Challengers Bengaluru,C Green
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,GJ Maxwell
+info,player,Royal Challengers Bengaluru,Anuj Rawat
+info,player,Royal Challengers Bengaluru,KD Karthik
+info,player,Royal Challengers Bengaluru,MK Lomror
+info,player,Royal Challengers Bengaluru,AS Joseph
+info,player,Royal Challengers Bengaluru,Mayank Dagar
+info,player,Royal Challengers Bengaluru,Mohammed Siraj
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Green,eaa76d3c
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Yash Dayal,7210d461
+ball,1,0.1,Punjab Kings,S Dhawan,JM Bairstow,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,0.2,Punjab Kings,S Dhawan,JM Bairstow,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.3,Punjab Kings,S Dhawan,JM Bairstow,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,0.4,Punjab Kings,S Dhawan,JM Bairstow,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,0.5,Punjab Kings,JM Bairstow,S Dhawan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.6,Punjab Kings,JM Bairstow,S Dhawan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.1,Punjab Kings,S Dhawan,JM Bairstow,Yash Dayal,0,0,,,,,,"",""
+ball,1,1.2,Punjab Kings,S Dhawan,JM Bairstow,Yash Dayal,0,0,,,,,,"",""
+ball,1,1.3,Punjab Kings,S Dhawan,JM Bairstow,Yash Dayal,0,0,,,,,,"",""
+ball,1,1.4,Punjab Kings,S Dhawan,JM Bairstow,Yash Dayal,0,0,,,,,,"",""
+ball,1,1.5,Punjab Kings,S Dhawan,JM Bairstow,Yash Dayal,1,0,,,,,,"",""
+ball,1,1.6,Punjab Kings,JM Bairstow,S Dhawan,Yash Dayal,0,1,,,,1,,"",""
+ball,1,2.1,Punjab Kings,JM Bairstow,S Dhawan,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.2,Punjab Kings,JM Bairstow,S Dhawan,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.3,Punjab Kings,JM Bairstow,S Dhawan,Mohammed Siraj,0,0,,,,,,caught,JM Bairstow
+ball,1,2.4,Punjab Kings,P Simran Singh,S Dhawan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.5,Punjab Kings,P Simran Singh,S Dhawan,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.6,Punjab Kings,P Simran Singh,S Dhawan,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.1,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,0,0,,,,,,"",""
+ball,1,3.2,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,1,0,,,,,,"",""
+ball,1,3.3,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,0,0,,,,,,"",""
+ball,1,3.4,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,1,0,,,,,,"",""
+ball,1,3.5,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,1,0,,,,,,"",""
+ball,1,3.6,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,0,0,,,,,,"",""
+ball,1,4.1,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,0,0,,,,,,"",""
+ball,1,4.2,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,4,0,,,,,,"",""
+ball,1,4.3,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,0,0,,,,,,"",""
+ball,1,4.4,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,0,0,,,,,,"",""
+ball,1,4.5,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,4,0,,,,,,"",""
+ball,1,4.6,Punjab Kings,S Dhawan,P Simran Singh,AS Joseph,2,0,,,,,,"",""
+ball,1,5.1,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,0,0,,,,,,"",""
+ball,1,5.2,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,4,0,,,,,,"",""
+ball,1,5.3,Punjab Kings,P Simran Singh,S Dhawan,Yash Dayal,1,0,,,,,,"",""
+ball,1,5.4,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,0,0,,,,,,"",""
+ball,1,5.5,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,0,0,,,,,,"",""
+ball,1,5.6,Punjab Kings,S Dhawan,P Simran Singh,Yash Dayal,1,0,,,,,,"",""
+ball,1,6.1,Punjab Kings,S Dhawan,P Simran Singh,C Green,0,0,,,,,,"",""
+ball,1,6.2,Punjab Kings,S Dhawan,P Simran Singh,C Green,0,1,1,,,,,"",""
+ball,1,6.3,Punjab Kings,S Dhawan,P Simran Singh,C Green,1,0,,,,,,"",""
+ball,1,6.4,Punjab Kings,P Simran Singh,S Dhawan,C Green,0,0,,,,,,"",""
+ball,1,6.5,Punjab Kings,P Simran Singh,S Dhawan,C Green,6,0,,,,,,"",""
+ball,1,6.6,Punjab Kings,P Simran Singh,S Dhawan,C Green,1,0,,,,,,"",""
+ball,1,6.7,Punjab Kings,S Dhawan,P Simran Singh,C Green,1,0,,,,,,"",""
+ball,1,7.1,Punjab Kings,S Dhawan,P Simran Singh,Mayank Dagar,1,0,,,,,,"",""
+ball,1,7.2,Punjab Kings,P Simran Singh,S Dhawan,Mayank Dagar,1,0,,,,,,"",""
+ball,1,7.3,Punjab Kings,S Dhawan,P Simran Singh,Mayank Dagar,1,0,,,,,,"",""
+ball,1,7.4,Punjab Kings,P Simran Singh,S Dhawan,Mayank Dagar,1,0,,,,,,"",""
+ball,1,7.5,Punjab Kings,S Dhawan,P Simran Singh,Mayank Dagar,6,0,,,,,,"",""
+ball,1,7.6,Punjab Kings,S Dhawan,P Simran Singh,Mayank Dagar,1,0,,,,,,"",""
+ball,1,8.1,Punjab Kings,S Dhawan,P Simran Singh,GJ Maxwell,4,0,,,,,,"",""
+ball,1,8.2,Punjab Kings,S Dhawan,P Simran Singh,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.3,Punjab Kings,P Simran Singh,S Dhawan,GJ Maxwell,0,0,,,,,,"",""
+ball,1,8.4,Punjab Kings,P Simran Singh,S Dhawan,GJ Maxwell,6,0,,,,,,"",""
+ball,1,8.5,Punjab Kings,P Simran Singh,S Dhawan,GJ Maxwell,0,0,,,,,,caught,P Simran Singh
+ball,1,8.6,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,0,0,,,,,,"",""
+ball,1,9.1,Punjab Kings,S Dhawan,LS Livingstone,Mayank Dagar,1,0,,,,,,"",""
+ball,1,9.2,Punjab Kings,LS Livingstone,S Dhawan,Mayank Dagar,0,0,,,,,,"",""
+ball,1,9.3,Punjab Kings,LS Livingstone,S Dhawan,Mayank Dagar,0,0,,,,,,"",""
+ball,1,9.4,Punjab Kings,LS Livingstone,S Dhawan,Mayank Dagar,1,0,,,,,,"",""
+ball,1,9.5,Punjab Kings,S Dhawan,LS Livingstone,Mayank Dagar,0,0,,,,,,"",""
+ball,1,9.6,Punjab Kings,S Dhawan,LS Livingstone,Mayank Dagar,4,0,,,,,,"",""
+ball,1,10.1,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.2,Punjab Kings,S Dhawan,LS Livingstone,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.3,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,4,0,,,,,,"",""
+ball,1,10.4,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,2,0,,,,,,"",""
+ball,1,10.5,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,0,0,,,,,,"",""
+ball,1,10.6,Punjab Kings,LS Livingstone,S Dhawan,GJ Maxwell,6,0,,,,,,"",""
+ball,1,11.1,Punjab Kings,S Dhawan,LS Livingstone,AS Joseph,1,0,,,,,,"",""
+ball,1,11.2,Punjab Kings,LS Livingstone,S Dhawan,AS Joseph,2,0,,,,,,"",""
+ball,1,11.3,Punjab Kings,LS Livingstone,S Dhawan,AS Joseph,0,0,,,,,,"",""
+ball,1,11.4,Punjab Kings,LS Livingstone,S Dhawan,AS Joseph,0,1,1,,,,,"",""
+ball,1,11.5,Punjab Kings,LS Livingstone,S Dhawan,AS Joseph,1,0,,,,,,"",""
+ball,1,11.6,Punjab Kings,S Dhawan,LS Livingstone,AS Joseph,1,0,,,,,,"",""
+ball,1,11.7,Punjab Kings,LS Livingstone,S Dhawan,AS Joseph,0,0,,,,,,caught,LS Livingstone
+ball,1,12.1,Punjab Kings,S Dhawan,SM Curran,GJ Maxwell,0,0,,,,,,caught,S Dhawan
+ball,1,12.2,Punjab Kings,JM Sharma,SM Curran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,12.3,Punjab Kings,SM Curran,JM Sharma,GJ Maxwell,1,0,,,,,,"",""
+ball,1,12.4,Punjab Kings,JM Sharma,SM Curran,GJ Maxwell,0,0,,,,,,"",""
+ball,1,12.5,Punjab Kings,JM Sharma,SM Curran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,12.6,Punjab Kings,SM Curran,JM Sharma,GJ Maxwell,1,0,,,,,,"",""
+ball,1,13.1,Punjab Kings,SM Curran,JM Sharma,C Green,1,0,,,,,,"",""
+ball,1,13.2,Punjab Kings,JM Sharma,SM Curran,C Green,1,0,,,,,,"",""
+ball,1,13.3,Punjab Kings,SM Curran,JM Sharma,C Green,2,0,,,,,,"",""
+ball,1,13.4,Punjab Kings,SM Curran,JM Sharma,C Green,4,0,,,,,,"",""
+ball,1,13.5,Punjab Kings,SM Curran,JM Sharma,C Green,1,0,,,,,,"",""
+ball,1,13.6,Punjab Kings,JM Sharma,SM Curran,C Green,0,0,,,,,,"",""
+ball,1,14.1,Punjab Kings,SM Curran,JM Sharma,Mayank Dagar,2,0,,,,,,"",""
+ball,1,14.2,Punjab Kings,SM Curran,JM Sharma,Mayank Dagar,1,0,,,,,,"",""
+ball,1,14.3,Punjab Kings,JM Sharma,SM Curran,Mayank Dagar,0,0,,,,,,"",""
+ball,1,14.4,Punjab Kings,JM Sharma,SM Curran,Mayank Dagar,6,0,,,,,,"",""
+ball,1,14.5,Punjab Kings,JM Sharma,SM Curran,Mayank Dagar,6,0,,,,,,"",""
+ball,1,14.6,Punjab Kings,JM Sharma,SM Curran,Mayank Dagar,2,0,,,,,,"",""
+ball,1,15.1,Punjab Kings,SM Curran,JM Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,15.2,Punjab Kings,JM Sharma,SM Curran,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,15.3,Punjab Kings,SM Curran,JM Sharma,Mohammed Siraj,0,1,,,1,,,"",""
+ball,1,15.4,Punjab Kings,JM Sharma,SM Curran,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,15.5,Punjab Kings,SM Curran,JM Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,15.6,Punjab Kings,SM Curran,JM Sharma,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,16.1,Punjab Kings,JM Sharma,SM Curran,AS Joseph,0,0,,,,,,"",""
+ball,1,16.2,Punjab Kings,JM Sharma,SM Curran,AS Joseph,4,0,,,,,,"",""
+ball,1,16.3,Punjab Kings,JM Sharma,SM Curran,AS Joseph,0,0,,,,,,"",""
+ball,1,16.4,Punjab Kings,JM Sharma,SM Curran,AS Joseph,1,0,,,,,,"",""
+ball,1,16.5,Punjab Kings,SM Curran,JM Sharma,AS Joseph,1,0,,,,,,"",""
+ball,1,16.6,Punjab Kings,JM Sharma,SM Curran,AS Joseph,1,0,,,,,,"",""
+ball,1,17.1,Punjab Kings,JM Sharma,SM Curran,Yash Dayal,1,0,,,,,,"",""
+ball,1,17.2,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,0,1,1,,,,,"",""
+ball,1,17.3,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,4,0,,,,,,"",""
+ball,1,17.4,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,0,0,,,,,,"",""
+ball,1,17.5,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,0,1,1,,,,,"",""
+ball,1,17.6,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,4,0,,,,,,"",""
+ball,1,17.7,Punjab Kings,SM Curran,JM Sharma,Yash Dayal,0,0,,,,,,caught,SM Curran
+ball,1,17.8,Punjab Kings,Shashank Singh,JM Sharma,Yash Dayal,2,0,,,,,,"",""
+ball,1,18.1,Punjab Kings,JM Sharma,Shashank Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,18.2,Punjab Kings,JM Sharma,Shashank Singh,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.3,Punjab Kings,Shashank Singh,JM Sharma,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.4,Punjab Kings,JM Sharma,Shashank Singh,Mohammed Siraj,0,0,,,,,,caught,JM Sharma
+ball,1,18.5,Punjab Kings,Harpreet Brar,Shashank Singh,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,18.6,Punjab Kings,Harpreet Brar,Shashank Singh,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,19.1,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,6,0,,,,,,"",""
+ball,1,19.2,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,0,0,,,,,,"",""
+ball,1,19.3,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,6,0,,,,,,"",""
+ball,1,19.4,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,4,0,,,,,,"",""
+ball,1,19.5,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,1,0,,,,,,"",""
+ball,1,19.6,Punjab Kings,Harpreet Brar,Shashank Singh,AS Joseph,0,2,2,,,,,"",""
+ball,1,19.7,Punjab Kings,Shashank Singh,Harpreet Brar,AS Joseph,1,0,,,,,,"",""
+ball,2,0.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,0,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,4,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,4,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,4,0,,,,,,"",""
+ball,2,0.5,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bengaluru,V Kohli,F du Plessis,SM Curran,4,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bengaluru,F du Plessis,V Kohli,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bengaluru,F du Plessis,V Kohli,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bengaluru,V Kohli,F du Plessis,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,1.5,Royal Challengers Bengaluru,V Kohli,F du Plessis,Arshdeep Singh,0,1,,,,1,,"",""
+ball,2,1.6,Royal Challengers Bengaluru,F du Plessis,V Kohli,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,1.7,Royal Challengers Bengaluru,F du Plessis,V Kohli,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bengaluru,V Kohli,F du Plessis,K Rabada,4,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bengaluru,V Kohli,F du Plessis,K Rabada,1,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bengaluru,F du Plessis,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bengaluru,F du Plessis,V Kohli,K Rabada,0,0,,,,,,caught,F du Plessis
+ball,2,2.5,Royal Challengers Bengaluru,C Green,V Kohli,K Rabada,2,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bengaluru,C Green,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,3.5,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.7,Royal Challengers Bengaluru,V Kohli,C Green,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bengaluru,C Green,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bengaluru,C Green,V Kohli,K Rabada,1,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bengaluru,V Kohli,C Green,K Rabada,0,1,,,,1,,"",""
+ball,2,4.4,Royal Challengers Bengaluru,C Green,V Kohli,K Rabada,0,0,,,,,,caught,C Green
+ball,2,4.5,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,4,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bengaluru,V Kohli,RM Patidar,SM Curran,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bengaluru,V Kohli,RM Patidar,SM Curran,0,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bengaluru,V Kohli,RM Patidar,SM Curran,1,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bengaluru,RM Patidar,V Kohli,SM Curran,1,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bengaluru,V Kohli,RM Patidar,SM Curran,0,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bengaluru,V Kohli,RM Patidar,SM Curran,1,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bengaluru,V Kohli,RM Patidar,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bengaluru,RM Patidar,V Kohli,Harpreet Brar,0,2,,,,2,,"",""
+ball,2,6.3,Royal Challengers Bengaluru,RM Patidar,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bengaluru,V Kohli,RM Patidar,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bengaluru,RM Patidar,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bengaluru,V Kohli,RM Patidar,Harpreet Brar,0,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bengaluru,RM Patidar,V Kohli,HV Patel,0,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bengaluru,RM Patidar,V Kohli,HV Patel,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bengaluru,V Kohli,RM Patidar,HV Patel,2,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bengaluru,V Kohli,RM Patidar,HV Patel,1,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bengaluru,RM Patidar,V Kohli,HV Patel,0,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bengaluru,RM Patidar,V Kohli,HV Patel,1,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bengaluru,RM Patidar,V Kohli,RD Chahar,2,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bengaluru,RM Patidar,V Kohli,RD Chahar,6,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bengaluru,RM Patidar,V Kohli,RD Chahar,1,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bengaluru,V Kohli,RM Patidar,RD Chahar,6,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bengaluru,V Kohli,RM Patidar,RD Chahar,1,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bengaluru,RM Patidar,V Kohli,RD Chahar,0,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bengaluru,V Kohli,RM Patidar,K Rabada,0,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bengaluru,V Kohli,RM Patidar,K Rabada,2,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bengaluru,V Kohli,RM Patidar,K Rabada,1,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,0,1,1,,,,,"",""
+ball,2,9.5,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,0,4,,,,4,,"",""
+ball,2,9.6,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,9.7,Royal Challengers Bengaluru,RM Patidar,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bengaluru,V Kohli,RM Patidar,Harpreet Brar,0,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bengaluru,V Kohli,RM Patidar,Harpreet Brar,0,1,,,1,,,"",""
+ball,2,10.3,Royal Challengers Bengaluru,RM Patidar,V Kohli,Harpreet Brar,0,0,,,,,,bowled,RM Patidar
+ball,2,10.4,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bengaluru,V Kohli,GJ Maxwell,Harpreet Brar,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,Harpreet Brar,0,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bengaluru,V Kohli,GJ Maxwell,HV Patel,6,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bengaluru,V Kohli,GJ Maxwell,HV Patel,1,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,HV Patel,1,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bengaluru,V Kohli,GJ Maxwell,HV Patel,1,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,HV Patel,0,1,1,,,,,"",""
+ball,2,11.6,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,HV Patel,1,0,,,,,,"",""
+ball,2,11.7,Royal Challengers Bengaluru,V Kohli,GJ Maxwell,HV Patel,4,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bengaluru,GJ Maxwell,V Kohli,Harpreet Brar,0,0,,,,,,bowled,GJ Maxwell
+ball,2,12.2,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,Harpreet Brar,1,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,0,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,Harpreet Brar,0,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,K Rabada,4,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,K Rabada,1,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,K Rabada,1,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,K Rabada,0,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,K Rabada,1,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,K Rabada,0,0,,,,,,"",""
+ball,2,14.1,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,0,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,0,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,Harpreet Brar,2,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,Harpreet Brar,0,1,,,,1,,"",""
+ball,2,14.6,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,Harpreet Brar,1,0,,,,,,"",""
+ball,2,15.1,Royal Challengers Bengaluru,Anuj Rawat,V Kohli,HV Patel,1,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,4,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,4,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,0,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,0,1,1,,,,,"",""
+ball,2,15.6,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,2,0,,,,,,"",""
+ball,2,15.7,Royal Challengers Bengaluru,V Kohli,Anuj Rawat,HV Patel,0,0,,,,,,caught,V Kohli
+ball,2,16.1,Royal Challengers Bengaluru,Anuj Rawat,KD Karthik,SM Curran,0,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bengaluru,Anuj Rawat,KD Karthik,SM Curran,0,0,,,,,,lbw,Anuj Rawat
+ball,2,16.3,Royal Challengers Bengaluru,MK Lomror,KD Karthik,SM Curran,4,0,,,,,,"",""
+ball,2,16.4,Royal Challengers Bengaluru,MK Lomror,KD Karthik,SM Curran,1,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bengaluru,KD Karthik,MK Lomror,SM Curran,4,0,,,,,,"",""
+ball,2,16.6,Royal Challengers Bengaluru,KD Karthik,MK Lomror,SM Curran,2,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Arshdeep Singh,0,1,,,1,,,"",""
+ball,2,17.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.3,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,17.4,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,17.5,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.6,Royal Challengers Bengaluru,MK Lomror,KD Karthik,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,18.1,Royal Challengers Bengaluru,MK Lomror,KD Karthik,HV Patel,1,0,,,,,,"",""
+ball,2,18.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,0,1,1,,,,,"",""
+ball,2,18.3,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,0,0,,,,,,"",""
+ball,2,18.4,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,4,0,,,,,,"",""
+ball,2,18.5,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,0,0,,,,,,"",""
+ball,2,18.6,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,6,0,,,,,,"",""
+ball,2,18.7,Royal Challengers Bengaluru,KD Karthik,MK Lomror,HV Patel,1,0,,,,,,"",""
+ball,2,19.1,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,19.2,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,19.3,Royal Challengers Bengaluru,KD Karthik,MK Lomror,Arshdeep Singh,4,0,,,,,,"",""

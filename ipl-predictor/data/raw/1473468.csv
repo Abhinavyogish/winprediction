@@ -1,0 +1,262 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Kolkata Knight Riders
+info,gender,male
+info,season,2025
+info,date,2025/04/15
+info,event,Indian Premier League
+info,match_number,31
+info,venue,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+info,city,Mohali
+info,toss_winner,Punjab Kings
+info,toss_decision,bat
+info,player_of_match,YS Chahal
+info,umpire,M Krishnadas
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,HAS Khalid
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,Punjab Kings
+info,winner_runs,16
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,JP Inglis
+info,player,Punjab Kings,N Wadhera
+info,player,Punjab Kings,GJ Maxwell
+info,player,Punjab Kings,Suryansh Shedge
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,Q de Kock
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,VR Iyer
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,AD Russell
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,Harshit Rana
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,A Nortje
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Suryansh Shedge,970ddd24
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,VR Iyer,a24be938
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,0,0,,,,,,"",""
+ball,1,0.2,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,0,0,,,,,,"",""
+ball,1,0.3,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,0,0,,,,,,"",""
+ball,1,0.4,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,1,0,,,,,,"",""
+ball,1,0.5,Punjab Kings,P Simran Singh,Priyansh Arya,VG Arora,1,0,,,,,,"",""
+ball,1,0.6,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,2,0,,,,,,"",""
+ball,1,1.1,Punjab Kings,P Simran Singh,Priyansh Arya,A Nortje,0,0,,,,,,"",""
+ball,1,1.2,Punjab Kings,P Simran Singh,Priyansh Arya,A Nortje,0,0,,,,,,"",""
+ball,1,1.3,Punjab Kings,P Simran Singh,Priyansh Arya,A Nortje,1,0,,,,,,"",""
+ball,1,1.4,Punjab Kings,Priyansh Arya,P Simran Singh,A Nortje,4,0,,,,,,"",""
+ball,1,1.5,Punjab Kings,Priyansh Arya,P Simran Singh,A Nortje,0,0,,,,,,"",""
+ball,1,1.6,Punjab Kings,Priyansh Arya,P Simran Singh,A Nortje,4,0,,,,,,"",""
+ball,1,2.1,Punjab Kings,P Simran Singh,Priyansh Arya,VG Arora,4,0,,,,,,"",""
+ball,1,2.2,Punjab Kings,P Simran Singh,Priyansh Arya,VG Arora,6,0,,,,,,"",""
+ball,1,2.3,Punjab Kings,P Simran Singh,Priyansh Arya,VG Arora,4,0,,,,,,"",""
+ball,1,2.4,Punjab Kings,P Simran Singh,Priyansh Arya,VG Arora,1,0,,,,,,"",""
+ball,1,2.5,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,4,0,,,,,,"",""
+ball,1,2.6,Punjab Kings,Priyansh Arya,P Simran Singh,VG Arora,1,0,,,,,,"",""
+ball,1,3.1,Punjab Kings,Priyansh Arya,P Simran Singh,Harshit Rana,6,0,,,,,,"",""
+ball,1,3.2,Punjab Kings,Priyansh Arya,P Simran Singh,Harshit Rana,0,0,,,,,,caught,Priyansh Arya
+ball,1,3.3,Punjab Kings,SS Iyer,P Simran Singh,Harshit Rana,0,0,,,,,,"",""
+ball,1,3.4,Punjab Kings,SS Iyer,P Simran Singh,Harshit Rana,0,0,,,,,,caught,SS Iyer
+ball,1,3.5,Punjab Kings,JP Inglis,P Simran Singh,Harshit Rana,0,0,,,,,,"",""
+ball,1,3.6,Punjab Kings,JP Inglis,P Simran Singh,Harshit Rana,0,0,,,,,,"",""
+ball,1,4.1,Punjab Kings,P Simran Singh,JP Inglis,CV Varun,1,0,,,,,,"",""
+ball,1,4.2,Punjab Kings,JP Inglis,P Simran Singh,CV Varun,0,0,,,,,,"",""
+ball,1,4.3,Punjab Kings,JP Inglis,P Simran Singh,CV Varun,0,0,,,,,,"",""
+ball,1,4.4,Punjab Kings,JP Inglis,P Simran Singh,CV Varun,2,0,,,,,,"",""
+ball,1,4.5,Punjab Kings,JP Inglis,P Simran Singh,CV Varun,0,0,,,,,,bowled,JP Inglis
+ball,1,4.6,Punjab Kings,N Wadhera,P Simran Singh,CV Varun,0,0,,,,,,"",""
+ball,1,5.1,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,5.2,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,5.3,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,6,0,,,,,,"",""
+ball,1,5.4,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,6,0,,,,,,"",""
+ball,1,5.5,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,5.6,Punjab Kings,P Simran Singh,N Wadhera,Harshit Rana,0,0,,,,,,caught,P Simran Singh
+ball,1,6.1,Punjab Kings,N Wadhera,GJ Maxwell,SP Narine,0,0,,,,,,"",""
+ball,1,6.2,Punjab Kings,N Wadhera,GJ Maxwell,SP Narine,0,0,,,,,,"",""
+ball,1,6.3,Punjab Kings,N Wadhera,GJ Maxwell,SP Narine,1,0,,,,,,"",""
+ball,1,6.4,Punjab Kings,GJ Maxwell,N Wadhera,SP Narine,2,0,,,,,,"",""
+ball,1,6.5,Punjab Kings,GJ Maxwell,N Wadhera,SP Narine,0,0,,,,,,"",""
+ball,1,6.6,Punjab Kings,GJ Maxwell,N Wadhera,SP Narine,1,0,,,,,,"",""
+ball,1,7.1,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,0,1,1,,,,,"",""
+ball,1,7.2,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,4,0,,,,,,"",""
+ball,1,7.3,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,0,1,,,1,,,"",""
+ball,1,7.4,Punjab Kings,N Wadhera,GJ Maxwell,Harshit Rana,0,1,1,,,,,"",""
+ball,1,7.5,Punjab Kings,N Wadhera,GJ Maxwell,Harshit Rana,1,0,,,,,,"",""
+ball,1,7.6,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,7.7,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,7.8,Punjab Kings,GJ Maxwell,N Wadhera,Harshit Rana,0,0,,,,,,"",""
+ball,1,8.1,Punjab Kings,N Wadhera,GJ Maxwell,A Nortje,0,0,,,,,,"",""
+ball,1,8.2,Punjab Kings,N Wadhera,GJ Maxwell,A Nortje,4,0,,,,,,"",""
+ball,1,8.3,Punjab Kings,N Wadhera,GJ Maxwell,A Nortje,4,0,,,,,,"",""
+ball,1,8.4,Punjab Kings,N Wadhera,GJ Maxwell,A Nortje,0,0,,,,,,caught,N Wadhera
+ball,1,8.5,Punjab Kings,Suryansh Shedge,GJ Maxwell,A Nortje,1,0,,,,,,"",""
+ball,1,8.6,Punjab Kings,GJ Maxwell,Suryansh Shedge,A Nortje,0,1,,,1,,,"",""
+ball,1,9.1,Punjab Kings,GJ Maxwell,Suryansh Shedge,CV Varun,0,0,,,,,,bowled,GJ Maxwell
+ball,1,9.2,Punjab Kings,Shashank Singh,Suryansh Shedge,CV Varun,0,0,,,,,,"",""
+ball,1,9.3,Punjab Kings,Shashank Singh,Suryansh Shedge,CV Varun,1,0,,,,,,"",""
+ball,1,9.4,Punjab Kings,Suryansh Shedge,Shashank Singh,CV Varun,2,0,,,,,,"",""
+ball,1,9.5,Punjab Kings,Suryansh Shedge,Shashank Singh,CV Varun,1,0,,,,,,"",""
+ball,1,9.6,Punjab Kings,Shashank Singh,Suryansh Shedge,CV Varun,0,0,,,,,,"",""
+ball,1,10.1,Punjab Kings,Suryansh Shedge,Shashank Singh,SP Narine,0,0,,,,,,caught,Suryansh Shedge
+ball,1,10.2,Punjab Kings,M Jansen,Shashank Singh,SP Narine,1,0,,,,,,"",""
+ball,1,10.3,Punjab Kings,Shashank Singh,M Jansen,SP Narine,0,0,,,,,,"",""
+ball,1,10.4,Punjab Kings,Shashank Singh,M Jansen,SP Narine,4,0,,,,,,"",""
+ball,1,10.5,Punjab Kings,Shashank Singh,M Jansen,SP Narine,1,0,,,,,,"",""
+ball,1,10.6,Punjab Kings,M Jansen,Shashank Singh,SP Narine,0,0,,,,,,bowled,M Jansen
+ball,1,11.1,Punjab Kings,Shashank Singh,XC Bartlett,CV Varun,1,0,,,,,,"",""
+ball,1,11.2,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,0,0,,,,,,"",""
+ball,1,11.3,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,1,0,,,,,,"",""
+ball,1,11.4,Punjab Kings,Shashank Singh,XC Bartlett,CV Varun,1,0,,,,,,"",""
+ball,1,11.5,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,0,0,,,,,,"",""
+ball,1,11.6,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,1,0,,,,,,"",""
+ball,1,12.1,Punjab Kings,XC Bartlett,Shashank Singh,SP Narine,0,0,,,,,,"",""
+ball,1,12.2,Punjab Kings,XC Bartlett,Shashank Singh,SP Narine,1,0,,,,,,"",""
+ball,1,12.3,Punjab Kings,Shashank Singh,XC Bartlett,SP Narine,0,0,,,,,,"",""
+ball,1,12.4,Punjab Kings,Shashank Singh,XC Bartlett,SP Narine,0,0,,,,,,"",""
+ball,1,12.5,Punjab Kings,Shashank Singh,XC Bartlett,SP Narine,0,1,1,,,,,"",""
+ball,1,12.6,Punjab Kings,Shashank Singh,XC Bartlett,SP Narine,1,0,,,,,,"",""
+ball,1,12.7,Punjab Kings,XC Bartlett,Shashank Singh,SP Narine,1,0,,,,,,"",""
+ball,1,13.1,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,0,0,,,,,,"",""
+ball,1,13.2,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,1,0,,,,,,"",""
+ball,1,13.3,Punjab Kings,Shashank Singh,XC Bartlett,CV Varun,6,0,,,,,,"",""
+ball,1,13.4,Punjab Kings,Shashank Singh,XC Bartlett,CV Varun,1,0,,,,,,"",""
+ball,1,13.5,Punjab Kings,XC Bartlett,Shashank Singh,CV Varun,1,0,,,,,,"",""
+ball,1,13.6,Punjab Kings,Shashank Singh,XC Bartlett,CV Varun,1,0,,,,,,"",""
+ball,1,14.1,Punjab Kings,Shashank Singh,XC Bartlett,A Nortje,0,0,,,,,,"",""
+ball,1,14.2,Punjab Kings,Shashank Singh,XC Bartlett,A Nortje,1,0,,,,,,"",""
+ball,1,14.3,Punjab Kings,XC Bartlett,Shashank Singh,A Nortje,0,0,,,,,,"",""
+ball,1,14.4,Punjab Kings,XC Bartlett,Shashank Singh,A Nortje,4,0,,,,,,"",""
+ball,1,14.5,Punjab Kings,XC Bartlett,Shashank Singh,A Nortje,0,0,,,,,,"",""
+ball,1,14.6,Punjab Kings,XC Bartlett,Shashank Singh,A Nortje,0,0,,,,,,"",""
+ball,1,15.1,Punjab Kings,Shashank Singh,XC Bartlett,VG Arora,0,0,,,,,,lbw,Shashank Singh
+ball,1,15.2,Punjab Kings,Arshdeep Singh,XC Bartlett,VG Arora,1,0,,,,,,"",""
+ball,1,15.3,Punjab Kings,XC Bartlett,Arshdeep Singh,VG Arora,1,0,,,,,,run out,XC Bartlett
+ball,2,0.1,Kolkata Knight Riders,Q de Kock,SP Narine,M Jansen,1,0,,,,,,"",""
+ball,2,0.2,Kolkata Knight Riders,SP Narine,Q de Kock,M Jansen,1,0,,,,,,"",""
+ball,2,0.3,Kolkata Knight Riders,Q de Kock,SP Narine,M Jansen,1,0,,,,,,"",""
+ball,2,0.4,Kolkata Knight Riders,SP Narine,Q de Kock,M Jansen,0,0,,,,,,"",""
+ball,2,0.5,Kolkata Knight Riders,SP Narine,Q de Kock,M Jansen,4,0,,,,,,"",""
+ball,2,0.6,Kolkata Knight Riders,SP Narine,Q de Kock,M Jansen,0,0,,,,,,bowled,SP Narine
+ball,2,1.1,Kolkata Knight Riders,Q de Kock,AM Rahane,XC Bartlett,0,0,,,,,,"",""
+ball,2,1.2,Kolkata Knight Riders,Q de Kock,AM Rahane,XC Bartlett,0,0,,,,,,caught,Q de Kock
+ball,2,1.3,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,4,0,,,,,,"",""
+ball,2,1.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,0,0,,,,,,"",""
+ball,2,1.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,1,0,,,,,,"",""
+ball,2,1.6,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,0,0,,,,,,"",""
+ball,2,2.1,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,0,0,,,,,,"",""
+ball,2,2.2,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,4,0,,,,,,"",""
+ball,2,2.3,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,4,0,,,,,,"",""
+ball,2,2.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,0,0,,,,,,"",""
+ball,2,2.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,0,0,,,,,,"",""
+ball,2,2.6,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,0,0,,,,,,"",""
+ball,2,3.2,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,0,0,,,,,,"",""
+ball,2,3.3,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,1,0,,,,,,"",""
+ball,2,3.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,1,0,,,,,,"",""
+ball,2,3.5,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,0,0,,,,,,"",""
+ball,2,3.6,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,4,0,,,,,,"",""
+ball,2,4.1,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,4.2,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,4.3,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,4.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,4.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,0,4,,,,4,,"",""
+ball,2,4.6,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,5.1,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,6,0,,,,,,"",""
+ball,2,5.2,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,0,0,,,,,,"",""
+ball,2,5.3,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,XC Bartlett,1,0,,,,,,"",""
+ball,2,5.4,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,6,0,,,,,,"",""
+ball,2,5.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,2,0,,,,,,"",""
+ball,2,5.6,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,XC Bartlett,4,0,,,,,,"",""
+ball,2,6.1,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,6.2,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.3,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.4,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.5,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.6,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,7.1,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,YS Chahal,1,0,,,,,,"",""
+ball,2,7.2,Kolkata Knight Riders,A Raghuvanshi,AM Rahane,YS Chahal,1,0,,,,,,"",""
+ball,2,7.3,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,YS Chahal,0,0,,,,,,"",""
+ball,2,7.4,Kolkata Knight Riders,AM Rahane,A Raghuvanshi,YS Chahal,0,0,,,,,,lbw,AM Rahane
+ball,2,7.5,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,YS Chahal,5,0,,,,,,"",""
+ball,2,7.6,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,YS Chahal,1,0,,,,,,"",""
+ball,2,8.1,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,GJ Maxwell,1,0,,,,,,"",""
+ball,2,8.2,Kolkata Knight Riders,VR Iyer,A Raghuvanshi,GJ Maxwell,1,0,,,,,,"",""
+ball,2,8.3,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,GJ Maxwell,0,0,,,,,,"",""
+ball,2,8.4,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,GJ Maxwell,0,0,,,,,,"",""
+ball,2,8.5,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,GJ Maxwell,0,0,,,,,,"",""
+ball,2,8.6,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,GJ Maxwell,1,0,,,,,,"",""
+ball,2,9.1,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,YS Chahal,0,1,1,,,,,"",""
+ball,2,9.2,Kolkata Knight Riders,A Raghuvanshi,VR Iyer,YS Chahal,0,0,,,,,,caught,A Raghuvanshi
+ball,2,9.3,Kolkata Knight Riders,RK Singh,VR Iyer,YS Chahal,0,0,,,,,,"",""
+ball,2,9.4,Kolkata Knight Riders,RK Singh,VR Iyer,YS Chahal,0,0,,,,,,"",""
+ball,2,9.5,Kolkata Knight Riders,RK Singh,VR Iyer,YS Chahal,0,0,,,,,,"",""
+ball,2,9.6,Kolkata Knight Riders,RK Singh,VR Iyer,YS Chahal,0,0,,,,,,"",""
+ball,2,9.7,Kolkata Knight Riders,RK Singh,VR Iyer,YS Chahal,0,0,,,,,,"",""
+ball,2,10.1,Kolkata Knight Riders,VR Iyer,RK Singh,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.2,Kolkata Knight Riders,RK Singh,VR Iyer,GJ Maxwell,0,0,,,,,,"",""
+ball,2,10.3,Kolkata Knight Riders,RK Singh,VR Iyer,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.4,Kolkata Knight Riders,VR Iyer,RK Singh,GJ Maxwell,0,0,,,,,,lbw,VR Iyer
+ball,2,10.5,Kolkata Knight Riders,AD Russell,RK Singh,GJ Maxwell,0,0,,,,,,"",""
+ball,2,10.6,Kolkata Knight Riders,AD Russell,RK Singh,GJ Maxwell,0,0,,,,,,"",""
+ball,2,11.1,Kolkata Knight Riders,RK Singh,AD Russell,YS Chahal,1,0,,,,,,"",""
+ball,2,11.2,Kolkata Knight Riders,AD Russell,RK Singh,YS Chahal,1,0,,,,,,"",""
+ball,2,11.3,Kolkata Knight Riders,RK Singh,AD Russell,YS Chahal,0,0,,,,,,stumped,RK Singh
+ball,2,11.4,Kolkata Knight Riders,Ramandeep Singh,AD Russell,YS Chahal,0,0,,,,,,caught,Ramandeep Singh
+ball,2,11.5,Kolkata Knight Riders,Harshit Rana,AD Russell,YS Chahal,1,0,,,,,,"",""
+ball,2,11.6,Kolkata Knight Riders,AD Russell,Harshit Rana,YS Chahal,0,0,,,,,,"",""
+ball,2,12.1,Kolkata Knight Riders,Harshit Rana,AD Russell,M Jansen,2,0,,,,,,"",""
+ball,2,12.2,Kolkata Knight Riders,Harshit Rana,AD Russell,M Jansen,0,0,,,,,,"",""
+ball,2,12.3,Kolkata Knight Riders,Harshit Rana,AD Russell,M Jansen,0,0,,,,,,"",""
+ball,2,12.4,Kolkata Knight Riders,Harshit Rana,AD Russell,M Jansen,0,0,,,,,,"",""
+ball,2,12.5,Kolkata Knight Riders,Harshit Rana,AD Russell,M Jansen,0,0,,,,,,bowled,Harshit Rana
+ball,2,12.6,Kolkata Knight Riders,VG Arora,AD Russell,M Jansen,0,0,,,,,,"",""
+ball,2,13.1,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,0,0,,,,,,"",""
+ball,2,13.2,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,6,0,,,,,,"",""
+ball,2,13.3,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,0,0,,,,,,"",""
+ball,2,13.4,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,6,0,,,,,,"",""
+ball,2,13.5,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,4,0,,,,,,"",""
+ball,2,13.6,Kolkata Knight Riders,AD Russell,VG Arora,YS Chahal,0,0,,,,,,"",""
+ball,2,14.1,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.2,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.3,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.4,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.5,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.6,Kolkata Knight Riders,VG Arora,AD Russell,Arshdeep Singh,0,0,,,,,,caught,VG Arora
+ball,2,15.1,Kolkata Knight Riders,AD Russell,A Nortje,M Jansen,0,0,,,,,,bowled,AD Russell

@@ -1,0 +1,272 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2007/08
+info,date,2008/05/07
+info,event,Indian Premier League
+info,match_number,27
+info,venue,Dr DY Patil Sports Academy
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,A Nehra
+info,umpire,DJ Harper
+info,umpire,RE Koertzen
+info,reserve_umpire,UL Dubey
+info,tv_umpire,BF Bowden
+info,match_referee,Talat Ali
+info,winner,Mumbai Indians
+info,winner_wickets,7
+info,player,Mumbai Indians,YV Takawale
+info,player,Mumbai Indians,ST Jayasuriya
+info,player,Mumbai Indians,RV Uthappa
+info,player,Mumbai Indians,DJ Bravo
+info,player,Mumbai Indians,AM Nayar
+info,player,Mumbai Indians,DJ Thornely
+info,player,Mumbai Indians,SM Pollock
+info,player,Mumbai Indians,SS Tiwary
+info,player,Mumbai Indians,RR Raje
+info,player,Mumbai Indians,A Nehra
+info,player,Mumbai Indians,DS Kulkarni
+info,player,Rajasthan Royals,GC Smith
+info,player,Rajasthan Royals,SA Asnodkar
+info,player,Rajasthan Royals,YK Pathan
+info,player,Rajasthan Royals,SR Watson
+info,player,Rajasthan Royals,M Kaif
+info,player,Rajasthan Royals,RA Jadeja
+info,player,Rajasthan Royals,SK Warne
+info,player,Rajasthan Royals,Sohail Tanvir
+info,player,Rajasthan Royals,M Rawat
+info,player,Rajasthan Royals,SK Trivedi
+info,player,Rajasthan Royals,MM Patel
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,AM Nayar,a45a5e8d
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DJ Thornely,7d3937ed
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,GC Smith,72861603
+info,registry,people,M Kaif,d84378a4
+info,registry,people,M Rawat,de8d3876
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RR Raje,5f4e9e8f
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,SA Asnodkar,ae091d39
+info,registry,people,SK Trivedi,3d7e087f
+info,registry,people,SK Warne,bb18be76
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,SS Tiwary,709b0bac
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,Sohail Tanvir,64d43928
+info,registry,people,Talat Ali,1df4131e
+info,registry,people,UL Dubey,b2ef796b
+info,registry,people,YK Pathan,3c6ffae8
+info,registry,people,YV Takawale,4e04666c
+ball,1,0.1,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,0,0,,,,,,"",""
+ball,1,0.2,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,1,0,,,,,,"",""
+ball,1,0.3,Rajasthan Royals,SA Asnodkar,GC Smith,SM Pollock,1,0,,,,,,"",""
+ball,1,0.4,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,0,0,,,,,,"",""
+ball,1,0.5,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,1,0,,,,,,"",""
+ball,1,0.6,Rajasthan Royals,SA Asnodkar,GC Smith,SM Pollock,2,0,,,,,,"",""
+ball,1,1.1,Rajasthan Royals,GC Smith,SA Asnodkar,A Nehra,2,0,,,,,,"",""
+ball,1,1.2,Rajasthan Royals,GC Smith,SA Asnodkar,A Nehra,0,0,,,,,,"",""
+ball,1,1.3,Rajasthan Royals,GC Smith,SA Asnodkar,A Nehra,1,0,,,,,,"",""
+ball,1,1.4,Rajasthan Royals,SA Asnodkar,GC Smith,A Nehra,4,0,,,,,,"",""
+ball,1,1.5,Rajasthan Royals,SA Asnodkar,GC Smith,A Nehra,0,0,,,,,,"",""
+ball,1,1.6,Rajasthan Royals,SA Asnodkar,GC Smith,A Nehra,0,0,,,,,,"",""
+ball,1,2.1,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,0,0,,,,,,"",""
+ball,1,2.2,Rajasthan Royals,GC Smith,SA Asnodkar,SM Pollock,0,0,,,,,,stumped,GC Smith
+ball,1,2.3,Rajasthan Royals,YK Pathan,SA Asnodkar,SM Pollock,0,0,,,,,,"",""
+ball,1,2.4,Rajasthan Royals,YK Pathan,SA Asnodkar,SM Pollock,1,0,,,,,,"",""
+ball,1,2.5,Rajasthan Royals,SA Asnodkar,YK Pathan,SM Pollock,4,0,,,,,,"",""
+ball,1,2.6,Rajasthan Royals,SA Asnodkar,YK Pathan,SM Pollock,4,0,,,,,,"",""
+ball,1,3.1,Rajasthan Royals,YK Pathan,SA Asnodkar,A Nehra,0,0,,,,,,bowled,YK Pathan
+ball,1,3.2,Rajasthan Royals,SR Watson,SA Asnodkar,A Nehra,0,0,,,,,,"",""
+ball,1,3.3,Rajasthan Royals,SR Watson,SA Asnodkar,A Nehra,0,0,,,,,,"",""
+ball,1,3.4,Rajasthan Royals,SR Watson,SA Asnodkar,A Nehra,0,0,,,,,,"",""
+ball,1,3.5,Rajasthan Royals,SR Watson,SA Asnodkar,A Nehra,4,0,,,,,,"",""
+ball,1,3.6,Rajasthan Royals,SR Watson,SA Asnodkar,A Nehra,1,0,,,,,,"",""
+ball,1,4.1,Rajasthan Royals,SR Watson,SA Asnodkar,SM Pollock,2,0,,,,,,"",""
+ball,1,4.2,Rajasthan Royals,SR Watson,SA Asnodkar,SM Pollock,1,0,,,,,,"",""
+ball,1,4.3,Rajasthan Royals,SA Asnodkar,SR Watson,SM Pollock,1,0,,,,,,"",""
+ball,1,4.4,Rajasthan Royals,SR Watson,SA Asnodkar,SM Pollock,1,0,,,,,,"",""
+ball,1,4.5,Rajasthan Royals,SA Asnodkar,SR Watson,SM Pollock,0,0,,,,,,"",""
+ball,1,4.6,Rajasthan Royals,SA Asnodkar,SR Watson,SM Pollock,0,0,,,,,,"",""
+ball,1,5.1,Rajasthan Royals,SR Watson,SA Asnodkar,DS Kulkarni,4,0,,,,,,"",""
+ball,1,5.2,Rajasthan Royals,SR Watson,SA Asnodkar,DS Kulkarni,6,0,,,,,,"",""
+ball,1,5.3,Rajasthan Royals,SR Watson,SA Asnodkar,DS Kulkarni,0,0,,,,,,"",""
+ball,1,5.4,Rajasthan Royals,SR Watson,SA Asnodkar,DS Kulkarni,1,0,,,,,,"",""
+ball,1,5.5,Rajasthan Royals,SA Asnodkar,SR Watson,DS Kulkarni,0,0,,,,,,"",""
+ball,1,5.6,Rajasthan Royals,SA Asnodkar,SR Watson,DS Kulkarni,6,0,,,,,,"",""
+ball,1,6.1,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.2,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.3,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.4,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,0,0,,,,,,"",""
+ball,1,6.5,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,0,1,1,,,,,"",""
+ball,1,6.6,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.7,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,0,1,,,,1,,"",""
+ball,1,6.8,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,0,0,,,,,,"",""
+ball,1,6.9,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,2,0,,,,,,"",""
+ball,1,7.1,Rajasthan Royals,SR Watson,SA Asnodkar,ST Jayasuriya,4,0,,,,,,"",""
+ball,1,7.2,Rajasthan Royals,SR Watson,SA Asnodkar,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,7.3,Rajasthan Royals,SA Asnodkar,SR Watson,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,7.4,Rajasthan Royals,SR Watson,SA Asnodkar,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,7.5,Rajasthan Royals,SA Asnodkar,SR Watson,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,7.6,Rajasthan Royals,SR Watson,SA Asnodkar,ST Jayasuriya,4,0,,,,,,"",""
+ball,1,8.1,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,2,0,,,,,,"",""
+ball,1,8.2,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,1,0,,,,,,"",""
+ball,1,8.3,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,1,0,,,,,,"",""
+ball,1,8.4,Rajasthan Royals,SA Asnodkar,SR Watson,DJ Bravo,0,1,,,,1,,"",""
+ball,1,8.5,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,0,1,1,,,,,"",""
+ball,1,8.6,Rajasthan Royals,SR Watson,SA Asnodkar,DJ Bravo,0,0,,,,,,bowled,SR Watson
+ball,1,8.7,Rajasthan Royals,M Kaif,SA Asnodkar,DJ Bravo,0,0,,,,,,"",""
+ball,1,9.1,Rajasthan Royals,SA Asnodkar,M Kaif,ST Jayasuriya,0,0,,,,,,"",""
+ball,1,9.2,Rajasthan Royals,SA Asnodkar,M Kaif,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,9.3,Rajasthan Royals,M Kaif,SA Asnodkar,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,9.4,Rajasthan Royals,SA Asnodkar,M Kaif,ST Jayasuriya,1,0,,,,,,"",""
+ball,1,9.5,Rajasthan Royals,M Kaif,SA Asnodkar,ST Jayasuriya,2,0,,,,,,"",""
+ball,1,9.6,Rajasthan Royals,M Kaif,SA Asnodkar,ST Jayasuriya,0,0,,,,,,"",""
+ball,1,10.1,Rajasthan Royals,SA Asnodkar,M Kaif,RR Raje,1,0,,,,,,"",""
+ball,1,10.2,Rajasthan Royals,M Kaif,SA Asnodkar,RR Raje,0,0,,,,,,"",""
+ball,1,10.3,Rajasthan Royals,M Kaif,SA Asnodkar,RR Raje,1,0,,,,,,"",""
+ball,1,10.4,Rajasthan Royals,SA Asnodkar,M Kaif,RR Raje,1,0,,,,,,"",""
+ball,1,10.5,Rajasthan Royals,M Kaif,SA Asnodkar,RR Raje,0,0,,,,,,caught,M Kaif
+ball,1,10.6,Rajasthan Royals,SA Asnodkar,RA Jadeja,RR Raje,0,0,,,,,,"",""
+ball,1,11.1,Rajasthan Royals,RA Jadeja,SA Asnodkar,DS Kulkarni,0,0,,,,,,caught,RA Jadeja
+ball,1,11.2,Rajasthan Royals,SA Asnodkar,SK Warne,DS Kulkarni,1,0,,,,,,"",""
+ball,1,11.3,Rajasthan Royals,SK Warne,SA Asnodkar,DS Kulkarni,0,0,,,,,,"",""
+ball,1,11.4,Rajasthan Royals,SK Warne,SA Asnodkar,DS Kulkarni,0,0,,,,,,"",""
+ball,1,11.5,Rajasthan Royals,SK Warne,SA Asnodkar,DS Kulkarni,1,0,,,,,,"",""
+ball,1,11.6,Rajasthan Royals,SA Asnodkar,SK Warne,DS Kulkarni,1,0,,,,,,"",""
+ball,1,12.1,Rajasthan Royals,SA Asnodkar,SK Warne,RR Raje,1,0,,,,,,"",""
+ball,1,12.2,Rajasthan Royals,SK Warne,SA Asnodkar,RR Raje,1,0,,,,,,"",""
+ball,1,12.3,Rajasthan Royals,SA Asnodkar,SK Warne,RR Raje,0,0,,,,,,"",""
+ball,1,12.4,Rajasthan Royals,SA Asnodkar,SK Warne,RR Raje,1,0,,,,,,"",""
+ball,1,12.5,Rajasthan Royals,SK Warne,SA Asnodkar,RR Raje,0,1,1,,,,,"",""
+ball,1,12.6,Rajasthan Royals,SK Warne,SA Asnodkar,RR Raje,4,0,,,,,,"",""
+ball,1,12.7,Rajasthan Royals,SK Warne,SA Asnodkar,RR Raje,1,0,,,,,,"",""
+ball,1,13.1,Rajasthan Royals,SK Warne,SA Asnodkar,DS Kulkarni,0,0,,,,,,caught,SK Warne
+ball,1,13.2,Rajasthan Royals,SA Asnodkar,Sohail Tanvir,DS Kulkarni,0,0,,,,,,"",""
+ball,1,13.3,Rajasthan Royals,SA Asnodkar,Sohail Tanvir,DS Kulkarni,0,0,,,,,,"",""
+ball,1,13.4,Rajasthan Royals,SA Asnodkar,Sohail Tanvir,DS Kulkarni,1,0,,,,,,"",""
+ball,1,13.5,Rajasthan Royals,Sohail Tanvir,SA Asnodkar,DS Kulkarni,0,0,,,,,,"",""
+ball,1,13.6,Rajasthan Royals,Sohail Tanvir,SA Asnodkar,DS Kulkarni,0,0,,,,,,"",""
+ball,1,14.1,Rajasthan Royals,SA Asnodkar,Sohail Tanvir,RR Raje,0,0,,,,,,caught,SA Asnodkar
+ball,1,14.2,Rajasthan Royals,Sohail Tanvir,M Rawat,RR Raje,1,0,,,,,,"",""
+ball,1,14.3,Rajasthan Royals,M Rawat,Sohail Tanvir,RR Raje,1,0,,,,,,"",""
+ball,1,14.4,Rajasthan Royals,Sohail Tanvir,M Rawat,RR Raje,4,0,,,,,,"",""
+ball,1,14.5,Rajasthan Royals,Sohail Tanvir,M Rawat,RR Raje,1,0,,,,,,"",""
+ball,1,14.6,Rajasthan Royals,M Rawat,Sohail Tanvir,RR Raje,0,0,,,,,,"",""
+ball,1,15.1,Rajasthan Royals,Sohail Tanvir,M Rawat,A Nehra,0,0,,,,,,bowled,Sohail Tanvir
+ball,1,15.2,Rajasthan Royals,SK Trivedi,M Rawat,A Nehra,1,0,,,,,,"",""
+ball,1,15.3,Rajasthan Royals,M Rawat,SK Trivedi,A Nehra,0,0,,,,,,"",""
+ball,1,15.4,Rajasthan Royals,M Rawat,SK Trivedi,A Nehra,0,0,,,,,,"",""
+ball,1,15.5,Rajasthan Royals,M Rawat,SK Trivedi,A Nehra,0,0,,,,,,caught,M Rawat
+ball,1,15.6,Rajasthan Royals,MM Patel,SK Trivedi,A Nehra,0,0,,,,,,"",""
+ball,1,16.1,Rajasthan Royals,SK Trivedi,MM Patel,DJ Bravo,0,0,,,,,,"",""
+ball,1,16.2,Rajasthan Royals,SK Trivedi,MM Patel,DJ Bravo,0,0,,,,,,bowled,SK Trivedi
+ball,2,0.1,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,1,1,,,,,"",""
+ball,2,0.5,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,1,1,,,,,"",""
+ball,2,0.7,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.8,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,1,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,1,1,,,,,"",""
+ball,2,1.5,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,2,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,2,1.7,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,5,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,6,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,0,1,,,,1,,"",""
+ball,2,3.5,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,1,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,0,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,0,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,6,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,2,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,YV Takawale,ST Jayasuriya,SK Trivedi,0,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,2,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,YV Takawale,ST Jayasuriya,MM Patel,1,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,0,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,ST Jayasuriya,YV Takawale,MM Patel,1,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,YV Takawale,ST Jayasuriya,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,ST Jayasuriya,YV Takawale,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,ST Jayasuriya,YV Takawale,SR Watson,0,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,ST Jayasuriya,YV Takawale,SR Watson,0,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,ST Jayasuriya,YV Takawale,SR Watson,0,0,,,,,,caught,ST Jayasuriya
+ball,2,7.4,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,1,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,YV Takawale,RV Uthappa,SR Watson,4,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,YV Takawale,RV Uthappa,SR Watson,0,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,RV Uthappa,YV Takawale,SK Trivedi,0,1,,,,1,,"",""
+ball,2,8.2,Mumbai Indians,YV Takawale,RV Uthappa,SK Trivedi,1,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,RV Uthappa,YV Takawale,SK Trivedi,1,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,YV Takawale,RV Uthappa,SK Trivedi,1,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,RV Uthappa,YV Takawale,SK Trivedi,0,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,RV Uthappa,YV Takawale,SK Trivedi,1,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,YV Takawale,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,0,1,1,,,,,"",""
+ball,2,9.4,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,4,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,1,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,YV Takawale,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,9.7,Mumbai Indians,RV Uthappa,YV Takawale,SR Watson,4,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,YV Takawale,RV Uthappa,SK Warne,0,0,,,,,,bowled,YV Takawale
+ball,2,10.2,Mumbai Indians,DJ Bravo,RV Uthappa,SK Warne,0,1,1,,,,,"",""
+ball,2,10.3,Mumbai Indians,DJ Bravo,RV Uthappa,SK Warne,0,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,DJ Bravo,RV Uthappa,SK Warne,1,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,RV Uthappa,DJ Bravo,SK Warne,2,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,RV Uthappa,DJ Bravo,SK Warne,4,0,,,,,,"",""
+ball,2,10.7,Mumbai Indians,RV Uthappa,DJ Bravo,SK Warne,0,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,DJ Bravo,RV Uthappa,SR Watson,0,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,DJ Bravo,RV Uthappa,SR Watson,0,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,DJ Bravo,RV Uthappa,SR Watson,0,0,,,,,,caught,DJ Bravo
+ball,2,11.4,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,0,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,RV Uthappa,AM Nayar,SR Watson,0,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,AM Nayar,RV Uthappa,SK Trivedi,0,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,AM Nayar,RV Uthappa,SK Trivedi,1,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,RV Uthappa,AM Nayar,SK Trivedi,0,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,RV Uthappa,AM Nayar,SK Trivedi,4,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,RV Uthappa,AM Nayar,SK Trivedi,6,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,RV Uthappa,AM Nayar,SK Trivedi,0,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,RV Uthappa,AM Nayar,SR Watson,3,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,RV Uthappa,AM Nayar,SR Watson,1,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,0,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,AM Nayar,RV Uthappa,SR Watson,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,4,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,1,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,RV Uthappa,AM Nayar,SK Warne,1,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,0,3,3,,,,,"",""
+ball,2,14.5,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,0,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,2,0,,,,,,"",""
+ball,2,14.7,Mumbai Indians,AM Nayar,RV Uthappa,SK Warne,0,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,RV Uthappa,AM Nayar,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,RV Uthappa,AM Nayar,Sohail Tanvir,0,1,1,,,,,"",""
+ball,2,15.3,Mumbai Indians,RV Uthappa,AM Nayar,Sohail Tanvir,0,1,1,,,,,"",""

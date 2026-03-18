@@ -1,0 +1,288 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Pune Warriors
+info,team,Delhi Daredevils
+info,gender,male
+info,season,2012
+info,date,2012/04/24
+info,event,Indian Premier League
+info,match_number,31
+info,venue,Subrata Roy Sahara Stadium
+info,city,Pune
+info,toss_winner,Pune Warriors
+info,toss_decision,bat
+info,player_of_match,V Sehwag
+info,umpire,S Ravi
+info,umpire,RJ Tucker
+info,reserve_umpire,SD Ranade
+info,tv_umpire,JD Cloete
+info,match_referee,Raju Mukherjee
+info,winner,Delhi Daredevils
+info,winner_wickets,8
+info,player,Delhi Daredevils,DPMD Jayawardene
+info,player,Delhi Daredevils,V Sehwag
+info,player,Delhi Daredevils,KP Pietersen
+info,player,Delhi Daredevils,LRPL Taylor
+info,player,Delhi Daredevils,NV Ojha
+info,player,Delhi Daredevils,IK Pathan
+info,player,Delhi Daredevils,Y Nagar
+info,player,Delhi Daredevils,M Morkel
+info,player,Delhi Daredevils,P Negi
+info,player,Delhi Daredevils,S Nadeem
+info,player,Delhi Daredevils,UT Yadav
+info,player,Pune Warriors,JD Ryder
+info,player,Pune Warriors,MK Pandey
+info,player,Pune Warriors,SC Ganguly
+info,player,Pune Warriors,RV Uthappa
+info,player,Pune Warriors,SPD Smith
+info,player,Pune Warriors,LJ Wright
+info,player,Pune Warriors,AC Thomas
+info,player,Pune Warriors,M Manhas
+info,player,Pune Warriors,M Kartik
+info,player,Pune Warriors,R Sharma
+info,player,Pune Warriors,A Nehra
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,AC Thomas,b552a935
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Kartik,abfeb126
+info,registry,people,M Manhas,c42aaf71
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,NV Ojha,890946a0
+info,registry,people,P Negi,f62772e5
+info,registry,people,R Sharma,5d9a1a73
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,Raju Mukherjee,7a3244b5
+info,registry,people,S Nadeem,9d80c5e1
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SD Ranade,369c85c1
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,Y Nagar,662c47a6
+ball,1,0.1,Pune Warriors,JD Ryder,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,0.2,Pune Warriors,JD Ryder,MK Pandey,IK Pathan,0,0,,,,,,bowled,JD Ryder
+ball,1,0.3,Pune Warriors,SC Ganguly,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,0.4,Pune Warriors,SC Ganguly,MK Pandey,IK Pathan,1,0,,,,,,"",""
+ball,1,0.5,Pune Warriors,MK Pandey,SC Ganguly,IK Pathan,0,0,,,,,,"",""
+ball,1,0.6,Pune Warriors,MK Pandey,SC Ganguly,IK Pathan,0,0,,,,,,"",""
+ball,1,1.1,Pune Warriors,SC Ganguly,MK Pandey,M Morkel,0,0,,,,,,"",""
+ball,1,1.2,Pune Warriors,SC Ganguly,MK Pandey,M Morkel,0,0,,,,,,caught,SC Ganguly
+ball,1,1.3,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,0,0,,,,,,"",""
+ball,1,1.4,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,0,0,,,,,,"",""
+ball,1,1.5,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,0,0,,,,,,"",""
+ball,1,1.6,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,1,0,,,,,,"",""
+ball,1,2.1,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,2.2,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,2.3,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,1,0,,,,,,"",""
+ball,1,2.4,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,0,0,,,,,,"",""
+ball,1,2.5,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,4,0,,,,,,"",""
+ball,1,2.6,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,0,0,,,,,,"",""
+ball,1,3.1,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,0,0,,,,,,"",""
+ball,1,3.2,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,1,0,,,,,,"",""
+ball,1,3.3,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,3.4,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,1,0,,,,,,"",""
+ball,1,3.5,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,4,0,,,,,,"",""
+ball,1,3.6,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,0,0,,,,,,"",""
+ball,1,4.1,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,4.2,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,4.3,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,0,,,,,,"",""
+ball,1,4.4,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,2,0,,,,,,"",""
+ball,1,4.5,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,1,0,,,,,,"",""
+ball,1,4.6,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,1,0,,,,,,"",""
+ball,1,5.1,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,6,0,,,,,,"",""
+ball,1,5.2,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,0,0,,,,,,"",""
+ball,1,5.3,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,1,0,,,,,,"",""
+ball,1,5.4,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,1,0,,,,,,"",""
+ball,1,5.5,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,1,0,,,,,,"",""
+ball,1,5.6,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,1,0,,,,,,"",""
+ball,1,6.1,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,6.2,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,6.3,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,6.4,Pune Warriors,RV Uthappa,MK Pandey,P Negi,4,0,,,,,,"",""
+ball,1,6.5,Pune Warriors,RV Uthappa,MK Pandey,P Negi,4,0,,,,,,"",""
+ball,1,6.6,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,7.1,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,0,0,,,,,,"",""
+ball,1,7.2,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,7.3,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,7.4,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,7.5,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,7.6,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,8.1,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,8.2,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,8.3,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,8.4,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,8.5,Pune Warriors,MK Pandey,RV Uthappa,P Negi,0,0,,,,,,"",""
+ball,1,8.6,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,9.1,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,9.2,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,9.3,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,9.4,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,9.5,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,9.6,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,10.1,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,10.2,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,10.3,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,10.4,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,10.5,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,10.6,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,11.1,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,11.2,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,11.3,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,11.4,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,11.5,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,4,0,,,,,,"",""
+ball,1,11.6,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,12.1,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,4,0,,,,,,"",""
+ball,1,12.2,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,12.3,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,1,0,,,,,,"",""
+ball,1,12.4,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,6,0,,,,,,"",""
+ball,1,12.5,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,0,0,,,,,,"",""
+ball,1,12.6,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,13.1,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,13.2,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,0,0,,,,,,"",""
+ball,1,13.3,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,1,0,,,,,,"",""
+ball,1,13.4,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,0,0,,,,,,"",""
+ball,1,13.5,Pune Warriors,MK Pandey,RV Uthappa,S Nadeem,1,0,,,,,,"",""
+ball,1,13.6,Pune Warriors,RV Uthappa,MK Pandey,S Nadeem,4,0,,,,,,"",""
+ball,1,14.1,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,2,0,,,,,,"",""
+ball,1,14.2,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,1,0,,,,,,"",""
+ball,1,14.3,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,2,0,,,,,,"",""
+ball,1,14.4,Pune Warriors,RV Uthappa,MK Pandey,IK Pathan,0,1,,,,1,,"",""
+ball,1,14.5,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,2,0,,,,,,"",""
+ball,1,14.6,Pune Warriors,MK Pandey,RV Uthappa,IK Pathan,6,0,,,,,,"",""
+ball,1,15.1,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,15.2,Pune Warriors,RV Uthappa,MK Pandey,P Negi,0,0,,,,,,"",""
+ball,1,15.3,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,15.4,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,15.5,Pune Warriors,RV Uthappa,MK Pandey,P Negi,1,0,,,,,,"",""
+ball,1,15.6,Pune Warriors,MK Pandey,RV Uthappa,P Negi,1,0,,,,,,"",""
+ball,1,16.1,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,16.2,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,1,0,,,,,,"",""
+ball,1,16.3,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,4,0,,,,,,"",""
+ball,1,16.4,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,4,0,,,,,,"",""
+ball,1,16.5,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,16.6,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,0,0,,,,,,"",""
+ball,1,17.1,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,1,0,,,,,,"",""
+ball,1,17.2,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,4,0,,,,,,"",""
+ball,1,17.3,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,4,0,,,,,,"",""
+ball,1,17.4,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,2,0,,,,,,"",""
+ball,1,17.5,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,1,0,,,,,,"",""
+ball,1,17.6,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,1,0,,,,,,"",""
+ball,1,18.1,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,2,0,,,,,,"",""
+ball,1,18.2,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,0,0,,,,,,"",""
+ball,1,18.3,Pune Warriors,MK Pandey,RV Uthappa,UT Yadav,1,0,,,,,,"",""
+ball,1,18.4,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,0,0,,,,,,"",""
+ball,1,18.5,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,4,0,,,,,,"",""
+ball,1,18.6,Pune Warriors,RV Uthappa,MK Pandey,UT Yadav,2,0,,,,,,"",""
+ball,1,19.1,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,0,4,,,4,,,"",""
+ball,1,19.2,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,1,0,,,,,,"",""
+ball,1,19.3,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,2,0,,,,,,"",""
+ball,1,19.4,Pune Warriors,RV Uthappa,MK Pandey,M Morkel,1,0,,,,,,"",""
+ball,1,19.5,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,4,0,,,,,,"",""
+ball,1,19.6,Pune Warriors,MK Pandey,RV Uthappa,M Morkel,2,0,,,,,,"",""
+ball,2,0.1,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,0,0,,,,,,"",""
+ball,2,0.2,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,0,1,1,,,,,"",""
+ball,2,0.3,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,1,0,,,,,,"",""
+ball,2,0.4,Delhi Daredevils,V Sehwag,DPMD Jayawardene,AC Thomas,1,0,,,,,,"",""
+ball,2,0.5,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,4,0,,,,,,"",""
+ball,2,0.6,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,0,0,,,,,,"",""
+ball,2,0.7,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,0,1,,,,1,,"",""
+ball,2,1.1,Delhi Daredevils,DPMD Jayawardene,V Sehwag,A Nehra,1,0,,,,,,"",""
+ball,2,1.2,Delhi Daredevils,V Sehwag,DPMD Jayawardene,A Nehra,1,0,,,,,,"",""
+ball,2,1.3,Delhi Daredevils,DPMD Jayawardene,V Sehwag,A Nehra,0,0,,,,,,"",""
+ball,2,1.4,Delhi Daredevils,DPMD Jayawardene,V Sehwag,A Nehra,0,0,,,,,,"",""
+ball,2,1.5,Delhi Daredevils,DPMD Jayawardene,V Sehwag,A Nehra,4,0,,,,,,"",""
+ball,2,1.6,Delhi Daredevils,DPMD Jayawardene,V Sehwag,A Nehra,1,0,,,,,,"",""
+ball,2,2.1,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,0,0,,,,,,"",""
+ball,2,2.2,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,4,0,,,,,,"",""
+ball,2,2.3,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,2,0,,,,,,"",""
+ball,2,2.4,Delhi Daredevils,DPMD Jayawardene,V Sehwag,AC Thomas,1,0,,,,,,"",""
+ball,2,2.5,Delhi Daredevils,V Sehwag,DPMD Jayawardene,AC Thomas,0,0,,,,,,run out,DPMD Jayawardene
+ball,2,2.6,Delhi Daredevils,KP Pietersen,V Sehwag,AC Thomas,0,0,,,,,,"",""
+ball,2,3.1,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,4,0,,,,,,"",""
+ball,2,3.2,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,2,0,,,,,,"",""
+ball,2,3.3,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,1,0,,,,,,"",""
+ball,2,3.4,Delhi Daredevils,KP Pietersen,V Sehwag,A Nehra,0,0,,,,,,"",""
+ball,2,3.5,Delhi Daredevils,KP Pietersen,V Sehwag,A Nehra,1,0,,,,,,"",""
+ball,2,3.6,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,4,0,,,,,,"",""
+ball,2,4.1,Delhi Daredevils,KP Pietersen,V Sehwag,LJ Wright,1,0,,,,,,"",""
+ball,2,4.2,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,4,0,,,,,,"",""
+ball,2,4.3,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,6,0,,,,,,"",""
+ball,2,4.4,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,1,0,,,,,,"",""
+ball,2,4.5,Delhi Daredevils,KP Pietersen,V Sehwag,LJ Wright,0,0,,,,,,"",""
+ball,2,4.6,Delhi Daredevils,KP Pietersen,V Sehwag,LJ Wright,0,0,,,,,,"",""
+ball,2,5.1,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,4,0,,,,,,"",""
+ball,2,5.2,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,0,0,,,,,,"",""
+ball,2,5.3,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,0,0,,,,,,"",""
+ball,2,5.4,Delhi Daredevils,V Sehwag,KP Pietersen,A Nehra,1,0,,,,,,"",""
+ball,2,5.5,Delhi Daredevils,KP Pietersen,V Sehwag,A Nehra,4,0,,,,,,"",""
+ball,2,5.6,Delhi Daredevils,KP Pietersen,V Sehwag,A Nehra,6,0,,,,,,"",""
+ball,2,6.1,Delhi Daredevils,V Sehwag,KP Pietersen,SC Ganguly,4,0,,,,,,"",""
+ball,2,6.2,Delhi Daredevils,V Sehwag,KP Pietersen,SC Ganguly,2,0,,,,,,"",""
+ball,2,6.3,Delhi Daredevils,V Sehwag,KP Pietersen,SC Ganguly,1,0,,,,,,"",""
+ball,2,6.4,Delhi Daredevils,KP Pietersen,V Sehwag,SC Ganguly,0,0,,,,,,"",""
+ball,2,6.5,Delhi Daredevils,KP Pietersen,V Sehwag,SC Ganguly,1,0,,,,,,"",""
+ball,2,6.6,Delhi Daredevils,V Sehwag,KP Pietersen,SC Ganguly,4,0,,,,,,"",""
+ball,2,7.1,Delhi Daredevils,KP Pietersen,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,7.2,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,0,0,,,,,,"",""
+ball,2,7.3,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,1,0,,,,,,"",""
+ball,2,7.4,Delhi Daredevils,KP Pietersen,V Sehwag,M Kartik,0,0,,,,,,"",""
+ball,2,7.5,Delhi Daredevils,KP Pietersen,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,7.6,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,1,0,,,,,,"",""
+ball,2,8.1,Delhi Daredevils,V Sehwag,KP Pietersen,R Sharma,1,0,,,,,,"",""
+ball,2,8.2,Delhi Daredevils,KP Pietersen,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,8.3,Delhi Daredevils,V Sehwag,KP Pietersen,R Sharma,0,4,,,,4,,"",""
+ball,2,8.4,Delhi Daredevils,V Sehwag,KP Pietersen,R Sharma,1,0,,,,,,"",""
+ball,2,8.5,Delhi Daredevils,KP Pietersen,V Sehwag,R Sharma,6,0,,,,,,"",""
+ball,2,8.6,Delhi Daredevils,KP Pietersen,V Sehwag,R Sharma,0,0,,,,,,"",""
+ball,2,9.1,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,1,0,,,,,,"",""
+ball,2,9.2,Delhi Daredevils,KP Pietersen,V Sehwag,M Kartik,2,0,,,,,,"",""
+ball,2,9.3,Delhi Daredevils,KP Pietersen,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,9.4,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,0,0,,,,,,"",""
+ball,2,9.5,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,4,0,,,,,,"",""
+ball,2,9.6,Delhi Daredevils,V Sehwag,KP Pietersen,M Kartik,1,0,,,,,,"",""
+ball,2,10.1,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,1,0,,,,,,"",""
+ball,2,10.2,Delhi Daredevils,KP Pietersen,V Sehwag,LJ Wright,1,0,,,,,,"",""
+ball,2,10.3,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,2,0,,,,,,"",""
+ball,2,10.4,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,1,0,,,,,,"",""
+ball,2,10.5,Delhi Daredevils,KP Pietersen,V Sehwag,LJ Wright,1,0,,,,,,"",""
+ball,2,10.6,Delhi Daredevils,V Sehwag,KP Pietersen,LJ Wright,6,0,,,,,,"",""
+ball,2,11.1,Delhi Daredevils,KP Pietersen,V Sehwag,R Sharma,0,0,,,,,,caught,KP Pietersen
+ball,2,11.2,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,1,0,,,,,,"",""
+ball,2,11.3,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,0,0,,,,,,"",""
+ball,2,11.4,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,11.5,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,1,0,,,,,,"",""
+ball,2,11.6,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,12.1,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,12.2,Delhi Daredevils,V Sehwag,LRPL Taylor,M Kartik,4,0,,,,,,"",""
+ball,2,12.3,Delhi Daredevils,V Sehwag,LRPL Taylor,M Kartik,1,0,,,,,,"",""
+ball,2,12.4,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,0,0,,,,,,"",""
+ball,2,12.5,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,0,1,1,,,,,"",""
+ball,2,12.6,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,12.7,Delhi Daredevils,V Sehwag,LRPL Taylor,M Kartik,1,0,,,,,,"",""
+ball,2,13.1,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,0,0,,,,,,"",""
+ball,2,13.2,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,0,0,,,,,,"",""
+ball,2,13.3,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,4,0,,,,,,"",""
+ball,2,13.4,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,1,0,,,,,,"",""
+ball,2,13.5,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,13.6,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,0,0,,,,,,"",""
+ball,2,14.1,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,0,0,,,,,,"",""
+ball,2,14.2,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,14.3,Delhi Daredevils,V Sehwag,LRPL Taylor,M Kartik,1,0,,,,,,"",""
+ball,2,14.4,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,1,0,,,,,,"",""
+ball,2,14.5,Delhi Daredevils,V Sehwag,LRPL Taylor,M Kartik,1,0,,,,,,"",""
+ball,2,14.6,Delhi Daredevils,LRPL Taylor,V Sehwag,M Kartik,0,0,,,,,,"",""
+ball,2,15.1,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,1,0,,,,,,"",""
+ball,2,15.2,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,15.3,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,1,0,,,,,,"",""
+ball,2,15.4,Delhi Daredevils,LRPL Taylor,V Sehwag,R Sharma,1,0,,,,,,"",""
+ball,2,15.5,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,4,0,,,,,,"",""
+ball,2,15.6,Delhi Daredevils,V Sehwag,LRPL Taylor,R Sharma,6,0,,,,,,"",""

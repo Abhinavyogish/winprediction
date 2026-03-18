@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Kings XI Punjab
+info,gender,male
+info,season,2009
+info,date,2009/05/20
+info,event,Indian Premier League
+info,match_number,54
+info,venue,Kingsmead
+info,city,Durban
+info,neutralvenue,true
+info,toss_winner,Chennai Super Kings
+info,toss_decision,bat
+info,player_of_match,M Muralitharan
+info,umpire,BG Jerling
+info,umpire,SJA Taufel
+info,reserve_umpire,EC Hendrikse
+info,tv_umpire,SS Hazare
+info,match_referee,D Govindjee
+info,winner,Chennai Super Kings
+info,winner_runs,24
+info,player,Chennai Super Kings,GJ Bailey
+info,player,Chennai Super Kings,PA Patel
+info,player,Chennai Super Kings,SK Raina
+info,player,Chennai Super Kings,S Badrinath
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,JDP Oram
+info,player,Chennai Super Kings,MS Gony
+info,player,Chennai Super Kings,R Ashwin
+info,player,Chennai Super Kings,T Thushara
+info,player,Chennai Super Kings,L Balaji
+info,player,Chennai Super Kings,M Muralitharan
+info,player,Kings XI Punjab,S Sohal
+info,player,Kings XI Punjab,SM Katich
+info,player,Kings XI Punjab,LA Pomersbach
+info,player,Kings XI Punjab,Yuvraj Singh
+info,player,Kings XI Punjab,KC Sangakkara
+info,player,Kings XI Punjab,WA Mota
+info,player,Kings XI Punjab,IK Pathan
+info,player,Kings XI Punjab,B Lee
+info,player,Kings XI Punjab,PP Chawla
+info,player,Kings XI Punjab,RR Powar
+info,player,Kings XI Punjab,S Sreesanth
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BG Jerling,26457e41
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,GJ Bailey,5056011d
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,L Balaji,b2b50355
+info,registry,people,LA Pomersbach,b63ab531
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,MS Gony,ae78bc32
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RR Powar,5d096f3d
+info,registry,people,S Badrinath,3576e47e
+info,registry,people,S Sohal,3fca55af
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SM Katich,fdedb37c
+info,registry,people,SS Hazare,166e5081
+info,registry,people,T Thushara,b2ae53f5
+info,registry,people,WA Mota,3dba85c2
+info,registry,people,Yuvraj Singh,1c914163
+ball,1,0.1,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,0,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,0,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,1,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,PA Patel,GJ Bailey,B Lee,1,0,,,,,,"",""
+ball,1,0.5,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,0,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,4,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,4,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,0,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,1,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,GJ Bailey,PA Patel,IK Pathan,1,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,1,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,GJ Bailey,PA Patel,IK Pathan,4,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,PA Patel,GJ Bailey,B Lee,0,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,PA Patel,GJ Bailey,B Lee,1,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,1,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,PA Patel,GJ Bailey,B Lee,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,4,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,GJ Bailey,PA Patel,B Lee,0,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,4,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,0,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,6,0,,,,,,"",""
+ball,1,3.5,Chennai Super Kings,PA Patel,GJ Bailey,IK Pathan,1,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,GJ Bailey,PA Patel,IK Pathan,0,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,PA Patel,GJ Bailey,RR Powar,0,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,PA Patel,GJ Bailey,RR Powar,4,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,PA Patel,GJ Bailey,RR Powar,0,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,PA Patel,GJ Bailey,RR Powar,1,0,,,,,,"",""
+ball,1,4.5,Chennai Super Kings,GJ Bailey,PA Patel,RR Powar,0,0,,,,,,run out,GJ Bailey
+ball,1,4.6,Chennai Super Kings,PA Patel,SK Raina,RR Powar,4,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,SK Raina,PA Patel,S Sreesanth,4,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,SK Raina,PA Patel,S Sreesanth,1,0,,,,,,"",""
+ball,1,5.3,Chennai Super Kings,PA Patel,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,5.4,Chennai Super Kings,PA Patel,SK Raina,S Sreesanth,1,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,SK Raina,PA Patel,S Sreesanth,0,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,SK Raina,PA Patel,S Sreesanth,0,0,,,,,,"",""
+ball,1,6.1,Chennai Super Kings,PA Patel,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,SK Raina,PA Patel,RR Powar,1,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,PA Patel,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,SK Raina,PA Patel,RR Powar,1,0,,,,,,"",""
+ball,1,6.5,Chennai Super Kings,PA Patel,SK Raina,RR Powar,0,0,,,,,,bowled,PA Patel
+ball,1,6.6,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,0,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,0,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,0,1,1,,,,,"",""
+ball,1,7.4,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,4,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,1,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,S Badrinath,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,7.7,Chennai Super Kings,S Badrinath,SK Raina,S Sreesanth,1,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,0,1,,,,1,,"",""
+ball,1,8.3,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,SK Raina,S Badrinath,RR Powar,1,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,S Badrinath,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,SK Raina,S Badrinath,S Sreesanth,1,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,S Badrinath,SK Raina,S Sreesanth,2,0,,,,,,"",""
+ball,1,9.3,Chennai Super Kings,S Badrinath,SK Raina,S Sreesanth,0,0,,,,,,caught,S Badrinath
+ball,1,9.4,Chennai Super Kings,MS Dhoni,SK Raina,S Sreesanth,2,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,MS Dhoni,SK Raina,S Sreesanth,0,0,,,,,,bowled,MS Dhoni
+ball,1,9.6,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,SK Raina,JDP Oram,RR Powar,1,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,JDP Oram,SK Raina,RR Powar,0,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,JDP Oram,SK Raina,RR Powar,1,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,SK Raina,JDP Oram,RR Powar,0,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,SK Raina,JDP Oram,RR Powar,1,0,,,,,,"",""
+ball,1,10.6,Chennai Super Kings,JDP Oram,SK Raina,RR Powar,0,1,,,,1,,"",""
+ball,1,11.1,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,4,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,0,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,JDP Oram,SK Raina,S Sreesanth,1,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,SK Raina,JDP Oram,S Sreesanth,0,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,JDP Oram,SK Raina,PP Chawla,2,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,JDP Oram,SK Raina,PP Chawla,1,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,SK Raina,JDP Oram,PP Chawla,1,0,,,,,,"",""
+ball,1,12.4,Chennai Super Kings,JDP Oram,SK Raina,PP Chawla,0,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,JDP Oram,SK Raina,PP Chawla,1,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,SK Raina,JDP Oram,PP Chawla,1,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,SK Raina,JDP Oram,WA Mota,1,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,JDP Oram,SK Raina,WA Mota,1,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,SK Raina,JDP Oram,WA Mota,0,0,,,,,,caught,SK Raina
+ball,1,13.4,Chennai Super Kings,MS Gony,JDP Oram,WA Mota,0,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,MS Gony,JDP Oram,WA Mota,1,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,JDP Oram,MS Gony,WA Mota,1,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,JDP Oram,MS Gony,PP Chawla,1,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,MS Gony,JDP Oram,PP Chawla,6,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,MS Gony,JDP Oram,PP Chawla,0,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,MS Gony,JDP Oram,PP Chawla,0,0,,,,,,bowled,MS Gony
+ball,1,14.5,Chennai Super Kings,R Ashwin,JDP Oram,PP Chawla,0,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,R Ashwin,JDP Oram,PP Chawla,0,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,JDP Oram,R Ashwin,WA Mota,1,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,R Ashwin,JDP Oram,WA Mota,0,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,R Ashwin,JDP Oram,WA Mota,0,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,R Ashwin,JDP Oram,WA Mota,1,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,JDP Oram,R Ashwin,WA Mota,1,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,R Ashwin,JDP Oram,WA Mota,1,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,R Ashwin,JDP Oram,B Lee,1,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,JDP Oram,R Ashwin,B Lee,1,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,R Ashwin,JDP Oram,B Lee,0,0,,,,,,"",""
+ball,1,16.4,Chennai Super Kings,R Ashwin,JDP Oram,B Lee,0,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,R Ashwin,JDP Oram,B Lee,0,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,R Ashwin,JDP Oram,B Lee,0,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,JDP Oram,R Ashwin,IK Pathan,0,1,1,,,,,"",""
+ball,1,17.2,Chennai Super Kings,JDP Oram,R Ashwin,IK Pathan,1,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,R Ashwin,JDP Oram,IK Pathan,0,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,R Ashwin,JDP Oram,IK Pathan,1,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,JDP Oram,R Ashwin,IK Pathan,0,0,,,,,,caught and bowled,JDP Oram
+ball,1,17.6,Chennai Super Kings,R Ashwin,T Thushara,IK Pathan,4,0,,,,,,"",""
+ball,1,17.7,Chennai Super Kings,R Ashwin,T Thushara,IK Pathan,0,0,,,,,,caught,R Ashwin
+ball,1,18.1,Chennai Super Kings,L Balaji,T Thushara,B Lee,0,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,L Balaji,T Thushara,B Lee,1,0,,,,,,"",""
+ball,1,18.3,Chennai Super Kings,T Thushara,L Balaji,B Lee,0,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,T Thushara,L Balaji,B Lee,0,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,T Thushara,L Balaji,B Lee,0,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,T Thushara,L Balaji,B Lee,0,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,L Balaji,T Thushara,IK Pathan,0,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,L Balaji,T Thushara,IK Pathan,0,2,,,2,,,"",""
+ball,1,19.3,Chennai Super Kings,L Balaji,T Thushara,IK Pathan,1,0,,,,,,"",""
+ball,1,19.4,Chennai Super Kings,T Thushara,L Balaji,IK Pathan,1,0,,,,,,run out,T Thushara
+ball,1,19.5,Chennai Super Kings,M Muralitharan,L Balaji,IK Pathan,1,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,L Balaji,M Muralitharan,IK Pathan,0,1,,,1,,,"",""
+ball,2,0.1,Kings XI Punjab,S Sohal,SM Katich,MS Gony,0,0,,,,,,"",""
+ball,2,0.2,Kings XI Punjab,S Sohal,SM Katich,MS Gony,0,0,,,,,,"",""
+ball,2,0.3,Kings XI Punjab,S Sohal,SM Katich,MS Gony,1,0,,,,,,"",""
+ball,2,0.4,Kings XI Punjab,SM Katich,S Sohal,MS Gony,1,0,,,,,,"",""
+ball,2,0.5,Kings XI Punjab,S Sohal,SM Katich,MS Gony,0,0,,,,,,"",""
+ball,2,0.6,Kings XI Punjab,S Sohal,SM Katich,MS Gony,1,0,,,,,,"",""
+ball,2,1.1,Kings XI Punjab,S Sohal,SM Katich,T Thushara,1,0,,,,,,"",""
+ball,2,1.2,Kings XI Punjab,SM Katich,S Sohal,T Thushara,1,0,,,,,,"",""
+ball,2,1.3,Kings XI Punjab,S Sohal,SM Katich,T Thushara,0,0,,,,,,"",""
+ball,2,1.4,Kings XI Punjab,S Sohal,SM Katich,T Thushara,0,0,,,,,,"",""
+ball,2,1.5,Kings XI Punjab,S Sohal,SM Katich,T Thushara,0,1,1,,,,,"",""
+ball,2,1.6,Kings XI Punjab,S Sohal,SM Katich,T Thushara,0,0,,,,,,caught,S Sohal
+ball,2,1.7,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,0,0,,,,,,"",""
+ball,2,2.1,Kings XI Punjab,SM Katich,LA Pomersbach,MS Gony,4,0,,,,,,"",""
+ball,2,2.2,Kings XI Punjab,SM Katich,LA Pomersbach,MS Gony,1,0,,,,,,"",""
+ball,2,2.3,Kings XI Punjab,LA Pomersbach,SM Katich,MS Gony,0,0,,,,,,"",""
+ball,2,2.4,Kings XI Punjab,LA Pomersbach,SM Katich,MS Gony,0,0,,,,,,"",""
+ball,2,2.5,Kings XI Punjab,LA Pomersbach,SM Katich,MS Gony,1,0,,,,,,"",""
+ball,2,2.6,Kings XI Punjab,SM Katich,LA Pomersbach,MS Gony,0,0,,,,,,"",""
+ball,2,3.1,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,6,0,,,,,,"",""
+ball,2,3.2,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,0,0,,,,,,"",""
+ball,2,3.3,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,0,0,,,,,,"",""
+ball,2,3.4,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,2,0,,,,,,"",""
+ball,2,3.5,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,4,0,,,,,,"",""
+ball,2,3.6,Kings XI Punjab,LA Pomersbach,SM Katich,T Thushara,1,0,,,,,,"",""
+ball,2,4.1,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,0,0,,,,,,"",""
+ball,2,4.2,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,0,0,,,,,,"",""
+ball,2,4.3,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,1,0,,,,,,"",""
+ball,2,4.4,Kings XI Punjab,SM Katich,LA Pomersbach,M Muralitharan,0,0,,,,,,"",""
+ball,2,4.5,Kings XI Punjab,SM Katich,LA Pomersbach,M Muralitharan,0,0,,,,,,"",""
+ball,2,4.6,Kings XI Punjab,SM Katich,LA Pomersbach,M Muralitharan,0,0,,,,,,"",""
+ball,2,5.1,Kings XI Punjab,LA Pomersbach,SM Katich,R Ashwin,2,0,,,,,,"",""
+ball,2,5.2,Kings XI Punjab,LA Pomersbach,SM Katich,R Ashwin,0,0,,,,,,"",""
+ball,2,5.3,Kings XI Punjab,LA Pomersbach,SM Katich,R Ashwin,1,0,,,,,,"",""
+ball,2,5.4,Kings XI Punjab,SM Katich,LA Pomersbach,R Ashwin,0,0,,,,,,"",""
+ball,2,5.5,Kings XI Punjab,SM Katich,LA Pomersbach,R Ashwin,0,0,,,,,,"",""
+ball,2,5.6,Kings XI Punjab,SM Katich,LA Pomersbach,R Ashwin,0,0,,,,,,"",""
+ball,2,6.1,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,1,0,,,,,,"",""
+ball,2,6.2,Kings XI Punjab,SM Katich,LA Pomersbach,M Muralitharan,1,0,,,,,,"",""
+ball,2,6.3,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,0,0,,,,,,"",""
+ball,2,6.4,Kings XI Punjab,LA Pomersbach,SM Katich,M Muralitharan,1,0,,,,,,"",""
+ball,2,6.5,Kings XI Punjab,SM Katich,LA Pomersbach,M Muralitharan,0,0,,,,,,bowled,SM Katich
+ball,2,6.6,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,M Muralitharan,0,0,,,,,,"",""
+ball,2,7.1,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,T Thushara,1,0,,,,,,"",""
+ball,2,7.2,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,T Thushara,0,0,,,,,,"",""
+ball,2,7.3,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,T Thushara,0,1,1,,,,,"",""
+ball,2,7.4,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,T Thushara,0,0,,,,,,"",""
+ball,2,7.5,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,T Thushara,0,0,,,,,,"",""
+ball,2,7.6,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,T Thushara,1,0,,,,,,"",""
+ball,2,7.7,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,T Thushara,1,0,,,,,,"",""
+ball,2,8.1,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,M Muralitharan,0,0,,,,,,"",""
+ball,2,8.2,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,M Muralitharan,0,0,,,,,,"",""
+ball,2,8.3,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,M Muralitharan,1,0,,,,,,"",""
+ball,2,8.4,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,M Muralitharan,0,0,,,,,,"",""
+ball,2,8.5,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,M Muralitharan,1,0,,,,,,"",""
+ball,2,8.6,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,M Muralitharan,0,0,,,,,,"",""
+ball,2,9.1,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,R Ashwin,1,0,,,,,,"",""
+ball,2,9.2,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,R Ashwin,0,0,,,,,,"",""
+ball,2,9.3,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,R Ashwin,1,0,,,,,,"",""
+ball,2,9.4,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,R Ashwin,0,1,,,,1,,"",""
+ball,2,9.5,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,R Ashwin,1,0,,,,,,"",""
+ball,2,9.6,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,R Ashwin,0,0,,,,,,"",""
+ball,2,10.1,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,SK Raina,0,0,,,,,,"",""
+ball,2,10.2,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,SK Raina,0,1,,,,1,,"",""
+ball,2,10.3,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,SK Raina,0,0,,,,,,"",""
+ball,2,10.4,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,SK Raina,0,0,,,,,,"",""
+ball,2,10.5,Kings XI Punjab,Yuvraj Singh,LA Pomersbach,SK Raina,1,0,,,,,,"",""
+ball,2,10.6,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,SK Raina,1,0,,,,,,"",""
+ball,2,11.1,Kings XI Punjab,LA Pomersbach,Yuvraj Singh,M Muralitharan,0,0,,,,,,caught,LA Pomersbach
+ball,2,11.2,Kings XI Punjab,KC Sangakkara,Yuvraj Singh,M Muralitharan,1,0,,,,,,"",""
+ball,2,11.3,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,M Muralitharan,0,0,,,,,,"",""
+ball,2,11.4,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,M Muralitharan,0,0,,,,,,"",""
+ball,2,11.5,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,M Muralitharan,0,0,,,,,,"",""
+ball,2,11.6,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,M Muralitharan,1,0,,,,,,"",""
+ball,2,12.1,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,SK Raina,1,0,,,,,,"",""
+ball,2,12.2,Kings XI Punjab,KC Sangakkara,Yuvraj Singh,SK Raina,0,0,,,,,,"",""
+ball,2,12.3,Kings XI Punjab,KC Sangakkara,Yuvraj Singh,SK Raina,1,0,,,,,,"",""
+ball,2,12.4,Kings XI Punjab,Yuvraj Singh,KC Sangakkara,SK Raina,0,0,,,,,,bowled,Yuvraj Singh
+ball,2,12.5,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,0,0,,,,,,"",""
+ball,2,12.6,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,0,0,,,,,,"",""
+ball,2,13.1,Kings XI Punjab,KC Sangakkara,WA Mota,R Ashwin,1,0,,,,,,"",""
+ball,2,13.2,Kings XI Punjab,WA Mota,KC Sangakkara,R Ashwin,1,0,,,,,,"",""
+ball,2,13.3,Kings XI Punjab,KC Sangakkara,WA Mota,R Ashwin,1,0,,,,,,"",""
+ball,2,13.4,Kings XI Punjab,WA Mota,KC Sangakkara,R Ashwin,0,0,,,,,,"",""
+ball,2,13.5,Kings XI Punjab,WA Mota,KC Sangakkara,R Ashwin,1,0,,,,,,"",""
+ball,2,13.6,Kings XI Punjab,KC Sangakkara,WA Mota,R Ashwin,1,0,,,,,,"",""
+ball,2,14.1,Kings XI Punjab,KC Sangakkara,WA Mota,SK Raina,1,0,,,,,,"",""
+ball,2,14.2,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,0,0,,,,,,"",""
+ball,2,14.3,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,0,0,,,,,,"",""
+ball,2,14.4,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,2,0,,,,,,"",""
+ball,2,14.5,Kings XI Punjab,WA Mota,KC Sangakkara,SK Raina,1,0,,,,,,"",""
+ball,2,14.6,Kings XI Punjab,KC Sangakkara,WA Mota,SK Raina,1,0,,,,,,"",""
+ball,2,15.1,Kings XI Punjab,KC Sangakkara,WA Mota,R Ashwin,0,0,,,,,,caught and bowled,KC Sangakkara
+ball,2,15.2,Kings XI Punjab,IK Pathan,WA Mota,R Ashwin,1,0,,,,,,"",""
+ball,2,15.3,Kings XI Punjab,WA Mota,IK Pathan,R Ashwin,0,0,,,,,,lbw,WA Mota
+ball,2,15.4,Kings XI Punjab,B Lee,IK Pathan,R Ashwin,0,0,,,,,,"",""
+ball,2,15.5,Kings XI Punjab,B Lee,IK Pathan,R Ashwin,0,0,,,,,,"",""
+ball,2,15.6,Kings XI Punjab,B Lee,IK Pathan,R Ashwin,1,0,,,,,,"",""
+ball,2,16.1,Kings XI Punjab,B Lee,IK Pathan,SK Raina,4,0,,,,,,"",""
+ball,2,16.2,Kings XI Punjab,B Lee,IK Pathan,SK Raina,0,0,,,,,,"",""
+ball,2,16.3,Kings XI Punjab,B Lee,IK Pathan,SK Raina,1,0,,,,,,"",""
+ball,2,16.4,Kings XI Punjab,IK Pathan,B Lee,SK Raina,1,0,,,,,,"",""
+ball,2,16.5,Kings XI Punjab,B Lee,IK Pathan,SK Raina,0,0,,,,,,caught,B Lee
+ball,2,16.6,Kings XI Punjab,PP Chawla,IK Pathan,SK Raina,0,1,1,,,,,"",""
+ball,2,16.7,Kings XI Punjab,PP Chawla,IK Pathan,SK Raina,1,0,,,,,,"",""
+ball,2,17.1,Kings XI Punjab,PP Chawla,IK Pathan,L Balaji,1,0,,,,,,"",""
+ball,2,17.2,Kings XI Punjab,IK Pathan,PP Chawla,L Balaji,4,0,,,,,,"",""
+ball,2,17.3,Kings XI Punjab,IK Pathan,PP Chawla,L Balaji,0,0,,,,,,"",""
+ball,2,17.4,Kings XI Punjab,IK Pathan,PP Chawla,L Balaji,0,0,,,,,,"",""
+ball,2,17.5,Kings XI Punjab,IK Pathan,PP Chawla,L Balaji,2,0,,,,,,"",""
+ball,2,17.6,Kings XI Punjab,IK Pathan,PP Chawla,L Balaji,0,1,,,,1,,"",""
+ball,2,18.1,Kings XI Punjab,IK Pathan,PP Chawla,T Thushara,2,0,,,,,,"",""
+ball,2,18.2,Kings XI Punjab,IK Pathan,PP Chawla,T Thushara,2,0,,,,,,"",""
+ball,2,18.3,Kings XI Punjab,IK Pathan,PP Chawla,T Thushara,0,0,,,,,,"",""
+ball,2,18.4,Kings XI Punjab,IK Pathan,PP Chawla,T Thushara,2,0,,,,,,"",""
+ball,2,18.5,Kings XI Punjab,IK Pathan,PP Chawla,T Thushara,0,0,,,,,,caught,IK Pathan
+ball,2,18.6,Kings XI Punjab,PP Chawla,RR Powar,T Thushara,2,0,,,,,,"",""
+ball,2,19.1,Kings XI Punjab,RR Powar,PP Chawla,L Balaji,2,0,,,,,,"",""
+ball,2,19.2,Kings XI Punjab,RR Powar,PP Chawla,L Balaji,0,0,,,,,,"",""
+ball,2,19.3,Kings XI Punjab,RR Powar,PP Chawla,L Balaji,4,0,,,,,,"",""
+ball,2,19.4,Kings XI Punjab,RR Powar,PP Chawla,L Balaji,0,0,,,,,,"",""
+ball,2,19.5,Kings XI Punjab,RR Powar,PP Chawla,L Balaji,1,0,,,,,,"",""
+ball,2,19.6,Kings XI Punjab,PP Chawla,RR Powar,L Balaji,0,0,,,,,,"",""

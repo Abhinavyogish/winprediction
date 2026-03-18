@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Mumbai Indians
+info,gender,male
+info,season,2023
+info,date,2023/04/11
+info,event,Indian Premier League
+info,match_number,16
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,RG Sharma
+info,umpire,MA Gough
+info,umpire,R Pandit
+info,reserve_umpire,Abhijit Bhattacharya
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,V Narayan Kutty
+info,winner,Mumbai Indians
+info,winner_wickets,6
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Delhi Capitals,DA Warner
+info,player,Delhi Capitals,PP Shaw
+info,player,Delhi Capitals,MK Pandey
+info,player,Delhi Capitals,YV Dhull
+info,player,Delhi Capitals,R Powell
+info,player,Delhi Capitals,Lalit Yadav
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,Abishek Porel
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,A Nortje
+info,player,Delhi Capitals,Mustafizur Rahman
+info,player,Mumbai Indians,RP Meredith
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,TH David
+info,player,Mumbai Indians,C Green
+info,player,Mumbai Indians,N Wadhera
+info,player,Mumbai Indians,HR Shokeen
+info,player,Mumbai Indians,Arshad Khan
+info,player,Mumbai Indians,JP Behrendorff
+info,player,Mumbai Indians,PP Chawla
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Arshad Khan,12314277
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HR Shokeen,0c9652b0
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Powell,650d5e49
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RP Meredith,64775749
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,YV Dhull,dd7e9b3b
+ball,1,0.1,Delhi Capitals,DA Warner,PP Shaw,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.2,Delhi Capitals,DA Warner,PP Shaw,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.3,Delhi Capitals,PP Shaw,DA Warner,JP Behrendorff,4,0,,,,,,"",""
+ball,1,0.4,Delhi Capitals,PP Shaw,DA Warner,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.5,Delhi Capitals,DA Warner,PP Shaw,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.6,Delhi Capitals,DA Warner,PP Shaw,JP Behrendorff,1,0,,,,,,"",""
+ball,1,1.1,Delhi Capitals,DA Warner,PP Shaw,Arshad Khan,4,0,,,,,,"",""
+ball,1,1.2,Delhi Capitals,DA Warner,PP Shaw,Arshad Khan,0,0,,,,,,"",""
+ball,1,1.3,Delhi Capitals,DA Warner,PP Shaw,Arshad Khan,1,0,,,,,,"",""
+ball,1,1.4,Delhi Capitals,PP Shaw,DA Warner,Arshad Khan,0,1,1,,,,,"",""
+ball,1,1.5,Delhi Capitals,PP Shaw,DA Warner,Arshad Khan,1,0,,,,,,"",""
+ball,1,1.6,Delhi Capitals,DA Warner,PP Shaw,Arshad Khan,1,0,,,,,,"",""
+ball,1,1.7,Delhi Capitals,PP Shaw,DA Warner,Arshad Khan,4,0,,,,,,"",""
+ball,1,2.1,Delhi Capitals,DA Warner,PP Shaw,C Green,0,0,,,,,,"",""
+ball,1,2.2,Delhi Capitals,DA Warner,PP Shaw,C Green,1,0,,,,,,"",""
+ball,1,2.3,Delhi Capitals,PP Shaw,DA Warner,C Green,0,0,,,,,,"",""
+ball,1,2.4,Delhi Capitals,PP Shaw,DA Warner,C Green,1,0,,,,,,"",""
+ball,1,2.5,Delhi Capitals,DA Warner,PP Shaw,C Green,4,0,,,,,,"",""
+ball,1,2.6,Delhi Capitals,DA Warner,PP Shaw,C Green,4,0,,,,,,"",""
+ball,1,3.1,Delhi Capitals,PP Shaw,DA Warner,HR Shokeen,4,0,,,,,,"",""
+ball,1,3.2,Delhi Capitals,PP Shaw,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,3.3,Delhi Capitals,PP Shaw,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,3.4,Delhi Capitals,PP Shaw,DA Warner,HR Shokeen,0,0,,,,,,caught,PP Shaw
+ball,1,3.5,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,3.6,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,1,0,,,,,,"",""
+ball,1,4.1,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,0,0,,,,,,"",""
+ball,1,4.2,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,0,0,,,,,,"",""
+ball,1,4.3,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,0,0,,,,,,"",""
+ball,1,4.4,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,4,0,,,,,,"",""
+ball,1,4.5,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,4,0,,,,,,"",""
+ball,1,4.6,Delhi Capitals,MK Pandey,DA Warner,RP Meredith,0,0,,,,,,"",""
+ball,1,5.1,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,0,0,,,,,,"",""
+ball,1,5.2,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,0,0,,,,,,"",""
+ball,1,5.3,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,0,0,,,,,,"",""
+ball,1,5.4,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,1,0,,,,,,"",""
+ball,1,5.5,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,4,0,,,,,,"",""
+ball,1,5.6,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,4,0,,,,,,"",""
+ball,1,6.1,Delhi Capitals,DA Warner,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,6.2,Delhi Capitals,MK Pandey,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,6.3,Delhi Capitals,DA Warner,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,6.4,Delhi Capitals,MK Pandey,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,6.5,Delhi Capitals,DA Warner,MK Pandey,PP Chawla,4,0,,,,,,"",""
+ball,1,6.6,Delhi Capitals,DA Warner,MK Pandey,PP Chawla,0,0,,,,,,"",""
+ball,1,7.1,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,1,0,,,,,,"",""
+ball,1,7.2,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,1,0,,,,,,"",""
+ball,1,7.3,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,1,1,,1,,,,"",""
+ball,1,7.4,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,1,0,,,,,,"",""
+ball,1,7.5,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,0,5,5,,,,,"",""
+ball,1,7.6,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,4,0,,,,,,"",""
+ball,1,7.7,Delhi Capitals,MK Pandey,DA Warner,HR Shokeen,1,0,,,,,,"",""
+ball,1,7.8,Delhi Capitals,DA Warner,MK Pandey,HR Shokeen,1,0,,,,,,"",""
+ball,1,8.1,Delhi Capitals,DA Warner,MK Pandey,PP Chawla,1,0,,,,,,"",""
+ball,1,8.2,Delhi Capitals,MK Pandey,DA Warner,PP Chawla,0,0,,,,,,"",""
+ball,1,8.3,Delhi Capitals,MK Pandey,DA Warner,PP Chawla,0,0,,,,,,caught,MK Pandey
+ball,1,8.4,Delhi Capitals,YV Dhull,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,8.5,Delhi Capitals,DA Warner,YV Dhull,PP Chawla,1,0,,,,,,"",""
+ball,1,8.6,Delhi Capitals,YV Dhull,DA Warner,PP Chawla,0,0,,,,,,"",""
+ball,1,9.1,Delhi Capitals,DA Warner,YV Dhull,RP Meredith,0,0,,,,,,"",""
+ball,1,9.2,Delhi Capitals,DA Warner,YV Dhull,RP Meredith,1,0,,,,,,"",""
+ball,1,9.3,Delhi Capitals,YV Dhull,DA Warner,RP Meredith,1,0,,,,,,"",""
+ball,1,9.4,Delhi Capitals,DA Warner,YV Dhull,RP Meredith,1,0,,,,,,"",""
+ball,1,9.5,Delhi Capitals,YV Dhull,DA Warner,RP Meredith,0,0,,,,,,caught,YV Dhull
+ball,1,9.6,Delhi Capitals,R Powell,DA Warner,RP Meredith,4,0,,,,,,"",""
+ball,1,10.1,Delhi Capitals,DA Warner,R Powell,PP Chawla,1,0,,,,,,"",""
+ball,1,10.2,Delhi Capitals,R Powell,DA Warner,PP Chawla,0,0,,,,,,"",""
+ball,1,10.3,Delhi Capitals,R Powell,DA Warner,PP Chawla,0,0,,,,,,"",""
+ball,1,10.4,Delhi Capitals,R Powell,DA Warner,PP Chawla,0,0,,,,,,lbw,R Powell
+ball,1,10.5,Delhi Capitals,Lalit Yadav,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,10.6,Delhi Capitals,DA Warner,Lalit Yadav,PP Chawla,1,0,,,,,,"",""
+ball,1,11.1,Delhi Capitals,DA Warner,Lalit Yadav,C Green,4,0,,,,,,"",""
+ball,1,11.2,Delhi Capitals,DA Warner,Lalit Yadav,C Green,0,0,,,,,,"",""
+ball,1,11.3,Delhi Capitals,DA Warner,Lalit Yadav,C Green,1,0,,,,,,"",""
+ball,1,11.4,Delhi Capitals,Lalit Yadav,DA Warner,C Green,0,0,,,,,,"",""
+ball,1,11.5,Delhi Capitals,Lalit Yadav,DA Warner,C Green,1,0,,,,,,"",""
+ball,1,11.6,Delhi Capitals,DA Warner,Lalit Yadav,C Green,1,0,,,,,,"",""
+ball,1,12.1,Delhi Capitals,DA Warner,Lalit Yadav,PP Chawla,2,0,,,,,,"",""
+ball,1,12.2,Delhi Capitals,DA Warner,Lalit Yadav,PP Chawla,1,0,,,,,,"",""
+ball,1,12.3,Delhi Capitals,Lalit Yadav,DA Warner,PP Chawla,0,0,,,,,,bowled,Lalit Yadav
+ball,1,12.4,Delhi Capitals,AR Patel,DA Warner,PP Chawla,0,0,,,,,,"",""
+ball,1,12.5,Delhi Capitals,AR Patel,DA Warner,PP Chawla,1,0,,,,,,"",""
+ball,1,12.6,Delhi Capitals,DA Warner,AR Patel,PP Chawla,4,0,,,,,,"",""
+ball,1,13.1,Delhi Capitals,AR Patel,DA Warner,Tilak Varma,0,1,1,,,,,"",""
+ball,1,13.2,Delhi Capitals,AR Patel,DA Warner,Tilak Varma,1,0,,,,,,"",""
+ball,1,13.3,Delhi Capitals,DA Warner,AR Patel,Tilak Varma,0,0,,,,,,"",""
+ball,1,13.4,Delhi Capitals,DA Warner,AR Patel,Tilak Varma,0,0,,,,,,"",""
+ball,1,13.5,Delhi Capitals,DA Warner,AR Patel,Tilak Varma,1,0,,,,,,"",""
+ball,1,13.6,Delhi Capitals,AR Patel,DA Warner,Tilak Varma,4,0,,,,,,"",""
+ball,1,13.7,Delhi Capitals,AR Patel,DA Warner,Tilak Varma,0,0,,,,,,"",""
+ball,1,14.1,Delhi Capitals,DA Warner,AR Patel,HR Shokeen,1,0,,,,,,"",""
+ball,1,14.2,Delhi Capitals,AR Patel,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,14.3,Delhi Capitals,AR Patel,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,14.4,Delhi Capitals,AR Patel,DA Warner,HR Shokeen,6,0,,,,,,"",""
+ball,1,14.5,Delhi Capitals,AR Patel,DA Warner,HR Shokeen,6,0,,,,,,"",""
+ball,1,14.6,Delhi Capitals,AR Patel,DA Warner,HR Shokeen,0,0,,,,,,"",""
+ball,1,15.1,Delhi Capitals,DA Warner,AR Patel,C Green,1,0,,,,,,"",""
+ball,1,15.2,Delhi Capitals,AR Patel,DA Warner,C Green,4,0,,,,,,"",""
+ball,1,15.3,Delhi Capitals,AR Patel,DA Warner,C Green,1,0,,,,,,"",""
+ball,1,15.4,Delhi Capitals,DA Warner,AR Patel,C Green,1,0,,,,,,"",""
+ball,1,15.5,Delhi Capitals,AR Patel,DA Warner,C Green,4,0,,,,,,"",""
+ball,1,15.6,Delhi Capitals,AR Patel,DA Warner,C Green,0,1,1,,,,,"",""
+ball,1,15.7,Delhi Capitals,AR Patel,DA Warner,C Green,1,0,,,,,,"",""
+ball,1,16.1,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.2,Delhi Capitals,DA Warner,AR Patel,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.3,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,6,0,,,,,,"",""
+ball,1,16.4,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,6,0,,,,,,"",""
+ball,1,16.5,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,0,0,,,,,,"",""
+ball,1,16.6,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.1,Delhi Capitals,AR Patel,DA Warner,RP Meredith,1,0,,,,,,"",""
+ball,1,17.2,Delhi Capitals,DA Warner,AR Patel,RP Meredith,0,0,,,,,,"",""
+ball,1,17.3,Delhi Capitals,DA Warner,AR Patel,RP Meredith,0,1,,,,1,,"",""
+ball,1,17.4,Delhi Capitals,AR Patel,DA Warner,RP Meredith,4,0,,,,,,"",""
+ball,1,17.5,Delhi Capitals,AR Patel,DA Warner,RP Meredith,6,1,,1,,,,"",""
+ball,1,17.6,Delhi Capitals,AR Patel,DA Warner,RP Meredith,0,0,,,,,,"",""
+ball,1,17.7,Delhi Capitals,AR Patel,DA Warner,RP Meredith,1,0,,,,,,"",""
+ball,1,18.1,Delhi Capitals,AR Patel,DA Warner,JP Behrendorff,0,0,,,,,,caught,AR Patel
+ball,1,18.2,Delhi Capitals,Abishek Porel,DA Warner,JP Behrendorff,1,0,,,,,,"",""
+ball,1,18.3,Delhi Capitals,DA Warner,Abishek Porel,JP Behrendorff,0,0,,,,,,caught,DA Warner
+ball,1,18.4,Delhi Capitals,Kuldeep Yadav,Abishek Porel,JP Behrendorff,0,0,,,,,,run out,Kuldeep Yadav
+ball,1,18.5,Delhi Capitals,Abishek Porel,A Nortje,JP Behrendorff,0,0,,,,,,"",""
+ball,1,18.6,Delhi Capitals,Abishek Porel,A Nortje,JP Behrendorff,0,0,,,,,,caught,Abishek Porel
+ball,1,19.1,Delhi Capitals,A Nortje,Mustafizur Rahman,RP Meredith,1,0,,,,,,"",""
+ball,1,19.2,Delhi Capitals,Mustafizur Rahman,A Nortje,RP Meredith,1,0,,,,,,"",""
+ball,1,19.3,Delhi Capitals,A Nortje,Mustafizur Rahman,RP Meredith,4,0,,,,,,"",""
+ball,1,19.4,Delhi Capitals,A Nortje,Mustafizur Rahman,RP Meredith,0,0,,,,,,bowled,A Nortje
+ball,2,0.1,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,0,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,4,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,6,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,0,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mukesh Kumar,4,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,Ishan Kishan,RG Sharma,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,Ishan Kishan,RG Sharma,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,Ishan Kishan,RG Sharma,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,Ishan Kishan,RG Sharma,A Nortje,4,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,Ishan Kishan,RG Sharma,A Nortje,1,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,RG Sharma,Ishan Kishan,A Nortje,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,RG Sharma,Ishan Kishan,A Nortje,0,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,RG Sharma,Ishan Kishan,A Nortje,6,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,RG Sharma,Ishan Kishan,A Nortje,4,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,3.3,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,RG Sharma,Ishan Kishan,Lalit Yadav,1,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,1,1,,,,,"",""
+ball,2,3.7,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,4,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,RG Sharma,Ishan Kishan,AR Patel,0,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,RG Sharma,Ishan Kishan,AR Patel,1,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,4,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,1,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,RG Sharma,Ishan Kishan,AR Patel,4,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,RG Sharma,Ishan Kishan,Lalit Yadav,1,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,5.4,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,RG Sharma,Ishan Kishan,Lalit Yadav,6,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,1,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,RG Sharma,Ishan Kishan,AR Patel,1,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,Ishan Kishan,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,RG Sharma,Ishan Kishan,Lalit Yadav,1,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,Ishan Kishan,RG Sharma,Lalit Yadav,0,0,,,,,,run out,Ishan Kishan
+ball,2,7.4,Mumbai Indians,RG Sharma,Tilak Varma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,Tilak Varma,RG Sharma,A Nortje,0,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,Tilak Varma,RG Sharma,A Nortje,1,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,RG Sharma,Tilak Varma,A Nortje,0,0,,,,,,"",""
+ball,2,8.4,Mumbai Indians,RG Sharma,Tilak Varma,A Nortje,1,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,Tilak Varma,RG Sharma,A Nortje,1,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,RG Sharma,Tilak Varma,A Nortje,6,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,RG Sharma,Tilak Varma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,6,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,Tilak Varma,RG Sharma,AR Patel,0,1,1,,,,,"",""
+ball,2,10.2,Mumbai Indians,Tilak Varma,RG Sharma,AR Patel,1,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,0,0,,,,,,"",""
+ball,2,10.4,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,0,4,,,,4,,"",""
+ball,2,10.5,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,0,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,1,0,,,,,,"",""
+ball,2,10.7,Mumbai Indians,Tilak Varma,RG Sharma,AR Patel,0,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,RG Sharma,Tilak Varma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,RG Sharma,Tilak Varma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,6,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,Tilak Varma,RG Sharma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,RG Sharma,Tilak Varma,Kuldeep Yadav,4,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,Tilak Varma,RG Sharma,AR Patel,1,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,2,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,1,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,Tilak Varma,RG Sharma,AR Patel,1,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,0,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,RG Sharma,Tilak Varma,AR Patel,0,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,RG Sharma,Tilak Varma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,13.3,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,0,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,Tilak Varma,RG Sharma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,RG Sharma,Tilak Varma,Lalit Yadav,1,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,RG Sharma,Tilak Varma,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,RG Sharma,Tilak Varma,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,RG Sharma,Tilak Varma,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,Tilak Varma,RG Sharma,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,Tilak Varma,RG Sharma,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,Tilak Varma,RG Sharma,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,Tilak Varma,RG Sharma,Mukesh Kumar,4,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,Tilak Varma,RG Sharma,Mukesh Kumar,6,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,Tilak Varma,RG Sharma,Mukesh Kumar,6,0,,,,,,"",""
+ball,2,15.4,Mumbai Indians,Tilak Varma,RG Sharma,Mukesh Kumar,0,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,Tilak Varma,RG Sharma,Mukesh Kumar,0,0,,,,,,caught,Tilak Varma
+ball,2,15.6,Mumbai Indians,SA Yadav,RG Sharma,Mukesh Kumar,0,0,,,,,,caught,SA Yadav
+ball,2,16.1,Mumbai Indians,RG Sharma,TH David,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,16.2,Mumbai Indians,RG Sharma,TH David,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,RG Sharma,TH David,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,RG Sharma,TH David,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,16.5,Mumbai Indians,RG Sharma,TH David,Mustafizur Rahman,0,0,,,,,,caught,RG Sharma
+ball,2,16.6,Mumbai Indians,C Green,TH David,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,TH David,C Green,A Nortje,0,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,TH David,C Green,A Nortje,2,0,,,,,,"",""
+ball,2,17.3,Mumbai Indians,TH David,C Green,A Nortje,0,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,TH David,C Green,A Nortje,1,0,,,,,,"",""
+ball,2,17.5,Mumbai Indians,C Green,TH David,A Nortje,2,0,,,,,,"",""
+ball,2,17.6,Mumbai Indians,C Green,TH David,A Nortje,1,0,,,,,,"",""
+ball,2,18.1,Mumbai Indians,C Green,TH David,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,18.2,Mumbai Indians,TH David,C Green,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,18.3,Mumbai Indians,TH David,C Green,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,18.4,Mumbai Indians,C Green,TH David,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,18.5,Mumbai Indians,C Green,TH David,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,18.6,Mumbai Indians,TH David,C Green,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,19.1,Mumbai Indians,C Green,TH David,A Nortje,1,0,,,,,,"",""
+ball,2,19.2,Mumbai Indians,TH David,C Green,A Nortje,0,0,,,,,,"",""
+ball,2,19.3,Mumbai Indians,TH David,C Green,A Nortje,0,0,,,,,,"",""
+ball,2,19.4,Mumbai Indians,TH David,C Green,A Nortje,1,0,,,,,,"",""
+ball,2,19.5,Mumbai Indians,C Green,TH David,A Nortje,1,0,,,,,,"",""
+ball,2,19.6,Mumbai Indians,TH David,C Green,A Nortje,2,0,,,,,,"",""

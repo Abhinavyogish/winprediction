@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Gujarat Titans
+info,gender,male
+info,season,2025
+info,date,2025/05/25
+info,event,Indian Premier League
+info,match_number,67
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,Chennai Super Kings
+info,toss_decision,bat
+info,player_of_match,D Brevis
+info,umpire,KM Gandhi
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,Nitin Menon
+info,match_referee,Amit Sharma
+info,winner,Chennai Super Kings
+info,winner_runs,83
+info,player,Chennai Super Kings,M Pathirana
+info,player,Chennai Super Kings,A Mhatre
+info,player,Chennai Super Kings,DP Conway
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,DJ Hooda
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,KK Ahmed
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,SE Rutherford
+info,player,Gujarat Titans,M Shahrukh Khan
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,G Coetzee
+info,player,Gujarat Titans,Arshad Khan
+info,player,Gujarat Titans,R Sai Kishore
+info,player,Gujarat Titans,Mohammed Siraj
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mhatre,b2b4f545
+info,registry,people,Amit Sharma,7ea3e0cc
+info,registry,people,Arshad Khan,12314277
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DP Conway,df5a6881
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KM Gandhi,a9421c64
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Urvil Patel,cf59b3f0
+ball,1,0.1,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.2,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.3,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.4,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,0.5,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,0.6,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,0.7,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,1.1,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,2,0,,,,,,"",""
+ball,1,1.2,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,6,0,,,,,,"",""
+ball,1,1.3,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,6,0,,,,,,"",""
+ball,1,1.4,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,4,0,,,,,,"",""
+ball,1,1.5,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,4,0,,,,,,"",""
+ball,1,1.6,Chennai Super Kings,A Mhatre,DP Conway,Arshad Khan,6,0,,,,,,"",""
+ball,1,2.1,Chennai Super Kings,DP Conway,A Mhatre,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.2,Chennai Super Kings,DP Conway,A Mhatre,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.3,Chennai Super Kings,DP Conway,A Mhatre,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,2.4,Chennai Super Kings,A Mhatre,DP Conway,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,2.5,Chennai Super Kings,DP Conway,A Mhatre,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,2.6,Chennai Super Kings,DP Conway,A Mhatre,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.1,Chennai Super Kings,A Mhatre,DP Conway,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,3.2,Chennai Super Kings,A Mhatre,DP Conway,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,3.3,Chennai Super Kings,A Mhatre,DP Conway,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,3.4,Chennai Super Kings,A Mhatre,DP Conway,M Prasidh Krishna,0,0,,,,,,caught,A Mhatre
+ball,1,3.5,Chennai Super Kings,Urvil Patel,DP Conway,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,3.6,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,3.7,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,4.1,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,4.2,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,4.3,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,4.4,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,4.5,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,4.6,Chennai Super Kings,Urvil Patel,DP Conway,Mohammed Siraj,3,0,,,,,,"",""
+ball,1,4.7,Chennai Super Kings,DP Conway,Urvil Patel,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.1,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,5.2,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,5.3,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,1,,,,1,,"",""
+ball,1,5.4,Chennai Super Kings,Urvil Patel,DP Conway,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,5.5,Chennai Super Kings,Urvil Patel,DP Conway,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,5.6,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,5.7,Chennai Super Kings,DP Conway,Urvil Patel,M Prasidh Krishna,0,4,,,,4,,"",""
+ball,1,6.1,Chennai Super Kings,Urvil Patel,DP Conway,G Coetzee,0,0,,,,,,"",""
+ball,1,6.2,Chennai Super Kings,Urvil Patel,DP Conway,G Coetzee,1,0,,,,,,"",""
+ball,1,6.3,Chennai Super Kings,DP Conway,Urvil Patel,G Coetzee,4,0,,,,,,"",""
+ball,1,6.4,Chennai Super Kings,DP Conway,Urvil Patel,G Coetzee,0,1,,,,1,,"",""
+ball,1,6.5,Chennai Super Kings,Urvil Patel,DP Conway,G Coetzee,4,0,,,,,,"",""
+ball,1,6.6,Chennai Super Kings,Urvil Patel,DP Conway,G Coetzee,4,0,,,,,,"",""
+ball,1,7.1,Chennai Super Kings,DP Conway,Urvil Patel,R Sai Kishore,1,0,,,,,,"",""
+ball,1,7.2,Chennai Super Kings,Urvil Patel,DP Conway,R Sai Kishore,1,0,,,,,,"",""
+ball,1,7.3,Chennai Super Kings,DP Conway,Urvil Patel,R Sai Kishore,0,0,,,,,,"",""
+ball,1,7.4,Chennai Super Kings,DP Conway,Urvil Patel,R Sai Kishore,2,0,,,,,,"",""
+ball,1,7.5,Chennai Super Kings,DP Conway,Urvil Patel,R Sai Kishore,1,0,,,,,,"",""
+ball,1,7.6,Chennai Super Kings,Urvil Patel,DP Conway,R Sai Kishore,4,0,,,,,,"",""
+ball,1,8.1,Chennai Super Kings,DP Conway,Urvil Patel,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.2,Chennai Super Kings,Urvil Patel,DP Conway,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.3,Chennai Super Kings,DP Conway,Urvil Patel,Rashid Khan,2,0,,,,,,"",""
+ball,1,8.4,Chennai Super Kings,DP Conway,Urvil Patel,Rashid Khan,1,0,,,,,,"",""
+ball,1,8.5,Chennai Super Kings,Urvil Patel,DP Conway,Rashid Khan,4,0,,,,,,"",""
+ball,1,8.6,Chennai Super Kings,Urvil Patel,DP Conway,Rashid Khan,1,0,,,,,,"",""
+ball,1,9.1,Chennai Super Kings,Urvil Patel,DP Conway,R Sai Kishore,6,0,,,,,,"",""
+ball,1,9.2,Chennai Super Kings,Urvil Patel,DP Conway,R Sai Kishore,0,0,,,,,,caught,Urvil Patel
+ball,1,9.3,Chennai Super Kings,S Dube,DP Conway,R Sai Kishore,0,0,,,,,,"",""
+ball,1,9.4,Chennai Super Kings,S Dube,DP Conway,R Sai Kishore,6,0,,,,,,"",""
+ball,1,9.5,Chennai Super Kings,S Dube,DP Conway,R Sai Kishore,1,0,,,,,,"",""
+ball,1,9.6,Chennai Super Kings,DP Conway,S Dube,R Sai Kishore,1,0,,,,,,"",""
+ball,1,10.1,Chennai Super Kings,DP Conway,S Dube,G Coetzee,0,0,,,,,,"",""
+ball,1,10.2,Chennai Super Kings,DP Conway,S Dube,G Coetzee,0,0,,,,,,"",""
+ball,1,10.3,Chennai Super Kings,DP Conway,S Dube,G Coetzee,4,0,,,,,,"",""
+ball,1,10.4,Chennai Super Kings,DP Conway,S Dube,G Coetzee,2,0,,,,,,"",""
+ball,1,10.5,Chennai Super Kings,DP Conway,S Dube,G Coetzee,0,1,,,,1,,"",""
+ball,1,10.6,Chennai Super Kings,S Dube,DP Conway,G Coetzee,1,0,,,,,,"",""
+ball,1,11.1,Chennai Super Kings,S Dube,DP Conway,Rashid Khan,1,0,,,,,,"",""
+ball,1,11.2,Chennai Super Kings,DP Conway,S Dube,Rashid Khan,6,0,,,,,,"",""
+ball,1,11.3,Chennai Super Kings,DP Conway,S Dube,Rashid Khan,0,0,,,,,,"",""
+ball,1,11.4,Chennai Super Kings,DP Conway,S Dube,Rashid Khan,4,0,,,,,,"",""
+ball,1,11.5,Chennai Super Kings,DP Conway,S Dube,Rashid Khan,1,0,,,,,,"",""
+ball,1,11.6,Chennai Super Kings,S Dube,DP Conway,Rashid Khan,2,0,,,,,,"",""
+ball,1,12.1,Chennai Super Kings,DP Conway,S Dube,M Shahrukh Khan,1,0,,,,,,"",""
+ball,1,12.2,Chennai Super Kings,S Dube,DP Conway,M Shahrukh Khan,6,0,,,,,,"",""
+ball,1,12.3,Chennai Super Kings,S Dube,DP Conway,M Shahrukh Khan,0,0,,,,,,caught,S Dube
+ball,1,12.4,Chennai Super Kings,D Brevis,DP Conway,M Shahrukh Khan,4,0,,,,,,"",""
+ball,1,12.5,Chennai Super Kings,D Brevis,DP Conway,M Shahrukh Khan,1,0,,,,,,"",""
+ball,1,12.6,Chennai Super Kings,DP Conway,D Brevis,M Shahrukh Khan,1,0,,,,,,"",""
+ball,1,13.1,Chennai Super Kings,DP Conway,D Brevis,Rashid Khan,0,0,,,,,,"",""
+ball,1,13.2,Chennai Super Kings,DP Conway,D Brevis,Rashid Khan,6,0,,,,,,"",""
+ball,1,13.3,Chennai Super Kings,DP Conway,D Brevis,Rashid Khan,0,0,,,,,,bowled,DP Conway
+ball,1,13.4,Chennai Super Kings,RA Jadeja,D Brevis,Rashid Khan,0,0,,,,,,"",""
+ball,1,13.5,Chennai Super Kings,RA Jadeja,D Brevis,Rashid Khan,1,0,,,,,,"",""
+ball,1,13.6,Chennai Super Kings,D Brevis,RA Jadeja,Rashid Khan,1,0,,,,,,"",""
+ball,1,14.1,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,14.2,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,14.3,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,14.4,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,14.5,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,14.6,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,15.1,Chennai Super Kings,D Brevis,RA Jadeja,Rashid Khan,6,0,,,,,,"",""
+ball,1,15.2,Chennai Super Kings,D Brevis,RA Jadeja,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.3,Chennai Super Kings,RA Jadeja,D Brevis,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.4,Chennai Super Kings,RA Jadeja,D Brevis,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.5,Chennai Super Kings,D Brevis,RA Jadeja,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.6,Chennai Super Kings,RA Jadeja,D Brevis,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.1,Chennai Super Kings,RA Jadeja,D Brevis,G Coetzee,1,0,,,,,,"",""
+ball,1,16.2,Chennai Super Kings,D Brevis,RA Jadeja,G Coetzee,6,0,,,,,,"",""
+ball,1,16.3,Chennai Super Kings,D Brevis,RA Jadeja,G Coetzee,4,0,,,,,,"",""
+ball,1,16.4,Chennai Super Kings,D Brevis,RA Jadeja,G Coetzee,1,0,,,,,,"",""
+ball,1,16.5,Chennai Super Kings,RA Jadeja,D Brevis,G Coetzee,1,0,,,,,,"",""
+ball,1,16.6,Chennai Super Kings,D Brevis,RA Jadeja,G Coetzee,1,0,,,,,,"",""
+ball,1,17.1,Chennai Super Kings,D Brevis,RA Jadeja,Arshad Khan,1,0,,,,,,"",""
+ball,1,17.2,Chennai Super Kings,RA Jadeja,D Brevis,Arshad Khan,6,0,,,,,,"",""
+ball,1,17.3,Chennai Super Kings,RA Jadeja,D Brevis,Arshad Khan,1,0,,,,,,"",""
+ball,1,17.4,Chennai Super Kings,D Brevis,RA Jadeja,Arshad Khan,4,0,,,,,,"",""
+ball,1,17.5,Chennai Super Kings,D Brevis,RA Jadeja,Arshad Khan,1,0,,,,,,"",""
+ball,1,17.6,Chennai Super Kings,RA Jadeja,D Brevis,Arshad Khan,0,1,1,,,,,"",""
+ball,1,17.7,Chennai Super Kings,RA Jadeja,D Brevis,Arshad Khan,0,0,,,,,,"",""
+ball,1,18.1,Chennai Super Kings,D Brevis,RA Jadeja,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,18.2,Chennai Super Kings,D Brevis,RA Jadeja,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,18.3,Chennai Super Kings,D Brevis,RA Jadeja,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,18.4,Chennai Super Kings,D Brevis,RA Jadeja,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,18.5,Chennai Super Kings,RA Jadeja,D Brevis,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,18.6,Chennai Super Kings,RA Jadeja,D Brevis,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,19.1,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.2,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.3,Chennai Super Kings,RA Jadeja,D Brevis,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.4,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.5,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,6,0,,,,,,"",""
+ball,1,19.6,Chennai Super Kings,D Brevis,RA Jadeja,M Prasidh Krishna,0,0,,,,,,caught,D Brevis
+ball,2,0.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,RA Jadeja,1,0,,,,,,"",""
+ball,2,0.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,RA Jadeja,1,0,,,,,,"",""
+ball,2,0.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,RA Jadeja,2,0,,,,,,"",""
+ball,2,0.4,Gujarat Titans,B Sai Sudharsan,Shubman Gill,RA Jadeja,1,0,,,,,,"",""
+ball,2,0.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,RA Jadeja,1,0,,,,,,"",""
+ball,2,0.6,Gujarat Titans,B Sai Sudharsan,Shubman Gill,RA Jadeja,1,0,,,,,,"",""
+ball,2,1.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,KK Ahmed,4,0,,,,,,"",""
+ball,2,1.2,Gujarat Titans,B Sai Sudharsan,Shubman Gill,KK Ahmed,0,1,1,,,,,"",""
+ball,2,1.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,KK Ahmed,1,0,,,,,,"",""
+ball,2,1.4,Gujarat Titans,Shubman Gill,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,KK Ahmed,4,0,,,,,,"",""
+ball,2,1.6,Gujarat Titans,Shubman Gill,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.7,Gujarat Titans,Shubman Gill,B Sai Sudharsan,KK Ahmed,1,0,,,,,,"",""
+ball,2,2.1,Gujarat Titans,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,2.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,A Kamboj,6,0,,,,,,"",""
+ball,2,2.3,Gujarat Titans,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,caught,Shubman Gill
+ball,2,2.4,Gujarat Titans,JC Buttler,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,2.5,Gujarat Titans,JC Buttler,B Sai Sudharsan,A Kamboj,2,0,,,,,,"",""
+ball,2,2.6,Gujarat Titans,JC Buttler,B Sai Sudharsan,A Kamboj,1,0,,,,,,"",""
+ball,2,3.1,Gujarat Titans,JC Buttler,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.2,Gujarat Titans,JC Buttler,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.3,Gujarat Titans,JC Buttler,B Sai Sudharsan,KK Ahmed,2,0,,,,,,"",""
+ball,2,3.4,Gujarat Titans,JC Buttler,B Sai Sudharsan,KK Ahmed,0,0,,,,,,caught,JC Buttler
+ball,2,3.5,Gujarat Titans,SE Rutherford,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.6,Gujarat Titans,SE Rutherford,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.1,Gujarat Titans,B Sai Sudharsan,SE Rutherford,A Kamboj,1,0,,,,,,"",""
+ball,2,4.2,Gujarat Titans,SE Rutherford,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,4.3,Gujarat Titans,SE Rutherford,B Sai Sudharsan,A Kamboj,0,0,,,,,,caught,SE Rutherford
+ball,2,4.4,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,4.5,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,4.6,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,A Kamboj,0,0,,,,,,"",""
+ball,2,5.1,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,KK Ahmed,0,0,,,,,,"",""
+ball,2,5.2,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,KK Ahmed,4,0,,,,,,"",""
+ball,2,5.3,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,KK Ahmed,0,0,,,,,,"",""
+ball,2,5.4,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,KK Ahmed,0,0,,,,,,"",""
+ball,2,5.5,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,KK Ahmed,0,1,,,,1,,"",""
+ball,2,5.6,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,KK Ahmed,0,0,,,,,,"",""
+ball,2,6.1,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.2,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.3,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,RA Jadeja,4,0,,,,,,"",""
+ball,2,6.4,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.5,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,RA Jadeja,1,0,,,,,,"",""
+ball,2,6.6,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.1,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,1,0,,,,,,"",""
+ball,2,7.2,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,S Dube,1,0,,,,,,"",""
+ball,2,7.3,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,0,0,,,,,,"",""
+ball,2,7.4,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,0,5,5,,,,,"",""
+ball,2,7.5,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,1,0,,,,,,"",""
+ball,2,7.6,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,S Dube,6,0,,,,,,"",""
+ball,2,7.7,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,S Dube,1,0,,,,,,"",""
+ball,2,8.1,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.2,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.3,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.4,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,Noor Ahmad,4,0,,,,,,"",""
+ball,2,8.5,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.6,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,Noor Ahmad,0,0,,,,,,"",""
+ball,2,9.1,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,4,0,,,,,,"",""
+ball,2,9.2,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,4,0,,,,,,"",""
+ball,2,9.3,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,1,0,,,,,,"",""
+ball,2,9.4,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,S Dube,6,0,,,,,,"",""
+ball,2,9.5,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,S Dube,1,0,,,,,,"",""
+ball,2,9.6,Gujarat Titans,B Sai Sudharsan,M Shahrukh Khan,S Dube,2,0,,,,,,"",""
+ball,2,10.1,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,RA Jadeja,0,0,,,,,,caught,M Shahrukh Khan
+ball,2,10.2,Gujarat Titans,R Tewatia,B Sai Sudharsan,RA Jadeja,1,0,,,,,,"",""
+ball,2,10.3,Gujarat Titans,B Sai Sudharsan,R Tewatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.4,Gujarat Titans,B Sai Sudharsan,R Tewatia,RA Jadeja,0,0,,,,,,caught,B Sai Sudharsan
+ball,2,10.5,Gujarat Titans,Rashid Khan,R Tewatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.6,Gujarat Titans,Rashid Khan,R Tewatia,RA Jadeja,0,0,,,,,,"",""
+ball,2,11.1,Gujarat Titans,R Tewatia,Rashid Khan,M Pathirana,0,0,,,,,,"",""
+ball,2,11.2,Gujarat Titans,R Tewatia,Rashid Khan,M Pathirana,2,0,,,,,,"",""
+ball,2,11.3,Gujarat Titans,R Tewatia,Rashid Khan,M Pathirana,2,0,,,,,,"",""
+ball,2,11.4,Gujarat Titans,R Tewatia,Rashid Khan,M Pathirana,1,0,,,,,,"",""
+ball,2,11.5,Gujarat Titans,Rashid Khan,R Tewatia,M Pathirana,0,1,1,,,,,"",""
+ball,2,11.6,Gujarat Titans,Rashid Khan,R Tewatia,M Pathirana,4,0,,,,,,"",""
+ball,2,11.7,Gujarat Titans,Rashid Khan,R Tewatia,M Pathirana,1,0,,,,,,"",""
+ball,2,12.1,Gujarat Titans,Rashid Khan,R Tewatia,Noor Ahmad,6,0,,,,,,"",""
+ball,2,12.2,Gujarat Titans,Rashid Khan,R Tewatia,Noor Ahmad,0,0,,,,,,"",""
+ball,2,12.3,Gujarat Titans,Rashid Khan,R Tewatia,Noor Ahmad,1,0,,,,,,"",""
+ball,2,12.4,Gujarat Titans,R Tewatia,Rashid Khan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,12.5,Gujarat Titans,Rashid Khan,R Tewatia,Noor Ahmad,0,0,,,,,,caught,Rashid Khan
+ball,2,12.6,Gujarat Titans,G Coetzee,R Tewatia,Noor Ahmad,1,0,,,,,,"",""
+ball,2,13.1,Gujarat Titans,G Coetzee,R Tewatia,M Pathirana,0,0,,,,,,"",""
+ball,2,13.2,Gujarat Titans,G Coetzee,R Tewatia,M Pathirana,4,0,,,,,,"",""
+ball,2,13.3,Gujarat Titans,G Coetzee,R Tewatia,M Pathirana,0,0,,,,,,"",""
+ball,2,13.4,Gujarat Titans,G Coetzee,R Tewatia,M Pathirana,0,0,,,,,,bowled,G Coetzee
+ball,2,13.5,Gujarat Titans,Arshad Khan,R Tewatia,M Pathirana,0,0,,,,,,"",""
+ball,2,13.6,Gujarat Titans,Arshad Khan,R Tewatia,M Pathirana,0,0,,,,,,"",""
+ball,2,14.1,Gujarat Titans,R Tewatia,Arshad Khan,DJ Hooda,4,0,,,,,,"",""
+ball,2,14.2,Gujarat Titans,R Tewatia,Arshad Khan,DJ Hooda,2,0,,,,,,"",""
+ball,2,14.3,Gujarat Titans,R Tewatia,Arshad Khan,DJ Hooda,1,0,,,,,,"",""
+ball,2,14.4,Gujarat Titans,Arshad Khan,R Tewatia,DJ Hooda,0,0,,,,,,"",""
+ball,2,14.5,Gujarat Titans,Arshad Khan,R Tewatia,DJ Hooda,0,1,1,,,,,"",""
+ball,2,14.6,Gujarat Titans,Arshad Khan,R Tewatia,DJ Hooda,6,0,,,,,,"",""
+ball,2,14.7,Gujarat Titans,Arshad Khan,R Tewatia,DJ Hooda,1,0,,,,,,"",""
+ball,2,15.1,Gujarat Titans,Arshad Khan,R Tewatia,Noor Ahmad,0,0,,,,,,"",""
+ball,2,15.2,Gujarat Titans,Arshad Khan,R Tewatia,Noor Ahmad,1,0,,,,,,"",""
+ball,2,15.3,Gujarat Titans,R Tewatia,Arshad Khan,Noor Ahmad,0,0,,,,,,caught,R Tewatia
+ball,2,15.4,Gujarat Titans,R Sai Kishore,Arshad Khan,Noor Ahmad,0,0,,,,,,"",""
+ball,2,15.5,Gujarat Titans,R Sai Kishore,Arshad Khan,Noor Ahmad,0,0,,,,,,"",""
+ball,2,15.6,Gujarat Titans,R Sai Kishore,Arshad Khan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,16.1,Gujarat Titans,R Sai Kishore,Arshad Khan,M Pathirana,1,0,,,,,,"",""
+ball,2,16.2,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,6,0,,,,,,"",""
+ball,2,16.3,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,6,0,,,,,,"",""
+ball,2,16.4,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,0,1,1,,,,,"",""
+ball,2,16.5,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,0,0,,,,,,"",""
+ball,2,16.6,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,0,0,,,,,,"",""
+ball,2,16.7,Gujarat Titans,Arshad Khan,R Sai Kishore,M Pathirana,0,0,,,,,,"",""
+ball,2,17.1,Gujarat Titans,R Sai Kishore,Arshad Khan,Noor Ahmad,1,0,,,,,,"",""
+ball,2,17.2,Gujarat Titans,Arshad Khan,R Sai Kishore,Noor Ahmad,0,0,,,,,,"",""
+ball,2,17.3,Gujarat Titans,Arshad Khan,R Sai Kishore,Noor Ahmad,0,0,,,,,,bowled,Arshad Khan
+ball,2,17.4,Gujarat Titans,Mohammed Siraj,R Sai Kishore,Noor Ahmad,0,0,,,,,,"",""
+ball,2,17.5,Gujarat Titans,Mohammed Siraj,R Sai Kishore,Noor Ahmad,0,1,1,,,,,"",""
+ball,2,17.6,Gujarat Titans,Mohammed Siraj,R Sai Kishore,Noor Ahmad,0,1,,,,1,,"",""
+ball,2,17.7,Gujarat Titans,R Sai Kishore,Mohammed Siraj,Noor Ahmad,0,0,,,,,,"",""
+ball,2,18.1,Gujarat Titans,Mohammed Siraj,R Sai Kishore,A Kamboj,2,0,,,,,,"",""
+ball,2,18.2,Gujarat Titans,Mohammed Siraj,R Sai Kishore,A Kamboj,1,0,,,,,,"",""
+ball,2,18.3,Gujarat Titans,R Sai Kishore,Mohammed Siraj,A Kamboj,0,0,,,,,,caught,R Sai Kishore

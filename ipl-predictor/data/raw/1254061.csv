@@ -1,0 +1,323 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2021
+info,date,2021/04/12
+info,event,Indian Premier League
+info,match_number,4
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,SV Samson
+info,umpire,AK Chaudhary
+info,umpire,S Ravi
+info,reserve_umpire,YC Barde
+info,tv_umpire,VK Sharma
+info,match_referee,M Nayyar
+info,winner,Punjab Kings
+info,winner_runs,4
+info,player,Punjab Kings,KL Rahul
+info,player,Punjab Kings,MA Agarwal
+info,player,Punjab Kings,CH Gayle
+info,player,Punjab Kings,DJ Hooda
+info,player,Punjab Kings,N Pooran
+info,player,Punjab Kings,M Shahrukh Khan
+info,player,Punjab Kings,JA Richardson
+info,player,Punjab Kings,M Ashwin
+info,player,Punjab Kings,Mohammed Shami
+info,player,Punjab Kings,RP Meredith
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Rajasthan Royals,BA Stokes
+info,player,Rajasthan Royals,M Vohra
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,JC Buttler
+info,player,Rajasthan Royals,S Dube
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,R Tewatia
+info,player,Rajasthan Royals,CH Morris
+info,player,Rajasthan Royals,S Gopal
+info,player,Rajasthan Royals,C Sakariya
+info,player,Rajasthan Royals,Mustafizur Rahman
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BA Stokes,e087956b
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,M Vohra,c03e2850
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RP Meredith,64775749
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,0,0,,,,,,"",""
+ball,1,0.2,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,1,0,,,,,,"",""
+ball,1,0.3,Punjab Kings,MA Agarwal,KL Rahul,C Sakariya,4,0,,,,,,"",""
+ball,1,0.4,Punjab Kings,MA Agarwal,KL Rahul,C Sakariya,0,0,,,,,,"",""
+ball,1,0.5,Punjab Kings,MA Agarwal,KL Rahul,C Sakariya,1,0,,,,,,"",""
+ball,1,0.6,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,4,0,,,,,,"",""
+ball,1,1.1,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,1.2,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,1.3,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,1.4,Punjab Kings,KL Rahul,MA Agarwal,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,1.5,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,1.6,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,1.7,Punjab Kings,MA Agarwal,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,2.1,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.2,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,0,0,,,,,,"",""
+ball,1,2.3,Punjab Kings,KL Rahul,MA Agarwal,C Sakariya,1,0,,,,,,"",""
+ball,1,2.4,Punjab Kings,MA Agarwal,KL Rahul,C Sakariya,0,0,,,,,,caught,MA Agarwal
+ball,1,2.5,Punjab Kings,CH Gayle,KL Rahul,C Sakariya,0,0,,,,,,"",""
+ball,1,2.6,Punjab Kings,CH Gayle,KL Rahul,C Sakariya,0,0,,,,,,"",""
+ball,1,3.1,Punjab Kings,KL Rahul,CH Gayle,CH Morris,4,0,,,,,,"",""
+ball,1,3.2,Punjab Kings,KL Rahul,CH Gayle,CH Morris,2,0,,,,,,"",""
+ball,1,3.3,Punjab Kings,KL Rahul,CH Gayle,CH Morris,0,0,,,,,,"",""
+ball,1,3.4,Punjab Kings,KL Rahul,CH Gayle,CH Morris,0,0,,,,,,"",""
+ball,1,3.5,Punjab Kings,KL Rahul,CH Gayle,CH Morris,0,1,1,,,,,"",""
+ball,1,3.6,Punjab Kings,KL Rahul,CH Gayle,CH Morris,1,0,,,,,,"",""
+ball,1,3.7,Punjab Kings,CH Gayle,KL Rahul,CH Morris,1,0,,,,,,"",""
+ball,1,4.1,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.2,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,4.3,Punjab Kings,KL Rahul,CH Gayle,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,4.4,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,4.5,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,4.6,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.7,Punjab Kings,CH Gayle,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,5.1,Punjab Kings,CH Gayle,KL Rahul,CH Morris,0,0,,,,,,"",""
+ball,1,5.2,Punjab Kings,CH Gayle,KL Rahul,CH Morris,0,0,,,,,,"",""
+ball,1,5.3,Punjab Kings,CH Gayle,KL Rahul,CH Morris,2,0,,,,,,"",""
+ball,1,5.4,Punjab Kings,CH Gayle,KL Rahul,CH Morris,0,0,,,,,,"",""
+ball,1,5.5,Punjab Kings,CH Gayle,KL Rahul,CH Morris,4,0,,,,,,"",""
+ball,1,5.6,Punjab Kings,CH Gayle,KL Rahul,CH Morris,1,0,,,,,,"",""
+ball,1,6.1,Punjab Kings,CH Gayle,KL Rahul,S Gopal,1,0,,,,,,"",""
+ball,1,6.2,Punjab Kings,KL Rahul,CH Gayle,S Gopal,0,0,,,,,,"",""
+ball,1,6.3,Punjab Kings,KL Rahul,CH Gayle,S Gopal,4,0,,,,,,"",""
+ball,1,6.4,Punjab Kings,KL Rahul,CH Gayle,S Gopal,1,0,,,,,,"",""
+ball,1,6.5,Punjab Kings,CH Gayle,KL Rahul,S Gopal,4,0,,,,,,"",""
+ball,1,6.6,Punjab Kings,CH Gayle,KL Rahul,S Gopal,2,0,,,,,,"",""
+ball,1,7.1,Punjab Kings,KL Rahul,CH Gayle,BA Stokes,4,0,,,,,,"",""
+ball,1,7.2,Punjab Kings,KL Rahul,CH Gayle,BA Stokes,1,0,,,,,,"",""
+ball,1,7.3,Punjab Kings,CH Gayle,KL Rahul,BA Stokes,6,0,,,,,,"",""
+ball,1,7.4,Punjab Kings,CH Gayle,KL Rahul,BA Stokes,0,0,,,,,,"",""
+ball,1,7.5,Punjab Kings,CH Gayle,KL Rahul,BA Stokes,0,0,,,,,,"",""
+ball,1,7.6,Punjab Kings,CH Gayle,KL Rahul,BA Stokes,1,0,,,,,,"",""
+ball,1,8.1,Punjab Kings,CH Gayle,KL Rahul,R Tewatia,1,0,,,,,,"",""
+ball,1,8.2,Punjab Kings,KL Rahul,CH Gayle,R Tewatia,1,0,,,,,,"",""
+ball,1,8.3,Punjab Kings,CH Gayle,KL Rahul,R Tewatia,0,0,,,,,,"",""
+ball,1,8.4,Punjab Kings,CH Gayle,KL Rahul,R Tewatia,4,0,,,,,,"",""
+ball,1,8.5,Punjab Kings,CH Gayle,KL Rahul,R Tewatia,0,0,,,,,,"",""
+ball,1,8.6,Punjab Kings,CH Gayle,KL Rahul,R Tewatia,6,0,,,,,,"",""
+ball,1,9.1,Punjab Kings,KL Rahul,CH Gayle,R Parag,4,0,,,,,,"",""
+ball,1,9.2,Punjab Kings,KL Rahul,CH Gayle,R Parag,1,0,,,,,,"",""
+ball,1,9.3,Punjab Kings,CH Gayle,KL Rahul,R Parag,1,0,,,,,,"",""
+ball,1,9.4,Punjab Kings,KL Rahul,CH Gayle,R Parag,1,0,,,,,,"",""
+ball,1,9.5,Punjab Kings,CH Gayle,KL Rahul,R Parag,0,0,,,,,,caught,CH Gayle
+ball,1,9.6,Punjab Kings,DJ Hooda,KL Rahul,R Parag,0,0,,,,,,"",""
+ball,1,10.1,Punjab Kings,KL Rahul,DJ Hooda,R Tewatia,2,0,,,,,,"",""
+ball,1,10.2,Punjab Kings,KL Rahul,DJ Hooda,R Tewatia,1,0,,,,,,"",""
+ball,1,10.3,Punjab Kings,DJ Hooda,KL Rahul,R Tewatia,1,0,,,,,,"",""
+ball,1,10.4,Punjab Kings,KL Rahul,DJ Hooda,R Tewatia,2,0,,,,,,"",""
+ball,1,10.5,Punjab Kings,KL Rahul,DJ Hooda,R Tewatia,6,0,,,,,,"",""
+ball,1,10.6,Punjab Kings,KL Rahul,DJ Hooda,R Tewatia,1,0,,,,,,"",""
+ball,1,11.1,Punjab Kings,KL Rahul,DJ Hooda,S Gopal,1,0,,,,,,"",""
+ball,1,11.2,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,1,0,,,,,,"",""
+ball,1,11.3,Punjab Kings,KL Rahul,DJ Hooda,S Gopal,1,0,,,,,,"",""
+ball,1,11.4,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,0,0,,,,,,"",""
+ball,1,11.5,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,4,0,,,,,,"",""
+ball,1,11.6,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,1,0,,,,,,"",""
+ball,1,12.1,Punjab Kings,DJ Hooda,KL Rahul,S Dube,1,0,,,,,,"",""
+ball,1,12.2,Punjab Kings,KL Rahul,DJ Hooda,S Dube,6,0,,,,,,"",""
+ball,1,12.3,Punjab Kings,KL Rahul,DJ Hooda,S Dube,1,0,,,,,,"",""
+ball,1,12.4,Punjab Kings,DJ Hooda,KL Rahul,S Dube,6,0,,,,,,"",""
+ball,1,12.5,Punjab Kings,DJ Hooda,KL Rahul,S Dube,0,0,,,,,,"",""
+ball,1,12.6,Punjab Kings,DJ Hooda,KL Rahul,S Dube,6,0,,,,,,"",""
+ball,1,13.1,Punjab Kings,KL Rahul,DJ Hooda,S Gopal,1,0,,,,,,"",""
+ball,1,13.2,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,6,0,,,,,,"",""
+ball,1,13.3,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,6,0,,,,,,"",""
+ball,1,13.4,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,0,0,,,,,,"",""
+ball,1,13.5,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,6,0,,,,,,"",""
+ball,1,13.6,Punjab Kings,DJ Hooda,KL Rahul,S Gopal,1,0,,,,,,"",""
+ball,1,14.1,Punjab Kings,DJ Hooda,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,14.2,Punjab Kings,KL Rahul,DJ Hooda,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,14.3,Punjab Kings,KL Rahul,DJ Hooda,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,14.4,Punjab Kings,KL Rahul,DJ Hooda,Mustafizur Rahman,6,0,,,,,,"",""
+ball,1,14.5,Punjab Kings,KL Rahul,DJ Hooda,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,14.6,Punjab Kings,DJ Hooda,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,15.1,Punjab Kings,DJ Hooda,KL Rahul,CH Morris,6,0,,,,,,"",""
+ball,1,15.2,Punjab Kings,DJ Hooda,KL Rahul,CH Morris,2,0,,,,,,"",""
+ball,1,15.3,Punjab Kings,DJ Hooda,KL Rahul,CH Morris,1,0,,,,,,"",""
+ball,1,15.4,Punjab Kings,KL Rahul,DJ Hooda,CH Morris,0,0,,,,,,"",""
+ball,1,15.5,Punjab Kings,KL Rahul,DJ Hooda,CH Morris,1,0,,,,,,"",""
+ball,1,15.6,Punjab Kings,DJ Hooda,KL Rahul,CH Morris,1,0,,,,,,"",""
+ball,1,16.1,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,0,0,,,,,,"",""
+ball,1,16.2,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,1,0,,,,,,"",""
+ball,1,16.3,Punjab Kings,KL Rahul,DJ Hooda,C Sakariya,1,0,,,,,,"",""
+ball,1,16.4,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,0,0,,,,,,"",""
+ball,1,16.5,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,4,0,,,,,,"",""
+ball,1,16.6,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,4,1,,1,,,,"",""
+ball,1,16.7,Punjab Kings,DJ Hooda,KL Rahul,C Sakariya,4,0,,,,,,"",""
+ball,1,17.1,Punjab Kings,KL Rahul,DJ Hooda,CH Morris,6,0,,,,,,"",""
+ball,1,17.2,Punjab Kings,KL Rahul,DJ Hooda,CH Morris,1,0,,,,,,"",""
+ball,1,17.3,Punjab Kings,DJ Hooda,KL Rahul,CH Morris,0,0,,,,,,caught,DJ Hooda
+ball,1,17.4,Punjab Kings,KL Rahul,N Pooran,CH Morris,6,0,,,,,,"",""
+ball,1,17.5,Punjab Kings,KL Rahul,N Pooran,CH Morris,1,0,,,,,,"",""
+ball,1,17.6,Punjab Kings,N Pooran,KL Rahul,CH Morris,0,0,,,,,,caught,N Pooran
+ball,1,18.1,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,18.2,Punjab Kings,M Shahrukh Khan,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,18.3,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,0,1,,1,,,,"",""
+ball,1,18.4,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,18.5,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,18.6,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,18.7,Punjab Kings,KL Rahul,M Shahrukh Khan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,18.8,Punjab Kings,M Shahrukh Khan,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,19.1,Punjab Kings,KL Rahul,M Shahrukh Khan,C Sakariya,4,0,,,,,,"",""
+ball,1,19.2,Punjab Kings,KL Rahul,M Shahrukh Khan,C Sakariya,0,0,,,,,,caught,KL Rahul
+ball,1,19.3,Punjab Kings,M Shahrukh Khan,JA Richardson,C Sakariya,0,0,,,,,,"",""
+ball,1,19.4,Punjab Kings,M Shahrukh Khan,JA Richardson,C Sakariya,1,0,,,,,,"",""
+ball,1,19.5,Punjab Kings,JA Richardson,M Shahrukh Khan,C Sakariya,0,0,,,,,,"",""
+ball,1,19.6,Punjab Kings,JA Richardson,M Shahrukh Khan,C Sakariya,0,0,,,,,,caught,JA Richardson
+ball,2,0.1,Rajasthan Royals,BA Stokes,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.2,Rajasthan Royals,BA Stokes,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,BA Stokes,M Vohra,Mohammed Shami,0,0,,,,,,caught and bowled,BA Stokes
+ball,2,0.4,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,4,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,0,1,1,,,,,"",""
+ball,2,1.2,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,6,0,,,,,,"",""
+ball,2,1.3,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,0,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,0,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,4,0,,,,,,"",""
+ball,2,1.6,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,0,0,,,,,,"",""
+ball,2,1.7,Rajasthan Royals,M Vohra,SV Samson,JA Richardson,2,0,,,,,,"",""
+ball,2,2.1,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.4,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,4,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.6,Rajasthan Royals,SV Samson,M Vohra,Mohammed Shami,4,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,M Vohra,SV Samson,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,M Vohra,SV Samson,Arshdeep Singh,0,0,,,,,,caught and bowled,M Vohra
+ball,2,3.3,Rajasthan Royals,JC Buttler,SV Samson,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.5,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,JC Buttler,SV Samson,RP Meredith,4,0,,,,,,"",""
+ball,2,4.2,Rajasthan Royals,JC Buttler,SV Samson,RP Meredith,4,0,,,,,,"",""
+ball,2,4.3,Rajasthan Royals,JC Buttler,SV Samson,RP Meredith,4,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,JC Buttler,SV Samson,RP Meredith,4,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,JC Buttler,SV Samson,RP Meredith,1,0,,,,,,"",""
+ball,2,4.6,Rajasthan Royals,SV Samson,JC Buttler,RP Meredith,1,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.2,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,JC Buttler,SV Samson,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,5.4,Rajasthan Royals,JC Buttler,SV Samson,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,SV Samson,JC Buttler,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,6.1,Rajasthan Royals,SV Samson,JC Buttler,M Ashwin,1,1,,1,,,,"",""
+ball,2,6.2,Rajasthan Royals,JC Buttler,SV Samson,M Ashwin,4,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,JC Buttler,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,6.4,Rajasthan Royals,SV Samson,JC Buttler,M Ashwin,0,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,SV Samson,JC Buttler,M Ashwin,0,0,,,,,,"",""
+ball,2,6.6,Rajasthan Royals,SV Samson,JC Buttler,M Ashwin,0,1,,,,1,,"",""
+ball,2,6.7,Rajasthan Royals,JC Buttler,SV Samson,M Ashwin,0,1,,,,1,,"",""
+ball,2,7.1,Rajasthan Royals,JC Buttler,SV Samson,JA Richardson,1,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,SV Samson,JC Buttler,JA Richardson,1,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,JC Buttler,SV Samson,JA Richardson,0,0,,,,,,bowled,JC Buttler
+ball,2,7.4,Rajasthan Royals,S Dube,SV Samson,JA Richardson,4,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,S Dube,SV Samson,JA Richardson,2,0,,,,,,"",""
+ball,2,7.6,Rajasthan Royals,S Dube,SV Samson,JA Richardson,2,0,,,,,,"",""
+ball,2,8.1,Rajasthan Royals,SV Samson,S Dube,RP Meredith,6,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,SV Samson,S Dube,RP Meredith,0,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,SV Samson,S Dube,RP Meredith,1,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,S Dube,SV Samson,RP Meredith,0,0,,,,,,"",""
+ball,2,8.5,Rajasthan Royals,S Dube,SV Samson,RP Meredith,1,0,,,,,,"",""
+ball,2,8.6,Rajasthan Royals,SV Samson,S Dube,RP Meredith,1,0,,,,,,"",""
+ball,2,9.1,Rajasthan Royals,SV Samson,S Dube,M Ashwin,1,0,,,,,,"",""
+ball,2,9.2,Rajasthan Royals,S Dube,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,9.3,Rajasthan Royals,SV Samson,S Dube,M Ashwin,0,1,1,,,,,"",""
+ball,2,9.4,Rajasthan Royals,SV Samson,S Dube,M Ashwin,0,1,1,,,,,"",""
+ball,2,9.5,Rajasthan Royals,SV Samson,S Dube,M Ashwin,1,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,S Dube,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,9.7,Rajasthan Royals,SV Samson,S Dube,M Ashwin,0,0,,,,,,"",""
+ball,2,9.8,Rajasthan Royals,SV Samson,S Dube,M Ashwin,2,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,S Dube,SV Samson,RP Meredith,1,0,,,,,,"",""
+ball,2,10.2,Rajasthan Royals,SV Samson,S Dube,RP Meredith,6,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,SV Samson,S Dube,RP Meredith,2,0,,,,,,"",""
+ball,2,10.4,Rajasthan Royals,SV Samson,S Dube,RP Meredith,4,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,SV Samson,S Dube,RP Meredith,0,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,SV Samson,S Dube,RP Meredith,1,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,SV Samson,S Dube,M Ashwin,1,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,S Dube,SV Samson,M Ashwin,0,0,,,,,,"",""
+ball,2,11.3,Rajasthan Royals,S Dube,SV Samson,M Ashwin,4,0,,,,,,"",""
+ball,2,11.4,Rajasthan Royals,S Dube,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,SV Samson,S Dube,M Ashwin,1,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,S Dube,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,12.1,Rajasthan Royals,S Dube,SV Samson,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,12.2,Rajasthan Royals,S Dube,SV Samson,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,12.3,Rajasthan Royals,SV Samson,S Dube,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,S Dube,SV Samson,Arshdeep Singh,0,0,,,,,,caught,S Dube
+ball,2,12.5,Rajasthan Royals,SV Samson,R Parag,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,12.6,Rajasthan Royals,R Parag,SV Samson,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,SV Samson,R Parag,Mohammed Shami,0,0,,,,,,"",""
+ball,2,13.2,Rajasthan Royals,SV Samson,R Parag,Mohammed Shami,4,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,SV Samson,R Parag,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,R Parag,SV Samson,Mohammed Shami,6,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,R Parag,SV Samson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,SV Samson,R Parag,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,SV Samson,R Parag,JA Richardson,1,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,R Parag,SV Samson,JA Richardson,1,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,SV Samson,R Parag,JA Richardson,4,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,SV Samson,R Parag,JA Richardson,6,0,,,,,,"",""
+ball,2,14.5,Rajasthan Royals,SV Samson,R Parag,JA Richardson,1,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,R Parag,SV Samson,JA Richardson,0,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,SV Samson,R Parag,M Ashwin,6,0,,,,,,"",""
+ball,2,15.2,Rajasthan Royals,SV Samson,R Parag,M Ashwin,1,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,R Parag,SV Samson,M Ashwin,0,0,,,,,,"",""
+ball,2,15.4,Rajasthan Royals,R Parag,SV Samson,M Ashwin,6,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,R Parag,SV Samson,M Ashwin,6,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,R Parag,SV Samson,M Ashwin,1,0,,,,,,"",""
+ball,2,16.1,Rajasthan Royals,R Parag,SV Samson,Mohammed Shami,0,1,1,,,,,"",""
+ball,2,16.2,Rajasthan Royals,R Parag,SV Samson,Mohammed Shami,0,0,,,,,,"",""
+ball,2,16.3,Rajasthan Royals,R Parag,SV Samson,Mohammed Shami,0,0,,,,,,caught,R Parag
+ball,2,16.4,Rajasthan Royals,R Tewatia,SV Samson,Mohammed Shami,0,0,,,,,,"",""
+ball,2,16.5,Rajasthan Royals,R Tewatia,SV Samson,Mohammed Shami,0,1,1,,,,,"",""
+ball,2,16.6,Rajasthan Royals,R Tewatia,SV Samson,Mohammed Shami,1,0,,,,,,"",""
+ball,2,16.7,Rajasthan Royals,SV Samson,R Tewatia,Mohammed Shami,4,0,,,,,,"",""
+ball,2,16.8,Rajasthan Royals,SV Samson,R Tewatia,Mohammed Shami,1,0,,,,,,"",""
+ball,2,17.1,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,4,0,,,,,,"",""
+ball,2,17.2,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,6,0,,,,,,"",""
+ball,2,17.3,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,4,0,,,,,,"",""
+ball,2,17.4,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,2,0,,,,,,"",""
+ball,2,17.5,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,0,1,1,,,,,"",""
+ball,2,17.6,Rajasthan Royals,SV Samson,R Tewatia,JA Richardson,1,0,,,,,,"",""
+ball,2,17.7,Rajasthan Royals,R Tewatia,SV Samson,JA Richardson,1,0,,,,,,"",""
+ball,2,18.1,Rajasthan Royals,R Tewatia,SV Samson,RP Meredith,0,0,,,,,,caught,R Tewatia
+ball,2,18.2,Rajasthan Royals,CH Morris,SV Samson,RP Meredith,0,0,,,,,,"",""
+ball,2,18.3,Rajasthan Royals,CH Morris,SV Samson,RP Meredith,1,0,,,,,,"",""
+ball,2,18.4,Rajasthan Royals,SV Samson,CH Morris,RP Meredith,6,0,,,,,,"",""
+ball,2,18.5,Rajasthan Royals,SV Samson,CH Morris,RP Meredith,1,0,,,,,,"",""
+ball,2,18.6,Rajasthan Royals,CH Morris,SV Samson,RP Meredith,0,0,,,,,,"",""
+ball,2,19.1,Rajasthan Royals,SV Samson,CH Morris,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,19.2,Rajasthan Royals,SV Samson,CH Morris,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.3,Rajasthan Royals,CH Morris,SV Samson,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.4,Rajasthan Royals,SV Samson,CH Morris,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,19.5,Rajasthan Royals,SV Samson,CH Morris,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,19.6,Rajasthan Royals,SV Samson,CH Morris,Arshdeep Singh,0,0,,,,,,caught,SV Samson

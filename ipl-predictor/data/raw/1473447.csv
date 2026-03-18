@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Delhi Capitals
+info,gender,male
+info,season,2025
+info,date,2025/03/30
+info,event,Indian Premier League
+info,match_number,10
+info,venue,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
+info,city,Visakhapatnam
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,bat
+info,player_of_match,MA Starc
+info,umpire,Abhijit Bhattacharya
+info,umpire,UV Gandhe
+info,reserve_umpire,AK Argal
+info,tv_umpire,VK Sharma
+info,match_referee,V Narayan Kutty
+info,winner,Delhi Capitals
+info,winner_wickets,7
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,A Manohar
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,PWA Mulder
+info,player,Sunrisers Hyderabad,HV Patel
+info,player,Sunrisers Hyderabad,Mohammed Shami
+info,player,Sunrisers Hyderabad,Zeeshan Ansari
+info,player,Delhi Capitals,J Fraser-McGurk
+info,player,Delhi Capitals,F du Plessis
+info,player,Delhi Capitals,Abishek Porel
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,V Nigam
+info,player,Delhi Capitals,MA Starc
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,MM Sharma
+info,player,Delhi Capitals,Mukesh Kumar
+info,registry,people,A Manohar,0890552f
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MM Sharma,759ac88f
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TM Head,12b610c2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,V Nigam,5ffc0565
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Zeeshan Ansari,36619795
+ball,1,0.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,MA Starc,1,0,,,,,,"",""
+ball,1,0.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,MA Starc,4,0,,,,,,"",""
+ball,1,0.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,MA Starc,4,0,,,,,,"",""
+ball,1,0.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,MA Starc,2,0,,,,,,"",""
+ball,1,0.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,MA Starc,0,0,,,,,,run out,Abhishek Sharma
+ball,1,0.6,Sunrisers Hyderabad,Ishan Kishan,TM Head,MA Starc,0,0,,,,,,"",""
+ball,1,1.1,Sunrisers Hyderabad,TM Head,Ishan Kishan,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,1.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Hyderabad,TM Head,Ishan Kishan,Mukesh Kumar,0,1,1,,,,,"",""
+ball,1,1.4,Sunrisers Hyderabad,TM Head,Ishan Kishan,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Hyderabad,Ishan Kishan,TM Head,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Hyderabad,Ishan Kishan,TM Head,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,1.7,Sunrisers Hyderabad,TM Head,Ishan Kishan,Mukesh Kumar,4,0,,,,,,"",""
+ball,1,2.1,Sunrisers Hyderabad,Ishan Kishan,TM Head,MA Starc,0,0,,,,,,caught,Ishan Kishan
+ball,1,2.2,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,MA Starc,0,5,5,,,,,"",""
+ball,1,2.3,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,MA Starc,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Hyderabad,Nithish Kumar Reddy,TM Head,MA Starc,0,0,,,,,,caught,Nithish Kumar Reddy
+ball,1,2.5,Sunrisers Hyderabad,Aniket Verma,TM Head,MA Starc,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Hyderabad,Aniket Verma,TM Head,MA Starc,4,0,,,,,,"",""
+ball,1,2.7,Sunrisers Hyderabad,Aniket Verma,TM Head,MA Starc,0,0,,,,,,"",""
+ball,1,3.1,Sunrisers Hyderabad,TM Head,Aniket Verma,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.2,Sunrisers Hyderabad,Aniket Verma,TM Head,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Hyderabad,TM Head,Aniket Verma,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,3.4,Sunrisers Hyderabad,TM Head,Aniket Verma,Mukesh Kumar,4,0,,,,,,"",""
+ball,1,3.5,Sunrisers Hyderabad,TM Head,Aniket Verma,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.6,Sunrisers Hyderabad,Aniket Verma,TM Head,Mukesh Kumar,0,1,1,,,,,"",""
+ball,1,3.7,Sunrisers Hyderabad,Aniket Verma,TM Head,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,4.1,Sunrisers Hyderabad,TM Head,Aniket Verma,MA Starc,0,0,,,,,,caught,TM Head
+ball,1,4.2,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MA Starc,1,1,,1,,,,"",""
+ball,1,4.3,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MA Starc,1,0,,,,,,"",""
+ball,1,4.4,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MA Starc,0,0,,,,,,"",""
+ball,1,4.5,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MA Starc,6,0,,,,,,"",""
+ball,1,4.6,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MA Starc,4,0,,,,,,"",""
+ball,1,4.7,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MA Starc,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,0,0,,,,,,"",""
+ball,1,5.2,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,1,0,,,,,,"",""
+ball,1,5.3,Sunrisers Hyderabad,H Klaasen,Aniket Verma,AR Patel,4,0,,,,,,"",""
+ball,1,5.4,Sunrisers Hyderabad,H Klaasen,Aniket Verma,AR Patel,1,0,,,,,,"",""
+ball,1,5.5,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,1,0,,,,,,"",""
+ball,1,5.6,Sunrisers Hyderabad,H Klaasen,Aniket Verma,AR Patel,1,0,,,,,,"",""
+ball,1,6.1,Sunrisers Hyderabad,H Klaasen,Aniket Verma,V Nigam,1,0,,,,,,"",""
+ball,1,6.2,Sunrisers Hyderabad,Aniket Verma,H Klaasen,V Nigam,1,0,,,,,,"",""
+ball,1,6.3,Sunrisers Hyderabad,H Klaasen,Aniket Verma,V Nigam,1,1,,1,,,,"",""
+ball,1,6.4,Sunrisers Hyderabad,Aniket Verma,H Klaasen,V Nigam,4,0,,,,,,"",""
+ball,1,6.5,Sunrisers Hyderabad,Aniket Verma,H Klaasen,V Nigam,6,0,,,,,,"",""
+ball,1,6.6,Sunrisers Hyderabad,Aniket Verma,H Klaasen,V Nigam,1,0,,,,,,"",""
+ball,1,6.7,Sunrisers Hyderabad,H Klaasen,Aniket Verma,V Nigam,1,0,,,,,,"",""
+ball,1,7.1,Sunrisers Hyderabad,H Klaasen,Aniket Verma,AR Patel,1,0,,,,,,"",""
+ball,1,7.2,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,6,0,,,,,,"",""
+ball,1,7.3,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,6,0,,,,,,"",""
+ball,1,7.4,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,1,0,,,,,,"",""
+ball,1,7.5,Sunrisers Hyderabad,H Klaasen,Aniket Verma,AR Patel,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Hyderabad,Aniket Verma,H Klaasen,AR Patel,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MM Sharma,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,4,0,,,,,,"",""
+ball,1,8.5,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MM Sharma,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Hyderabad,H Klaasen,Aniket Verma,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,9.2,Sunrisers Hyderabad,H Klaasen,Aniket Verma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.3,Sunrisers Hyderabad,Aniket Verma,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,9.4,Sunrisers Hyderabad,Aniket Verma,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,9.5,Sunrisers Hyderabad,Aniket Verma,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,9.6,Sunrisers Hyderabad,Aniket Verma,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,10.1,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MM Sharma,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,2,0,,,,,,"",""
+ball,1,10.3,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,4,0,,,,,,"",""
+ball,1,10.4,Sunrisers Hyderabad,Aniket Verma,H Klaasen,MM Sharma,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MM Sharma,0,1,1,,,,,"",""
+ball,1,10.6,Sunrisers Hyderabad,H Klaasen,Aniket Verma,MM Sharma,0,0,,,,,,caught,H Klaasen
+ball,1,10.7,Sunrisers Hyderabad,A Manohar,Aniket Verma,MM Sharma,1,0,,,,,,"",""
+ball,1,11.1,Sunrisers Hyderabad,A Manohar,Aniket Verma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Hyderabad,Aniket Verma,A Manohar,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Hyderabad,A Manohar,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,11.4,Sunrisers Hyderabad,A Manohar,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,11.5,Sunrisers Hyderabad,A Manohar,Aniket Verma,Kuldeep Yadav,2,0,,,,,,"",""
+ball,1,11.6,Sunrisers Hyderabad,A Manohar,Aniket Verma,Kuldeep Yadav,0,0,,,,,,caught,A Manohar
+ball,1,12.1,Sunrisers Hyderabad,Aniket Verma,PJ Cummins,AR Patel,0,0,,,,,,"",""
+ball,1,12.2,Sunrisers Hyderabad,Aniket Verma,PJ Cummins,AR Patel,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,AR Patel,0,0,,,,,,"",""
+ball,1,12.4,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,AR Patel,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Hyderabad,Aniket Verma,PJ Cummins,AR Patel,0,0,,,,,,"",""
+ball,1,12.6,Sunrisers Hyderabad,Aniket Verma,PJ Cummins,AR Patel,0,0,,,,,,"",""
+ball,1,13.1,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,13.2,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,13.4,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.5,Sunrisers Hyderabad,Aniket Verma,PJ Cummins,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.6,Sunrisers Hyderabad,PJ Cummins,Aniket Verma,Kuldeep Yadav,0,0,,,,,,caught,PJ Cummins
+ball,1,14.1,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,AR Patel,4,0,,,,,,"",""
+ball,1,14.2,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,AR Patel,6,0,,,,,,"",""
+ball,1,14.3,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,AR Patel,6,0,,,,,,"",""
+ball,1,14.4,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,AR Patel,1,0,,,,,,"",""
+ball,1,14.5,Sunrisers Hyderabad,PWA Mulder,Aniket Verma,AR Patel,0,0,,,,,,"",""
+ball,1,14.6,Sunrisers Hyderabad,PWA Mulder,Aniket Verma,AR Patel,0,0,,,,,,"",""
+ball,1,15.1,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Hyderabad,PWA Mulder,Aniket Verma,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,15.3,Sunrisers Hyderabad,PWA Mulder,Aniket Verma,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,15.5,Sunrisers Hyderabad,Aniket Verma,PWA Mulder,Kuldeep Yadav,0,0,,,,,,caught,Aniket Verma
+ball,1,15.6,Sunrisers Hyderabad,HV Patel,PWA Mulder,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Hyderabad,HV Patel,PWA Mulder,MM Sharma,0,0,,,,,,"",""
+ball,1,16.2,Sunrisers Hyderabad,HV Patel,PWA Mulder,MM Sharma,1,0,,,,,,"",""
+ball,1,16.3,Sunrisers Hyderabad,PWA Mulder,HV Patel,MM Sharma,1,0,,,,,,"",""
+ball,1,16.4,Sunrisers Hyderabad,HV Patel,PWA Mulder,MM Sharma,1,0,,,,,,"",""
+ball,1,16.5,Sunrisers Hyderabad,PWA Mulder,HV Patel,MM Sharma,4,0,,,,,,"",""
+ball,1,16.6,Sunrisers Hyderabad,PWA Mulder,HV Patel,MM Sharma,0,0,,,,,,"",""
+ball,1,17.1,Sunrisers Hyderabad,HV Patel,PWA Mulder,V Nigam,0,0,,,,,,"",""
+ball,1,17.2,Sunrisers Hyderabad,HV Patel,PWA Mulder,V Nigam,0,0,,,,,,"",""
+ball,1,17.3,Sunrisers Hyderabad,HV Patel,PWA Mulder,V Nigam,1,0,,,,,,"",""
+ball,1,17.4,Sunrisers Hyderabad,PWA Mulder,HV Patel,V Nigam,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Hyderabad,HV Patel,PWA Mulder,V Nigam,1,0,,,,,,"",""
+ball,1,17.6,Sunrisers Hyderabad,PWA Mulder,HV Patel,V Nigam,0,1,1,,,,,"",""
+ball,1,17.7,Sunrisers Hyderabad,PWA Mulder,HV Patel,V Nigam,1,0,,,,,,"",""
+ball,1,18.1,Sunrisers Hyderabad,PWA Mulder,HV Patel,MA Starc,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Hyderabad,HV Patel,PWA Mulder,MA Starc,0,0,,,,,,caught,HV Patel
+ball,1,18.3,Sunrisers Hyderabad,Mohammed Shami,PWA Mulder,MA Starc,1,0,,,,,,"",""
+ball,1,18.4,Sunrisers Hyderabad,PWA Mulder,Mohammed Shami,MA Starc,0,0,,,,,,caught,PWA Mulder
+ball,2,0.1,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.2,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.3,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,1,0,,,,,,"",""
+ball,2,0.6,Delhi Capitals,F du Plessis,J Fraser-McGurk,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,1.2,Delhi Capitals,J Fraser-McGurk,F du Plessis,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,1.3,Delhi Capitals,J Fraser-McGurk,F du Plessis,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,1.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,1.5,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,1.6,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,2.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,Mohammed Shami,6,0,,,,,,"",""
+ball,2,2.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,Mohammed Shami,4,0,,,,,,"",""
+ball,2,2.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,Mohammed Shami,0,4,,,,4,,"",""
+ball,2,2.4,Delhi Capitals,F du Plessis,J Fraser-McGurk,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.6,Delhi Capitals,J Fraser-McGurk,F du Plessis,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,4,0,,,,,,"",""
+ball,2,3.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,2,0,,,,,,"",""
+ball,2,3.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,1,0,,,,,,"",""
+ball,2,3.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,PJ Cummins,0,0,,,,,,"",""
+ball,2,3.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,PJ Cummins,2,0,,,,,,"",""
+ball,2,3.6,Delhi Capitals,J Fraser-McGurk,F du Plessis,PJ Cummins,4,0,,,,,,"",""
+ball,2,4.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,4.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,4.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,4.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,4.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,4.6,Delhi Capitals,F du Plessis,J Fraser-McGurk,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,5.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,0,1,1,,,,,"",""
+ball,2,5.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,0,0,,,,,,"",""
+ball,2,5.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,2,0,,,,,,"",""
+ball,2,5.4,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,1,0,,,,,,"",""
+ball,2,5.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,0,0,,,,,,"",""
+ball,2,5.6,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,0,0,,,,,,"",""
+ball,2,5.7,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,0,0,,,,,,"",""
+ball,2,6.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,4,0,,,,,,"",""
+ball,2,6.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,6,0,,,,,,"",""
+ball,2,6.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,1,0,,,,,,"",""
+ball,2,6.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,PJ Cummins,0,0,,,,,,"",""
+ball,2,6.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,PJ Cummins,1,0,,,,,,"",""
+ball,2,6.6,Delhi Capitals,F du Plessis,J Fraser-McGurk,PJ Cummins,2,0,,,,,,"",""
+ball,2,7.1,Delhi Capitals,J Fraser-McGurk,F du Plessis,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,7.2,Delhi Capitals,F du Plessis,J Fraser-McGurk,Zeeshan Ansari,2,0,,,,,,"",""
+ball,2,7.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,7.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,Zeeshan Ansari,0,0,,,,,,"",""
+ball,2,7.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,Zeeshan Ansari,4,0,,,,,,"",""
+ball,2,7.6,Delhi Capitals,J Fraser-McGurk,F du Plessis,Zeeshan Ansari,0,0,,,,,,"",""
+ball,2,8.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,1,0,,,,,,"",""
+ball,2,8.2,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,1,0,,,,,,"",""
+ball,2,8.3,Delhi Capitals,F du Plessis,J Fraser-McGurk,HV Patel,1,0,,,,,,"",""
+ball,2,8.4,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,0,0,,,,,,"",""
+ball,2,8.5,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,0,2,,,2,,,"",""
+ball,2,8.6,Delhi Capitals,J Fraser-McGurk,F du Plessis,HV Patel,2,0,,,,,,"",""
+ball,2,9.1,Delhi Capitals,F du Plessis,J Fraser-McGurk,Zeeshan Ansari,0,0,,,,,,caught,F du Plessis
+ball,2,9.2,Delhi Capitals,Abishek Porel,J Fraser-McGurk,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,9.3,Delhi Capitals,J Fraser-McGurk,Abishek Porel,Zeeshan Ansari,4,0,,,,,,"",""
+ball,2,9.4,Delhi Capitals,J Fraser-McGurk,Abishek Porel,Zeeshan Ansari,4,0,,,,,,"",""
+ball,2,9.5,Delhi Capitals,J Fraser-McGurk,Abishek Porel,Zeeshan Ansari,6,0,,,,,,"",""
+ball,2,9.6,Delhi Capitals,J Fraser-McGurk,Abishek Porel,Zeeshan Ansari,0,0,,,,,,caught and bowled,J Fraser-McGurk
+ball,2,10.1,Delhi Capitals,Abishek Porel,KL Rahul,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.2,Delhi Capitals,KL Rahul,Abishek Porel,Mohammed Shami,4,0,,,,,,"",""
+ball,2,10.3,Delhi Capitals,KL Rahul,Abishek Porel,Mohammed Shami,0,1,1,,,,,"",""
+ball,2,10.4,Delhi Capitals,KL Rahul,Abishek Porel,Mohammed Shami,6,0,,,,,,"",""
+ball,2,10.5,Delhi Capitals,KL Rahul,Abishek Porel,Mohammed Shami,4,0,,,,,,"",""
+ball,2,10.6,Delhi Capitals,KL Rahul,Abishek Porel,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.7,Delhi Capitals,Abishek Porel,KL Rahul,Mohammed Shami,1,0,,,,,,"",""
+ball,2,11.1,Delhi Capitals,Abishek Porel,KL Rahul,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,11.2,Delhi Capitals,KL Rahul,Abishek Porel,Zeeshan Ansari,0,0,,,,,,bowled,KL Rahul
+ball,2,11.3,Delhi Capitals,T Stubbs,Abishek Porel,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,11.4,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,11.5,Delhi Capitals,T Stubbs,Abishek Porel,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,11.6,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,12.1,Delhi Capitals,Abishek Porel,T Stubbs,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,12.2,Delhi Capitals,T Stubbs,Abishek Porel,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,12.3,Delhi Capitals,Abishek Porel,T Stubbs,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,12.4,Delhi Capitals,T Stubbs,Abishek Porel,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,12.5,Delhi Capitals,Abishek Porel,T Stubbs,Abhishek Sharma,4,0,,,,,,"",""
+ball,2,12.6,Delhi Capitals,Abishek Porel,T Stubbs,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,13.1,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,13.2,Delhi Capitals,T Stubbs,Abishek Porel,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,13.3,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,6,0,,,,,,"",""
+ball,2,13.4,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,13.5,Delhi Capitals,T Stubbs,Abishek Porel,Zeeshan Ansari,1,0,,,,,,"",""
+ball,2,13.6,Delhi Capitals,Abishek Porel,T Stubbs,Zeeshan Ansari,4,0,,,,,,"",""
+ball,2,14.1,Delhi Capitals,T Stubbs,Abishek Porel,HV Patel,1,0,,,,,,"",""
+ball,2,14.2,Delhi Capitals,Abishek Porel,T Stubbs,HV Patel,1,0,,,,,,"",""
+ball,2,14.3,Delhi Capitals,T Stubbs,Abishek Porel,HV Patel,0,0,,,,,,"",""
+ball,2,14.4,Delhi Capitals,T Stubbs,Abishek Porel,HV Patel,1,0,,,,,,"",""
+ball,2,14.5,Delhi Capitals,Abishek Porel,T Stubbs,HV Patel,1,0,,,,,,"",""
+ball,2,14.6,Delhi Capitals,T Stubbs,Abishek Porel,HV Patel,4,0,,,,,,"",""
+ball,2,15.1,Delhi Capitals,Abishek Porel,T Stubbs,PWA Mulder,1,0,,,,,,"",""
+ball,2,15.2,Delhi Capitals,T Stubbs,Abishek Porel,PWA Mulder,4,0,,,,,,"",""
+ball,2,15.3,Delhi Capitals,T Stubbs,Abishek Porel,PWA Mulder,0,0,,,,,,"",""
+ball,2,15.4,Delhi Capitals,T Stubbs,Abishek Porel,PWA Mulder,4,0,,,,,,"",""
+ball,2,15.5,Delhi Capitals,T Stubbs,Abishek Porel,PWA Mulder,1,0,,,,,,"",""
+ball,2,15.6,Delhi Capitals,Abishek Porel,T Stubbs,PWA Mulder,6,0,,,,,,"",""

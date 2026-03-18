@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gujarat Titans
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2022
+info,date,2022/04/14
+info,event,Indian Premier League
+info,match_number,24
+info,venue,"Dr DY Patil Sports Academy, Mumbai"
+info,city,Mumbai
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,HH Pandya
+info,umpire,CB Gaffaney
+info,umpire,R Pandit
+info,reserve_umpire,Tapan Sharma
+info,tv_umpire,J Madanagopal
+info,match_referee,M Nayyar
+info,winner,Gujarat Titans
+info,winner_runs,37
+info,player,Gujarat Titans,MS Wade
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,V Shankar
+info,player,Gujarat Titans,HH Pandya
+info,player,Gujarat Titans,A Manohar
+info,player,Gujarat Titans,DA Miller
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,Mohammed Shami
+info,player,Gujarat Titans,LH Ferguson
+info,player,Gujarat Titans,Yash Dayal
+info,player,Rajasthan Royals,JC Buttler
+info,player,Rajasthan Royals,D Padikkal
+info,player,Rajasthan Royals,R Ashwin
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,HE van der Dussen
+info,player,Rajasthan Royals,SO Hetmyer
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,JDS Neesham
+info,player,Rajasthan Royals,M Prasidh Krishna
+info,player,Rajasthan Royals,YS Chahal
+info,player,Rajasthan Royals,KR Sen
+info,registry,people,A Manohar,0890552f
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KR Sen,2e78f685
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,YS Chahal,57ee1fde
+info,registry,people,Yash Dayal,7210d461
+ball,1,0.1,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,4,0,,,,,,"",""
+ball,1,0.2,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,0,0,,,,,,"",""
+ball,1,0.3,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,0,0,,,,,,"",""
+ball,1,0.4,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,4,0,,,,,,"",""
+ball,1,0.5,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,0,0,,,,,,"",""
+ball,1,0.6,Gujarat Titans,MS Wade,Shubman Gill,JDS Neesham,4,0,,,,,,"",""
+ball,1,1.1,Gujarat Titans,Shubman Gill,MS Wade,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,1.2,Gujarat Titans,Shubman Gill,MS Wade,M Prasidh Krishna,0,0,,,,,,run out,MS Wade
+ball,1,1.3,Gujarat Titans,V Shankar,Shubman Gill,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,1.4,Gujarat Titans,V Shankar,Shubman Gill,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,1.5,Gujarat Titans,V Shankar,Shubman Gill,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,1.6,Gujarat Titans,Shubman Gill,V Shankar,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,2.1,Gujarat Titans,V Shankar,Shubman Gill,KR Sen,1,0,,,,,,"",""
+ball,1,2.2,Gujarat Titans,Shubman Gill,V Shankar,KR Sen,1,0,,,,,,"",""
+ball,1,2.3,Gujarat Titans,V Shankar,Shubman Gill,KR Sen,0,0,,,,,,"",""
+ball,1,2.4,Gujarat Titans,V Shankar,Shubman Gill,KR Sen,0,0,,,,,,"",""
+ball,1,2.5,Gujarat Titans,V Shankar,Shubman Gill,KR Sen,0,0,,,,,,caught,V Shankar
+ball,1,2.6,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,1,0,,,,,,"",""
+ball,1,3.1,Gujarat Titans,HH Pandya,Shubman Gill,YS Chahal,1,0,,,,,,"",""
+ball,1,3.2,Gujarat Titans,Shubman Gill,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,3.3,Gujarat Titans,HH Pandya,Shubman Gill,YS Chahal,1,0,,,,,,"",""
+ball,1,3.4,Gujarat Titans,Shubman Gill,HH Pandya,YS Chahal,0,0,,,,,,"",""
+ball,1,3.5,Gujarat Titans,Shubman Gill,HH Pandya,YS Chahal,0,0,,,,,,"",""
+ball,1,3.6,Gujarat Titans,Shubman Gill,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,4.1,Gujarat Titans,Shubman Gill,HH Pandya,KR Sen,1,0,,,,,,"",""
+ball,1,4.2,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,4,0,,,,,,"",""
+ball,1,4.3,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,4,0,,,,,,"",""
+ball,1,4.4,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,4,0,,,,,,"",""
+ball,1,4.5,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,0,0,,,,,,"",""
+ball,1,4.6,Gujarat Titans,HH Pandya,Shubman Gill,KR Sen,1,0,,,,,,"",""
+ball,1,5.1,Gujarat Titans,HH Pandya,Shubman Gill,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,5.2,Gujarat Titans,HH Pandya,Shubman Gill,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,5.3,Gujarat Titans,HH Pandya,Shubman Gill,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,5.4,Gujarat Titans,Shubman Gill,HH Pandya,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,5.5,Gujarat Titans,HH Pandya,Shubman Gill,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,5.6,Gujarat Titans,Shubman Gill,HH Pandya,M Prasidh Krishna,0,1,,1,,,,"",""
+ball,1,5.7,Gujarat Titans,Shubman Gill,HH Pandya,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,6.1,Gujarat Titans,HH Pandya,Shubman Gill,R Parag,6,0,,,,,,"",""
+ball,1,6.2,Gujarat Titans,HH Pandya,Shubman Gill,R Parag,1,0,,,,,,"",""
+ball,1,6.3,Gujarat Titans,Shubman Gill,HH Pandya,R Parag,4,0,,,,,,"",""
+ball,1,6.4,Gujarat Titans,Shubman Gill,HH Pandya,R Parag,0,0,,,,,,caught,Shubman Gill
+ball,1,6.5,Gujarat Titans,A Manohar,HH Pandya,R Parag,0,0,,,,,,"",""
+ball,1,6.6,Gujarat Titans,A Manohar,HH Pandya,R Parag,1,0,,,,,,"",""
+ball,1,7.1,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,1,0,,,,,,"",""
+ball,1,7.2,Gujarat Titans,HH Pandya,A Manohar,JDS Neesham,1,0,,,,,,"",""
+ball,1,7.3,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,0,0,,,,,,"",""
+ball,1,7.4,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,1,0,,,,,,"",""
+ball,1,7.5,Gujarat Titans,HH Pandya,A Manohar,JDS Neesham,1,0,,,,,,"",""
+ball,1,7.6,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,4,0,,,,,,"",""
+ball,1,8.1,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,1,0,,,,,,"",""
+ball,1,8.2,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,1,0,,,,,,"",""
+ball,1,8.3,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,2,0,,,,,,"",""
+ball,1,8.4,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,1,0,,,,,,"",""
+ball,1,8.5,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,0,0,,,,,,"",""
+ball,1,8.6,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,0,0,,,,,,"",""
+ball,1,9.1,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,9.2,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,9.3,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,0,0,,,,,,"",""
+ball,1,9.4,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,9.5,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,9.6,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,10.1,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,1,0,,,,,,"",""
+ball,1,10.2,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,0,0,,,,,,"",""
+ball,1,10.3,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,0,0,,,,,,"",""
+ball,1,10.4,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,4,0,,,,,,"",""
+ball,1,10.5,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,1,0,,,,,,"",""
+ball,1,10.6,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,0,0,,,,,,"",""
+ball,1,11.1,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,1,0,,,,,,"",""
+ball,1,11.2,Gujarat Titans,HH Pandya,A Manohar,JDS Neesham,4,0,,,,,,"",""
+ball,1,11.3,Gujarat Titans,HH Pandya,A Manohar,JDS Neesham,1,0,,,,,,"",""
+ball,1,11.4,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,2,0,,,,,,"",""
+ball,1,11.5,Gujarat Titans,A Manohar,HH Pandya,JDS Neesham,1,0,,,,,,"",""
+ball,1,11.6,Gujarat Titans,HH Pandya,A Manohar,JDS Neesham,0,0,,,,,,"",""
+ball,1,12.1,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,4,0,,,,,,"",""
+ball,1,12.2,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,6,0,,,,,,"",""
+ball,1,12.3,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,12.4,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,12.5,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,12.6,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,13.1,Gujarat Titans,HH Pandya,A Manohar,KR Sen,4,0,,,,,,"",""
+ball,1,13.2,Gujarat Titans,HH Pandya,A Manohar,KR Sen,0,0,,,,,,"",""
+ball,1,13.3,Gujarat Titans,HH Pandya,A Manohar,KR Sen,4,0,,,,,,"",""
+ball,1,13.4,Gujarat Titans,HH Pandya,A Manohar,KR Sen,0,0,,,,,,"",""
+ball,1,13.5,Gujarat Titans,HH Pandya,A Manohar,KR Sen,1,0,,,,,,"",""
+ball,1,13.6,Gujarat Titans,A Manohar,HH Pandya,KR Sen,4,0,,,,,,"",""
+ball,1,14.1,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,0,0,,,,,,"",""
+ball,1,14.2,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,2,0,,,,,,"",""
+ball,1,14.3,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,6,0,,,,,,"",""
+ball,1,14.4,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,6,0,,,,,,"",""
+ball,1,14.5,Gujarat Titans,HH Pandya,A Manohar,R Ashwin,1,0,,,,,,"",""
+ball,1,14.6,Gujarat Titans,A Manohar,HH Pandya,R Ashwin,1,0,,,,,,"",""
+ball,1,15.1,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,0,1,1,,,,,"",""
+ball,1,15.2,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,0,0,,,,,,"",""
+ball,1,15.3,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,1,0,,,,,,"",""
+ball,1,15.4,Gujarat Titans,HH Pandya,A Manohar,YS Chahal,1,0,,,,,,"",""
+ball,1,15.5,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,6,0,,,,,,"",""
+ball,1,15.6,Gujarat Titans,A Manohar,HH Pandya,YS Chahal,0,0,,,,,,caught,A Manohar
+ball,1,15.7,Gujarat Titans,DA Miller,HH Pandya,YS Chahal,0,0,,,,,,"",""
+ball,1,16.1,Gujarat Titans,HH Pandya,DA Miller,R Ashwin,0,0,,,,,,"",""
+ball,1,16.2,Gujarat Titans,HH Pandya,DA Miller,R Ashwin,0,1,1,,,,,"",""
+ball,1,16.3,Gujarat Titans,HH Pandya,DA Miller,R Ashwin,2,0,,,,,,"",""
+ball,1,16.4,Gujarat Titans,HH Pandya,DA Miller,R Ashwin,0,0,,,,,,"",""
+ball,1,16.5,Gujarat Titans,HH Pandya,DA Miller,R Ashwin,1,0,,,,,,"",""
+ball,1,16.6,Gujarat Titans,DA Miller,HH Pandya,R Ashwin,0,0,,,,,,"",""
+ball,1,16.7,Gujarat Titans,DA Miller,HH Pandya,R Ashwin,2,0,,,,,,"",""
+ball,1,17.1,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,17.2,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,17.3,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,17.4,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,17.5,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,17.6,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,18.1,Gujarat Titans,HH Pandya,DA Miller,KR Sen,1,0,,,,,,"",""
+ball,1,18.2,Gujarat Titans,DA Miller,HH Pandya,KR Sen,4,0,,,,,,"",""
+ball,1,18.3,Gujarat Titans,DA Miller,HH Pandya,KR Sen,6,0,,,,,,"",""
+ball,1,18.4,Gujarat Titans,DA Miller,HH Pandya,KR Sen,2,0,,,,,,"",""
+ball,1,18.5,Gujarat Titans,DA Miller,HH Pandya,KR Sen,4,0,,,,,,"",""
+ball,1,18.6,Gujarat Titans,DA Miller,HH Pandya,KR Sen,4,0,,,,,,"",""
+ball,1,19.1,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,19.2,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.3,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,6,0,,,,,,"",""
+ball,1,19.4,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.5,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.6,Gujarat Titans,DA Miller,HH Pandya,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.7,Gujarat Titans,HH Pandya,DA Miller,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,0.1,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.2,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,4,0,,,,,,"",""
+ball,2,0.3,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,4,0,,,,,,"",""
+ball,2,0.4,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,4,0,,,,,,"",""
+ball,2,0.5,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,0,0,,,,,,"",""
+ball,2,0.6,Rajasthan Royals,JC Buttler,D Padikkal,Mohammed Shami,1,0,,,,,,"",""
+ball,2,1.1,Rajasthan Royals,JC Buttler,D Padikkal,Yash Dayal,4,0,,,,,,"",""
+ball,2,1.2,Rajasthan Royals,JC Buttler,D Padikkal,Yash Dayal,0,0,,,,,,"",""
+ball,2,1.3,Rajasthan Royals,JC Buttler,D Padikkal,Yash Dayal,4,0,,,,,,"",""
+ball,2,1.4,Rajasthan Royals,JC Buttler,D Padikkal,Yash Dayal,6,0,,,,,,"",""
+ball,2,1.5,Rajasthan Royals,JC Buttler,D Padikkal,Yash Dayal,1,0,,,,,,"",""
+ball,2,1.6,Rajasthan Royals,D Padikkal,JC Buttler,Yash Dayal,0,0,,,,,,caught,D Padikkal
+ball,2,2.1,Rajasthan Royals,JC Buttler,R Ashwin,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.2,Rajasthan Royals,JC Buttler,R Ashwin,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.3,Rajasthan Royals,R Ashwin,JC Buttler,Mohammed Shami,0,0,,,,,,"",""
+ball,2,2.4,Rajasthan Royals,R Ashwin,JC Buttler,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.5,Rajasthan Royals,JC Buttler,R Ashwin,Mohammed Shami,1,0,,,,,,"",""
+ball,2,2.6,Rajasthan Royals,R Ashwin,JC Buttler,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.1,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,4,0,,,,,,"",""
+ball,2,3.2,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,0,0,,,,,,"",""
+ball,2,3.3,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,4,0,,,,,,"",""
+ball,2,3.4,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,6,0,,,,,,"",""
+ball,2,3.5,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,0,0,,,,,,"",""
+ball,2,3.6,Rajasthan Royals,JC Buttler,R Ashwin,Yash Dayal,4,0,,,,,,"",""
+ball,2,4.1,Rajasthan Royals,R Ashwin,JC Buttler,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.2,Rajasthan Royals,R Ashwin,JC Buttler,Rashid Khan,6,0,,,,,,"",""
+ball,2,4.3,Rajasthan Royals,R Ashwin,JC Buttler,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.4,Rajasthan Royals,R Ashwin,JC Buttler,Rashid Khan,1,0,,,,,,"",""
+ball,2,4.5,Rajasthan Royals,JC Buttler,R Ashwin,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.6,Rajasthan Royals,JC Buttler,R Ashwin,Rashid Khan,0,0,,,,,,"",""
+ball,2,5.1,Rajasthan Royals,R Ashwin,JC Buttler,LH Ferguson,0,0,,,,,,caught,R Ashwin
+ball,2,5.2,Rajasthan Royals,SV Samson,JC Buttler,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.3,Rajasthan Royals,SV Samson,JC Buttler,LH Ferguson,2,0,,,,,,"",""
+ball,2,5.4,Rajasthan Royals,SV Samson,JC Buttler,LH Ferguson,1,0,,,,,,"",""
+ball,2,5.5,Rajasthan Royals,JC Buttler,SV Samson,LH Ferguson,6,0,,,,,,"",""
+ball,2,5.6,Rajasthan Royals,JC Buttler,SV Samson,LH Ferguson,0,0,,,,,,bowled,JC Buttler
+ball,2,6.1,Rajasthan Royals,SV Samson,HE van der Dussen,R Tewatia,1,0,,,,,,"",""
+ball,2,6.2,Rajasthan Royals,HE van der Dussen,SV Samson,R Tewatia,1,0,,,,,,"",""
+ball,2,6.3,Rajasthan Royals,SV Samson,HE van der Dussen,R Tewatia,6,0,,,,,,"",""
+ball,2,6.4,Rajasthan Royals,SV Samson,HE van der Dussen,R Tewatia,0,0,,,,,,"",""
+ball,2,6.5,Rajasthan Royals,SV Samson,HE van der Dussen,R Tewatia,0,0,,,,,,"",""
+ball,2,6.6,Rajasthan Royals,SV Samson,HE van der Dussen,R Tewatia,1,0,,,,,,"",""
+ball,2,7.1,Rajasthan Royals,SV Samson,HE van der Dussen,LH Ferguson,0,0,,,,,,"",""
+ball,2,7.2,Rajasthan Royals,SV Samson,HE van der Dussen,LH Ferguson,0,0,,,,,,"",""
+ball,2,7.3,Rajasthan Royals,SV Samson,HE van der Dussen,LH Ferguson,0,0,,,,,,run out,SV Samson
+ball,2,7.4,Rajasthan Royals,HE van der Dussen,SO Hetmyer,LH Ferguson,0,0,,,,,,"",""
+ball,2,7.5,Rajasthan Royals,HE van der Dussen,SO Hetmyer,LH Ferguson,1,0,,,,,,"",""
+ball,2,7.6,Rajasthan Royals,SO Hetmyer,HE van der Dussen,LH Ferguson,1,0,,,,,,"",""
+ball,2,8.1,Rajasthan Royals,SO Hetmyer,HE van der Dussen,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.2,Rajasthan Royals,SO Hetmyer,HE van der Dussen,Rashid Khan,3,0,,,,,,"",""
+ball,2,8.3,Rajasthan Royals,HE van der Dussen,SO Hetmyer,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.4,Rajasthan Royals,HE van der Dussen,SO Hetmyer,Rashid Khan,0,1,,,,1,,"",""
+ball,2,8.5,Rajasthan Royals,SO Hetmyer,HE van der Dussen,Rashid Khan,2,0,,,,,,"",""
+ball,2,8.6,Rajasthan Royals,SO Hetmyer,HE van der Dussen,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.1,Rajasthan Royals,HE van der Dussen,SO Hetmyer,HH Pandya,1,0,,,,,,"",""
+ball,2,9.2,Rajasthan Royals,SO Hetmyer,HE van der Dussen,HH Pandya,0,0,,,,,,"",""
+ball,2,9.3,Rajasthan Royals,SO Hetmyer,HE van der Dussen,HH Pandya,1,0,,,,,,"",""
+ball,2,9.4,Rajasthan Royals,HE van der Dussen,SO Hetmyer,HH Pandya,0,1,1,,,,,"",""
+ball,2,9.5,Rajasthan Royals,HE van der Dussen,SO Hetmyer,HH Pandya,1,0,,,,,,"",""
+ball,2,9.6,Rajasthan Royals,SO Hetmyer,HE van der Dussen,HH Pandya,1,0,,,,,,"",""
+ball,2,9.7,Rajasthan Royals,HE van der Dussen,SO Hetmyer,HH Pandya,2,0,,,,,,"",""
+ball,2,10.1,Rajasthan Royals,SO Hetmyer,HE van der Dussen,Yash Dayal,1,0,,,,,,"",""
+ball,2,10.2,Rajasthan Royals,HE van der Dussen,SO Hetmyer,Yash Dayal,0,0,,,,,,"",""
+ball,2,10.3,Rajasthan Royals,HE van der Dussen,SO Hetmyer,Yash Dayal,0,0,,,,,,caught,HE van der Dussen
+ball,2,10.4,Rajasthan Royals,R Parag,SO Hetmyer,Yash Dayal,4,0,,,,,,"",""
+ball,2,10.5,Rajasthan Royals,R Parag,SO Hetmyer,Yash Dayal,0,0,,,,,,"",""
+ball,2,10.6,Rajasthan Royals,R Parag,SO Hetmyer,Yash Dayal,0,0,,,,,,"",""
+ball,2,11.1,Rajasthan Royals,SO Hetmyer,R Parag,HH Pandya,1,0,,,,,,"",""
+ball,2,11.2,Rajasthan Royals,R Parag,SO Hetmyer,HH Pandya,0,0,,,,,,"",""
+ball,2,11.3,Rajasthan Royals,R Parag,SO Hetmyer,HH Pandya,0,0,,,,,,"",""
+ball,2,11.4,Rajasthan Royals,R Parag,SO Hetmyer,HH Pandya,1,0,,,,,,"",""
+ball,2,11.5,Rajasthan Royals,SO Hetmyer,R Parag,HH Pandya,4,0,,,,,,"",""
+ball,2,11.6,Rajasthan Royals,SO Hetmyer,R Parag,HH Pandya,0,1,1,,,,,"",""
+ball,2,11.7,Rajasthan Royals,SO Hetmyer,R Parag,HH Pandya,1,0,,,,,,"",""
+ball,2,12.1,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Shami,2,0,,,,,,"",""
+ball,2,12.2,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Shami,6,0,,,,,,"",""
+ball,2,12.3,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Shami,4,0,,,,,,"",""
+ball,2,12.4,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Shami,2,0,,,,,,"",""
+ball,2,12.5,Rajasthan Royals,SO Hetmyer,R Parag,Mohammed Shami,0,0,,,,,,caught,SO Hetmyer
+ball,2,12.6,Rajasthan Royals,JDS Neesham,R Parag,Mohammed Shami,1,0,,,,,,"",""
+ball,2,13.1,Rajasthan Royals,JDS Neesham,R Parag,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.2,Rajasthan Royals,JDS Neesham,R Parag,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.3,Rajasthan Royals,R Parag,JDS Neesham,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.4,Rajasthan Royals,JDS Neesham,R Parag,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.5,Rajasthan Royals,R Parag,JDS Neesham,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.6,Rajasthan Royals,JDS Neesham,R Parag,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.1,Rajasthan Royals,JDS Neesham,R Parag,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.2,Rajasthan Royals,R Parag,JDS Neesham,Mohammed Shami,2,0,,,,,,"",""
+ball,2,14.3,Rajasthan Royals,R Parag,JDS Neesham,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.4,Rajasthan Royals,JDS Neesham,R Parag,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.5,Rajasthan Royals,R Parag,JDS Neesham,Mohammed Shami,1,0,,,,,,"",""
+ball,2,14.6,Rajasthan Royals,JDS Neesham,R Parag,Mohammed Shami,2,0,,,,,,"",""
+ball,2,15.1,Rajasthan Royals,R Parag,JDS Neesham,LH Ferguson,6,0,,,,,,"",""
+ball,2,15.2,Rajasthan Royals,R Parag,JDS Neesham,LH Ferguson,0,0,,,,,,"",""
+ball,2,15.3,Rajasthan Royals,R Parag,JDS Neesham,LH Ferguson,1,0,,,,,,"",""
+ball,2,15.4,Rajasthan Royals,JDS Neesham,R Parag,LH Ferguson,1,0,,,,,,"",""
+ball,2,15.5,Rajasthan Royals,R Parag,JDS Neesham,LH Ferguson,0,0,,,,,,"",""
+ball,2,15.6,Rajasthan Royals,R Parag,JDS Neesham,LH Ferguson,0,0,,,,,,caught,R Parag
+ball,2,16.1,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,Rashid Khan,0,0,,,,,,"",""
+ball,2,16.2,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.3,Rajasthan Royals,M Prasidh Krishna,JDS Neesham,Rashid Khan,0,0,,,,,,"",""
+ball,2,16.4,Rajasthan Royals,M Prasidh Krishna,JDS Neesham,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.5,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,Rashid Khan,4,0,,,,,,"",""
+ball,2,16.6,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,Rashid Khan,1,0,,,,,,"",""
+ball,2,17.1,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,HH Pandya,2,0,,,,,,"",""
+ball,2,17.2,Rajasthan Royals,JDS Neesham,M Prasidh Krishna,HH Pandya,0,0,,,,,,caught and bowled,JDS Neesham
+ball,2,17.3,Rajasthan Royals,YS Chahal,M Prasidh Krishna,HH Pandya,1,0,,,,,,"",""
+ball,2,17.4,Rajasthan Royals,M Prasidh Krishna,YS Chahal,V Shankar,0,0,,,,,,"",""
+ball,2,17.5,Rajasthan Royals,M Prasidh Krishna,YS Chahal,V Shankar,1,0,,,,,,"",""
+ball,2,17.6,Rajasthan Royals,YS Chahal,M Prasidh Krishna,V Shankar,0,0,,,,,,"",""
+ball,2,18.1,Rajasthan Royals,M Prasidh Krishna,YS Chahal,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.2,Rajasthan Royals,YS Chahal,M Prasidh Krishna,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.3,Rajasthan Royals,YS Chahal,M Prasidh Krishna,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.4,Rajasthan Royals,M Prasidh Krishna,YS Chahal,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.5,Rajasthan Royals,M Prasidh Krishna,YS Chahal,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.6,Rajasthan Royals,YS Chahal,M Prasidh Krishna,LH Ferguson,1,0,,,,,,"",""
+ball,2,19.1,Rajasthan Royals,YS Chahal,M Prasidh Krishna,Yash Dayal,0,0,,,,,,"",""
+ball,2,19.2,Rajasthan Royals,YS Chahal,M Prasidh Krishna,Yash Dayal,2,0,,,,,,"",""
+ball,2,19.3,Rajasthan Royals,YS Chahal,M Prasidh Krishna,Yash Dayal,0,0,,,,,,caught,YS Chahal
+ball,2,19.4,Rajasthan Royals,KR Sen,M Prasidh Krishna,Yash Dayal,0,0,,,,,,"",""
+ball,2,19.5,Rajasthan Royals,KR Sen,M Prasidh Krishna,Yash Dayal,0,0,,,,,,"",""
+ball,2,19.6,Rajasthan Royals,KR Sen,M Prasidh Krishna,Yash Dayal,0,0,,,,,,"",""

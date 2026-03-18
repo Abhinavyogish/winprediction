@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Chennai Super Kings
+info,gender,male
+info,season,2025
+info,date,2025/03/30
+info,event,Indian Premier League
+info,match_number,11
+info,venue,"Barsapara Cricket Stadium, Guwahati"
+info,city,Guwahati
+info,toss_winner,Chennai Super Kings
+info,toss_decision,field
+info,player_of_match,N Rana
+info,umpire,AT Holdstock
+info,umpire,A Totre
+info,reserve_umpire,K Kelkar
+info,tv_umpire,R Pandit
+info,match_referee,Shakti Singh
+info,winner,Rajasthan Royals
+info,winner_runs,6
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,N Rana
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,PWH de Silva
+info,player,Rajasthan Royals,SO Hetmyer
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,K Kartikeya
+info,player,Rajasthan Royals,M Theekshana
+info,player,Rajasthan Royals,TU Deshpande
+info,player,Rajasthan Royals,Sandeep Sharma
+info,player,Chennai Super Kings,M Pathirana
+info,player,Chennai Super Kings,R Ravindra
+info,player,Chennai Super Kings,RA Tripathi
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,V Shankar
+info,player,Chennai Super Kings,RA Jadeja
+info,player,Chennai Super Kings,MS Dhoni
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,R Ashwin
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,KK Ahmed
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Archer,5574750c
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,Rajasthan Royals,YBK Jaiswal,SV Samson,KK Ahmed,4,0,,,,,,"",""
+ball,1,0.2,Rajasthan Royals,YBK Jaiswal,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.3,Rajasthan Royals,YBK Jaiswal,SV Samson,KK Ahmed,0,0,,,,,,caught,YBK Jaiswal
+ball,1,0.4,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.5,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,4,0,,,,,,"",""
+ball,1,0.6,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,0,1,,,1,,,"",""
+ball,1,1.1,Rajasthan Royals,N Rana,SV Samson,J Overton,1,0,,,,,,"",""
+ball,1,1.2,Rajasthan Royals,SV Samson,N Rana,J Overton,1,0,,,,,,"",""
+ball,1,1.3,Rajasthan Royals,N Rana,SV Samson,J Overton,4,0,,,,,,"",""
+ball,1,1.4,Rajasthan Royals,N Rana,SV Samson,J Overton,2,0,,,,,,"",""
+ball,1,1.5,Rajasthan Royals,N Rana,SV Samson,J Overton,6,0,,,,,,"",""
+ball,1,1.6,Rajasthan Royals,N Rana,SV Samson,J Overton,0,0,,,,,,"",""
+ball,1,2.1,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.2,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,1,0,,,,,,"",""
+ball,1,2.3,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,1,0,,,,,,"",""
+ball,1,2.4,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.5,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.6,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,4,0,,,,,,"",""
+ball,1,3.1,Rajasthan Royals,N Rana,SV Samson,J Overton,4,0,,,,,,"",""
+ball,1,3.2,Rajasthan Royals,N Rana,SV Samson,J Overton,0,0,,,,,,"",""
+ball,1,3.3,Rajasthan Royals,N Rana,SV Samson,J Overton,4,0,,,,,,"",""
+ball,1,3.4,Rajasthan Royals,N Rana,SV Samson,J Overton,1,0,,,,,,"",""
+ball,1,3.5,Rajasthan Royals,SV Samson,N Rana,J Overton,6,0,,,,,,"",""
+ball,1,3.6,Rajasthan Royals,SV Samson,N Rana,J Overton,1,0,,,,,,"",""
+ball,1,4.1,Rajasthan Royals,SV Samson,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,4.2,Rajasthan Royals,N Rana,SV Samson,R Ashwin,6,0,,,,,,"",""
+ball,1,4.3,Rajasthan Royals,N Rana,SV Samson,R Ashwin,6,0,,,,,,"",""
+ball,1,4.4,Rajasthan Royals,N Rana,SV Samson,R Ashwin,4,0,,,,,,"",""
+ball,1,4.5,Rajasthan Royals,N Rana,SV Samson,R Ashwin,1,0,,,,,,"",""
+ball,1,4.6,Rajasthan Royals,SV Samson,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,5.1,Rajasthan Royals,SV Samson,N Rana,KK Ahmed,1,0,,,,,,"",""
+ball,1,5.2,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,4,0,,,,,,"",""
+ball,1,5.3,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,1,5.4,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,0,0,,,,,,"",""
+ball,1,5.5,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,4,0,,,,,,"",""
+ball,1,5.6,Rajasthan Royals,N Rana,SV Samson,KK Ahmed,6,0,,,,,,"",""
+ball,1,6.1,Rajasthan Royals,SV Samson,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,6.2,Rajasthan Royals,N Rana,SV Samson,R Ashwin,1,0,,,,,,"",""
+ball,1,6.3,Rajasthan Royals,SV Samson,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,6.4,Rajasthan Royals,N Rana,SV Samson,R Ashwin,1,0,,,,,,"",""
+ball,1,6.5,Rajasthan Royals,SV Samson,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,6.6,Rajasthan Royals,N Rana,SV Samson,R Ashwin,0,0,,,,,,"",""
+ball,1,7.1,Rajasthan Royals,SV Samson,N Rana,Noor Ahmad,1,0,,,,,,"",""
+ball,1,7.2,Rajasthan Royals,N Rana,SV Samson,Noor Ahmad,1,0,,,,,,"",""
+ball,1,7.3,Rajasthan Royals,SV Samson,N Rana,Noor Ahmad,0,0,,,,,,caught,SV Samson
+ball,1,7.4,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,0,0,,,,,,"",""
+ball,1,7.5,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,1,0,,,,,,"",""
+ball,1,7.6,Rajasthan Royals,N Rana,R Parag,Noor Ahmad,0,0,,,,,,"",""
+ball,1,8.1,Rajasthan Royals,R Parag,N Rana,R Ashwin,0,0,,,,,,"",""
+ball,1,8.2,Rajasthan Royals,R Parag,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,8.3,Rajasthan Royals,N Rana,R Parag,R Ashwin,0,0,,,,,,"",""
+ball,1,8.4,Rajasthan Royals,N Rana,R Parag,R Ashwin,0,0,,,,,,"",""
+ball,1,8.5,Rajasthan Royals,N Rana,R Parag,R Ashwin,0,0,,,,,,"",""
+ball,1,8.6,Rajasthan Royals,N Rana,R Parag,R Ashwin,4,0,,,,,,"",""
+ball,1,9.1,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,0,0,,,,,,"",""
+ball,1,9.2,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,0,0,,,,,,"",""
+ball,1,9.3,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,1,0,,,,,,"",""
+ball,1,9.4,Rajasthan Royals,N Rana,R Parag,Noor Ahmad,4,0,,,,,,"",""
+ball,1,9.5,Rajasthan Royals,N Rana,R Parag,Noor Ahmad,1,0,,,,,,"",""
+ball,1,9.6,Rajasthan Royals,R Parag,N Rana,Noor Ahmad,1,0,,,,,,"",""
+ball,1,10.1,Rajasthan Royals,R Parag,N Rana,M Pathirana,0,1,1,,,,,"",""
+ball,1,10.2,Rajasthan Royals,R Parag,N Rana,M Pathirana,6,0,,,,,,"",""
+ball,1,10.3,Rajasthan Royals,R Parag,N Rana,M Pathirana,0,0,,,,,,"",""
+ball,1,10.4,Rajasthan Royals,R Parag,N Rana,M Pathirana,0,1,1,,,,,"",""
+ball,1,10.5,Rajasthan Royals,R Parag,N Rana,M Pathirana,2,0,,,,,,"",""
+ball,1,10.6,Rajasthan Royals,R Parag,N Rana,M Pathirana,1,0,,,,,,"",""
+ball,1,10.7,Rajasthan Royals,N Rana,R Parag,M Pathirana,1,0,,,,,,"",""
+ball,1,10.8,Rajasthan Royals,R Parag,N Rana,M Pathirana,1,0,,,,,,"",""
+ball,1,11.1,Rajasthan Royals,R Parag,N Rana,R Ashwin,1,0,,,,,,"",""
+ball,1,11.2,Rajasthan Royals,N Rana,R Parag,R Ashwin,6,0,,,,,,"",""
+ball,1,11.3,Rajasthan Royals,N Rana,R Parag,R Ashwin,4,0,,,,,,"",""
+ball,1,11.4,Rajasthan Royals,N Rana,R Parag,R Ashwin,0,1,1,,,,,stumped,N Rana
+ball,1,11.5,Rajasthan Royals,Dhruv Jurel,R Parag,R Ashwin,0,0,,,,,,"",""
+ball,1,11.6,Rajasthan Royals,Dhruv Jurel,R Parag,R Ashwin,1,0,,,,,,"",""
+ball,1,11.7,Rajasthan Royals,R Parag,Dhruv Jurel,R Ashwin,4,0,,,,,,"",""
+ball,1,12.1,Rajasthan Royals,Dhruv Jurel,R Parag,RA Jadeja,0,0,,,,,,"",""
+ball,1,12.2,Rajasthan Royals,Dhruv Jurel,R Parag,RA Jadeja,0,0,,,,,,"",""
+ball,1,12.3,Rajasthan Royals,Dhruv Jurel,R Parag,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.4,Rajasthan Royals,R Parag,Dhruv Jurel,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.5,Rajasthan Royals,Dhruv Jurel,R Parag,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.6,Rajasthan Royals,R Parag,Dhruv Jurel,RA Jadeja,2,0,,,,,,"",""
+ball,1,13.1,Rajasthan Royals,Dhruv Jurel,R Parag,Noor Ahmad,0,0,,,,,,caught,Dhruv Jurel
+ball,1,13.2,Rajasthan Royals,PWH de Silva,R Parag,Noor Ahmad,0,0,,,,,,"",""
+ball,1,13.3,Rajasthan Royals,PWH de Silva,R Parag,Noor Ahmad,2,0,,,,,,"",""
+ball,1,13.4,Rajasthan Royals,PWH de Silva,R Parag,Noor Ahmad,1,0,,,,,,"",""
+ball,1,13.5,Rajasthan Royals,R Parag,PWH de Silva,Noor Ahmad,0,1,1,,,,,"",""
+ball,1,13.6,Rajasthan Royals,R Parag,PWH de Silva,Noor Ahmad,1,0,,,,,,"",""
+ball,1,13.7,Rajasthan Royals,PWH de Silva,R Parag,Noor Ahmad,1,0,,,,,,"",""
+ball,1,14.1,Rajasthan Royals,PWH de Silva,R Parag,RA Jadeja,0,0,,,,,,caught,PWH de Silva
+ball,1,14.2,Rajasthan Royals,SO Hetmyer,R Parag,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.3,Rajasthan Royals,R Parag,SO Hetmyer,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.4,Rajasthan Royals,SO Hetmyer,R Parag,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.5,Rajasthan Royals,R Parag,SO Hetmyer,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.6,Rajasthan Royals,SO Hetmyer,R Parag,RA Jadeja,1,0,,,,,,"",""
+ball,1,15.1,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,0,0,,,,,,"",""
+ball,1,15.2,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,2,0,,,,,,"",""
+ball,1,15.3,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,0,0,,,,,,"",""
+ball,1,15.4,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,1,0,,,,,,"",""
+ball,1,15.5,Rajasthan Royals,R Parag,SO Hetmyer,M Pathirana,1,0,,,,,,"",""
+ball,1,15.6,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,4,0,,,,,,"",""
+ball,1,16.1,Rajasthan Royals,R Parag,SO Hetmyer,Noor Ahmad,4,0,,,,,,"",""
+ball,1,16.2,Rajasthan Royals,R Parag,SO Hetmyer,Noor Ahmad,6,0,,,,,,"",""
+ball,1,16.3,Rajasthan Royals,R Parag,SO Hetmyer,Noor Ahmad,0,0,,,,,,"",""
+ball,1,16.4,Rajasthan Royals,R Parag,SO Hetmyer,Noor Ahmad,1,0,,,,,,"",""
+ball,1,16.5,Rajasthan Royals,SO Hetmyer,R Parag,Noor Ahmad,0,0,,,,,,"",""
+ball,1,16.6,Rajasthan Royals,SO Hetmyer,R Parag,Noor Ahmad,1,0,,,,,,"",""
+ball,1,17.1,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,0,0,,,,,,"",""
+ball,1,17.2,Rajasthan Royals,SO Hetmyer,R Parag,M Pathirana,1,0,,,,,,"",""
+ball,1,17.3,Rajasthan Royals,R Parag,SO Hetmyer,M Pathirana,0,0,,,,,,"",""
+ball,1,17.4,Rajasthan Royals,R Parag,SO Hetmyer,M Pathirana,0,0,,,,,,"",""
+ball,1,17.5,Rajasthan Royals,R Parag,SO Hetmyer,M Pathirana,0,0,,,,,,bowled,R Parag
+ball,1,17.6,Rajasthan Royals,JC Archer,SO Hetmyer,M Pathirana,0,0,,,,,,"",""
+ball,1,18.1,Rajasthan Royals,SO Hetmyer,JC Archer,KK Ahmed,0,1,1,,,,,"",""
+ball,1,18.2,Rajasthan Royals,SO Hetmyer,JC Archer,KK Ahmed,6,0,,,,,,"",""
+ball,1,18.3,Rajasthan Royals,SO Hetmyer,JC Archer,KK Ahmed,1,0,,,,,,"",""
+ball,1,18.4,Rajasthan Royals,JC Archer,SO Hetmyer,KK Ahmed,0,0,,,,,,caught,JC Archer
+ball,1,18.5,Rajasthan Royals,K Kartikeya,SO Hetmyer,KK Ahmed,1,0,,,,,,"",""
+ball,1,18.6,Rajasthan Royals,SO Hetmyer,K Kartikeya,KK Ahmed,0,0,,,,,,run out,K Kartikeya
+ball,1,18.7,Rajasthan Royals,M Theekshana,SO Hetmyer,KK Ahmed,0,0,,,,,,"",""
+ball,1,19.1,Rajasthan Royals,SO Hetmyer,M Theekshana,M Pathirana,0,1,1,,,,,"",""
+ball,1,19.2,Rajasthan Royals,SO Hetmyer,M Theekshana,M Pathirana,0,0,,,,,,caught,SO Hetmyer
+ball,1,19.3,Rajasthan Royals,TU Deshpande,M Theekshana,M Pathirana,1,0,,,,,,"",""
+ball,1,19.4,Rajasthan Royals,M Theekshana,TU Deshpande,M Pathirana,1,0,,,,,,"",""
+ball,1,19.5,Rajasthan Royals,TU Deshpande,M Theekshana,M Pathirana,0,2,2,,,,,"",""
+ball,1,19.6,Rajasthan Royals,M Theekshana,TU Deshpande,M Pathirana,0,0,,,,,,"",""
+ball,1,19.7,Rajasthan Royals,M Theekshana,TU Deshpande,M Pathirana,1,0,,,,,,"",""
+ball,1,19.8,Rajasthan Royals,TU Deshpande,M Theekshana,M Pathirana,0,1,,,1,,,"",""
+ball,2,0.1,Chennai Super Kings,R Ravindra,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,0.2,Chennai Super Kings,R Ravindra,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,0.3,Chennai Super Kings,R Ravindra,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,0.4,Chennai Super Kings,R Ravindra,RA Tripathi,JC Archer,0,0,,,,,,caught,R Ravindra
+ball,2,0.5,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,0.6,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,1.1,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,1,0,,,,,,"",""
+ball,2,1.2,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.3,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,0,0,,,,,,"",""
+ball,2,1.4,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,2,0,,,,,,"",""
+ball,2,1.5,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,1,0,,,,,,"",""
+ball,2,1.6,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,0,0,,,,,,"",""
+ball,2,2.1,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,2.2,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,0,0,,,,,,"",""
+ball,2,2.3,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,1,0,,,,,,"",""
+ball,2,2.4,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,0,0,,,,,,"",""
+ball,2,2.5,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,0,0,,,,,,"",""
+ball,2,2.6,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,0,0,,,,,,"",""
+ball,2,3.1,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.2,Chennai Super Kings,RD Gaikwad,RA Tripathi,TU Deshpande,3,0,,,,,,"",""
+ball,2,3.3,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.4,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,0,0,,,,,,"",""
+ball,2,3.5,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,4,0,,,,,,"",""
+ball,2,3.6,Chennai Super Kings,RA Tripathi,RD Gaikwad,TU Deshpande,4,0,,,,,,"",""
+ball,2,4.1,Chennai Super Kings,RD Gaikwad,RA Tripathi,JC Archer,1,0,,,,,,"",""
+ball,2,4.2,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,0,0,,,,,,"",""
+ball,2,4.3,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,6,0,,,,,,"",""
+ball,2,4.4,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,4,0,,,,,,"",""
+ball,2,4.5,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,0,0,,,,,,"",""
+ball,2,4.6,Chennai Super Kings,RA Tripathi,RD Gaikwad,JC Archer,1,0,,,,,,"",""
+ball,2,5.1,Chennai Super Kings,RA Tripathi,RD Gaikwad,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,5.2,Chennai Super Kings,RD Gaikwad,RA Tripathi,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,5.3,Chennai Super Kings,RD Gaikwad,RA Tripathi,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,5.4,Chennai Super Kings,RD Gaikwad,RA Tripathi,Sandeep Sharma,0,0,,,,,,"",""
+ball,2,5.5,Chennai Super Kings,RD Gaikwad,RA Tripathi,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,5.6,Chennai Super Kings,RD Gaikwad,RA Tripathi,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,6.1,Chennai Super Kings,RD Gaikwad,RA Tripathi,M Theekshana,0,0,,,,,,"",""
+ball,2,6.2,Chennai Super Kings,RD Gaikwad,RA Tripathi,M Theekshana,1,0,,,,,,"",""
+ball,2,6.3,Chennai Super Kings,RA Tripathi,RD Gaikwad,M Theekshana,1,0,,,,,,"",""
+ball,2,6.4,Chennai Super Kings,RD Gaikwad,RA Tripathi,M Theekshana,1,0,,,,,,"",""
+ball,2,6.5,Chennai Super Kings,RA Tripathi,RD Gaikwad,M Theekshana,0,0,,,,,,"",""
+ball,2,6.6,Chennai Super Kings,RA Tripathi,RD Gaikwad,M Theekshana,1,0,,,,,,"",""
+ball,2,7.1,Chennai Super Kings,RA Tripathi,RD Gaikwad,PWH de Silva,0,0,,,,,,caught,RA Tripathi
+ball,2,7.2,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,0,1,,,,1,,"",""
+ball,2,7.3,Chennai Super Kings,RD Gaikwad,S Dube,PWH de Silva,1,0,,,,,,"",""
+ball,2,7.4,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,6,0,,,,,,"",""
+ball,2,7.5,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,0,0,,,,,,"",""
+ball,2,7.6,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,0,0,,,,,,"",""
+ball,2,8.1,Chennai Super Kings,RD Gaikwad,S Dube,M Theekshana,4,0,,,,,,"",""
+ball,2,8.2,Chennai Super Kings,RD Gaikwad,S Dube,M Theekshana,1,0,,,,,,"",""
+ball,2,8.3,Chennai Super Kings,S Dube,RD Gaikwad,M Theekshana,0,0,,,,,,"",""
+ball,2,8.4,Chennai Super Kings,S Dube,RD Gaikwad,M Theekshana,1,0,,,,,,"",""
+ball,2,8.5,Chennai Super Kings,RD Gaikwad,S Dube,M Theekshana,1,0,,,,,,"",""
+ball,2,8.6,Chennai Super Kings,S Dube,RD Gaikwad,M Theekshana,1,0,,,,,,"",""
+ball,2,9.1,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,4,0,,,,,,"",""
+ball,2,9.2,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,6,0,,,,,,"",""
+ball,2,9.3,Chennai Super Kings,S Dube,RD Gaikwad,PWH de Silva,0,0,,,,,,caught,S Dube
+ball,2,9.4,Chennai Super Kings,V Shankar,RD Gaikwad,PWH de Silva,0,0,,,,,,"",""
+ball,2,9.5,Chennai Super Kings,V Shankar,RD Gaikwad,PWH de Silva,1,0,,,,,,"",""
+ball,2,9.6,Chennai Super Kings,RD Gaikwad,V Shankar,PWH de Silva,1,0,,,,,,"",""
+ball,2,10.1,Chennai Super Kings,RD Gaikwad,V Shankar,K Kartikeya,4,0,,,,,,"",""
+ball,2,10.2,Chennai Super Kings,RD Gaikwad,V Shankar,K Kartikeya,1,0,,,,,,"",""
+ball,2,10.3,Chennai Super Kings,V Shankar,RD Gaikwad,K Kartikeya,1,0,,,,,,"",""
+ball,2,10.4,Chennai Super Kings,RD Gaikwad,V Shankar,K Kartikeya,0,0,,,,,,"",""
+ball,2,10.5,Chennai Super Kings,RD Gaikwad,V Shankar,K Kartikeya,0,0,,,,,,"",""
+ball,2,10.6,Chennai Super Kings,RD Gaikwad,V Shankar,K Kartikeya,4,0,,,,,,"",""
+ball,2,11.1,Chennai Super Kings,V Shankar,RD Gaikwad,PWH de Silva,1,0,,,,,,"",""
+ball,2,11.2,Chennai Super Kings,RD Gaikwad,V Shankar,PWH de Silva,0,0,,,,,,"",""
+ball,2,11.3,Chennai Super Kings,RD Gaikwad,V Shankar,PWH de Silva,1,0,,,,,,"",""
+ball,2,11.4,Chennai Super Kings,V Shankar,RD Gaikwad,PWH de Silva,6,0,,,,,,"",""
+ball,2,11.5,Chennai Super Kings,V Shankar,RD Gaikwad,PWH de Silva,0,0,,,,,,bowled,V Shankar
+ball,2,11.6,Chennai Super Kings,RA Jadeja,RD Gaikwad,PWH de Silva,1,0,,,,,,"",""
+ball,2,12.1,Chennai Super Kings,RA Jadeja,RD Gaikwad,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,12.2,Chennai Super Kings,RD Gaikwad,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,12.3,Chennai Super Kings,RA Jadeja,RD Gaikwad,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,12.4,Chennai Super Kings,RD Gaikwad,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,12.5,Chennai Super Kings,RA Jadeja,RD Gaikwad,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,12.6,Chennai Super Kings,RD Gaikwad,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,13.1,Chennai Super Kings,RD Gaikwad,RA Jadeja,M Theekshana,4,0,,,,,,"",""
+ball,2,13.2,Chennai Super Kings,RD Gaikwad,RA Jadeja,M Theekshana,2,0,,,,,,"",""
+ball,2,13.3,Chennai Super Kings,RD Gaikwad,RA Jadeja,M Theekshana,1,0,,,,,,"",""
+ball,2,13.4,Chennai Super Kings,RA Jadeja,RD Gaikwad,M Theekshana,1,0,,,,,,"",""
+ball,2,13.5,Chennai Super Kings,RD Gaikwad,RA Jadeja,M Theekshana,2,0,,,,,,"",""
+ball,2,13.6,Chennai Super Kings,RD Gaikwad,RA Jadeja,M Theekshana,2,0,,,,,,"",""
+ball,2,14.1,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,0,1,1,,,,,"",""
+ball,2,14.2,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,0,0,,,,,,"",""
+ball,2,14.3,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,2,0,,,,,,"",""
+ball,2,14.4,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,4,0,,,,,,"",""
+ball,2,14.5,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,0,1,1,,,,,"",""
+ball,2,14.6,Chennai Super Kings,RA Jadeja,RD Gaikwad,TU Deshpande,1,0,,,,,,"",""
+ball,2,14.7,Chennai Super Kings,RD Gaikwad,RA Jadeja,TU Deshpande,0,0,,,,,,"",""
+ball,2,14.8,Chennai Super Kings,RD Gaikwad,RA Jadeja,TU Deshpande,2,0,,,,,,"",""
+ball,2,15.1,Chennai Super Kings,RA Jadeja,RD Gaikwad,PWH de Silva,0,0,,,,,,"",""
+ball,2,15.2,Chennai Super Kings,RA Jadeja,RD Gaikwad,PWH de Silva,0,0,,,,,,"",""
+ball,2,15.3,Chennai Super Kings,RA Jadeja,RD Gaikwad,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.4,Chennai Super Kings,RD Gaikwad,RA Jadeja,PWH de Silva,6,0,,,,,,"",""
+ball,2,15.5,Chennai Super Kings,RD Gaikwad,RA Jadeja,PWH de Silva,0,0,,,,,,caught,RD Gaikwad
+ball,2,15.6,Chennai Super Kings,MS Dhoni,RA Jadeja,PWH de Silva,0,0,,,,,,"",""
+ball,2,16.1,Chennai Super Kings,RA Jadeja,MS Dhoni,Sandeep Sharma,4,0,,,,,,"",""
+ball,2,16.2,Chennai Super Kings,RA Jadeja,MS Dhoni,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,16.3,Chennai Super Kings,MS Dhoni,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,16.4,Chennai Super Kings,RA Jadeja,MS Dhoni,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,16.5,Chennai Super Kings,MS Dhoni,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,16.6,Chennai Super Kings,RA Jadeja,MS Dhoni,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,17.1,Chennai Super Kings,RA Jadeja,MS Dhoni,M Theekshana,2,0,,,,,,"",""
+ball,2,17.2,Chennai Super Kings,RA Jadeja,MS Dhoni,M Theekshana,1,0,,,,,,"",""
+ball,2,17.3,Chennai Super Kings,MS Dhoni,RA Jadeja,M Theekshana,1,0,,,,,,"",""
+ball,2,17.4,Chennai Super Kings,RA Jadeja,MS Dhoni,M Theekshana,1,0,,,,,,"",""
+ball,2,17.5,Chennai Super Kings,MS Dhoni,RA Jadeja,M Theekshana,0,0,,,,,,"",""
+ball,2,17.6,Chennai Super Kings,MS Dhoni,RA Jadeja,M Theekshana,1,0,,,,,,"",""
+ball,2,18.1,Chennai Super Kings,MS Dhoni,RA Jadeja,TU Deshpande,4,0,,,,,,"",""
+ball,2,18.2,Chennai Super Kings,MS Dhoni,RA Jadeja,TU Deshpande,1,0,,,,,,"",""
+ball,2,18.3,Chennai Super Kings,RA Jadeja,MS Dhoni,TU Deshpande,1,0,,,,,,"",""
+ball,2,18.4,Chennai Super Kings,MS Dhoni,RA Jadeja,TU Deshpande,6,0,,,,,,"",""
+ball,2,18.5,Chennai Super Kings,MS Dhoni,RA Jadeja,TU Deshpande,1,0,,,,,,"",""
+ball,2,18.6,Chennai Super Kings,RA Jadeja,MS Dhoni,TU Deshpande,6,0,,,,,,"",""
+ball,2,19.1,Chennai Super Kings,MS Dhoni,RA Jadeja,Sandeep Sharma,0,1,1,,,,,"",""
+ball,2,19.2,Chennai Super Kings,MS Dhoni,RA Jadeja,Sandeep Sharma,0,0,,,,,,caught,MS Dhoni
+ball,2,19.3,Chennai Super Kings,J Overton,RA Jadeja,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,19.4,Chennai Super Kings,RA Jadeja,J Overton,Sandeep Sharma,1,0,,,,,,"",""
+ball,2,19.5,Chennai Super Kings,J Overton,RA Jadeja,Sandeep Sharma,6,0,,,,,,"",""
+ball,2,19.6,Chennai Super Kings,J Overton,RA Jadeja,Sandeep Sharma,2,0,,,,,,"",""
+ball,2,19.7,Chennai Super Kings,J Overton,RA Jadeja,Sandeep Sharma,2,0,,,,,,"",""

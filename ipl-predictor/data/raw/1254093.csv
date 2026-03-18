@@ -1,0 +1,247 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Mumbai Indians
+info,gender,male
+info,season,2021
+info,date,2021/10/05
+info,event,Indian Premier League
+info,match_number,51
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,NM Coulter-Nile
+info,umpire,AK Chaudhary
+info,umpire,MA Gough
+info,reserve_umpire,K Srinivasan
+info,tv_umpire,J Madanagopal
+info,match_referee,Prakash Bhatt
+info,winner,Mumbai Indians
+info,winner_wickets,8
+info,player,Rajasthan Royals,E Lewis
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,SV Samson
+info,player,Rajasthan Royals,S Dube
+info,player,Rajasthan Royals,GD Phillips
+info,player,Rajasthan Royals,DA Miller
+info,player,Rajasthan Royals,R Tewatia
+info,player,Rajasthan Royals,S Gopal
+info,player,Rajasthan Royals,C Sakariya
+info,player,Rajasthan Royals,K Yadav
+info,player,Rajasthan Royals,Mustafizur Rahman
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Ishan Kishan
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,SS Tiwary
+info,player,Mumbai Indians,KA Pollard
+info,player,Mumbai Indians,JDS Neesham
+info,player,Mumbai Indians,NM Coulter-Nile
+info,player,Mumbai Indians,J Yadav
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,TA Boult
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Yadav,81049310
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Srinivasan,042a8b69
+info,registry,people,K Yadav,030f3089
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS Tiwary,709b0bac
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,TA Boult,a818c1be
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,Rajasthan Royals,E Lewis,YBK Jaiswal,TA Boult,0,0,,,,,,"",""
+ball,1,0.2,Rajasthan Royals,E Lewis,YBK Jaiswal,TA Boult,0,0,,,,,,"",""
+ball,1,0.3,Rajasthan Royals,E Lewis,YBK Jaiswal,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,Rajasthan Royals,E Lewis,YBK Jaiswal,TA Boult,0,1,1,,,,,"",""
+ball,1,0.5,Rajasthan Royals,E Lewis,YBK Jaiswal,TA Boult,1,0,,,,,,"",""
+ball,1,0.6,Rajasthan Royals,YBK Jaiswal,E Lewis,TA Boult,4,0,,,,,,"",""
+ball,1,0.7,Rajasthan Royals,YBK Jaiswal,E Lewis,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,Rajasthan Royals,E Lewis,YBK Jaiswal,J Yadav,0,0,,,,,,"",""
+ball,1,1.2,Rajasthan Royals,E Lewis,YBK Jaiswal,J Yadav,6,0,,,,,,"",""
+ball,1,1.3,Rajasthan Royals,E Lewis,YBK Jaiswal,J Yadav,1,0,,,,,,"",""
+ball,1,1.4,Rajasthan Royals,YBK Jaiswal,E Lewis,J Yadav,0,0,,,,,,"",""
+ball,1,1.5,Rajasthan Royals,YBK Jaiswal,E Lewis,J Yadav,4,0,,,,,,"",""
+ball,1,1.6,Rajasthan Royals,YBK Jaiswal,E Lewis,J Yadav,4,0,,,,,,"",""
+ball,1,2.1,Rajasthan Royals,E Lewis,YBK Jaiswal,JJ Bumrah,4,0,,,,,,"",""
+ball,1,2.2,Rajasthan Royals,E Lewis,YBK Jaiswal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.3,Rajasthan Royals,E Lewis,YBK Jaiswal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.4,Rajasthan Royals,E Lewis,YBK Jaiswal,JJ Bumrah,1,0,,,,,,"",""
+ball,1,2.5,Rajasthan Royals,YBK Jaiswal,E Lewis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.6,Rajasthan Royals,YBK Jaiswal,E Lewis,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.1,Rajasthan Royals,E Lewis,YBK Jaiswal,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,3.2,Rajasthan Royals,E Lewis,YBK Jaiswal,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,3.3,Rajasthan Royals,YBK Jaiswal,E Lewis,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,3.4,Rajasthan Royals,YBK Jaiswal,E Lewis,NM Coulter-Nile,0,0,,,,,,caught,YBK Jaiswal
+ball,1,3.5,Rajasthan Royals,SV Samson,E Lewis,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,3.6,Rajasthan Royals,E Lewis,SV Samson,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,4.1,Rajasthan Royals,SV Samson,E Lewis,TA Boult,0,1,1,,,,,"",""
+ball,1,4.2,Rajasthan Royals,SV Samson,E Lewis,TA Boult,1,0,,,,,,"",""
+ball,1,4.3,Rajasthan Royals,E Lewis,SV Samson,TA Boult,1,0,,,,,,"",""
+ball,1,4.4,Rajasthan Royals,SV Samson,E Lewis,TA Boult,0,0,,,,,,"",""
+ball,1,4.5,Rajasthan Royals,SV Samson,E Lewis,TA Boult,0,0,,,,,,"",""
+ball,1,4.6,Rajasthan Royals,SV Samson,E Lewis,TA Boult,1,0,,,,,,"",""
+ball,1,4.7,Rajasthan Royals,E Lewis,SV Samson,TA Boult,1,0,,,,,,"",""
+ball,1,5.1,Rajasthan Royals,E Lewis,SV Samson,JJ Bumrah,4,0,,,,,,"",""
+ball,1,5.2,Rajasthan Royals,E Lewis,SV Samson,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.3,Rajasthan Royals,E Lewis,SV Samson,JJ Bumrah,0,0,,,,,,lbw,E Lewis
+ball,1,5.4,Rajasthan Royals,S Dube,SV Samson,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.5,Rajasthan Royals,S Dube,SV Samson,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.6,Rajasthan Royals,S Dube,SV Samson,JJ Bumrah,0,0,,,,,,"",""
+ball,1,6.1,Rajasthan Royals,SV Samson,S Dube,JDS Neesham,0,0,,,,,,caught,SV Samson
+ball,1,6.2,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,1,6.3,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,1,6.4,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.5,Rajasthan Royals,S Dube,GD Phillips,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.6,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,1,7.1,Rajasthan Royals,S Dube,GD Phillips,KA Pollard,1,0,,,,,,"",""
+ball,1,7.2,Rajasthan Royals,GD Phillips,S Dube,KA Pollard,0,0,,,,,,"",""
+ball,1,7.3,Rajasthan Royals,GD Phillips,S Dube,KA Pollard,1,0,,,,,,"",""
+ball,1,7.4,Rajasthan Royals,S Dube,GD Phillips,KA Pollard,0,0,,,,,,"",""
+ball,1,7.5,Rajasthan Royals,S Dube,GD Phillips,KA Pollard,1,0,,,,,,"",""
+ball,1,7.6,Rajasthan Royals,GD Phillips,S Dube,KA Pollard,1,0,,,,,,"",""
+ball,1,8.1,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,0,0,,,,,,"",""
+ball,1,8.2,Rajasthan Royals,GD Phillips,S Dube,JDS Neesham,1,0,,,,,,"",""
+ball,1,8.3,Rajasthan Royals,S Dube,GD Phillips,JDS Neesham,0,0,,,,,,bowled,S Dube
+ball,1,8.4,Rajasthan Royals,DA Miller,GD Phillips,JDS Neesham,1,0,,,,,,"",""
+ball,1,8.5,Rajasthan Royals,GD Phillips,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,1,8.6,Rajasthan Royals,GD Phillips,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,1,9.1,Rajasthan Royals,DA Miller,GD Phillips,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,9.2,Rajasthan Royals,DA Miller,GD Phillips,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,9.3,Rajasthan Royals,GD Phillips,DA Miller,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,9.4,Rajasthan Royals,GD Phillips,DA Miller,NM Coulter-Nile,0,0,,,,,,bowled,GD Phillips
+ball,1,9.5,Rajasthan Royals,R Tewatia,DA Miller,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,9.6,Rajasthan Royals,R Tewatia,DA Miller,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,10.1,Rajasthan Royals,DA Miller,R Tewatia,JDS Neesham,0,0,,,,,,"",""
+ball,1,10.2,Rajasthan Royals,DA Miller,R Tewatia,JDS Neesham,1,0,,,,,,"",""
+ball,1,10.3,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,1,0,,,,,,"",""
+ball,1,10.4,Rajasthan Royals,DA Miller,R Tewatia,JDS Neesham,1,0,,,,,,"",""
+ball,1,10.5,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,1,10.6,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,1,0,,,,,,"",""
+ball,1,11.1,Rajasthan Royals,R Tewatia,DA Miller,J Yadav,0,0,,,,,,"",""
+ball,1,11.2,Rajasthan Royals,R Tewatia,DA Miller,J Yadav,1,0,,,,,,"",""
+ball,1,11.3,Rajasthan Royals,DA Miller,R Tewatia,J Yadav,0,0,,,,,,"",""
+ball,1,11.4,Rajasthan Royals,DA Miller,R Tewatia,J Yadav,1,0,,,,,,"",""
+ball,1,11.5,Rajasthan Royals,R Tewatia,DA Miller,J Yadav,0,0,,,,,,"",""
+ball,1,11.6,Rajasthan Royals,R Tewatia,DA Miller,J Yadav,0,0,,,,,,"",""
+ball,1,12.1,Rajasthan Royals,DA Miller,R Tewatia,TA Boult,1,0,,,,,,"",""
+ball,1,12.2,Rajasthan Royals,R Tewatia,DA Miller,TA Boult,1,0,,,,,,"",""
+ball,1,12.3,Rajasthan Royals,DA Miller,R Tewatia,TA Boult,1,0,,,,,,"",""
+ball,1,12.4,Rajasthan Royals,R Tewatia,DA Miller,TA Boult,1,0,,,,,,"",""
+ball,1,12.5,Rajasthan Royals,DA Miller,R Tewatia,TA Boult,1,0,,,,,,"",""
+ball,1,12.6,Rajasthan Royals,R Tewatia,DA Miller,TA Boult,1,0,,,,,,"",""
+ball,1,13.1,Rajasthan Royals,R Tewatia,DA Miller,KA Pollard,1,0,,,,,,"",""
+ball,1,13.2,Rajasthan Royals,DA Miller,R Tewatia,KA Pollard,0,0,,,,,,"",""
+ball,1,13.3,Rajasthan Royals,DA Miller,R Tewatia,KA Pollard,1,0,,,,,,"",""
+ball,1,13.4,Rajasthan Royals,R Tewatia,DA Miller,KA Pollard,1,0,,,,,,"",""
+ball,1,13.5,Rajasthan Royals,DA Miller,R Tewatia,KA Pollard,1,0,,,,,,"",""
+ball,1,13.6,Rajasthan Royals,R Tewatia,DA Miller,KA Pollard,1,0,,,,,,"",""
+ball,1,14.1,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.2,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.3,Rajasthan Royals,DA Miller,R Tewatia,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.4,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,2,0,,,,,,"",""
+ball,1,14.5,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.6,Rajasthan Royals,R Tewatia,DA Miller,JDS Neesham,0,0,,,,,,caught,R Tewatia
+ball,1,15.1,Rajasthan Royals,DA Miller,S Gopal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,15.2,Rajasthan Royals,DA Miller,S Gopal,JJ Bumrah,2,0,,,,,,"",""
+ball,1,15.3,Rajasthan Royals,DA Miller,S Gopal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,15.4,Rajasthan Royals,DA Miller,S Gopal,JJ Bumrah,0,0,,,,,,"",""
+ball,1,15.5,Rajasthan Royals,DA Miller,S Gopal,JJ Bumrah,1,0,,,,,,"",""
+ball,1,15.6,Rajasthan Royals,S Gopal,DA Miller,JJ Bumrah,0,0,,,,,,caught,S Gopal
+ball,1,16.1,Rajasthan Royals,DA Miller,C Sakariya,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,16.2,Rajasthan Royals,DA Miller,C Sakariya,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,16.3,Rajasthan Royals,C Sakariya,DA Miller,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,16.4,Rajasthan Royals,DA Miller,C Sakariya,NM Coulter-Nile,0,0,,,,,,lbw,DA Miller
+ball,1,16.5,Rajasthan Royals,K Yadav,C Sakariya,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,16.6,Rajasthan Royals,K Yadav,C Sakariya,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,17.1,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.2,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.3,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.4,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.5,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,0,1,,1,,,,"",""
+ball,1,17.6,Rajasthan Royals,C Sakariya,K Yadav,JJ Bumrah,1,0,,,,,,"",""
+ball,1,17.7,Rajasthan Royals,K Yadav,C Sakariya,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.1,Rajasthan Royals,C Sakariya,K Yadav,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,18.2,Rajasthan Royals,C Sakariya,K Yadav,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,18.3,Rajasthan Royals,C Sakariya,K Yadav,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,18.4,Rajasthan Royals,C Sakariya,K Yadav,NM Coulter-Nile,0,0,,,,,,bowled,C Sakariya
+ball,1,18.5,Rajasthan Royals,Mustafizur Rahman,K Yadav,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,18.6,Rajasthan Royals,K Yadav,Mustafizur Rahman,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,19.1,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,0,0,,,,,,"",""
+ball,1,19.2,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,0,0,,,,,,"",""
+ball,1,19.3,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,0,0,,,,,,"",""
+ball,1,19.4,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,0,0,,,,,,"",""
+ball,1,19.5,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,6,0,,,,,,"",""
+ball,1,19.6,Rajasthan Royals,Mustafizur Rahman,K Yadav,TA Boult,1,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,RG Sharma,Ishan Kishan,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,Ishan Kishan,RG Sharma,C Sakariya,0,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,RG Sharma,Ishan Kishan,S Gopal,0,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,RG Sharma,Ishan Kishan,S Gopal,6,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,RG Sharma,Ishan Kishan,S Gopal,0,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,RG Sharma,Ishan Kishan,S Gopal,1,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,Ishan Kishan,RG Sharma,S Gopal,1,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,RG Sharma,Ishan Kishan,S Gopal,1,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,RG Sharma,Ishan Kishan,C Sakariya,0,0,,,,,,"",""
+ball,2,3.2,Mumbai Indians,RG Sharma,Ishan Kishan,C Sakariya,0,0,,,,,,caught,RG Sharma
+ball,2,3.3,Mumbai Indians,SA Yadav,Ishan Kishan,C Sakariya,4,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,SA Yadav,Ishan Kishan,C Sakariya,1,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,Ishan Kishan,SA Yadav,C Sakariya,4,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,Ishan Kishan,SA Yadav,C Sakariya,3,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,Ishan Kishan,SA Yadav,K Yadav,4,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,Ishan Kishan,SA Yadav,K Yadav,4,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,Ishan Kishan,SA Yadav,K Yadav,1,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,SA Yadav,Ishan Kishan,K Yadav,4,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,SA Yadav,Ishan Kishan,K Yadav,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,SA Yadav,Ishan Kishan,K Yadav,0,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,Ishan Kishan,SA Yadav,Mustafizur Rahman,3,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,SA Yadav,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,SA Yadav,Ishan Kishan,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,2,5.4,Mumbai Indians,SA Yadav,Ishan Kishan,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,5.5,Mumbai Indians,SA Yadav,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,caught,SA Yadav
+ball,2,5.6,Mumbai Indians,HH Pandya,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.7,Mumbai Indians,HH Pandya,Ishan Kishan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,Ishan Kishan,HH Pandya,K Yadav,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,Ishan Kishan,HH Pandya,K Yadav,1,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,HH Pandya,Ishan Kishan,K Yadav,1,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,Ishan Kishan,HH Pandya,K Yadav,0,1,,,,1,,"",""
+ball,2,6.5,Mumbai Indians,HH Pandya,Ishan Kishan,K Yadav,0,0,,,,,,"",""
+ball,2,6.6,Mumbai Indians,HH Pandya,Ishan Kishan,K Yadav,1,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,HH Pandya,Ishan Kishan,C Sakariya,3,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,0,0,,,,,,"",""
+ball,2,7.3,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,4,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,0,1,,1,,,,"",""
+ball,2,7.5,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,2,1,,1,,,,"",""
+ball,2,7.6,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,6,0,,,,,,"",""
+ball,2,7.7,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,6,0,,,,,,"",""
+ball,2,7.8,Mumbai Indians,Ishan Kishan,HH Pandya,C Sakariya,1,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,Ishan Kishan,HH Pandya,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,8.2,Mumbai Indians,Ishan Kishan,HH Pandya,Mustafizur Rahman,6,0,,,,,,"",""
